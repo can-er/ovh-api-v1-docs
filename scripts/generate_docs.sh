@@ -96,20 +96,32 @@ modelsAppendix +
 '
 
 count=0
+skipped=0
+matched=0
 for f in "$SPECS"/*.json; do
   base="$(basename "$f" .json)"
   if [[ -n "$ONLY" && "$base" != "$ONLY" ]]; then
     continue
   fi
+  matched=$((matched + 1))
   out="$DOCS/${base}.md"
-  SHA="$(sha256sum "$f" | cut -c1-16)"
+  # Canonical sha — stable across fetches when the spec content hasn't changed.
+  # `jq -S -c .` sorts keys and emits a single compact line, so the hash depends
+  # only on logical content, not on OVH's incidental key ordering.
+  SHA="$(jq -S -c . "$f" | sha256sum | cut -c1-16)"
+  # Skip-write if the target already carries this sha — keeps `git status`
+  # clean after a no-op fetch and avoids touching the file's mtime.
+  if [[ -f "$out" ]] && grep -q "^> Spec sha256: \`$SHA\`\$" "$out"; then
+    skipped=$((skipped + 1))
+    continue
+  fi
   jq -r --arg ts "$TS" --arg sha "$SHA" "$JQ_FILTER" "$f" > "$out"
   count=$((count + 1))
 done
 
-if [[ -n "$ONLY" && "$count" -eq 0 ]]; then
+if [[ -n "$ONLY" && "$matched" -eq 0 ]]; then
   echo "No spec matched '$ONLY' in $SPECS" >&2
   exit 1
 fi
 
-echo "Generated $count markdown files in $DOCS"
+echo "Generated $count, skipped $skipped (unchanged) — output in $DOCS"

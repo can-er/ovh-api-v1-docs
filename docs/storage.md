@@ -3,8 +3,8 @@
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
 > Routes: **30** — Operations: **47**  
-> Generated: 2026-05-17T16:20:50Z  
-> Spec sha256: `9796ebe4d2b74cc6`
+> Generated: 2026-05-17T19:45:22Z  
+> Spec sha256: `d7494c7c9e05a61b`
 
 ---
 
