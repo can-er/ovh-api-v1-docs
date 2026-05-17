@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **1** — Operations: **1**
+> Routes: **1** — Operations: **1**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `c4271f1995e3d1b3`
 
 ---
 
@@ -18,7 +20,7 @@
 
 _Retrieve a secret sent by email_
 
-### 🟡 POST `POST` — Retrieve a secret sent by email
+### 🟡 POST — Retrieve a secret sent by email
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -31,5 +33,20 @@ _Retrieve a secret sent by email_
 |------|------|----|----------|-------------|
 | `id` | `password` | body | ✅ | The secret ID |
 
+
+---
+
+## Models
+
+### `secret.Secret`
+
+_A secret_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expiration` | `datetime` | ❌ | ❌ | ❌ | Expiration time of the secret |
+| `secret` | `password` | ❌ | ❌ | ❌ | The secret |
 
 

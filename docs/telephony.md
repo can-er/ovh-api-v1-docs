@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **416** — Operations: **607**
+> Routes: **416** — Operations: **607**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `0428e61c8b4511e7`
 
 ---
 
@@ -433,7 +435,7 @@
 
 _Operations about the VOIP service_
 
-### 🟢 GET `GET` — Your telephony billing accounts
+### 🟢 GET — Your telephony billing accounts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -456,7 +458,7 @@ _Operations about the VOIP service_
 
 _Get all available accessories_
 
-### 🟢 GET `GET` — Get all available accessories
+### 🟢 GET — Get all available accessories
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -478,7 +480,7 @@ _Get all available accessories_
 
 _Operations about the VOIP service_
 
-### 🟢 GET `GET` — Your telephony billing accounts
+### 🟢 GET — Your telephony billing accounts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -501,7 +503,7 @@ _Operations about the VOIP service_
 
 _Telephony service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -524,7 +526,7 @@ _Telephony service_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -550,7 +552,7 @@ _Change the contacts of this service_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -568,7 +570,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -592,7 +594,7 @@ _Details about a Service_
 
 _Get all available SIP domains by country_
 
-### 🟢 GET `GET` — Get all available SIP domains by country
+### 🟢 GET — Get all available SIP domains by country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -613,7 +615,7 @@ _Get all available SIP domains by country_
 
 _Get current order ids_
 
-### 🟢 GET `GET` — Get current order ids
+### 🟢 GET — Get current order ids
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -630,7 +632,7 @@ _Get current order ids_
 
 _Get all zip codes compatible for a number_
 
-### 🟢 GET `GET` — Get all zip codes compatible for a number
+### 🟢 GET — Get all zip codes compatible for a number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -652,7 +654,7 @@ _Get all zip codes compatible for a number_
 
 _Get city informations from a zip code_
 
-### 🟢 GET `GET` — Get city informations from a zip code
+### 🟢 GET — Get city informations from a zip code
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -674,7 +676,7 @@ _Get city informations from a zip code_
 
 _Get all available fax offer compatible_
 
-### 🟢 GET `GET` — Get all available fax offer compatible
+### 🟢 GET — Get all available fax offer compatible
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -695,7 +697,7 @@ _Get all available fax offer compatible_
 
 _Get all available phone brands compatible with lines_
 
-### 🟢 GET `GET` — Get all available phone brands compatible with lines
+### 🟢 GET — Get all available phone brands compatible with lines
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -717,7 +719,7 @@ _Get all available phone brands compatible with lines_
 
 _Get all available line offer compatible_
 
-### 🟢 GET `GET` — Get all available line offer compatible
+### 🟢 GET — Get all available line offer compatible
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -738,7 +740,7 @@ _Get all available line offer compatible_
 
 _Operations about the VOIP service_
 
-### 🟢 GET `GET` — Your telephony billing accounts
+### 🟢 GET — Your telephony billing accounts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -761,7 +763,7 @@ _Operations about the VOIP service_
 
 _Telephony service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -784,7 +786,7 @@ _Telephony service_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -810,7 +812,7 @@ _Change the contacts of this service_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -828,7 +830,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -852,7 +854,7 @@ _Details about a Service_
 
 _Get all available geographic zone with some details, from a country_
 
-### 🟢 GET `GET` — Get all available geographic zone with some details, from a country
+### 🟢 GET — Get all available geographic zone with some details, from a country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -874,7 +876,7 @@ _Get all available geographic zone with some details, from a country_
 
 _Get all available special range from a country_
 
-### 🟢 GET `GET` — Get all available special range from a country
+### 🟢 GET — Get all available special range from a country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -895,7 +897,7 @@ _Get all available special range from a country_
 
 _Get all available specific number from a country_
 
-### 🟢 GET `GET` — Get all available specific number from a country
+### 🟢 GET — Get all available specific number from a country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -919,7 +921,7 @@ _Get all available specific number from a country_
 
 _Get all available geographic zone from a country_
 
-### 🟢 GET `GET` — Get all available geographic zone from a country
+### 🟢 GET — Get all available geographic zone from a country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -941,7 +943,7 @@ _Get all available geographic zone from a country_
 
 _List the telephony.Procedure objects_
 
-### 🟢 GET `GET` — Procedures linked to your nichandle
+### 🟢 GET — Procedures linked to your nichandle
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -953,7 +955,7 @@ _List the telephony.Procedure objects_
 
 ---
 
-### 🟡 POST `POST` — Create a telephony procedure
+### 🟡 POST — Create a telephony procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -980,7 +982,7 @@ _List the telephony.Procedure objects_
 
 _Tells whether the procedure is necessary to order telephony products or not_
 
-### 🟢 GET `GET` — Tells whether the procedure is necessary to order telephony products or not
+### 🟢 GET — Tells whether the procedure is necessary to order telephony products or not
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -997,7 +999,7 @@ _Tells whether the procedure is necessary to order telephony products or not_
 
 _Procedure linked to your account_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1020,7 +1022,7 @@ _Procedure linked to your account_
 
 _cancel operations_
 
-### 🟡 POST `POST` — Cancel the given procedure.
+### 🟡 POST — Cancel the given procedure.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1043,7 +1045,7 @@ _cancel operations_
 
 _Generate a new password for the reseller panel_
 
-### 🟡 POST `POST` — Generate a new password for the reseller panel
+### 🟡 POST — Generate a new password for the reseller panel
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1060,7 +1062,7 @@ _Generate a new password for the reseller panel_
 
 _Status of customer reseller panel_
 
-### 🟢 GET `GET` — Status of customer reseller panel
+### 🟢 GET — Status of customer reseller panel
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1077,7 +1079,7 @@ _Status of customer reseller panel_
 
 _Search a service with its domain, to get its billing account and type_
 
-### 🟢 GET `GET` — Search a service with its domain, to get its billing account and type
+### 🟢 GET — Search a service with its domain, to get its billing account and type
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1100,7 +1102,7 @@ _Search a service with its domain, to get its billing account and type_
 
 _Get all available SIP domains by country_
 
-### 🟡 POST `POST` — Get all available SIP domains by country
+### 🟡 POST — Get all available SIP domains by country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1125,7 +1127,7 @@ _Get all available SIP domains by country_
 
 _Softphone application stores links information_
 
-### 🟢 GET `GET` — Get softphone application stores links
+### 🟢 GET — Get softphone application stores links
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1140,7 +1142,7 @@ _Softphone application stores links information_
 
 _Softphone themes information_
 
-### 🟢 GET `GET` — Get IDs of available softphone themes
+### 🟢 GET — Get IDs of available softphone themes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1155,7 +1157,7 @@ _Softphone themes information_
 
 _Softphone themes information_
 
-### 🟢 GET `GET` — Get softphone theme information
+### 🟢 GET — Get softphone theme information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1176,7 +1178,7 @@ _Softphone themes information_
 
 _List the telephony.Sound objects_
 
-### 🟢 GET `GET` — Sounds attached to this telephony account
+### 🟢 GET — Sounds attached to this telephony account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1188,7 +1190,7 @@ _List the telephony.Sound objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new sound
+### 🟡 POST — Create a new sound
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1212,7 +1214,7 @@ _List the telephony.Sound objects_
 
 _Sounds attached to this telephony account_
 
-### 🔴 DELETE `DELETE` — Delete the sound
+### 🔴 DELETE — Delete the sound
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1230,7 +1232,7 @@ _Sounds attached to this telephony account_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1248,7 +1250,7 @@ _Sounds attached to this telephony account_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1272,7 +1274,7 @@ _Sounds attached to this telephony account_
 
 _Operations about the VOIP service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1295,7 +1297,7 @@ _Operations about the VOIP service_
 
 _Get all available spare brands_
 
-### 🟢 GET `GET` — Get all available spare brands
+### 🟢 GET — Get all available spare brands
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1310,7 +1312,7 @@ _Get all available spare brands_
 
 _Spare properties_
 
-### 🔴 DELETE `DELETE` — Delete the spare as if it was not belonging to OVH anymore
+### 🔴 DELETE — Delete the spare as if it was not belonging to OVH anymore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1328,7 +1330,7 @@ _Spare properties_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1351,7 +1353,7 @@ _Spare properties_
 
 _compatibleReplacement operations_
 
-### 🟢 GET `GET` — Return the list of phone domains compatible to be replaced
+### 🟢 GET — Return the list of phone domains compatible to be replaced
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1374,7 +1376,7 @@ _compatibleReplacement operations_
 
 _replace operations_
 
-### 🟡 POST `POST` — Replace the phone by its spare
+### 🟡 POST — Replace the phone by its spare
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1399,7 +1401,7 @@ _replace operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1417,7 +1419,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1441,7 +1443,7 @@ _Details about a Service_
 
 _Operations about the VOIP service_
 
-### 🟢 GET `GET` — Your telephony trunks
+### 🟢 GET — Your telephony trunks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1464,7 +1466,7 @@ _Operations about the VOIP service_
 
 _Telephony service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1487,7 +1489,7 @@ _Telephony service_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1513,7 +1515,7 @@ _Change the contacts of this service_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1531,7 +1533,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1555,7 +1557,7 @@ _Details about a Service_
 
 _Billing Account_
 
-### 🔴 DELETE `DELETE` — Ask for a billing account termination.
+### 🔴 DELETE — Ask for a billing account termination.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1575,7 +1577,7 @@ _Billing Account_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1593,7 +1595,7 @@ _Billing Account_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1617,7 +1619,7 @@ _Billing Account_
 
 _List the telephony.AbbreviatedNumberGroup objects_
 
-### 🟢 GET `GET` — Abbreviated numbers for the billing account
+### 🟢 GET — Abbreviated numbers for the billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1635,7 +1637,7 @@ _List the telephony.AbbreviatedNumberGroup objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new abbreviated number for the billing account
+### 🟡 POST — Create a new abbreviated number for the billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1662,7 +1664,7 @@ _List the telephony.AbbreviatedNumberGroup objects_
 
 _Abbreviated number_
 
-### 🔴 DELETE `DELETE` — Delete the given abbreviated number
+### 🔴 DELETE — Delete the given abbreviated number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1681,7 +1683,7 @@ _Abbreviated number_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1700,7 +1702,7 @@ _Abbreviated number_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1725,7 +1727,7 @@ _Abbreviated number_
 
 _allowedCreditThreshold operations_
 
-### 🟢 GET `GET` — Get the allowed creditThreshold for this billing account
+### 🟢 GET — Get the allowed creditThreshold for this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1748,7 +1750,7 @@ _allowedCreditThreshold operations_
 
 _amountSecurityDeposit operations_
 
-### 🟢 GET `GET` — Give all amounts availables for your billing account
+### 🟢 GET — Give all amounts availables for your billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1771,7 +1773,7 @@ _amountSecurityDeposit operations_
 
 _billingAccountSite operations_
 
-### 🟢 GET `GET` — Current billing account site (billing account features are overwritten by the site)
+### 🟢 GET — Current billing account site (billing account features are overwritten by the site)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1789,7 +1791,7 @@ _billingAccountSite operations_
 
 ---
 
-### 🟡 POST `POST` — Used to overwrite current billing account feature by the billing account site
+### 🟡 POST — Used to overwrite current billing account feature by the billing account site
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1813,7 +1815,7 @@ _billingAccountSite operations_
 
 _canTransferSecurityDeposit operations_
 
-### 🟡 POST `POST` — Check if security deposit transfer is possible between two billing accounts
+### 🟡 POST — Check if security deposit transfer is possible between two billing accounts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1837,7 +1839,7 @@ _canTransferSecurityDeposit operations_
 
 _cancelTermination operations_
 
-### 🟡 POST `POST` — Cancel the billing account termination
+### 🟡 POST — Cancel the billing account termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1860,7 +1862,7 @@ _cancelTermination operations_
 
 _List the telephony.CarrierSip objects_
 
-### 🟢 GET `GET` — Carrier SIP trunks associated with this billing account
+### 🟢 GET — Carrier SIP trunks associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1883,7 +1885,7 @@ _List the telephony.CarrierSip objects_
 
 _CarrierSip_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1907,7 +1909,7 @@ _CarrierSip_
 
 _cdrs operations_
 
-### 🟢 GET `GET` — Get the Call Detail Records of your Carrier SIP service
+### 🟢 GET — Get the Call Detail Records of your Carrier SIP service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1932,7 +1934,7 @@ _cdrs operations_
 
 _clusterDetails operations_
 
-### 🟢 GET `GET` — Get details about the carrier sip cluster of your stack
+### 🟢 GET — Get details about the carrier sip cluster of your stack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1956,7 +1958,7 @@ _clusterDetails operations_
 
 _List the telephony.CarrierSipCustomerEndpoint objects_
 
-### 🟢 GET `GET` — List of your remote sip endpoints (ips, ports, protocol) of your carrier sip trunk service
+### 🟢 GET — List of your remote sip endpoints (ips, ports, protocol) of your carrier sip trunk service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1980,7 +1982,7 @@ _List the telephony.CarrierSipCustomerEndpoint objects_
 
 _Carrier SIP Endpoints_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2005,7 +2007,7 @@ _Carrier SIP Endpoints_
 
 _Carrier SIP Properties_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2024,7 +2026,7 @@ _Carrier SIP Properties_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2049,7 +2051,7 @@ _Carrier SIP Properties_
 
 _List the telephony.CarrierSipVnoMandate objects_
 
-### 🟢 GET `GET` — List of your VNO mandates
+### 🟢 GET — List of your VNO mandates
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2073,7 +2075,7 @@ _List the telephony.CarrierSipVnoMandate objects_
 
 _Carrier SIP VNO mandate_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2098,7 +2100,7 @@ _Carrier SIP VNO mandate_
 
 _List the telephony.CarrierSipVnoRange objects_
 
-### 🟢 GET `GET` — Number ranges associated with you mandate.
+### 🟢 GET — Number ranges associated with you mandate.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2123,7 +2125,7 @@ _List the telephony.CarrierSipVnoRange objects_
 
 _Carrier SIP VNO range_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2144,7 +2146,7 @@ _Carrier SIP VNO range_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2171,7 +2173,7 @@ _Carrier SIP VNO range_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2197,7 +2199,7 @@ _Change the contacts of this service_
 
 _List the telephony.Conference objects_
 
-### 🟢 GET `GET` — Conferences associated with this billing account
+### 🟢 GET — Conferences associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2220,7 +2222,7 @@ _List the telephony.Conference objects_
 
 _Conference_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2244,7 +2246,7 @@ _Conference_
 
 _announceUpload operations_
 
-### 🟡 POST `POST` — Change the sound played at the beginning of the conference
+### 🟡 POST — Change the sound played at the beginning of the conference
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2269,7 +2271,7 @@ _announceUpload operations_
 
 _List the telephony.ConferenceHistory objects_
 
-### 🟢 GET `GET` — List your past conferences for this number
+### 🟢 GET — List your past conferences for this number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2295,7 +2297,7 @@ _List the telephony.ConferenceHistory objects_
 
 _List past conferences on your number_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2320,7 +2322,7 @@ _List past conferences on your number_
 
 _informations operations_
 
-### 🟢 GET `GET` — Get realtime conference informations
+### 🟢 GET — Get realtime conference informations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2344,7 +2346,7 @@ _informations operations_
 
 _lock operations_
 
-### 🟡 POST `POST` — Lock the conference room
+### 🟡 POST — Lock the conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2368,7 +2370,7 @@ _lock operations_
 
 _List the telephony.ConferenceParticipants objects_
 
-### 🟢 GET `GET` — Current participants of the associate conference
+### 🟢 GET — Current participants of the associate conference
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2392,7 +2394,7 @@ _List the telephony.ConferenceParticipants objects_
 
 _Conference service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2417,7 +2419,7 @@ _Conference service_
 
 _deaf operations_
 
-### 🟡 POST `POST` — Make a participant deaf in your conference room
+### 🟡 POST — Make a participant deaf in your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2442,7 +2444,7 @@ _deaf operations_
 
 _energy operations_
 
-### 🟡 POST `POST` — Change a participant level of audio transmission
+### 🟡 POST — Change a participant level of audio transmission
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2468,7 +2470,7 @@ _energy operations_
 
 _kick operations_
 
-### 🟡 POST `POST` — Eject a participant from your conference room
+### 🟡 POST — Eject a participant from your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2493,7 +2495,7 @@ _kick operations_
 
 _mute operations_
 
-### 🟡 POST `POST` — Mute a participant in your conference room
+### 🟡 POST — Mute a participant in your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2518,7 +2520,7 @@ _mute operations_
 
 _undeaf operations_
 
-### 🟡 POST `POST` — Make a participant undeaf your conference room
+### 🟡 POST — Make a participant undeaf your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2543,7 +2545,7 @@ _undeaf operations_
 
 _unmute operations_
 
-### 🟡 POST `POST` — Unmute a participant in your conference room
+### 🟡 POST — Unmute a participant in your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2568,7 +2570,7 @@ _unmute operations_
 
 _List the telephony.ConferenceRoom objects_
 
-### 🟢 GET `GET` — List your conferences rooms for this number
+### 🟢 GET — List your conferences rooms for this number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2587,7 +2589,7 @@ _List the telephony.ConferenceRoom objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new conference room on your conference service
+### 🟡 POST — Create a new conference room on your conference service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2612,7 +2614,7 @@ _List the telephony.ConferenceRoom objects_
 
 _Conference room_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2632,7 +2634,7 @@ _Conference room_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2658,7 +2660,7 @@ _Conference room_
 
 _List the telephony.ConferenceHistory objects_
 
-### 🟢 GET `GET` — List your past conferences for this room
+### 🟢 GET — List your past conferences for this room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2685,7 +2687,7 @@ _List the telephony.ConferenceHistory objects_
 
 _List past conferences on your number_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2711,7 +2713,7 @@ _List past conferences on your number_
 
 _lock operations_
 
-### 🟡 POST `POST` — Lock the conference room
+### 🟡 POST — Lock the conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2736,7 +2738,7 @@ _lock operations_
 
 _List the telephony.ConferenceParticipants objects_
 
-### 🟢 GET `GET` — Current participants of the conference room
+### 🟢 GET — Current participants of the conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2761,7 +2763,7 @@ _List the telephony.ConferenceParticipants objects_
 
 _Conference service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2787,7 +2789,7 @@ _Conference service_
 
 _deaf operations_
 
-### 🟡 POST `POST` — Make a participant deaf in your conference room
+### 🟡 POST — Make a participant deaf in your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2813,7 +2815,7 @@ _deaf operations_
 
 _energy operations_
 
-### 🟡 POST `POST` — Change a participant level of audio transmission
+### 🟡 POST — Change a participant level of audio transmission
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2840,7 +2842,7 @@ _energy operations_
 
 _kick operations_
 
-### 🟡 POST `POST` — Eject a participant from your conference room
+### 🟡 POST — Eject a participant from your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2866,7 +2868,7 @@ _kick operations_
 
 _mute operations_
 
-### 🟡 POST `POST` — Mute a participant in your conference room
+### 🟡 POST — Mute a participant in your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2892,7 +2894,7 @@ _mute operations_
 
 _undeaf operations_
 
-### 🟡 POST `POST` — Make a participant undeaf your conference room
+### 🟡 POST — Make a participant undeaf your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2918,7 +2920,7 @@ _undeaf operations_
 
 _unmute operations_
 
-### 🟡 POST `POST` — Unmute a participant in your conference room
+### 🟡 POST — Unmute a participant in your conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2944,7 +2946,7 @@ _unmute operations_
 
 _unlock operations_
 
-### 🟡 POST `POST` — Unlock the conference room
+### 🟡 POST — Unlock the conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2969,7 +2971,7 @@ _unlock operations_
 
 _List the telephony.ConferenceWebAccess objects_
 
-### 🟢 GET `GET` — List your conference room  web access
+### 🟢 GET — List your conference room  web access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2989,7 +2991,7 @@ _List the telephony.ConferenceWebAccess objects_
 
 ---
 
-### 🟡 POST `POST` — Add a public web access to your conference
+### 🟡 POST — Add a public web access to your conference
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3015,7 +3017,7 @@ _List the telephony.ConferenceWebAccess objects_
 
 _List public web access of your conference_
 
-### 🔴 DELETE `DELETE` — Delete a public web access to your conference
+### 🔴 DELETE — Delete a public web access to your conference
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3036,7 +3038,7 @@ _List public web access of your conference_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3062,7 +3064,7 @@ _List public web access of your conference_
 
 _roomsStats operations_
 
-### 🟢 GET `GET` — Get realtime statistics about all rooms of your conference number
+### 🟢 GET — Get realtime statistics about all rooms of your conference number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3086,7 +3088,7 @@ _roomsStats operations_
 
 _Conference properties_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3105,7 +3107,7 @@ _Conference properties_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3130,7 +3132,7 @@ _Conference properties_
 
 _unlock operations_
 
-### 🟡 POST `POST` — Unlock the conference room
+### 🟡 POST — Unlock the conference room
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3154,7 +3156,7 @@ _unlock operations_
 
 _List the telephony.ConferenceWebAccess objects_
 
-### 🟢 GET `GET` — List your conference web access
+### 🟢 GET — List your conference web access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3173,7 +3175,7 @@ _List the telephony.ConferenceWebAccess objects_
 
 ---
 
-### 🟡 POST `POST` — Add a public web access to your conference
+### 🟡 POST — Add a public web access to your conference
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3198,7 +3200,7 @@ _List the telephony.ConferenceWebAccess objects_
 
 _List public web access of your conference_
 
-### 🔴 DELETE `DELETE` — Delete a public web access to your conference
+### 🔴 DELETE — Delete a public web access to your conference
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3218,7 +3220,7 @@ _List public web access of your conference_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3243,7 +3245,7 @@ _List public web access of your conference_
 
 _List the telephony.Ddi objects_
 
-### 🟢 GET `GET` — DDIs (direct dial-in) associated with this billing account
+### 🟢 GET — DDIs (direct dial-in) associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3266,7 +3268,7 @@ _List the telephony.Ddi objects_
 
 _DDI (direct dial-in) service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3285,7 +3287,7 @@ _DDI (direct dial-in) service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3310,7 +3312,7 @@ _DDI (direct dial-in) service_
 
 _changeDestination operations_
 
-### 🟡 POST `POST` — Change the destination of the DDI
+### 🟡 POST — Change the destination of the DDI
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3335,7 +3337,7 @@ _changeDestination operations_
 
 _List the telephony.EasyHunting objects_
 
-### 🟢 GET `GET` — OVH easy calls queues associated with this billing account
+### 🟢 GET — OVH easy calls queues associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3358,7 +3360,7 @@ _List the telephony.EasyHunting objects_
 
 _OVH easy calls queues_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3377,7 +3379,7 @@ _OVH easy calls queues_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3402,7 +3404,7 @@ _OVH easy calls queues_
 
 _PABX Hunting_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3421,7 +3423,7 @@ _PABX Hunting_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3446,7 +3448,7 @@ _PABX Hunting_
 
 _List the telephony.OvhPabxHuntingAgent objects_
 
-### 🟢 GET `GET` — Calls agents
+### 🟢 GET — Calls agents
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3465,7 +3467,7 @@ _List the telephony.OvhPabxHuntingAgent objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new agent
+### 🟡 POST — Create a new agent
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3495,7 +3497,7 @@ _List the telephony.OvhPabxHuntingAgent objects_
 
 _Calls agent_
 
-### 🔴 DELETE `DELETE` — Delete the given agent
+### 🔴 DELETE — Delete the given agent
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3515,7 +3517,7 @@ _Calls agent_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3535,7 +3537,7 @@ _Calls agent_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3561,7 +3563,7 @@ _Calls agent_
 
 _The web access for your cloudpabx_
 
-### 🔴 DELETE `DELETE` — Delete the given web access
+### 🔴 DELETE — Delete the given web access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3581,7 +3583,7 @@ _The web access for your cloudpabx_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3601,7 +3603,7 @@ _The web access for your cloudpabx_
 
 ---
 
-### 🟡 POST `POST` — Create a new web access for this ressource
+### 🟡 POST — Create a new web access for this ressource
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3626,7 +3628,7 @@ _The web access for your cloudpabx_
 
 _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
-### 🟢 GET `GET` — Current calls of the callcenter agent
+### 🟢 GET — Current calls of the callcenter agent
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3651,7 +3653,7 @@ _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3677,7 +3679,7 @@ _Live statistics of the queue_
 
 _eavesdrop operations_
 
-### 🟡 POST `POST` — Eavesdrop on a call
+### 🟡 POST — Eavesdrop on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3704,7 +3706,7 @@ _eavesdrop operations_
 
 _hangup operations_
 
-### 🟡 POST `POST` — Hangup a call
+### 🟡 POST — Hangup a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3730,7 +3732,7 @@ _hangup operations_
 
 _hold operations_
 
-### 🟡 POST `POST` — Toogle hold on call
+### 🟡 POST — Toogle hold on call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3756,7 +3758,7 @@ _hold operations_
 
 _intercept operations_
 
-### 🟡 POST `POST` — Intercept a non answered call
+### 🟡 POST — Intercept a non answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3783,7 +3785,7 @@ _intercept operations_
 
 _transfer operations_
 
-### 🟡 POST `POST` — Transfer an answered call
+### 🟡 POST — Transfer an answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3810,7 +3812,7 @@ _transfer operations_
 
 _whisper operations_
 
-### 🟡 POST `POST` — Whisper on a call
+### 🟡 POST — Whisper on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3838,7 +3840,7 @@ _whisper operations_
 
 _Token associated to the service for live event_
 
-### 🔴 DELETE `DELETE` — Delete the given token
+### 🔴 DELETE — Delete the given token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3858,7 +3860,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3878,7 +3880,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟡 POST `POST` — Create a new token
+### 🟡 POST — Create a new token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3904,7 +3906,7 @@ _Token associated to the service for live event_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3929,7 +3931,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxHuntingAgentQueue objects_
 
-### 🟢 GET `GET` — Agent assigned to the queues
+### 🟢 GET — Agent assigned to the queues
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3949,7 +3951,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new skill for an agent (it adds the agent in a queue)
+### 🟡 POST — Create a new skill for an agent (it adds the agent in a queue)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3976,7 +3978,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 _Agent assigned to a queue_
 
-### 🔴 DELETE `DELETE` — Delete the given skill
+### 🔴 DELETE — Delete the given skill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3997,7 +3999,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4018,7 +4020,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4045,7 +4047,7 @@ _Agent assigned to a queue_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4071,7 +4073,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxCustomStatus objects_
 
-### 🟢 GET `GET` — Custom statuses of your agents
+### 🟢 GET — Custom statuses of your agents
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4090,7 +4092,7 @@ _List the telephony.OvhPabxCustomStatus objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new custom status
+### 🟡 POST — Create a new custom status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4117,7 +4119,7 @@ _List the telephony.OvhPabxCustomStatus objects_
 
 _Custom statuses of your callcenter agents_
 
-### 🔴 DELETE `DELETE` — Delete the given custom status
+### 🔴 DELETE — Delete the given custom status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4137,7 +4139,7 @@ _Custom statuses of your callcenter agents_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4162,7 +4164,7 @@ _Custom statuses of your callcenter agents_
 
 _Token associated to the service for live event_
 
-### 🔴 DELETE `DELETE` — Delete the given token
+### 🔴 DELETE — Delete the given token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4181,7 +4183,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4200,7 +4202,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟡 POST `POST` — Create a new token
+### 🟡 POST — Create a new token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4225,7 +4227,7 @@ _Token associated to the service for live event_
 
 _List the telephony.OvhPabxHuntingQueue objects_
 
-### 🟢 GET `GET` — Calls queues
+### 🟢 GET — Calls queues
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4244,7 +4246,7 @@ _List the telephony.OvhPabxHuntingQueue objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new queue
+### 🟡 POST — Create a new queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4281,7 +4283,7 @@ _List the telephony.OvhPabxHuntingQueue objects_
 
 _Calls queue_
 
-### 🔴 DELETE `DELETE` — Delete the given queue
+### 🔴 DELETE — Delete the given queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4301,7 +4303,7 @@ _Calls queue_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4321,7 +4323,7 @@ _Calls queue_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4347,7 +4349,7 @@ _Calls queue_
 
 _List the telephony.OvhPabxHuntingAgentQueue objects_
 
-### 🟢 GET `GET` — Agent assigned to the queue
+### 🟢 GET — Agent assigned to the queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4367,7 +4369,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new skill for an agent (it adds the agent in a queue)
+### 🟡 POST — Create a new skill for an agent (it adds the agent in a queue)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4393,7 +4395,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 _Agent assigned to a queue_
 
-### 🔴 DELETE `DELETE` — Delete the given skill
+### 🔴 DELETE — Delete the given skill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4414,7 +4416,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4435,7 +4437,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4462,7 +4464,7 @@ _Agent assigned to a queue_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4488,7 +4490,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
-### 🟢 GET `GET` — Live calls of the queue
+### 🟢 GET — Live calls of the queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4513,7 +4515,7 @@ _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4539,7 +4541,7 @@ _Live statistics of the queue_
 
 _eavesdrop operations_
 
-### 🟡 POST `POST` — Eavesdrop on a call
+### 🟡 POST — Eavesdrop on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4566,7 +4568,7 @@ _eavesdrop operations_
 
 _hangup operations_
 
-### 🟡 POST `POST` — Hangup a call
+### 🟡 POST — Hangup a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4592,7 +4594,7 @@ _hangup operations_
 
 _hold operations_
 
-### 🟡 POST `POST` — Toogle hold on call
+### 🟡 POST — Toogle hold on call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4618,7 +4620,7 @@ _hold operations_
 
 _intercept operations_
 
-### 🟡 POST `POST` — Intercept a non answered call
+### 🟡 POST — Intercept a non answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4645,7 +4647,7 @@ _intercept operations_
 
 _transfer operations_
 
-### 🟡 POST `POST` — Transfer an answered call
+### 🟡 POST — Transfer an answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4672,7 +4674,7 @@ _transfer operations_
 
 _whisper operations_
 
-### 🟡 POST `POST` — Whisper on a call
+### 🟡 POST — Whisper on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4700,7 +4702,7 @@ _whisper operations_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4725,7 +4727,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxRecord objects_
 
-### 🟢 GET `GET` — Records associated with this PABX
+### 🟢 GET — Records associated with this PABX
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4749,7 +4751,7 @@ _List the telephony.OvhPabxRecord objects_
 
 _The PABX records_
 
-### 🔴 DELETE `DELETE` — Delete the given record
+### 🔴 DELETE — Delete the given record
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4769,7 +4771,7 @@ _The PABX records_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4794,7 +4796,7 @@ _The PABX records_
 
 _Easy hunting screen lists conditions options_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4813,7 +4815,7 @@ _Easy hunting screen lists conditions options_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4838,7 +4840,7 @@ _Easy hunting screen lists conditions options_
 
 _List the telephony.EasyHuntingScreenListsConditions objects_
 
-### 🟢 GET `GET` — Screen lists conditions checked when a call is received
+### 🟢 GET — Screen lists conditions checked when a call is received
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4858,7 +4860,7 @@ _List the telephony.EasyHuntingScreenListsConditions objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new screenlist condition for an extension
+### 🟡 POST — Create a new screenlist condition for an extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4885,7 +4887,7 @@ _List the telephony.EasyHuntingScreenListsConditions objects_
 
 _Screenlist condition_
 
-### 🔴 DELETE `DELETE` — Delete the given condition
+### 🔴 DELETE — Delete the given condition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4905,7 +4907,7 @@ _Screenlist condition_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4925,7 +4927,7 @@ _Screenlist condition_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4951,7 +4953,7 @@ _Screenlist condition_
 
 _List the telephony.OvhPabxSound objects_
 
-### 🟢 GET `GET` — Sounds associated with this PABX
+### 🟢 GET — Sounds associated with this PABX
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4975,7 +4977,7 @@ _List the telephony.OvhPabxSound objects_
 
 _The PABX sounds_
 
-### 🔴 DELETE `DELETE` — Delete the given sound
+### 🔴 DELETE — Delete the given sound
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4995,7 +4997,7 @@ _The PABX sounds_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5020,7 +5022,7 @@ _The PABX sounds_
 
 _soundUpload operations_
 
-### 🟡 POST `POST` — Upload new sound file
+### 🟡 POST — Upload new sound file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5047,7 +5049,7 @@ _soundUpload operations_
 
 _Easy hunting time conditions options_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5066,7 +5068,7 @@ _Easy hunting time conditions options_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5091,7 +5093,7 @@ _Easy hunting time conditions options_
 
 _List the telephony.EasyHuntingTimeConditions objects_
 
-### 🟢 GET `GET` — Time conditions checked when a call is received
+### 🟢 GET — Time conditions checked when a call is received
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5111,7 +5113,7 @@ _List the telephony.EasyHuntingTimeConditions objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new time condition
+### 🟡 POST — Create a new time condition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5139,7 +5141,7 @@ _List the telephony.EasyHuntingTimeConditions objects_
 
 _Easy hunting time conditions_
 
-### 🔴 DELETE `DELETE` — Delete the given condition
+### 🔴 DELETE — Delete the given condition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5159,7 +5161,7 @@ _Easy hunting time conditions_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5179,7 +5181,7 @@ _Easy hunting time conditions_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5205,7 +5207,7 @@ _Easy hunting time conditions_
 
 _Token associated to the service for live event_
 
-### 🔴 DELETE `DELETE` — Delete the given token
+### 🔴 DELETE — Delete the given token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5223,7 +5225,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5241,7 +5243,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟡 POST `POST` — Create a new token
+### 🟡 POST — Create a new token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5265,7 +5267,7 @@ _Token associated to the service for live event_
 
 _List the telephony.Fax objects_
 
-### 🟢 GET `GET` — Faxes associated with this billing account
+### 🟢 GET — Faxes associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5288,7 +5290,7 @@ _List the telephony.Fax objects_
 
 _Fax service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5307,7 +5309,7 @@ _Fax service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5332,7 +5334,7 @@ _Fax service_
 
 _List the telephony.FaxCampaign objects_
 
-### 🟢 GET `GET` — Fax campaigns of the associate fax
+### 🟢 GET — Fax campaigns of the associate fax
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5351,7 +5353,7 @@ _List the telephony.FaxCampaign objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new fax campaign
+### 🟡 POST — Create a new fax campaign
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5383,7 +5385,7 @@ _List the telephony.FaxCampaign objects_
 
 _Fax campaigns_
 
-### 🔴 DELETE `DELETE` — Delete a fax campaign
+### 🔴 DELETE — Delete a fax campaign
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5403,7 +5405,7 @@ _Fax campaigns_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5428,7 +5430,7 @@ _Fax campaigns_
 
 _detail operations_
 
-### 🟢 GET `GET` — Detail of the fax recipients by status
+### 🟢 GET — Detail of the fax recipients by status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5453,7 +5455,7 @@ _detail operations_
 
 _start operations_
 
-### 🟡 POST `POST` — Start a fax campaign
+### 🟡 POST — Start a fax campaign
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5478,7 +5480,7 @@ _start operations_
 
 _stop operations_
 
-### 🟡 POST `POST` — Stop a fax campaign
+### 🟡 POST — Stop a fax campaign
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5503,7 +5505,7 @@ _stop operations_
 
 _Fax ScreenLists_
 
-### 🔴 DELETE `DELETE` — Delete all fax screenLists
+### 🔴 DELETE — Delete all fax screenLists
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5522,7 +5524,7 @@ _Fax ScreenLists_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5541,7 +5543,7 @@ _Fax ScreenLists_
 
 ---
 
-### 🟡 POST `POST` — Create a new fax ScreenLists
+### 🟡 POST — Create a new fax ScreenLists
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5565,7 +5567,7 @@ _Fax ScreenLists_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5590,7 +5592,7 @@ _Fax ScreenLists_
 
 _reset operations_
 
-### 🟡 POST `POST` — Reset a specifical fax screenList
+### 🟡 POST — Reset a specifical fax screenList
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5618,7 +5620,7 @@ _reset operations_
 
 _Fax properties_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5637,7 +5639,7 @@ _Fax properties_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5662,7 +5664,7 @@ _Fax properties_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Generates a new password for your fax account
+### 🟡 POST — Generates a new password for your fax account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5687,7 +5689,7 @@ _changePassword operations_
 
 _sendFax operations_
 
-### 🟡 POST `POST` — Send a fax
+### 🟡 POST — Send a fax
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5714,7 +5716,7 @@ _sendFax operations_
 
 _hasSpecialNumbers operations_
 
-### 🟢 GET `GET` — Check if the billing account contains at least one special number
+### 🟢 GET — Check if the billing account contains at least one special number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5737,7 +5739,7 @@ _hasSpecialNumbers operations_
 
 _List the telephony.HistoryConsumption objects_
 
-### 🟢 GET `GET` — Previous billed consumptions
+### 🟢 GET — Previous billed consumptions
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5760,7 +5762,7 @@ _List the telephony.HistoryConsumption objects_
 
 _Previous billed consumptions_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5784,7 +5786,7 @@ _Previous billed consumptions_
 
 _file operations_
 
-### 🟢 GET `GET` — Previous billed consumption files
+### 🟢 GET — Previous billed consumption files
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5809,7 +5811,7 @@ _file operations_
 
 _List the telephony.HistoryRepaymentConsumption objects_
 
-### 🟢 GET `GET` — Previous repayment bill
+### 🟢 GET — Previous repayment bill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5827,7 +5829,7 @@ _List the telephony.HistoryRepaymentConsumption objects_
 
 ---
 
-### 🟡 POST `POST` — Ask for a new repayment
+### 🟡 POST — Ask for a new repayment
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5851,7 +5853,7 @@ _List the telephony.HistoryRepaymentConsumption objects_
 
 _Previous repayment bill_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5875,7 +5877,7 @@ _Previous repayment bill_
 
 _document operations_
 
-### 🟢 GET `GET` — Get the csv document
+### 🟢 GET — Get the csv document
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5899,7 +5901,7 @@ _document operations_
 
 _List the telephony.HistoryTollfreeConsumption objects_
 
-### 🟢 GET `GET` — Previous tollfree bill
+### 🟢 GET — Previous tollfree bill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5922,7 +5924,7 @@ _List the telephony.HistoryTollfreeConsumption objects_
 
 _Previous tollfree bill_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5946,7 +5948,7 @@ _Previous tollfree bill_
 
 _document operations_
 
-### 🟢 GET `GET` — Get the csv document
+### 🟢 GET — Get the csv document
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5970,7 +5972,7 @@ _document operations_
 
 _List the telephony.Line objects_
 
-### 🟢 GET `GET` — Lines associated with this billing account
+### 🟢 GET — Lines associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5993,7 +5995,7 @@ _List the telephony.Line objects_
 
 _Line service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6012,7 +6014,7 @@ _Line service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6037,7 +6039,7 @@ _Line service_
 
 _List the telephony.AbbreviatedNumber objects_
 
-### 🟢 GET `GET` — Abbreviated numbers for the line
+### 🟢 GET — Abbreviated numbers for the line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6056,7 +6058,7 @@ _List the telephony.AbbreviatedNumber objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new abbreviated number for the line
+### 🟡 POST — Create a new abbreviated number for the line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6084,7 +6086,7 @@ _List the telephony.AbbreviatedNumber objects_
 
 _Abbreviated number_
 
-### 🔴 DELETE `DELETE` — Delete the given abbreviated number
+### 🔴 DELETE — Delete the given abbreviated number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6104,7 +6106,7 @@ _Abbreviated number_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6124,7 +6126,7 @@ _Abbreviated number_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6150,7 +6152,7 @@ _Abbreviated number_
 
 _activateNewPhone operations_
 
-### 🟢 GET `GET` — Check if there is a new phone to activate and if it's possible, in case of phone switch
+### 🟢 GET — Check if there is a new phone to activate and if it's possible, in case of phone switch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6169,7 +6171,7 @@ _activateNewPhone operations_
 
 ---
 
-### 🟡 POST `POST` — Allow to activate new phone, in case of phone switch
+### 🟡 POST — Allow to activate new phone, in case of phone switch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6193,7 +6195,7 @@ _activateNewPhone operations_
 
 _antihack operations_
 
-### 🟢 GET `GET` — Current list of numbers or short code numbers restricted by an auto antihack
+### 🟢 GET — Current list of numbers or short code numbers restricted by an auto antihack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6212,7 +6214,7 @@ _antihack operations_
 
 ---
 
-### 🟡 POST `POST` — Clean the antihack or add it on active filter screen list
+### 🟡 POST — Clean the antihack or add it on active filter screen list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6238,7 +6240,7 @@ _antihack operations_
 
 _associateDevice operations_
 
-### 🟡 POST `POST` — Associate a device to the current line with the device mac address
+### 🟡 POST — Associate a device to the current line with the device mac address
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6265,7 +6267,7 @@ _associateDevice operations_
 
 _List the telephony.CallsGenerated objects_
 
-### 🟢 GET `GET` — Automatic Calls made by Calls Generator on this line
+### 🟢 GET — Automatic Calls made by Calls Generator on this line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6284,7 +6286,7 @@ _List the telephony.CallsGenerated objects_
 
 ---
 
-### 🟡 POST `POST` — Make an automatic phone call. Return generated call identifier
+### 🟡 POST — Make an automatic phone call. Return generated call identifier
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6316,7 +6318,7 @@ _List the telephony.CallsGenerated objects_
 
 _Automatic Call made by Call Generator on this line_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6341,7 +6343,7 @@ _Automatic Call made by Call Generator on this line_
 
 _availableSipDomains operations_
 
-### 🟢 GET `GET` — Listing of domains Sip availables
+### 🟢 GET — Listing of domains Sip availables
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6365,7 +6367,7 @@ _availableSipDomains operations_
 
 _block operations_
 
-### 🟡 POST `POST` — Block the line. By default it will block incoming and outgoing calls (except for emergency numbers)
+### 🟡 POST — Block the line. By default it will block incoming and outgoing calls (except for emergency numbers)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6390,7 +6392,7 @@ _block operations_
 
 _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
-### 🟢 GET `GET` — The active calls of your line as a call center agent
+### 🟢 GET — The active calls of your line as a call center agent
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6414,7 +6416,7 @@ _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6439,7 +6441,7 @@ _Live statistics of the queue_
 
 _eavesdrop operations_
 
-### 🟡 POST `POST` — Eavesdrop on a call
+### 🟡 POST — Eavesdrop on a call
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6465,7 +6467,7 @@ _eavesdrop operations_
 
 _hangup operations_
 
-### 🟡 POST `POST` — Hangup a call
+### 🟡 POST — Hangup a call
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6490,7 +6492,7 @@ _hangup operations_
 
 _hold operations_
 
-### 🟡 POST `POST` — Toogle hold on call
+### 🟡 POST — Toogle hold on call
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6515,7 +6517,7 @@ _hold operations_
 
 _intercept operations_
 
-### 🟡 POST `POST` — Intercept a non answered call
+### 🟡 POST — Intercept a non answered call
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6541,7 +6543,7 @@ _intercept operations_
 
 _transfer operations_
 
-### 🟡 POST `POST` — Transfer an answered call
+### 🟡 POST — Transfer an answered call
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6567,7 +6569,7 @@ _transfer operations_
 
 _whisper operations_
 
-### 🟡 POST `POST` — Whisper on a call
+### 🟡 POST — Whisper on a call
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6594,7 +6596,7 @@ _whisper operations_
 
 _canChangePassword operations_
 
-### 🟢 GET `GET` — Ability to manage SIP password on this service
+### 🟢 GET — Ability to manage SIP password on this service
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6618,7 +6620,7 @@ _canChangePassword operations_
 
 _cancelConvertToNumber operations_
 
-### 🟡 POST `POST` — Cancel a scheduled conversion to number
+### 🟡 POST — Cancel a scheduled conversion to number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6642,7 +6644,7 @@ _cancelConvertToNumber operations_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change the SIP account password
+### 🟡 POST — Change the SIP account password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6667,7 +6669,7 @@ _changePassword operations_
 
 _click2Call operations_
 
-### 🟡 POST `POST` — Make a phone call from the current line
+### 🟡 POST — Make a phone call from the current line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6694,7 +6696,7 @@ _click2Call operations_
 
 _List the telephony.Click2CallUser objects_
 
-### 🟢 GET `GET` — User which can use click 2 call on the line
+### 🟢 GET — User which can use click 2 call on the line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6713,7 +6715,7 @@ _List the telephony.Click2CallUser objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new user for click 2 call
+### 🟡 POST — Create a new user for click 2 call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6739,7 +6741,7 @@ _List the telephony.Click2CallUser objects_
 
 _User of the click 2 call_
 
-### 🔴 DELETE `DELETE` — Delete a click 2 call user
+### 🔴 DELETE — Delete a click 2 call user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6759,7 +6761,7 @@ _User of the click 2 call_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6784,7 +6786,7 @@ _User of the click 2 call_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change the password of the click2call user
+### 🟡 POST — Change the password of the click2call user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6810,7 +6812,7 @@ _changePassword operations_
 
 _click2Call operations_
 
-### 🟡 POST `POST` — Make a phone call from the current line
+### 🟡 POST — Make a phone call from the current line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6837,7 +6839,7 @@ _click2Call operations_
 
 _convertToNumber operations_
 
-### 🟡 POST `POST` — Schedule a conversion to number
+### 🟡 POST — Schedule a conversion to number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6861,7 +6863,7 @@ _convertToNumber operations_
 
 _dissociateDevice operations_
 
-### 🟡 POST `POST` — Dissociate a device from the current line with the device mac address
+### 🟡 POST — Dissociate a device from the current line with the device mac address
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6887,7 +6889,7 @@ _dissociateDevice operations_
 
 _ips operations_
 
-### 🟢 GET `GET` — Listing of last ips registry
+### 🟢 GET — Listing of last ips registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6911,7 +6913,7 @@ _ips operations_
 
 _lastRegistrations operations_
 
-### 🟢 GET `GET` — List the informations about the last registrations (i.e. IP, port, User-Agent...)
+### 🟢 GET — List the informations about the last registrations (i.e. IP, port, User-Agent...)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6935,7 +6937,7 @@ _lastRegistrations operations_
 
 _listAssociablePhones operations_
 
-### 🟢 GET `GET` — List phones with available slots where this line can be attached
+### 🟢 GET — List phones with available slots where this line can be attached
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6959,7 +6961,7 @@ _listAssociablePhones operations_
 
 _maximumAvailableSimultaneousLines operations_
 
-### 🟢 GET `GET` — Get the maximum available simultaneous lines for this line
+### 🟢 GET — Get the maximum available simultaneous lines for this line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6983,7 +6985,7 @@ _maximumAvailableSimultaneousLines operations_
 
 _offer operations_
 
-### 🟢 GET `GET` — Return public offer property
+### 🟢 GET — Return public offer property
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7007,7 +7009,7 @@ _offer operations_
 
 _Line options_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7026,7 +7028,7 @@ _Line options_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7051,7 +7053,7 @@ _Line options_
 
 _availableCodecs operations_
 
-### 🟢 GET `GET` — List of codecs combinaisons available for this line
+### 🟢 GET — List of codecs combinaisons available for this line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7075,7 +7077,7 @@ _availableCodecs operations_
 
 _defaultCodecs operations_
 
-### 🟢 GET `GET` — Get the default codecs for this line if none are set
+### 🟢 GET — Get the default codecs for this line if none are set
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7099,7 +7101,7 @@ _defaultCodecs operations_
 
 _Plug & Phone_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7118,7 +7120,7 @@ _Plug & Phone_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7143,7 +7145,7 @@ _Plug & Phone_
 
 _adminCredentials operations_
 
-### 🟢 GET `GET` — Returns the administration user and password of the phone if you are a VIP
+### 🟢 GET — Returns the administration user and password of the phone if you are a VIP
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7167,7 +7169,7 @@ _adminCredentials operations_
 
 _changePhoneConfiguration operations_
 
-### 🟡 POST `POST` — Edit configuration of the phone remotely by provisioning
+### 🟡 POST — Edit configuration of the phone remotely by provisioning
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7193,7 +7195,7 @@ _changePhoneConfiguration operations_
 
 _List the telephony.FunctionKey objects_
 
-### 🟢 GET `GET` — Plug & Phone function keys
+### 🟢 GET — Plug & Phone function keys
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7217,7 +7219,7 @@ _List the telephony.FunctionKey objects_
 
 _Plug & Phone function key_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7237,7 +7239,7 @@ _Plug & Phone function key_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7263,7 +7265,7 @@ _Plug & Phone function key_
 
 _availableFunction operations_
 
-### 🟢 GET `GET` — List the available functions for the key
+### 🟢 GET — List the available functions for the key
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7288,7 +7290,7 @@ _availableFunction operations_
 
 _merchandiseAvailable operations_
 
-### 🟢 GET `GET` — List of available exchange merchandise brand
+### 🟢 GET — List of available exchange merchandise brand
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7312,7 +7314,7 @@ _merchandiseAvailable operations_
 
 _List the telephony.Phonebook objects_
 
-### 🟢 GET `GET` — Return phonebooks associated
+### 🟢 GET — Return phonebooks associated
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7331,7 +7333,7 @@ _List the telephony.Phonebook objects_
 
 ---
 
-### 🟡 POST `POST` — Add a phonebook. Return the bookKey.
+### 🟡 POST — Add a phonebook. Return the bookKey.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7356,7 +7358,7 @@ _List the telephony.Phonebook objects_
 
 _Phone book_
 
-### 🔴 DELETE `DELETE` — Delete a phonebook
+### 🔴 DELETE — Delete a phonebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7376,7 +7378,7 @@ _Phone book_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7396,7 +7398,7 @@ _Phone book_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7422,7 +7424,7 @@ _Phone book_
 
 _export operations_
 
-### 🟢 GET `GET` — Export the phonebook's contacts
+### 🟢 GET — Export the phonebook's contacts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7448,7 +7450,7 @@ _export operations_
 
 _import operations_
 
-### 🟡 POST `POST` — Import a contacts file. Supported formats are Excel (.xls and .xlsx) and CSV
+### 🟡 POST — Import a contacts file. Supported formats are Excel (.xls and .xlsx) and CSV
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7474,7 +7476,7 @@ _import operations_
 
 _List the telephony.PhonebookContact objects_
 
-### 🟢 GET `GET` — Phonebook contacts
+### 🟢 GET — Phonebook contacts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7494,7 +7496,7 @@ _List the telephony.PhonebookContact objects_
 
 ---
 
-### 🟡 POST `POST` — Create a phonebook contact. Return identifier of the phonebook contact.
+### 🟡 POST — Create a phonebook contact. Return identifier of the phonebook contact.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7526,7 +7528,7 @@ _List the telephony.PhonebookContact objects_
 
 _Phone book contact_
 
-### 🔴 DELETE `DELETE` — Delete a phonebook contact
+### 🔴 DELETE — Delete a phonebook contact
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7547,7 +7549,7 @@ _Phone book contact_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7568,7 +7570,7 @@ _Phone book contact_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7595,7 +7597,7 @@ _Phone book contact_
 
 _reboot operations_
 
-### 🟡 POST `POST` — Create a task to reboot the phone
+### 🟡 POST — Create a task to reboot the phone
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7619,7 +7621,7 @@ _reboot operations_
 
 _refreshScreen operations_
 
-### 🟡 POST `POST` — Create a task to refresh the screen of the MGCP phone
+### 🟡 POST — Create a task to refresh the screen of the MGCP phone
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7643,7 +7645,7 @@ _refreshScreen operations_
 
 _resetConfig operations_
 
-### 🟡 POST `POST` — Reinitialize the phone configuration
+### 🟡 POST — Reinitialize the phone configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7668,7 +7670,7 @@ _resetConfig operations_
 
 _List the telephony.Rma objects_
 
-### 🟢 GET `GET` — Return Merchandise Authorisation associated
+### 🟢 GET — Return Merchandise Authorisation associated
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7687,7 +7689,7 @@ _List the telephony.Rma objects_
 
 ---
 
-### 🟡 POST `POST` — Create a specific rma
+### 🟡 POST — Create a specific rma
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7715,7 +7717,7 @@ _List the telephony.Rma objects_
 
 _Current Return Merchandise Authorisation_
 
-### 🔴 DELETE `DELETE` — Cancel the rma
+### 🔴 DELETE — Cancel the rma
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7735,7 +7737,7 @@ _Current Return Merchandise Authorisation_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7755,7 +7757,7 @@ _Current Return Merchandise Authorisation_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7781,7 +7783,7 @@ _Current Return Merchandise Authorisation_
 
 _changeType operations_
 
-### 🟡 POST `POST` — Change RMA type
+### 🟡 POST — Change RMA type
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7807,7 +7809,7 @@ _changeType operations_
 
 _supportsPhonebook operations_
 
-### 🟢 GET `GET` — Does the phone manages phonebooks?
+### 🟢 GET — Does the phone manages phonebooks?
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7831,7 +7833,7 @@ _supportsPhonebook operations_
 
 _phoneCanBeAssociable operations_
 
-### 🟢 GET `GET` — List the phones with Sip slot available
+### 🟢 GET — List the phones with Sip slot available
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7855,7 +7857,7 @@ _phoneCanBeAssociable operations_
 
 _List the telephony.OvhPabxRecord objects_
 
-### 🟢 GET `GET` — The recordings of your line outgoing calls
+### 🟢 GET — The recordings of your line outgoing calls
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7879,7 +7881,7 @@ _List the telephony.OvhPabxRecord objects_
 
 _The PABX records_
 
-### 🔴 DELETE `DELETE` — Delete the given record
+### 🔴 DELETE — Delete the given record
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7899,7 +7901,7 @@ _The PABX records_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7924,7 +7926,7 @@ _The PABX records_
 
 _removeSimultaneousLines operations_
 
-### 🟡 POST `POST` — Remove extra simultaneous lines
+### 🟡 POST — Remove extra simultaneous lines
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7949,7 +7951,7 @@ _removeSimultaneousLines operations_
 
 _simultaneousChannelsDetails operations_
 
-### 🟢 GET `GET` — Details about simultaneous channels of this line.
+### 🟢 GET — Details about simultaneous channels of this line.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7971,7 +7973,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/beta`
 
-### 🟢 GET `GET` — Get beta status for line softphone
+### 🟢 GET — Get beta status for line softphone
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7990,7 +7992,7 @@ _simultaneousChannelsDetails operations_
 
 ---
 
-### 🟠 PUT `PUT` — Enable or disable beta statuses for line softphone
+### 🟠 PUT — Enable or disable beta statuses for line softphone
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8013,7 +8015,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/devices`
 
-### 🟢 GET `GET` — Get softphone devices list
+### 🟢 GET — Get softphone devices list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8035,7 +8037,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/devices/disconnect`
 
-### 🟡 POST `POST` — Disconnect all devices
+### 🟡 POST — Disconnect all devices
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8057,7 +8059,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/devices/{deviceId}`
 
-### 🔴 DELETE `DELETE` — Delete softphone device
+### 🔴 DELETE — Delete softphone device
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8080,7 +8082,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/logo`
 
-### 🔴 DELETE `DELETE` — Delete line softphone logo
+### 🔴 DELETE — Delete line softphone logo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8099,7 +8101,7 @@ _simultaneousChannelsDetails operations_
 
 ---
 
-### 🟢 GET `GET` — Get line softphone logo
+### 🟢 GET — Get line softphone logo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8118,7 +8120,7 @@ _simultaneousChannelsDetails operations_
 
 ---
 
-### 🟠 PUT `PUT` — Set line softphone logo
+### 🟠 PUT — Set line softphone logo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8141,7 +8143,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/status`
 
-### 🟢 GET `GET` — Get softphone line status
+### 🟢 GET — Get softphone line status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8163,7 +8165,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/theme`
 
-### 🔴 DELETE `DELETE` — Delete line softphone theme
+### 🔴 DELETE — Delete line softphone theme
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8182,7 +8184,7 @@ _simultaneousChannelsDetails operations_
 
 ---
 
-### 🟢 GET `GET` — Get line softphone theme
+### 🟢 GET — Get line softphone theme
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8201,7 +8203,7 @@ _simultaneousChannelsDetails operations_
 
 ---
 
-### 🟠 PUT `PUT` — Set line softphone theme
+### 🟠 PUT — Set line softphone theme
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8224,7 +8226,7 @@ _simultaneousChannelsDetails operations_
 
 ## `/telephony/{billingAccount}/line/{serviceName}/softphone/token`
 
-### 🟡 POST `POST` — Generate provisioning token
+### 🟡 POST — Generate provisioning token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8249,7 +8251,7 @@ _simultaneousChannelsDetails operations_
 
 _statistics operations_
 
-### 🟢 GET `GET` — Get statistics of the current line
+### 🟢 GET — Get statistics of the current line
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8275,7 +8277,7 @@ _statistics operations_
 
 _Line tones_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8294,7 +8296,7 @@ _Line tones_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8319,7 +8321,7 @@ _Line tones_
 
 _toneUpload operations_
 
-### 🟡 POST `POST` — Upload new tone file
+### 🟡 POST — Upload new tone file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8346,7 +8348,7 @@ _toneUpload operations_
 
 _List the telephony.trafficExtract objects_
 
-### 🟢 GET `GET` — The traffic extracts (SIP only) of your line
+### 🟢 GET — The traffic extracts (SIP only) of your line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8365,7 +8367,7 @@ _List the telephony.trafficExtract objects_
 
 ---
 
-### 🟡 POST `POST` — Launch a traffic extract on your line
+### 🟡 POST — Launch a traffic extract on your line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8391,7 +8393,7 @@ _List the telephony.trafficExtract objects_
 
 _Traffic extracts (SIP) of your line_
 
-### 🔴 DELETE `DELETE` — Delete a traffic extract
+### 🔴 DELETE — Delete a traffic extract
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8411,7 +8413,7 @@ _Traffic extracts (SIP) of your line_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8436,7 +8438,7 @@ _Traffic extracts (SIP) of your line_
 
 _unblock operations_
 
-### 🟡 POST `POST` — Unblock the line. It will remove any incoming and outboing block made earlier
+### 🟡 POST — Unblock the line. It will remove any incoming and outboing block made earlier
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8460,7 +8462,7 @@ _unblock operations_
 
 _List the telephony.Number objects_
 
-### 🟢 GET `GET` — Additional numbers associated with this billing account
+### 🟢 GET — Additional numbers associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8483,7 +8485,7 @@ _List the telephony.Number objects_
 
 _Additional number_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8502,7 +8504,7 @@ _Additional number_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8527,7 +8529,7 @@ _Additional number_
 
 _cancelConvertToLine operations_
 
-### 🟡 POST `POST` — Cancel a scheduled conversion to line
+### 🟡 POST — Cancel a scheduled conversion to line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8551,7 +8553,7 @@ _cancelConvertToLine operations_
 
 _changeFeatureType operations_
 
-### 🟡 POST `POST` — Change the feature type of the phone number
+### 🟡 POST — Change the feature type of the phone number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8576,7 +8578,7 @@ _changeFeatureType operations_
 
 _convertToLine operations_
 
-### 🟡 POST `POST` — Schedule a conversion to line
+### 🟡 POST — Schedule a conversion to line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8601,7 +8603,7 @@ _convertToLine operations_
 
 _convertToLineAvailableOffers operations_
 
-### 🟢 GET `GET` — Get the available line offers to schedule a conversion to line
+### 🟢 GET — Get the available line offers to schedule a conversion to line
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8625,7 +8627,7 @@ _convertToLineAvailableOffers operations_
 
 _List the telephony.OfferTask objects_
 
-### 🟢 GET `GET` — Operations on a telephony service's offer
+### 🟢 GET — Operations on a telephony service's offer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8651,7 +8653,7 @@ _List the telephony.OfferTask objects_
 
 _Operation on a telephony offer_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8670,7 +8672,7 @@ _Operation on a telephony offer_
 
 ---
 
-### 🟠 PUT `PUT` — Update the given pending action
+### 🟠 PUT — Update the given pending action
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8695,7 +8697,7 @@ _Operation on a telephony offer_
 
 _oldPhone operations_
 
-### 🟢 GET `GET` — List old phones archived as they were not returned after an RMA
+### 🟢 GET — List old phones archived as they were not returned after an RMA
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8718,7 +8720,7 @@ _oldPhone operations_
 
 _List the telephony.ConsumptionThreshold objects_
 
-### 🟢 GET `GET` — Outplan notifications configured for this billing account
+### 🟢 GET — Outplan notifications configured for this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8736,7 +8738,7 @@ _List the telephony.ConsumptionThreshold objects_
 
 ---
 
-### 🟡 POST `POST` — Add an outplan notification on the billing account
+### 🟡 POST — Add an outplan notification on the billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8762,7 +8764,7 @@ _List the telephony.ConsumptionThreshold objects_
 
 _The outplan notifications configured for your billing account_
 
-### 🔴 DELETE `DELETE` — Delete an outplan notification
+### 🔴 DELETE — Delete an outplan notification
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8781,7 +8783,7 @@ _The outplan notifications configured for your billing account_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8805,7 +8807,7 @@ _The outplan notifications configured for your billing account_
 
 _List the telephony.OvhPabx objects_
 
-### 🟢 GET `GET` — OVH calls queues and OVH IVRs (Interactive Voice Response) associated with this billing account
+### 🟢 GET — OVH calls queues and OVH IVRs (Interactive Voice Response) associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8828,7 +8830,7 @@ _List the telephony.OvhPabx objects_
 
 _OVH calls queues and OVH IVRs (Interactive Voice Response)_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8847,7 +8849,7 @@ _OVH calls queues and OVH IVRs (Interactive Voice Response)_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8872,7 +8874,7 @@ _OVH calls queues and OVH IVRs (Interactive Voice Response)_
 
 _List the telephony.OvhPabxDialplan objects_
 
-### 🟢 GET `GET` — Dialplans associated with this PABX
+### 🟢 GET — Dialplans associated with this PABX
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8891,7 +8893,7 @@ _List the telephony.OvhPabxDialplan objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new dialplan
+### 🟡 POST — Create a new dialplan
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8919,7 +8921,7 @@ _List the telephony.OvhPabxDialplan objects_
 
 _Dialplan_
 
-### 🔴 DELETE `DELETE` — Delete the given dialplan
+### 🔴 DELETE — Delete the given dialplan
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8939,7 +8941,7 @@ _Dialplan_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8959,7 +8961,7 @@ _Dialplan_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8985,7 +8987,7 @@ _Dialplan_
 
 _List the telephony.OvhPabxDialplanExtension objects_
 
-### 🟢 GET `GET` — Extensions contained in the dialplan
+### 🟢 GET — Extensions contained in the dialplan
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9005,7 +9007,7 @@ _List the telephony.OvhPabxDialplanExtension objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new extension for a dialplan
+### 🟡 POST — Create a new extension for a dialplan
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9034,7 +9036,7 @@ _List the telephony.OvhPabxDialplanExtension objects_
 
 _Dialplan extension_
 
-### 🔴 DELETE `DELETE` — Delete the given extension
+### 🔴 DELETE — Delete the given extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9055,7 +9057,7 @@ _Dialplan extension_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9076,7 +9078,7 @@ _Dialplan extension_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9103,7 +9105,7 @@ _Dialplan extension_
 
 _List the telephony.OvhPabxDialplanExtensionConditionScreenList objects_
 
-### 🟢 GET `GET` — Screenlist conditions checked when executing the extension
+### 🟢 GET — Screenlist conditions checked when executing the extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9124,7 +9126,7 @@ _List the telephony.OvhPabxDialplanExtensionConditionScreenList objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new screenlist condition for an extension
+### 🟡 POST — Create a new screenlist condition for an extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9153,7 +9155,7 @@ _List the telephony.OvhPabxDialplanExtensionConditionScreenList objects_
 
 _Screenlist condition_
 
-### 🔴 DELETE `DELETE` — Delete the given condition
+### 🔴 DELETE — Delete the given condition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9175,7 +9177,7 @@ _Screenlist condition_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9202,7 +9204,7 @@ _Screenlist condition_
 
 _List the telephony.OvhPabxDialplanExtensionConditionTime objects_
 
-### 🟢 GET `GET` — Time conditions checked when executing the extension
+### 🟢 GET — Time conditions checked when executing the extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9223,7 +9225,7 @@ _List the telephony.OvhPabxDialplanExtensionConditionTime objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new time condition for an extension
+### 🟡 POST — Create a new time condition for an extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9252,7 +9254,7 @@ _List the telephony.OvhPabxDialplanExtensionConditionTime objects_
 
 _Time condition_
 
-### 🔴 DELETE `DELETE` — Delete the given condition
+### 🔴 DELETE — Delete the given condition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9274,7 +9276,7 @@ _Time condition_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9296,7 +9298,7 @@ _Time condition_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9324,7 +9326,7 @@ _Time condition_
 
 _List the telephony.OvhPabxDialplanExtensionRule objects_
 
-### 🟢 GET `GET` — Rules contained in the extension
+### 🟢 GET — Rules contained in the extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9345,7 +9347,7 @@ _List the telephony.OvhPabxDialplanExtensionRule objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new rule for an extension
+### 🟡 POST — Create a new rule for an extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9375,7 +9377,7 @@ _List the telephony.OvhPabxDialplanExtensionRule objects_
 
 _Dialplan rule_
 
-### 🔴 DELETE `DELETE` — Delete the given rule
+### 🔴 DELETE — Delete the given rule
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9397,7 +9399,7 @@ _Dialplan rule_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9419,7 +9421,7 @@ _Dialplan rule_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9447,7 +9449,7 @@ _Dialplan rule_
 
 _PABX Hunting_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9466,7 +9468,7 @@ _PABX Hunting_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9491,7 +9493,7 @@ _PABX Hunting_
 
 _List the telephony.OvhPabxHuntingAgent objects_
 
-### 🟢 GET `GET` — Calls agents
+### 🟢 GET — Calls agents
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9510,7 +9512,7 @@ _List the telephony.OvhPabxHuntingAgent objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new agent
+### 🟡 POST — Create a new agent
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9540,7 +9542,7 @@ _List the telephony.OvhPabxHuntingAgent objects_
 
 _Calls agent_
 
-### 🔴 DELETE `DELETE` — Delete the given agent
+### 🔴 DELETE — Delete the given agent
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9560,7 +9562,7 @@ _Calls agent_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9580,7 +9582,7 @@ _Calls agent_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9606,7 +9608,7 @@ _Calls agent_
 
 _The web access for your cloudpabx_
 
-### 🔴 DELETE `DELETE` — Delete the given web access
+### 🔴 DELETE — Delete the given web access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9626,7 +9628,7 @@ _The web access for your cloudpabx_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9646,7 +9648,7 @@ _The web access for your cloudpabx_
 
 ---
 
-### 🟡 POST `POST` — Create a new web access for this ressource
+### 🟡 POST — Create a new web access for this ressource
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9671,7 +9673,7 @@ _The web access for your cloudpabx_
 
 _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
-### 🟢 GET `GET` — Current calls of the callcenter agent
+### 🟢 GET — Current calls of the callcenter agent
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9696,7 +9698,7 @@ _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9722,7 +9724,7 @@ _Live statistics of the queue_
 
 _eavesdrop operations_
 
-### 🟡 POST `POST` — Eavesdrop on a call
+### 🟡 POST — Eavesdrop on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9749,7 +9751,7 @@ _eavesdrop operations_
 
 _hangup operations_
 
-### 🟡 POST `POST` — Hangup a call
+### 🟡 POST — Hangup a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9775,7 +9777,7 @@ _hangup operations_
 
 _hold operations_
 
-### 🟡 POST `POST` — Toogle hold on call
+### 🟡 POST — Toogle hold on call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9801,7 +9803,7 @@ _hold operations_
 
 _intercept operations_
 
-### 🟡 POST `POST` — Intercept a non answered call
+### 🟡 POST — Intercept a non answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9828,7 +9830,7 @@ _intercept operations_
 
 _transfer operations_
 
-### 🟡 POST `POST` — Transfer an answered call
+### 🟡 POST — Transfer an answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9855,7 +9857,7 @@ _transfer operations_
 
 _whisper operations_
 
-### 🟡 POST `POST` — Whisper on a call
+### 🟡 POST — Whisper on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9883,7 +9885,7 @@ _whisper operations_
 
 _Token associated to the service for live event_
 
-### 🔴 DELETE `DELETE` — Delete the given token
+### 🔴 DELETE — Delete the given token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9903,7 +9905,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9923,7 +9925,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟡 POST `POST` — Create a new token
+### 🟡 POST — Create a new token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9949,7 +9951,7 @@ _Token associated to the service for live event_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9974,7 +9976,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxHuntingAgentQueue objects_
 
-### 🟢 GET `GET` — Agent assigned to the queues
+### 🟢 GET — Agent assigned to the queues
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9994,7 +9996,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new skill for an agent (it adds the agent in a queue)
+### 🟡 POST — Create a new skill for an agent (it adds the agent in a queue)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10021,7 +10023,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 _Agent assigned to a queue_
 
-### 🔴 DELETE `DELETE` — Delete the given skill
+### 🔴 DELETE — Delete the given skill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10042,7 +10044,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10063,7 +10065,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10090,7 +10092,7 @@ _Agent assigned to a queue_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10116,7 +10118,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxCustomStatus objects_
 
-### 🟢 GET `GET` — Custom statuses of your agents
+### 🟢 GET — Custom statuses of your agents
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10135,7 +10137,7 @@ _List the telephony.OvhPabxCustomStatus objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new custom status
+### 🟡 POST — Create a new custom status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10162,7 +10164,7 @@ _List the telephony.OvhPabxCustomStatus objects_
 
 _Custom statuses of your callcenter agents_
 
-### 🔴 DELETE `DELETE` — Delete the given custom status
+### 🔴 DELETE — Delete the given custom status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10182,7 +10184,7 @@ _Custom statuses of your callcenter agents_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10207,7 +10209,7 @@ _Custom statuses of your callcenter agents_
 
 _Token associated to the service for live event_
 
-### 🔴 DELETE `DELETE` — Delete the given token
+### 🔴 DELETE — Delete the given token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10226,7 +10228,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10245,7 +10247,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟡 POST `POST` — Create a new token
+### 🟡 POST — Create a new token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10270,7 +10272,7 @@ _Token associated to the service for live event_
 
 _List the telephony.OvhPabxHuntingQueue objects_
 
-### 🟢 GET `GET` — Calls queues
+### 🟢 GET — Calls queues
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10289,7 +10291,7 @@ _List the telephony.OvhPabxHuntingQueue objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new queue
+### 🟡 POST — Create a new queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10326,7 +10328,7 @@ _List the telephony.OvhPabxHuntingQueue objects_
 
 _Calls queue_
 
-### 🔴 DELETE `DELETE` — Delete the given queue
+### 🔴 DELETE — Delete the given queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10346,7 +10348,7 @@ _Calls queue_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10366,7 +10368,7 @@ _Calls queue_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10392,7 +10394,7 @@ _Calls queue_
 
 _List the telephony.OvhPabxHuntingAgentQueue objects_
 
-### 🟢 GET `GET` — Agent assigned to the queue
+### 🟢 GET — Agent assigned to the queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10412,7 +10414,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new skill for an agent (it adds the agent in a queue)
+### 🟡 POST — Create a new skill for an agent (it adds the agent in a queue)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10438,7 +10440,7 @@ _List the telephony.OvhPabxHuntingAgentQueue objects_
 
 _Agent assigned to a queue_
 
-### 🔴 DELETE `DELETE` — Delete the given skill
+### 🔴 DELETE — Delete the given skill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10459,7 +10461,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10480,7 +10482,7 @@ _Agent assigned to a queue_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10507,7 +10509,7 @@ _Agent assigned to a queue_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10533,7 +10535,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
-### 🟢 GET `GET` — Live calls of the queue
+### 🟢 GET — Live calls of the queue
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10558,7 +10560,7 @@ _List the telephony.OvhPabxHuntingQueueLiveCalls objects_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10584,7 +10586,7 @@ _Live statistics of the queue_
 
 _eavesdrop operations_
 
-### 🟡 POST `POST` — Eavesdrop on a call
+### 🟡 POST — Eavesdrop on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10611,7 +10613,7 @@ _eavesdrop operations_
 
 _hangup operations_
 
-### 🟡 POST `POST` — Hangup a call
+### 🟡 POST — Hangup a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10637,7 +10639,7 @@ _hangup operations_
 
 _hold operations_
 
-### 🟡 POST `POST` — Toogle hold on call
+### 🟡 POST — Toogle hold on call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10663,7 +10665,7 @@ _hold operations_
 
 _intercept operations_
 
-### 🟡 POST `POST` — Intercept a non answered call
+### 🟡 POST — Intercept a non answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10690,7 +10692,7 @@ _intercept operations_
 
 _transfer operations_
 
-### 🟡 POST `POST` — Transfer an answered call
+### 🟡 POST — Transfer an answered call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10717,7 +10719,7 @@ _transfer operations_
 
 _whisper operations_
 
-### 🟡 POST `POST` — Whisper on a call
+### 🟡 POST — Whisper on a call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10745,7 +10747,7 @@ _whisper operations_
 
 _Live statistics of the queue_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10770,7 +10772,7 @@ _Live statistics of the queue_
 
 _List the telephony.OvhPabxMenu objects_
 
-### 🟢 GET `GET` — Menus associated with this PABX
+### 🟢 GET — Menus associated with this PABX
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10789,7 +10791,7 @@ _List the telephony.OvhPabxMenu objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new menu
+### 🟡 POST — Create a new menu
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10820,7 +10822,7 @@ _List the telephony.OvhPabxMenu objects_
 
 _IVR Menu_
 
-### 🔴 DELETE `DELETE` — Delete the given menu
+### 🔴 DELETE — Delete the given menu
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10840,7 +10842,7 @@ _IVR Menu_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10860,7 +10862,7 @@ _IVR Menu_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10886,7 +10888,7 @@ _IVR Menu_
 
 _List the telephony.OvhPabxMenuEntry objects_
 
-### 🟢 GET `GET` — Menu entry
+### 🟢 GET — Menu entry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10906,7 +10908,7 @@ _List the telephony.OvhPabxMenuEntry objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new menu entry
+### 🟡 POST — Create a new menu entry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10935,7 +10937,7 @@ _List the telephony.OvhPabxMenuEntry objects_
 
 _IVR menu entry_
 
-### 🔴 DELETE `DELETE` — Delete the given menu entry
+### 🔴 DELETE — Delete the given menu entry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10956,7 +10958,7 @@ _IVR menu entry_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10977,7 +10979,7 @@ _IVR menu entry_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11004,7 +11006,7 @@ _IVR menu entry_
 
 _List the telephony.OvhPabxRecord objects_
 
-### 🟢 GET `GET` — Records associated with this PABX
+### 🟢 GET — Records associated with this PABX
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11028,7 +11030,7 @@ _List the telephony.OvhPabxRecord objects_
 
 _The PABX records_
 
-### 🔴 DELETE `DELETE` — Delete the given record
+### 🔴 DELETE — Delete the given record
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11048,7 +11050,7 @@ _The PABX records_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11073,7 +11075,7 @@ _The PABX records_
 
 _List the telephony.OvhPabxSound objects_
 
-### 🟢 GET `GET` — Sounds associated with this PABX
+### 🟢 GET — Sounds associated with this PABX
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11097,7 +11099,7 @@ _List the telephony.OvhPabxSound objects_
 
 _The PABX sounds_
 
-### 🔴 DELETE `DELETE` — Delete the given sound
+### 🔴 DELETE — Delete the given sound
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11117,7 +11119,7 @@ _The PABX sounds_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11142,7 +11144,7 @@ _The PABX sounds_
 
 _soundUpload operations_
 
-### 🟡 POST `POST` — Upload new sound file
+### 🟡 POST — Upload new sound file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11169,7 +11171,7 @@ _soundUpload operations_
 
 _List the telephony.OvhPabxTts objects_
 
-### 🟢 GET `GET` — Text to Speech associated with this PABX
+### 🟢 GET — Text to Speech associated with this PABX
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11188,7 +11190,7 @@ _List the telephony.OvhPabxTts objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new text to speech
+### 🟡 POST — Create a new text to speech
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11214,7 +11216,7 @@ _List the telephony.OvhPabxTts objects_
 
 _The PABX Text To Speech sounds_
 
-### 🔴 DELETE `DELETE` — Delete the given text to speech
+### 🔴 DELETE — Delete the given text to speech
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11234,7 +11236,7 @@ _The PABX Text To Speech sounds_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11254,7 +11256,7 @@ _The PABX Text To Speech sounds_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11280,7 +11282,7 @@ _The PABX Text To Speech sounds_
 
 _List the telephony.PhonebookMaster objects_
 
-### 🟢 GET `GET` — Return phonebooks associated to this group
+### 🟢 GET — Return phonebooks associated to this group
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11298,7 +11300,7 @@ _List the telephony.PhonebookMaster objects_
 
 ---
 
-### 🟡 POST `POST` — Add a phonebook on group. Return the bookKey.
+### 🟡 POST — Add a phonebook on group. Return the bookKey.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11322,7 +11324,7 @@ _List the telephony.PhonebookMaster objects_
 
 _Phone book on group_
 
-### 🔴 DELETE `DELETE` — Delete a phonebook
+### 🔴 DELETE — Delete a phonebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11341,7 +11343,7 @@ _Phone book on group_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11360,7 +11362,7 @@ _Phone book on group_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11385,7 +11387,7 @@ _Phone book on group_
 
 _export operations_
 
-### 🟢 GET `GET` — Export the phonebook's contacts
+### 🟢 GET — Export the phonebook's contacts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11410,7 +11412,7 @@ _export operations_
 
 _import operations_
 
-### 🟡 POST `POST` — Import a contacts file. Supported formats are Excel (.xls and .xlsx) and CSV
+### 🟡 POST — Import a contacts file. Supported formats are Excel (.xls and .xlsx) and CSV
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11435,7 +11437,7 @@ _import operations_
 
 _List the telephony.PhonebookContact objects_
 
-### 🟢 GET `GET` — Phonebook contacts
+### 🟢 GET — Phonebook contacts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11454,7 +11456,7 @@ _List the telephony.PhonebookContact objects_
 
 ---
 
-### 🟡 POST `POST` — Create a phonebook contact. Return identifier of the phonebook contact.
+### 🟡 POST — Create a phonebook contact. Return identifier of the phonebook contact.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11485,7 +11487,7 @@ _List the telephony.PhonebookContact objects_
 
 _Phone book contact_
 
-### 🔴 DELETE `DELETE` — Delete a phonebook contact
+### 🔴 DELETE — Delete a phonebook contact
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11505,7 +11507,7 @@ _Phone book contact_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11525,7 +11527,7 @@ _Phone book contact_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11551,7 +11553,7 @@ _Phone book contact_
 
 _List the telephony.Portability objects_
 
-### 🟢 GET `GET` — Current number portabilities for this billing account
+### 🟢 GET — Current number portabilities for this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11574,7 +11576,7 @@ _List the telephony.Portability objects_
 
 _Portability informations_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11598,7 +11600,7 @@ _Portability informations_
 
 _canBeCancelled operations_
 
-### 🟢 GET `GET` — Indicates whether or not the portability can be cancelled
+### 🟢 GET — Indicates whether or not the portability can be cancelled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11622,7 +11624,7 @@ _canBeCancelled operations_
 
 _canBeExecuted operations_
 
-### 🟢 GET `GET` — Indicates whether or not the portability can be executed
+### 🟢 GET — Indicates whether or not the portability can be executed
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11646,7 +11648,7 @@ _canBeExecuted operations_
 
 _cancel operations_
 
-### 🟡 POST `POST` — Ask to cancel the portability
+### 🟡 POST — Ask to cancel the portability
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11671,7 +11673,7 @@ _cancel operations_
 
 _changeDate operations_
 
-### 🟡 POST `POST` — Ask to change the portability date
+### 🟡 POST — Ask to change the portability date
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11696,7 +11698,7 @@ _changeDate operations_
 
 _dateCanBeChanged operations_
 
-### 🟢 GET `GET` — Indicates whether or not the portability date can be changed
+### 🟢 GET — Indicates whether or not the portability date can be changed
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11720,7 +11722,7 @@ _dateCanBeChanged operations_
 
 _List the telephony.PortabilityDocument objects_
 
-### 🟢 GET `GET` — Document linked to this portability
+### 🟢 GET — Document linked to this portability
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11739,7 +11741,7 @@ _List the telephony.PortabilityDocument objects_
 
 ---
 
-### 🟡 POST `POST` — Create a portability document
+### 🟡 POST — Create a portability document
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11765,7 +11767,7 @@ _List the telephony.PortabilityDocument objects_
 
 _Document linked to a portability_
 
-### 🔴 DELETE `DELETE` — Delete the document
+### 🔴 DELETE — Delete the document
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11785,7 +11787,7 @@ _Document linked to a portability_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11805,7 +11807,7 @@ _Document linked to a portability_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11831,7 +11833,7 @@ _Document linked to a portability_
 
 _execute operations_
 
-### 🟡 POST `POST` — Ask to execute the portability
+### 🟡 POST — Ask to execute the portability
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11855,7 +11857,7 @@ _execute operations_
 
 _relaunch operations_
 
-### 🟢 GET `GET` — Indicates whether or not error can be fixed and portability can be relaunched
+### 🟢 GET — Indicates whether or not error can be fixed and portability can be relaunched
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11874,7 +11876,7 @@ _relaunch operations_
 
 ---
 
-### 🟡 POST `POST` — Fix error and relaunch portability
+### 🟡 POST — Fix error and relaunch portability
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11899,7 +11901,7 @@ _relaunch operations_
 
 _status operations_
 
-### 🟢 GET `GET` — Indicates the current status of the portability, with a list of steps
+### 🟢 GET — Indicates the current status of the portability, with a list of steps
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11923,7 +11925,7 @@ _status operations_
 
 _List the telephony.Redirect objects_
 
-### 🟢 GET `GET` — Redirects associated with this billing account
+### 🟢 GET — Redirects associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11946,7 +11948,7 @@ _List the telephony.Redirect objects_
 
 _Redirect service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11965,7 +11967,7 @@ _Redirect service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11990,7 +11992,7 @@ _Redirect service_
 
 _changeDestination operations_
 
-### 🟡 POST `POST` — Change the destination of the redirect
+### 🟡 POST — Change the destination of the redirect
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12015,7 +12017,7 @@ _changeDestination operations_
 
 _List the telephony.Rsva objects_
 
-### 🟢 GET `GET` — Service concerned by the french RSVA reform
+### 🟢 GET — Service concerned by the french RSVA reform
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12038,7 +12040,7 @@ _List the telephony.Rsva objects_
 
 _French value added services subject to the RSVA reform (Référentiel des numéros SVA)_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12057,7 +12059,7 @@ _French value added services subject to the RSVA reform (Référentiel des numé
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12082,7 +12084,7 @@ _French value added services subject to the RSVA reform (Référentiel des numé
 
 _allowedRateCodes operations_
 
-### 🟢 GET `GET` — Compatible rate codes related to this value added service
+### 🟢 GET — Compatible rate codes related to this value added service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12106,7 +12108,7 @@ _allowedRateCodes operations_
 
 _cancelScheduledRateCode operations_
 
-### 🟡 POST `POST` — Cancel a scheduled rate code update
+### 🟡 POST — Cancel a scheduled rate code update
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12130,7 +12132,7 @@ _cancelScheduledRateCode operations_
 
 _currentRateCode operations_
 
-### 🟢 GET `GET` — Current rate code related to this sva
+### 🟢 GET — Current rate code related to this sva
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12154,7 +12156,7 @@ _currentRateCode operations_
 
 _scheduleRateCode operations_
 
-### 🟡 POST `POST` — Schedule a new rate code for this sva
+### 🟡 POST — Schedule a new rate code for this sva
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12179,7 +12181,7 @@ _scheduleRateCode operations_
 
 _scheduledRateCode operations_
 
-### 🟢 GET `GET` — New scheduled rate code related to this sva
+### 🟢 GET — New scheduled rate code related to this sva
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12203,7 +12205,7 @@ _scheduledRateCode operations_
 
 _List the telephony.Scheduler objects_
 
-### 🟢 GET `GET` — Scheduled events
+### 🟢 GET — Scheduled events
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12226,7 +12228,7 @@ _List the telephony.Scheduler objects_
 
 _Scheduler capable services_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12245,7 +12247,7 @@ _Scheduler capable services_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12270,7 +12272,7 @@ _Scheduler capable services_
 
 _List the telephony.SchedulerEvent objects_
 
-### 🟢 GET `GET` — Custom events scheduled
+### 🟢 GET — Custom events scheduled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12294,7 +12296,7 @@ _List the telephony.SchedulerEvent objects_
 
 ---
 
-### 🟡 POST `POST` — Add a scheduler event
+### 🟡 POST — Add a scheduler event
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12324,7 +12326,7 @@ _List the telephony.SchedulerEvent objects_
 
 _Scheduled event_
 
-### 🔴 DELETE `DELETE` — Delete the given scheduler event
+### 🔴 DELETE — Delete the given scheduler event
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12344,7 +12346,7 @@ _Scheduled event_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12364,7 +12366,7 @@ _Scheduled event_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12390,7 +12392,7 @@ _Scheduled event_
 
 _importIcsCalendar operations_
 
-### 🟡 POST `POST` — Add scheduler events in ICS format
+### 🟡 POST — Add scheduler events in ICS format
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12415,7 +12417,7 @@ _importIcsCalendar operations_
 
 _List the telephony.Screen objects_
 
-### 🟢 GET `GET` — Screenlist compatible numbers associated with this billing account
+### 🟢 GET — Screenlist compatible numbers associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12438,7 +12440,7 @@ _List the telephony.Screen objects_
 
 _ScreenList capable services_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12457,7 +12459,7 @@ _ScreenList capable services_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12482,7 +12484,7 @@ _ScreenList capable services_
 
 _List the telephony.ScreenList objects_
 
-### 🟢 GET `GET` — Rules for call filtering for this service
+### 🟢 GET — Rules for call filtering for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12501,7 +12503,7 @@ _List the telephony.ScreenList objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new screen list rule
+### 🟡 POST — Create a new screen list rule
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12528,7 +12530,7 @@ _List the telephony.ScreenList objects_
 
 _Screen list_
 
-### 🔴 DELETE `DELETE` — Delete the given screen list
+### 🔴 DELETE — Delete the given screen list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12548,7 +12550,7 @@ _Screen list_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12573,7 +12575,7 @@ _Screen list_
 
 _List the telephony.TelephonyService objects_
 
-### 🟢 GET `GET` — Services associated with this billing account
+### 🟢 GET — Services associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12596,7 +12598,7 @@ _List the telephony.TelephonyService objects_
 
 _Telephony service_
 
-### 🔴 DELETE `DELETE` — Ask for a service termination.
+### 🔴 DELETE — Ask for a service termination.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12617,7 +12619,7 @@ _Telephony service_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12636,7 +12638,7 @@ _Telephony service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12661,7 +12663,7 @@ _Telephony service_
 
 _cancelTermination operations_
 
-### 🟡 POST `POST` — Cancel the service termination
+### 🟡 POST — Cancel the service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12685,7 +12687,7 @@ _cancelTermination operations_
 
 _changeOfBillingAccount operations_
 
-### 🟡 POST `POST` — Move a service of billing account. Source and destination nics should be the same.
+### 🟡 POST — Move a service of billing account. Source and destination nics should be the same.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12710,7 +12712,7 @@ _changeOfBillingAccount operations_
 
 _diagnosticReports operations_
 
-### 🟢 GET `GET` — Get Relevant informations of the service detected from the MOS or the signal leg in SIP/MGCP protocol.
+### 🟢 GET — Get Relevant informations of the service detected from the MOS or the signal leg in SIP/MGCP protocol.
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12735,7 +12737,7 @@ _diagnosticReports operations_
 
 _Directory Informations_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12754,7 +12756,7 @@ _Directory Informations_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12779,7 +12781,7 @@ _Directory Informations_
 
 _fetchEntrepriseInformations operations_
 
-### 🟡 POST `POST` — Get company entreprise informations by providing entreprise number
+### 🟡 POST — Get company entreprise informations by providing entreprise number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12804,7 +12806,7 @@ _fetchEntrepriseInformations operations_
 
 _getDirectoryServiceCode operations_
 
-### 🟢 GET `GET` — Get directory service code from an APE code ( principal activity of the firm code )
+### 🟢 GET — Get directory service code from an APE code ( principal activity of the firm code )
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12829,7 +12831,7 @@ _getDirectoryServiceCode operations_
 
 _getWayTypes operations_
 
-### 🟢 GET `GET` — Get all the way types availables
+### 🟢 GET — Get all the way types availables
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12853,7 +12855,7 @@ _getWayTypes operations_
 
 _Token associated to the service for live event_
 
-### 🔴 DELETE `DELETE` — Delete the given token
+### 🔴 DELETE — Delete the given token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12872,7 +12874,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12891,7 +12893,7 @@ _Token associated to the service for live event_
 
 ---
 
-### 🟡 POST `POST` — Create a new token
+### 🟡 POST — Create a new token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12916,7 +12918,7 @@ _Token associated to the service for live event_
 
 _List the telephony.FaxConsumption objects_
 
-### 🟢 GET `GET` — Fax delivery records.
+### 🟢 GET — Fax delivery records.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12943,7 +12945,7 @@ _List the telephony.FaxConsumption objects_
 
 _Fax delivery record_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12968,7 +12970,7 @@ _Fax delivery record_
 
 _Offer change_
 
-### 🔴 DELETE `DELETE` — Delete the replacement offer scheduling
+### 🔴 DELETE — Delete the replacement offer scheduling
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12987,7 +12989,7 @@ _Offer change_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13006,7 +13008,7 @@ _Offer change_
 
 ---
 
-### 🟡 POST `POST` — Add a new offer change
+### 🟡 POST — Add a new offer change
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13031,7 +13033,7 @@ _Offer change_
 
 _offerChanges operations_
 
-### 🟢 GET `GET` — List all available offer changes compatibilities
+### 🟢 GET — List all available offer changes compatibilities
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13055,7 +13057,7 @@ _offerChanges operations_
 
 _List the telephony.OfferTask objects_
 
-### 🟢 GET `GET` — Operations on a telephony service's offer
+### 🟢 GET — Operations on a telephony service's offer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13082,7 +13084,7 @@ _List the telephony.OfferTask objects_
 
 _Operation on a telephony offer_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13102,7 +13104,7 @@ _Operation on a telephony offer_
 
 ---
 
-### 🟠 PUT `PUT` — Update the given pending action
+### 🟠 PUT — Update the given pending action
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13128,7 +13130,7 @@ _Operation on a telephony offer_
 
 _List the telephony.PreviousVoiceConsumption objects_
 
-### 🟢 GET `GET` — Call delivery records of the previous month.
+### 🟢 GET — Call delivery records of the previous month.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13157,7 +13159,7 @@ _List the telephony.PreviousVoiceConsumption objects_
 
 _Call delivery record of the previous month_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13182,7 +13184,7 @@ _Call delivery record of the previous month_
 
 _List the telephony.RepaymentConsumption objects_
 
-### 🟢 GET `GET` — Call which could be repayable
+### 🟢 GET — Call which could be repayable
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13208,7 +13210,7 @@ _List the telephony.RepaymentConsumption objects_
 
 _Call which are repayable_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13233,7 +13235,7 @@ _Call which are repayable_
 
 _List the telephony.Task objects_
 
-### 🟢 GET `GET` — Operations on a telephony service
+### 🟢 GET — Operations on a telephony service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13260,7 +13262,7 @@ _List the telephony.Task objects_
 
 _Operation on a telephony service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13285,7 +13287,7 @@ _Operation on a telephony service_
 
 _List the telephony.VoiceConsumption objects_
 
-### 🟢 GET `GET` — Call delivery records.
+### 🟢 GET — Call delivery records.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13314,7 +13316,7 @@ _List the telephony.VoiceConsumption objects_
 
 _Call delivery record_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13339,7 +13341,7 @@ _Call delivery record_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13357,7 +13359,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13379,7 +13381,7 @@ _Details about a Service_
 
 ## `/telephony/{billingAccount}/softphone/logo`
 
-### 🔴 DELETE `DELETE` — Delete billing account softphone logo
+### 🔴 DELETE — Delete billing account softphone logo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13397,7 +13399,7 @@ _Details about a Service_
 
 ---
 
-### 🟢 GET `GET` — Get billing account softphone logo
+### 🟢 GET — Get billing account softphone logo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13415,7 +13417,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Set billing account softphone logo
+### 🟠 PUT — Set billing account softphone logo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13437,7 +13439,7 @@ _Details about a Service_
 
 ## `/telephony/{billingAccount}/softphone/theme`
 
-### 🟢 GET `GET` — Get billing account softphone theme
+### 🟢 GET — Get billing account softphone theme
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13455,7 +13457,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Set billing account softphone theme
+### 🟠 PUT — Set billing account softphone theme
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13479,7 +13481,7 @@ _Details about a Service_
 
 _List the telephony.Task objects_
 
-### 🟢 GET `GET` — Operations on a telephony billing account
+### 🟢 GET — Operations on a telephony billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13505,7 +13507,7 @@ _List the telephony.Task objects_
 
 _Operation on a telephony service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13529,7 +13531,7 @@ _Operation on a telephony service_
 
 _List the telephony.GenericScreen objects_
 
-### 🟢 GET `GET` — Time conditions compatible numbers associated with this billing account
+### 🟢 GET — Time conditions compatible numbers associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13552,7 +13554,7 @@ _List the telephony.GenericScreen objects_
 
 _Time conditions capable services_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13576,7 +13578,7 @@ _Time conditions capable services_
 
 _List the telephony.TimeCondition objects_
 
-### 🟢 GET `GET` — Rules for time conditions for this service
+### 🟢 GET — Rules for time conditions for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13595,7 +13597,7 @@ _List the telephony.TimeCondition objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new time condition rule
+### 🟡 POST — Create a new time condition rule
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13623,7 +13625,7 @@ _List the telephony.TimeCondition objects_
 
 _Time conditions_
 
-### 🔴 DELETE `DELETE` — Delete the given screen list
+### 🔴 DELETE — Delete the given screen list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13643,7 +13645,7 @@ _Time conditions_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13663,7 +13665,7 @@ _Time conditions_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13689,7 +13691,7 @@ _Time conditions_
 
 _Time conditions options_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13708,7 +13710,7 @@ _Time conditions options_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13733,7 +13735,7 @@ _Time conditions options_
 
 _transferSecurityDeposit operations_
 
-### 🟡 POST `POST` — Transfer security deposit between two billing accounts
+### 🟡 POST — Transfer security deposit between two billing accounts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13758,7 +13760,7 @@ _transferSecurityDeposit operations_
 
 _List the telephony.Trunk objects_
 
-### 🟢 GET `GET` — Trunk associated with this billing account
+### 🟢 GET — Trunk associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13781,7 +13783,7 @@ _List the telephony.Trunk objects_
 
 _Trunk service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13805,7 +13807,7 @@ _Trunk service_
 
 _channelsPacksRepartition operations_
 
-### 🟢 GET `GET` — Determine the best channels packs combination for a given channel quantity
+### 🟢 GET — Determine the best channels packs combination for a given channel quantity
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13830,7 +13832,7 @@ _channelsPacksRepartition operations_
 
 _List the telephony.TrunkExternalDisplayedNumber objects_
 
-### 🟢 GET `GET` — External displayed number linked to this trunk
+### 🟢 GET — External displayed number linked to this trunk
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13849,7 +13851,7 @@ _List the telephony.TrunkExternalDisplayedNumber objects_
 
 ---
 
-### 🟡 POST `POST` — External displayed number creation for a given trunk
+### 🟡 POST — External displayed number creation for a given trunk
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13875,7 +13877,7 @@ _List the telephony.TrunkExternalDisplayedNumber objects_
 
 _External displayed number linked to a trunk_
 
-### 🔴 DELETE `DELETE` — Delete an external displayed number for a given trunk
+### 🔴 DELETE — Delete an external displayed number for a given trunk
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13895,7 +13897,7 @@ _External displayed number linked to a trunk_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13920,7 +13922,7 @@ _External displayed number linked to a trunk_
 
 _validate operations_
 
-### 🟡 POST `POST` — Generate a phone call for validation. Returned validation code should be typed when asked.
+### 🟡 POST — Generate a phone call for validation. Returned validation code should be typed when asked.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13945,7 +13947,7 @@ _validate operations_
 
 _List the telephony.Voicemail objects_
 
-### 🟢 GET `GET` — Voicemails associated with this billing account
+### 🟢 GET — Voicemails associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13968,7 +13970,7 @@ _List the telephony.Voicemail objects_
 
 _Voicemail service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13987,7 +13989,7 @@ _Voicemail service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14012,7 +14014,7 @@ _Voicemail service_
 
 _List the telephony.VoicemailMessages objects_
 
-### 🟢 GET `GET` — Voicemail directory messages
+### 🟢 GET — Voicemail directory messages
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14037,7 +14039,7 @@ _List the telephony.VoicemailMessages objects_
 
 _Voicemail message_
 
-### 🔴 DELETE `DELETE` — Delete the given voicemail message
+### 🔴 DELETE — Delete the given voicemail message
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14057,7 +14059,7 @@ _Voicemail message_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14082,7 +14084,7 @@ _Voicemail message_
 
 _download operations_
 
-### 🟢 GET `GET` — Get a url to download the sound file
+### 🟢 GET — Get a url to download the sound file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14108,7 +14110,7 @@ _download operations_
 
 _move operations_
 
-### 🟡 POST `POST` — Move the message to another directory
+### 🟡 POST — Move the message to another directory
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14134,7 +14136,7 @@ _move operations_
 
 _transcript operations_
 
-### 🟢 GET `GET` — Get a url to download the transcript file
+### 🟢 GET — Get a url to download the transcript file
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -14160,7 +14162,7 @@ _transcript operations_
 
 _List the telephony.VoicemailGreetings objects_
 
-### 🟢 GET `GET` — Voicemail greeting message properties
+### 🟢 GET — Voicemail greeting message properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14180,7 +14182,7 @@ _List the telephony.VoicemailGreetings objects_
 
 ---
 
-### 🟡 POST `POST` — Upload a new sound for a specific greeting. Return a task id.
+### 🟡 POST — Upload a new sound for a specific greeting. Return a task id.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14206,7 +14208,7 @@ _List the telephony.VoicemailGreetings objects_
 
 _Voicemail greeting_
 
-### 🔴 DELETE `DELETE` — Delete the customized greeting
+### 🔴 DELETE — Delete the customized greeting
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14226,7 +14228,7 @@ _Voicemail greeting_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14251,7 +14253,7 @@ _Voicemail greeting_
 
 _download operations_
 
-### 🟢 GET `GET` — Get a url to download the sound file
+### 🟢 GET — Get a url to download the sound file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14277,7 +14279,7 @@ _download operations_
 
 _move operations_
 
-### 🟡 POST `POST` — Move the message to another directory
+### 🟡 POST — Move the message to another directory
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14303,7 +14305,7 @@ _move operations_
 
 _migrateOnNewVersion operations_
 
-### 🟡 POST `POST` — Change the voicemail on a new version to manager greetings, directories and extra settings.
+### 🟡 POST — Change the voicemail on a new version to manager greetings, directories and extra settings.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14327,7 +14329,7 @@ _migrateOnNewVersion operations_
 
 _Voicemail Properties_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14346,7 +14348,7 @@ _Voicemail Properties_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14371,7 +14373,7 @@ _Voicemail Properties_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change the voicemail password. It must be 4 digit
+### 🟡 POST — Change the voicemail password. It must be 4 digit
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14396,7 +14398,7 @@ _changePassword operations_
 
 _changeRouting operations_
 
-### 🟡 POST `POST` — Disable/Enable voicemail. Available only if the line has fax capabilities
+### 🟡 POST — Disable/Enable voicemail. Available only if the line has fax capabilities
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14421,7 +14423,7 @@ _changeRouting operations_
 
 _routing operations_
 
-### 🟢 GET `GET` — Get the status of the voicemail. Available only if the line has fax capabilities
+### 🟢 GET — Get the status of the voicemail. Available only if the line has fax capabilities
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14445,7 +14447,7 @@ _routing operations_
 
 _voicemailNumbers operations_
 
-### 🟢 GET `GET` — Get number for internal and external voicemail
+### 🟢 GET — Get number for internal and external voicemail
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14469,7 +14471,7 @@ _voicemailNumbers operations_
 
 _List the telephony.Vxml objects_
 
-### 🟢 GET `GET` — Vxml numbers associated with this billing account
+### 🟢 GET — Vxml numbers associated with this billing account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14492,7 +14494,7 @@ _List the telephony.Vxml objects_
 
 _Vxml services_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14516,7 +14518,7 @@ _Vxml services_
 
 _Vxml Properties_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14535,7 +14537,7 @@ _Vxml Properties_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14560,7 +14562,7 @@ _Vxml Properties_
 
 _logs operations_
 
-### 🟡 POST `POST` — Generate a temporary url to retrieve device logs
+### 🟡 POST — Generate a temporary url to retrieve device logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14576,5 +14578,4175 @@ _logs operations_
 
 **IAM actions:** `voip:apiovh:vxml/settings/logs/create` (required)
 
+
+---
+
+## Models
+
+### `complexType.Range<T>`
+
+_Start and end points (inclusive) of a range_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `from` | `T` | ❌ | ❌ | ❌ | Start point of the range |
+| `to` | `T` | ❌ | ❌ | ❌ | End point of the range |
+
+### `complexType.Range<long>`
+
+_Start and end points (inclusive) of a range_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `from` | `T` | ❌ | ❌ | ❌ | Start point of the range |
+| `to` | `T` | ❌ | ❌ | ❌ | End point of the range |
+
+### `complexType.SafeKeyValue<T>`
+
+_Key and value, with proper key strings_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `complexType.UnitAndValues<T>`
+
+_A value set tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `values` | `T[]` | ❌ | ❌ | ❌ |  |
+
+### `coreTypes.CountryEnum`
+
+_ISO country codes_
+
+**Enum** (`enumType: string`):
+
+- `ac`
+- `ad`
+- `ae`
+- `af`
+- `ag`
+- `ai`
+- `al`
+- `am`
+- `an`
+- `ao`
+- `aq`
+- `ar`
+- `as`
+- `at`
+- `au`
+- `aw`
+- `ax`
+- `az`
+- `ba`
+- `bb`
+- `bd`
+- `be`
+- `bf`
+- `bg`
+- `bh`
+- `bi`
+- `bj`
+- `bl`
+- `bm`
+- `bn`
+- `bo`
+- `bq`
+- `br`
+- `bs`
+- `bt`
+- `bv`
+- `bw`
+- `by`
+- `bz`
+- `ca`
+- `cc`
+- `cd`
+- `cf`
+- `cg`
+- `ch`
+- `ci`
+- `ck`
+- `cl`
+- `cm`
+- `cn`
+- `co`
+- `cr`
+- `cs`
+- `cu`
+- `cv`
+- `cw`
+- `cx`
+- `cy`
+- `cz`
+- `de`
+- `dj`
+- `dk`
+- `dm`
+- `do`
+- `dz`
+- `ec`
+- `ee`
+- `eg`
+- `eh`
+- `er`
+- `es`
+- `et`
+- `fc`
+- `fd`
+- `fi`
+- `fj`
+- `fk`
+- `fm`
+- `fo`
+- `fr`
+- `fx`
+- `ga`
+- `gb`
+- `gd`
+- `ge`
+- `gf`
+- `gg`
+- `gh`
+- `gi`
+- `gl`
+- `gm`
+- `gn`
+- `gp`
+- `gq`
+- `gr`
+- `gs`
+- `gt`
+- `gu`
+- `gw`
+- `gy`
+- `hk`
+- `hm`
+- `hn`
+- `hr`
+- `ht`
+- `hu`
+- `id`
+- `ie`
+- `il`
+- `im`
+- `in`
+- `io`
+- `iq`
+- `ir`
+- `is`
+- `it`
+- `je`
+- `jm`
+- `jo`
+- `jp`
+- `ke`
+- `kg`
+- `kh`
+- `ki`
+- `km`
+- `kn`
+- `kp`
+- `kr`
+- `kw`
+- `ky`
+- `kz`
+- `la`
+- `lb`
+- `lc`
+- `li`
+- `lk`
+- `lr`
+- `ls`
+- `lt`
+- `lu`
+- `lv`
+- `ly`
+- `ma`
+- `mc`
+- `md`
+- `me`
+- `mf`
+- `mg`
+- `mh`
+- `mk`
+- `ml`
+- `mm`
+- `mn`
+- `mo`
+- `mp`
+- `mq`
+- `mr`
+- `ms`
+- `mt`
+- `mu`
+- `mv`
+- `mw`
+- `mx`
+- `my`
+- `mz`
+- `na`
+- `nc`
+- `ne`
+- `nf`
+- `ng`
+- `ni`
+- `nl`
+- `no`
+- `np`
+- `nr`
+- `nu`
+- `nz`
+- `om`
+- `pa`
+- `pe`
+- `pf`
+- `pg`
+- `ph`
+- `pk`
+- `pl`
+- `pm`
+- `pn`
+- `pr`
+- `ps`
+- `pt`
+- `pw`
+- `py`
+- `qa`
+- `qc`
+- `re`
+- `ro`
+- `rs`
+- `ru`
+- `rw`
+- `sa`
+- `sb`
+- `sc`
+- `sd`
+- `se`
+- `sg`
+- `sh`
+- `si`
+- `sj`
+- `sk`
+- `sl`
+- `sm`
+- `sn`
+- `so`
+- `sr`
+- `ss`
+- `st`
+- `sv`
+- `sx`
+- `sy`
+- `sz`
+- `tc`
+- `td`
+- `tf`
+- `tg`
+- `th`
+- `tj`
+- `tk`
+- `tl`
+- `tm`
+- `tn`
+- `to`
+- `tp`
+- `tr`
+- `tt`
+- `tv`
+- `tw`
+- `tz`
+- `ua`
+- `ug`
+- `uk`
+- `um`
+- `us`
+- `uy`
+- `uz`
+- `va`
+- `vc`
+- `ve`
+- `vg`
+- `vi`
+- `vn`
+- `vu`
+- `we`
+- `wf`
+- `ws`
+- `ye`
+- `yt`
+- `yu`
+- `za`
+- `zm`
+- `zw`
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `nichandle.GenderEnum`
+
+_All genders a person can choose_
+
+**Enum** (`enumType: string`):
+
+- `female`
+- `male`
+
+### `order.Contract`
+
+_A contract_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `content` | `text` | ❌ | ❌ | ❌ |  |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `url` | `string` | ❌ | ❌ | ❌ |  |
+
+### `order.CurrencyCodeEnum`
+
+**Enum** (`enumType: string`):
+
+- `AUD`
+- `CAD`
+- `CZK`
+- `EUR`
+- `GBP`
+- `INR`
+- `LTL`
+- `MAD`
+- `N/A`
+- `PLN`
+- `SGD`
+- `TND`
+- `USD`
+- `XOF`
+- `points`
+
+### `order.Price`
+
+_Price with it's currency and textual representation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currencyCode` | `order.CurrencyCodeEnum` | ❌ | ❌ | ❌ |  |
+| `text` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `double` | ❌ | ❌ | ❌ |  |
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `spare.telephony.TelephonySpare`
+
+_Spare properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `brand` | `string` | ❌ | ❌ | ✅ | Phone brand model |
+| `macAddress` | `string` | ❌ | ❌ | ✅ | Mac address |
+| `protocol` | `telephony.ProtocolEnum` | ❌ | ❌ | ✅ | Phone protocol |
+
+### `spare.telephony.TelephonySpareWithIAM`
+
+_Spare properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `brand` | `string` | ❌ | ❌ | ✅ | Phone brand model |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `macAddress` | `string` | ❌ | ❌ | ✅ | Mac address |
+| `protocol` | `telephony.ProtocolEnum` | ❌ | ❌ | ✅ | Phone protocol |
+
+### `telephony.AbbreviatedNumber`
+
+_Abbreviated number_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `abbreviatedNumber` | `long` | ❌ | ❌ | ✅ | The abbreviated number which must start with "2" and must have a length of 3 or 4 digits |
+| `destinationNumber` | `phoneNumber` | ❌ | ❌ | ❌ | The destination of the abbreviated number |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `surname` | `string` | ❌ | ❌ | ❌ |  |
+
+### `telephony.AbbreviatedNumberGroup`
+
+_Abbreviated number_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `abbreviatedNumber` | `long` | ❌ | ❌ | ✅ | The abbreviated number which must start with "7" and must have a length of 3 or 4 digits |
+| `destinationNumber` | `phoneNumber` | ❌ | ❌ | ❌ | The destination of the abbreviated number |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `surname` | `string` | ❌ | ❌ | ❌ |  |
+
+### `telephony.AccessoryOffer`
+
+_Informations related to a line offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | The accessory description |
+| `name` | `string` | ❌ | ❌ | ❌ | The accessory name |
+| `price` | `order.Price` | ❌ | ❌ | ❌ | Accessory price |
+| `url` | `string` | ❌ | ✅ | ❌ | An URL to accessory details |
+
+### `telephony.AntihackActionEnum`
+
+_Action for list antihack_
+
+**Enum** (`enumType: string`):
+
+- `AUTHORIZE_ALL`
+- `AUTHORIZE_ONE_NUMBER`
+- `BLOCK_ALL`
+- `BLOCK_ONE_NUMBER`
+
+### `telephony.BannerAccess`
+
+_The web access for your cloudpabx_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | The creation date of this access |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `url` | `string` | ❌ | ❌ | ✅ | The url of the web access |
+
+### `telephony.BillDocument`
+
+_Document suffix_
+
+**Enum** (`enumType: string`):
+
+- `csv`
+- `pdf`
+- `received.csv`
+- `xml`
+
+### `telephony.BillStatusEnum`
+
+_Billing progress status_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `telephony.BillingAccount`
+
+_Billing Account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedOutplan` | `order.Price` | ❌ | ❌ | ✅ | Allowed outplan |
+| `billingAccount` | `string` | ❌ | ❌ | ✅ | Name of the billing account |
+| `creditThreshold` | `order.Price` | ❌ | ❌ | ❌ | Allowed threshold credit |
+| `currentOutplan` | `order.Price` | ❌ | ❌ | ✅ | Current outplan |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the billing account |
+| `hasSpecialNumbers` | `boolean` | ❌ | ❌ | ✅ | Check if the billing account contains at least one special number |
+| `hiddenExternalNumber` | `boolean` | ❌ | ❌ | ❌ | Hide called numbers in end-of-month call details CSV |
+| `overrideDisplayedNumber` | `boolean` | ❌ | ❌ | ❌ | Override number display for calls between services of your billing account |
+| `securityDeposit` | `order.Price` | ❌ | ❌ | ✅ | Security deposit amount |
+| `status` | `telephony.BillingAccountStatusEnum` | ❌ | ❌ | ✅ | Current status of billing account |
+| `trusted` | `boolean` | ❌ | ❌ | ✅ | Is the billing account trusted |
+
+### `telephony.BillingAccountStatusEnum`
+
+_Status of billing account_
+
+**Enum** (`enumType: string`):
+
+- `closed`
+- `deleted`
+- `enabled`
+- `expired`
+
+### `telephony.BillingAccountWithIAM`
+
+_Billing Account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedOutplan` | `order.Price` | ❌ | ❌ | ✅ | Allowed outplan |
+| `billingAccount` | `string` | ❌ | ❌ | ✅ | Name of the billing account |
+| `creditThreshold` | `order.Price` | ❌ | ❌ | ❌ | Allowed threshold credit |
+| `currentOutplan` | `order.Price` | ❌ | ❌ | ✅ | Current outplan |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the billing account |
+| `hasSpecialNumbers` | `boolean` | ❌ | ❌ | ✅ | Check if the billing account contains at least one special number |
+| `hiddenExternalNumber` | `boolean` | ❌ | ❌ | ❌ | Hide called numbers in end-of-month call details CSV |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `overrideDisplayedNumber` | `boolean` | ❌ | ❌ | ❌ | Override number display for calls between services of your billing account |
+| `securityDeposit` | `order.Price` | ❌ | ❌ | ✅ | Security deposit amount |
+| `status` | `telephony.BillingAccountStatusEnum` | ❌ | ❌ | ✅ | Current status of billing account |
+| `trusted` | `boolean` | ❌ | ❌ | ✅ | Is the billing account trusted |
+
+### `telephony.CallsGenerated`
+
+_Automatic Call made by Call Generator on this line_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `answerDatetime` | `datetime` | ❌ | ✅ | ✅ | answer date |
+| `application` | `string` | ❌ | ✅ | ✅ | Application and dialplan running for call |
+| `applicationResult` | `string` | ❌ | ✅ | ✅ | end status of application |
+| `billingNumber` | `phoneNumber` | ❌ | ❌ | ✅ | billingNumber (service used) |
+| `callCreatedDatetime` | `datetime` | ❌ | ✅ | ✅ | creation date of the call |
+| `callDuration` | `long` | ❌ | ✅ | ✅ | call duration on seconds |
+| `callee` | `phoneNumber` | ❌ | ✅ | ✅ | number called |
+| `caller` | `phoneNumber` | ❌ | ✅ | ✅ | number where the call come from |
+| `dtmf` | `string` | ❌ | ✅ | ✅ | DTMF received during the call separate by commas |
+| `hangupCause` | `telephony.CallsGeneratorHangupCauseEnum` | ❌ | ✅ | ✅ | hangup cause |
+| `hangupDatetime` | `datetime` | ❌ | ✅ | ✅ | hangup date |
+| `identifier` | `string` | ❌ | ❌ | ✅ | Generated call identifier |
+| `transferFrom` | `string` | ❌ | ✅ | ✅ | original call uuid if it's a transfer |
+| `uuid` | `string` | ❌ | ❌ | ✅ | unique call id |
+
+### `telephony.CallsGeneratorDialplanEnum`
+
+_Types of dialplan available for callsGenerator._
+
+**Enum** (`enumType: string`):
+
+- `ReadText`
+- `RequestAppointmentConfirmation`
+- `RequestAppointmentConfirmationWithTransfer`
+
+### `telephony.CallsGeneratorHangupCauseEnum`
+
+_Types of hangupCause for generated calls._
+
+**Enum** (`enumType: string`):
+
+- `AccessInformationDiscarded`
+- `AllottedTimeout`
+- `AttendedTransfer`
+- `BlindTransfer`
+- `CallAwardedbeing`
+- `ChannelTypeNotImplemented`
+- `ChannelUnacceptable`
+- `CodeSip403BearerCapabilityNotAuthorized`
+- `CodeSip403IncomingCallsBarred`
+- `CodeSip403OutgoingCallsBarred`
+- `CodeSip404NoRouteToDestination`
+- `CodeSip404NoRouteToSpecifiedTransitNetwork`
+- `CodeSip404UnallocatedNumber`
+- `CodeSip408NoUserResponding`
+- `CodeSip410NumberChanged`
+- `CodeSip410RedirectionToNewDestination`
+- `CodeSip480NoAnswerFromUser`
+- `CodeSip480NormalUnspecified`
+- `CodeSip480SubscriberAbsent`
+- `CodeSip483ExchangeRoutingError`
+- `CodeSip484InvalidNumberFormatAddressIncomplete`
+- `CodeSip486UserBusy`
+- `CodeSip487OriginatorCancel`
+- `CodeSip488IncompatibleDestination`
+- `CodeSip488bearerCapabilityNotImplemented`
+- `CodeSip501FacilitiesRejected`
+- `CodeSip501RequestedFacilityNotImplemented`
+- `CodeSip501ServiceOrOptionNotImplementedUnspecified`
+- `CodeSip502DestinationOutOfOrder`
+- `CodeSip503BearerCapabilityNotPresentlyAvailable`
+- `CodeSip503NetworkOutOfOrder`
+- `CodeSip503NoCircuitChannelAvailable`
+- `CodeSip503RequestedCircuitOrChannelNotAvailable`
+- `CodeSip503SwitchingEquipmentCongestion`
+- `CodeSip503TemporaryFailure`
+- `CodeSip504RecoveryOnTimerExpiry`
+- `CodeSip603CallRejected`
+- `Crash`
+- `GatewayDown`
+- `InformationElementOrParameterNonExistentOrNotImplemented`
+- `InterworkingUnspecified`
+- `InvalidCallReferenceValue`
+- `InvalidInformationElementContents`
+- `InvalidMessageUnspecified`
+- `LoseRace`
+- `ManagerRequest`
+- `MandatoryInformationElementIsMissing`
+- `MediaTimeout`
+- `MessageNotCompatibleWithCallState`
+- `MessageNotCompatibleWithCallStateOrMessageTypeNonExistentOrNotImplemented`
+- `MessageTypeNonExistentOrNotImplemented`
+- `NormalCallClearing`
+- `ParameterNonExistentOrNotImplementedPassedOnNationalUse`
+- `PickedOff`
+- `PreEmpted`
+- `ProgressTimeout`
+- `ProtocolErrorUnspecified`
+- `RequestedFacilityNotSubscribed`
+- `ResponseToStatusInquiry`
+- `ServiceOrOptionNotAvailableUnspecified`
+- `SystemShutdown`
+- `UnknownOrCallUnfinished`
+- `UnspecifiedNoOtherCauseCodesApplicable`
+- `UserChallenge`
+- `UserNotRegistered`
+
+### `telephony.CarrierSip`
+
+_CarrierSip_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.CarrierSipClusterInfo`
+
+_The information about the Carrier SIP cluster attached to your service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | The name of the cluster |
+| `zones` | `telephony.CarrierSipClusterZone[]` | ❌ | ❌ | ❌ | The availability zones of the cluster |
+
+### `telephony.CarrierSipClusterZone`
+
+_The information about a carrier sip cluster zone_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `mediaIps` | `ipv4[]` | ❌ | ❌ | ❌ | The list of media (RTP) ips of this zone |
+| `region` | `telephony.CarrierSipClusterZoneRegionEnum` | ❌ | ❌ | ❌ | The region of the cluster (rbx, sbg,...) |
+
+### `telephony.CarrierSipClusterZoneRegionEnum`
+
+_Carrier SIP Zone Regions_
+
+**Enum** (`enumType: string`):
+
+- `rbx`
+- `sbg`
+
+### `telephony.CarrierSipCustomerEndpoint`
+
+_Carrier SIP Endpoints_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enableIncomingCalls` | `boolean` | ❌ | ❌ | ✅ | Should we send incoming calls to this endpoint |
+| `id` | `long` | ❌ | ❌ | ✅ | SIP Endpoint id |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | SIP Endpoint IP |
+| `port` | `long` | ❌ | ❌ | ✅ | SIP Endpoint port |
+| `priority` | `long` | ❌ | ❌ | ✅ | SIP Endpoint priority (DNS SRV) |
+| `protocol` | `telephony.CarrierSipEndpointProtocolEnum` | ❌ | ❌ | ✅ | The protocol of the endpoint (udp/tcp/tls) |
+| `weight` | `long` | ❌ | ❌ | ✅ | SIP Endpoint weight (DNS SRV) |
+
+### `telephony.CarrierSipDetails`
+
+_Carrier SIP Properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | The carrier SIP trunk description |
+| `maxCallsPerSecond` | `long` | ❌ | ❌ | ✅ | The maximum call establishments per second on your carrier sip service |
+| `maxConcurrentCalls` | `long` | ❌ | ❌ | ✅ | The maximum concurrent calls on your carrier sip service |
+
+### `telephony.CarrierSipEndpointProtocolEnum`
+
+_Protocol of a carrier sip trunk customer endpoint_
+
+**Enum** (`enumType: string`):
+
+- `tcp`
+- `tls`
+- `udp`
+
+### `telephony.CarrierSipVnoMandate`
+
+_Carrier SIP VNO mandate_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `applicationDate` | `datetime` | ❌ | ❌ | ✅ | Date at which the associated ranges will be routed. |
+| `contractReference` | `string` | ❌ | ❌ | ✅ | The reference written on your VNO contract. |
+
+### `telephony.CarrierSipVnoRange`
+
+_Carrier SIP VNO range_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | The carrier SIP trunk description. |
+| `prefix` | `string` | ❌ | ❌ | ✅ | The phone range prefix. |
+
+### `telephony.City`
+
+_Represents a city_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `administrationCode` | `string` | ❌ | ✅ | ❌ | The identifier of the city |
+| `name` | `string` | ❌ | ❌ | ❌ | The name of the city |
+| `zipCode` | `string` | ❌ | ❌ | ❌ | The zip code of the city |
+
+### `telephony.Click2CallUser`
+
+_User of the click 2 call_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDateTime` | `datetime` | ❌ | ❌ | ✅ | Date when user was created |
+| `id` | `long` | ❌ | ❌ | ✅ | Contact identifier |
+| `login` | `string` | ❌ | ❌ | ✅ | login of the click 2 call user |
+
+### `telephony.Conference`
+
+_Conference_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ |  |
+| `offers` | `string[]` | ❌ | ❌ | ✅ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.ConferenceHistory`
+
+_List past conferences on your number_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countConnections` | `long` | ❌ | ❌ | ✅ | The count of connections to the conference |
+| `countParticipants` | `long` | ❌ | ❌ | ✅ | The count of unique participants of the conference |
+| `dateBegin` | `datetime` | ❌ | ❌ | ✅ | The date the conference began |
+| `dateEnd` | `datetime` | ❌ | ❌ | ✅ | The date the conference end |
+| `duration` | `long` | ❌ | ❌ | ✅ | The duration of the conference in seconds |
+| `events` | `telephony.ConferenceHistoryEvent[]` | ❌ | ❌ | ✅ | The events of the conference (participants joining/left) |
+| `id` | `long` | ❌ | ❌ | ✅ | The id of the conference history |
+| `recordUrl` | `string` | ❌ | ✅ | ✅ | The audio record url if you set recording |
+
+### `telephony.ConferenceHistoryEvent`
+
+_Event of a conference (participant left/join)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callerid` | `string` | ❌ | ❌ | ❌ | The caller id of the participant |
+| `date` | `datetime` | ❌ | ❌ | ❌ | The date of the conference event |
+| `type` | `string` | ❌ | ❌ | ❌ | The nature of the event : left/join |
+
+### `telephony.ConferenceInformations`
+
+_Conference realtime informations structure_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dateStart` | `datetime` | ❌ | ❌ | ❌ | The date when the conference began |
+| `locked` | `boolean` | ❌ | ❌ | ❌ | Whether or not the conference room is locked |
+| `membersCount` | `long` | ❌ | ❌ | ❌ | The current participants count in your conference room |
+
+### `telephony.ConferenceLanguageEnum`
+
+_Available language for your conference_
+
+**Enum** (`enumType: string`):
+
+- `de`
+- `en`
+- `es`
+- `fr`
+- `it`
+
+### `telephony.ConferenceParticipants`
+
+_Conference service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `arrivalDateTime` | `datetime` | ❌ | ❌ | ✅ | The arrival datetime of the participant in the conference. |
+| `callerName` | `string` | ❌ | ❌ | ✅ | The caller name of the participant |
+| `callerNumber` | `string` | ❌ | ❌ | ✅ | The caller number of the participant |
+| `energy` | `long` | ❌ | ❌ | ✅ | The current level of the participant audio transmission |
+| `floor` | `boolean` | ❌ | ❌ | ✅ | Whether the participant is active in the room |
+| `hear` | `boolean` | ❌ | ❌ | ✅ | Whether the participant can hear the conference |
+| `id` | `long` | ❌ | ❌ | ✅ | The id of the participant |
+| `speak` | `boolean` | ❌ | ❌ | ✅ | Whether the participant can talk in the conference |
+| `talking` | `boolean` | ❌ | ❌ | ✅ | Whether the participant is talking |
+
+### `telephony.ConferenceProperties`
+
+_Conference properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `announceFile` | `boolean` | ❌ | ❌ | ❌ | Whether announce file is played before entrance |
+| `announceFilename` | `string` | ❌ | ✅ | ✅ | The announce file name |
+| `announceSoundId` | `long` | ❌ | ✅ | ❌ | The announce sound id |
+| `anonymousRejection` | `boolean` | ❌ | ❌ | ❌ | Whether anonymous participants are allowed |
+| `enterMuted` | `boolean` | ❌ | ❌ | ❌ | Whether participants enter conference room muted |
+| `eventsChannel` | `string` | ❌ | ❌ | ✅ | The events channel hash |
+| `language` | `telephony.ConferenceLanguageEnum` | ❌ | ❌ | ❌ | The conference sounds language |
+| `pin` | `password` | ❌ | ❌ | ❌ | The conference pin number |
+| `recordStatus` | `boolean` | ❌ | ❌ | ❌ | Whether conference is recorded |
+| `reportEmail` | `string` | ❌ | ✅ | ❌ | The email address to send conference report to |
+| `reportStatus` | `telephony.ConferenceReportStatusEnum` | ❌ | ❌ | ❌ | The status of the reporting |
+| `roomNumber` | `long` | ❌ | ❌ | ✅ | The conference room number |
+| `whiteLabelReport` | `boolean` | ❌ | ❌ | ❌ | True if you want to receive a white-labelled mail report of your conference |
+
+### `telephony.ConferenceReportStatusEnum`
+
+_Conference report receiver_
+
+**Enum** (`enumType: string`):
+
+- `customer`
+- `none`
+- `other`
+
+### `telephony.ConferenceRoom`
+
+_Conference room_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `announceFile` | `boolean` | ❌ | ❌ | ❌ | Whether announce file is played before entrance |
+| `announceFilename` | `string` | ❌ | ✅ | ✅ | The announce file name |
+| `announceSoundId` | `long` | ❌ | ✅ | ❌ | The announce sound id |
+| `anonymousRejection` | `boolean` | ❌ | ❌ | ❌ | Whether anonymous participants are allowed |
+| `enterMuted` | `boolean` | ❌ | ❌ | ❌ | Whether participants enter conference room muted |
+| `eventsChannel` | `string` | ❌ | ❌ | ✅ | The events channel hash |
+| `expirationDate` | `datetime` | ❌ | ✅ | ❌ | The expiration date of the conference room. |
+| `language` | `telephony.ConferenceLanguageEnum` | ❌ | ❌ | ❌ | The conference sounds language |
+| `pin` | `password` | ❌ | ❌ | ❌ | The conference pin number |
+| `recordStatus` | `boolean` | ❌ | ❌ | ❌ | Whether conference is recorded |
+| `reportEmail` | `string` | ❌ | ✅ | ❌ | The email address to send conference report to |
+| `reportStatus` | `telephony.ConferenceReportStatusEnum` | ❌ | ❌ | ❌ | The status of the reporting |
+| `roomNumber` | `long` | ❌ | ❌ | ✅ | The conference room number |
+| `whiteLabelReport` | `boolean` | ❌ | ❌ | ❌ | True if you want to receive a white-labelled mail report of your conference |
+
+### `telephony.ConferenceRoomsStatistics`
+
+_Get realtime statistics about all rooms of your conference number_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeRoomsCount` | `long` | ❌ | ❌ | ❌ | The total numbers of rooms currently active in the conference number |
+| `participantsCount` | `long` | ❌ | ❌ | ❌ | The total number of unique participants in the conference number (aggregated from all rooms) |
+| `roomsCount` | `long` | ❌ | ❌ | ❌ | The number of rooms available in the conference number |
+
+### `telephony.ConferenceWebAccess`
+
+_List public web access of your conference_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ | The id of the conference web access |
+| `type` | `telephony.ConferenceWebAccessTypeEnum` | ❌ | ❌ | ✅ | The type of the conference web access : read or write |
+| `url` | `string` | ❌ | ❌ | ✅ | The URL of the conference web access |
+
+### `telephony.ConferenceWebAccessTypeEnum`
+
+_Webaccess type for your conference_
+
+**Enum** (`enumType: string`):
+
+- `read`
+- `write`
+
+### `telephony.ConsumptionThreshold`
+
+_The outplan notifications configured for your billing account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `block` | `telephony.OutplanNotificationBlockEnum` | ❌ | ❌ | ✅ | The blocking type of the associate lines |
+| `id` | `long` | ❌ | ❌ | ✅ | The id of the notification |
+| `notifyEmail` | `string` | ❌ | ❌ | ✅ | Override the nichandle email for this notification |
+| `percentage` | `double` | ❌ | ❌ | ✅ | The notification percentage of maximum outplan |
+
+### `telephony.Contact`
+
+_Contact informations structure_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `string` | ❌ | ✅ | ❌ | Contact address |
+| `city` | `string` | ❌ | ✅ | ❌ | Contact city |
+| `country` | `coreTypes.CountryEnum` | ❌ | ✅ | ❌ | Contact country |
+| `email` | `string` | ❌ | ✅ | ❌ |  |
+| `firstname` | `string` | ❌ | ✅ | ❌ | Contact firstname |
+| `name` | `string` | ❌ | ✅ | ❌ | Contact name |
+| `organisation` | `string` | ❌ | ✅ | ❌ | Contact organisation |
+| `phone` | `string` | ❌ | ✅ | ❌ | Contact phone |
+| `zip` | `string` | ❌ | ✅ | ❌ | Contact zip |
+
+### `telephony.ContactsExportFormatsEnum`
+
+_Export file format_
+
+**Enum** (`enumType: string`):
+
+- `csv`
+
+### `telephony.DatetimeAndIpvalue`
+
+_A ip value associated to a datetime_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datetime` | `datetime` | ❌ | ❌ | ❌ |  |
+| `ip` | `ip` | ❌ | ✅ | ❌ |  |
+
+### `telephony.Ddi`
+
+_DDI (direct dial-in) service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `destination` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `featureType` | `telephony.TypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.DefaultSipDomains`
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `country` | `telephony.ServiceNumberCountryEnum` | ❌ | ❌ | ❌ | Country |
+| `currentDomain` | `string` | ❌ | ❌ | ❌ | Current SIP domain |
+| `list` | `string[]` | ❌ | ❌ | ❌ | List of available SIP domains |
+| `productType` | `telephony.SipDomainProductTypeEnum` | ❌ | ❌ | ❌ | Type of the VoIP product concerned |
+
+### `telephony.DetailedRateCodeInformation`
+
+_Detailed informations related to this number_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cancelLimitDatetime` | `datetime` | ❌ | ✅ | ❌ | Cancelable datetime deadline for the new scheduled rateCode |
+| `effectiveDatetime` | `datetime` | ❌ | ✅ | ❌ | Effective datetime |
+| `pricePerCallWithoutTax` | `order.Price` | ❌ | ❌ | ❌ | Price per call |
+| `pricePerMinuteWithoutTax` | `order.Price` | ❌ | ❌ | ❌ | Price in minute |
+| `rateCode` | `string` | ❌ | ❌ | ❌ | Scheduled rate code |
+| `repaymentPricePerCallWithoutTax` | `order.Price` | ❌ | ❌ | ❌ | Repayment per call |
+| `repaymentPricePerMinuteWithoutTax` | `order.Price` | ❌ | ❌ | ❌ | Repayment per minute |
+| `updateRateCodePriceWithoutTax` | `order.Price` | ❌ | ✅ | ❌ | Fees concerning rateCode update |
+
+### `telephony.DiagnosticReport`
+
+_Relevant informations of the service detected from the MOS or the signal leg in SIP/MGCP protocol._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callId` | `string` | ❌ | ❌ | ❌ | Identifier of the concerned leg |
+| `category` | `telephony.DiagnosticReportCategoryEnum` | ❌ | ❌ | ❌ | Typology where the diagnostic arriving from |
+| `datetime` | `datetime` | ❌ | ❌ | ❌ | Datetime of the diagnostic |
+| `description` | `string` | ❌ | ❌ | ❌ | Explanation of the diagnostic |
+| `level` | `telephony.DiagnosticReportLevelEnum` | ❌ | ❌ | ❌ | The level of the diagnostic |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the rule detected |
+| `report` | `string` | ❌ | ❌ | ❌ | Report of the diagnostic |
+
+### `telephony.DiagnosticReportCategoryEnum`
+
+_Source of the diagnostic report_
+
+**Enum** (`enumType: string`):
+
+- `dpi`
+- `signal`
+
+### `telephony.DiagnosticReportIndexEnum`
+
+_The index interval_
+
+**Enum** (`enumType: string`):
+
+- `2 days ago`
+- `3 days ago`
+- `today`
+- `yesterday`
+
+### `telephony.DiagnosticReportLevelEnum`
+
+_Level of the diagnostic report_
+
+**Enum** (`enumType: string`):
+
+- `debug`
+- `error`
+- `info`
+- `warn`
+
+### `telephony.DirectoryHeadingPJ`
+
+_Directory Informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `apeCode` | `string` | ❌ | ❌ | ✅ |  |
+| `apeDescription` | `string` | ❌ | ❌ | ✅ |  |
+| `directoryServiceCode` | `long` | ❌ | ❌ | ✅ |  |
+| `directoryServiceDescription` | `string` | ❌ | ❌ | ✅ |  |
+| `notification` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.DirectoryInfo`
+
+_Directory Informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `string` | ❌ | ❌ | ❌ |  |
+| `addressExtra` | `string` | ❌ | ❌ | ❌ |  |
+| `ape` | `string` | ❌ | ❌ | ❌ |  |
+| `areaCode` | `long` | ❌ | ❌ | ✅ |  |
+| `birthDate` | `date` | ❌ | ✅ | ❌ |  |
+| `cedex` | `string` | ❌ | ❌ | ❌ |  |
+| `city` | `string` | ❌ | ❌ | ❌ |  |
+| `country` | `string` | ❌ | ❌ | ❌ |  |
+| `directoryServiceCode` | `string` | ❌ | ❌ | ❌ |  |
+| `displayFirstName` | `boolean` | ❌ | ❌ | ❌ |  |
+| `displayMarketingDirectory` | `boolean` | ❌ | ❌ | ❌ |  |
+| `displayOnlyCity` | `boolean` | ❌ | ❌ | ❌ |  |
+| `displaySearchReverse` | `boolean` | ❌ | ❌ | ❌ |  |
+| `displayUniversalDirectory` | `boolean` | ❌ | ❌ | ❌ |  |
+| `email` | `string` | ❌ | ❌ | ❌ |  |
+| `firstName` | `string` | ❌ | ❌ | ❌ |  |
+| `gender` | `nichandle.GenderEnum` | ❌ | ✅ | ❌ |  |
+| `inseeCode` | `long` | ❌ | ❌ | ✅ |  |
+| `legalForm` | `string` | ❌ | ❌ | ❌ |  |
+| `lineDescription` | `string` | ❌ | ❌ | ❌ |  |
+| `modificationDate` | `string` | ❌ | ❌ | ✅ |  |
+| `modificationType` | `string` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `number` | `string` | ❌ | ❌ | ✅ |  |
+| `occupation` | `string` | ❌ | ❌ | ❌ |  |
+| `postBox` | `string` | ❌ | ❌ | ❌ |  |
+| `postCode` | `string` | ❌ | ❌ | ❌ |  |
+| `siret` | `string` | ❌ | ❌ | ❌ |  |
+| `socialNomination` | `string` | ❌ | ❌ | ❌ |  |
+| `socialNominationExtra` | `string` | ❌ | ❌ | ❌ |  |
+| `status` | `string` | ❌ | ❌ | ✅ |  |
+| `urbanDistrict` | `string` | ❌ | ❌ | ❌ |  |
+| `wayName` | `string` | ❌ | ❌ | ❌ |  |
+| `wayNumber` | `string` | ❌ | ❌ | ❌ |  |
+| `wayNumberExtra` | `string` | ❌ | ❌ | ❌ |  |
+| `wayType` | `string` | ❌ | ❌ | ❌ |  |
+
+### `telephony.DirectoryWayType`
+
+_Directory way type_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `abbreviatedName` | `string` | ❌ | ❌ | ✅ |  |
+| `wayName` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.Document`
+
+_Document linked to a telephony service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the document |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Identifier of the document |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the document |
+| `size` | `long` | ❌ | ❌ | ✅ | Document size (in bytes) |
+| `url` | `string` | ❌ | ❌ | ✅ | URL to get document |
+| `validationDate` | `datetime` | ❌ | ✅ | ✅ | Document validation date |
+
+### `telephony.EasyHunting`
+
+_OVH easy calls queues_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `anonymousRejection` | `boolean` | ❌ | ❌ | ❌ | Reject (hangup) anonymous calls |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the service |
+| `featureType` | `telephony.TypeEnum` | ❌ | ❌ | ✅ | Feature of the service |
+| `isCCS` | `boolean` | ❌ | ❌ | ✅ | Does the service have extended CCS options enabled? |
+| `maxWaitTime` | `long` | ❌ | ❌ | ❌ | Max wait time when caller is in queue (in seconds) |
+| `queueSize` | `long` | ❌ | ❌ | ❌ | Max number of callers in queue |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ | General type of the service |
+| `showCallerNumber` | `telephony.OvhPabxDialplanNumberPresentationEnum` | ❌ | ❌ | ❌ | The presented number when bridging calls |
+| `statusIvrEnabled` | `boolean` | ❌ | ❌ | ❌ | Enable/Disable the status change IVR on your callcenter. The IVR is enabled by default. |
+| `strategy` | `telephony.OvhPabxHuntingQueueStrategyEnum` | ❌ | ❌ | ❌ | The calls dispatching strategy |
+| `toneOnClosing` | `long` | ❌ | ✅ | ❌ | Tone played just before call is hang up |
+| `toneOnHold` | `long` | ❌ | ✅ | ❌ | Tone played when caller is put on hold |
+| `toneOnOpening` | `long` | ❌ | ✅ | ❌ | Tone played when call is picked up |
+| `voicemail` | `phoneNumber` | ❌ | ✅ | ❌ | The voicemail used by the EasyPABX |
+
+### `telephony.EasyHuntingScreenListsConditions`
+
+_Screenlist condition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callerIdNumber` | `string` | ❌ | ✅ | ❌ | Screenlist based on the presented caller number |
+| `conditionId` | `long` | ❌ | ❌ | ✅ |  |
+| `destinationNumber` | `string` | ❌ | ✅ | ❌ | Screenlist based on the destination number |
+| `screenListType` | `telephony.OvhPabxDialplanExtensionConditionScreenListTypeEnum` | ❌ | ❌ | ✅ | Type of screenlist |
+
+### `telephony.EasyHuntingScreenListsConditionsSettings`
+
+_Easy hunting screen lists conditions options_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `status` | `telephony.EasyHuntingScreenListsConditionsStatusEnum` | ❌ | ❌ | ❌ |  |
+
+### `telephony.EasyHuntingScreenListsConditionsStatusEnum`
+
+_Screenlist condition type_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `incomingBlackList`
+- `incomingWhiteList`
+
+### `telephony.EasyHuntingTimeConditions`
+
+_Easy hunting time conditions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `conditionId` | `long` | ❌ | ❌ | ✅ |  |
+| `policy` | `telephony.TimeConditionsPolicyEnum` | ❌ | ❌ | ❌ | The policy of time condition |
+| `timeFrom` | `time` | ❌ | ❌ | ❌ | The time of the day when the extension will start to be executed |
+| `timeTo` | `time` | ❌ | ❌ | ❌ | The time of the day when the extension will stop to be executed |
+| `weekDay` | `telephony.OvhPabxDialplanExtensionConditionTimeWeekDayEnum` | ❌ | ❌ | ❌ | The day of the week when the extension will be executed |
+
+### `telephony.EasyHuntingTimeConditionsSettings`
+
+_Easy hunting time conditions options_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enable` | `boolean` | ❌ | ❌ | ❌ | Status of time conditions |
+| `slot1Number` | `phoneNumber` | ❌ | ✅ | ❌ | Number associated to the first slot action |
+| `slot1Type` | `telephony.TimeConditionsSettingsForwardTypeEnum` | ❌ | ✅ | ❌ | Action type executed when the first slot is used |
+| `slot2Number` | `phoneNumber` | ❌ | ✅ | ❌ | Number associated to the second slot action |
+| `slot2Type` | `telephony.TimeConditionsSettingsForwardTypeEnum` | ❌ | ✅ | ❌ | Action type executed when the second slot is used |
+| `slot3Number` | `phoneNumber` | ❌ | ✅ | ❌ | Number associated to the third slot action |
+| `slot3Type` | `telephony.TimeConditionsSettingsForwardTypeEnum` | ❌ | ✅ | ❌ | Action type executed when the third slot is used |
+| `unavailableNumber` | `phoneNumber` | ❌ | ✅ | ❌ | Number associated to the unavailable slot action |
+| `unavailableType` | `telephony.TimeConditionsSettingsForwardTypeEnum` | ❌ | ✅ | ❌ | Action type executed when the unavailable slot is used |
+
+### `telephony.EntrepriseNumberInformations`
+
+_Task informations about an entreprise_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `string` | ❌ | ✅ | ❌ | Address of the entreprise |
+| `ape` | `string` | ❌ | ✅ | ❌ | Entreprise's category code for directory services |
+| `brand` | `string` | ❌ | ✅ | ❌ | Brand of the entreprise |
+| `entrepriseNumber` | `string` | ❌ | ❌ | ❌ | Entreprise number |
+| `isValid` | `boolean` | ❌ | ❌ | ❌ | Is this a valid entreprise number? |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the entreprise |
+| `siren` | `string` | ❌ | ✅ | ❌ | Short version of the entreprise number (FR only) |
+
+### `telephony.EntrepriseNumberInformationsTask`
+
+_Task about getting entreprise informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `informations` | `telephony.EntrepriseNumberInformations` | ❌ | ❌ | ❌ | Informations about the enterprise |
+| `status` | `telephony.TaskStatusEnum` | ❌ | ❌ | ❌ | Task status |
+
+### `telephony.Event`
+
+_Events triggered by the line_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `calledIdentifier` | `string` | ❌ | ❌ | ✅ | Called referer, could be the msisdn or the label name |
+| `callingIdentifier` | `string` | ❌ | ❌ | ✅ | Calling referer, could be the msisdn or the label name |
+| `dateTime` | `datetime` | ❌ | ❌ | ✅ | Datetime call establishment |
+| `direction` | `telephony.RealtimeEventDirection` | ❌ | ❌ | ✅ | Incoming or outgoing call |
+| `duration` | `long` | ❌ | ❌ | ✅ | Duration of the call |
+| `eventType` | `telephony.RealtimeEventType` | ❌ | ❌ | ✅ | Type of event |
+| `id` | `string` | ❌ | ❌ | ✅ | Uniq identifier of the call |
+| `protocol` | `telephony.RealtimeEventProtocol` | ❌ | ❌ | ✅ | Protocol (mgcp or sip) |
+
+### `telephony.EventCallback`
+
+_Callback url for each event_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `emailError` | `string` | ❌ | ✅ | ❌ | Email notification address in case of url calling failure |
+| `url` | `string` | ❌ | ✅ | ❌ | Url called for each event |
+
+### `telephony.EventToken`
+
+_Token associated to the service for live event_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `token` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.Fax`
+
+_Fax service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `notifications` | `telephony.LineNotificationsOptions` | ❌ | ✅ | ❌ | Send notifications about Line's diagnosticReports |
+| `offers` | `string[]` | ❌ | ❌ | ✅ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.FaxCampaign`
+
+_Fax campaigns_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countFailed` | `long` | ❌ | ❌ | ✅ | The count of failed faxes in the campaign |
+| `countSuccess` | `long` | ❌ | ❌ | ✅ | The count of success faxes in the campaign |
+| `countTotal` | `long` | ❌ | ❌ | ✅ | The total count of faxes in the campaign |
+| `dateEnd` | `datetime` | ❌ | ✅ | ✅ | The end date of the fax campaign |
+| `dateStart` | `datetime` | ❌ | ✅ | ✅ | The start date of the fax campaign |
+| `id` | `long` | ❌ | ❌ | ✅ | The id of the fax campaign |
+| `name` | `string` | ❌ | ❌ | ✅ | The name of the fax campaign |
+| `reference` | `string` | ❌ | ❌ | ✅ | The reference of the fax campaign |
+| `status` | `string` | ❌ | ❌ | ✅ | The status of the fax campaign |
+
+### `telephony.FaxCampaignDetail`
+
+_Detail of a fax campaign_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `failed` | `phoneNumber[]` | ❌ | ❌ | ❌ |  |
+| `success` | `phoneNumber[]` | ❌ | ❌ | ❌ |  |
+| `todo` | `phoneNumber[]` | ❌ | ❌ | ❌ |  |
+
+### `telephony.FaxCampaignRecipientsTypeEnum`
+
+_Available recipients method for fax campaign_
+
+**Enum** (`enumType: string`):
+
+- `document`
+- `list`
+
+### `telephony.FaxCampaignSendTypeEnum`
+
+_Available sending method for fax campaign_
+
+**Enum** (`enumType: string`):
+
+- `automatic`
+- `manual`
+- `scheduled`
+
+### `telephony.FaxConsumption`
+
+_Fax delivery record_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `called` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `calling` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `consumptionId` | `long` | ❌ | ❌ | ✅ |  |
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+| `pages` | `long` | ❌ | ❌ | ✅ |  |
+| `priceWithoutTax` | `order.Price` | ❌ | ❌ | ✅ |  |
+| `wayType` | `telephony.FaxConsumptionWayTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.FaxConsumptionWayTypeEnum`
+
+_Consumption way type_
+
+**Enum** (`enumType: string`):
+
+- `received`
+- `sent`
+
+### `telephony.FaxMailFormatEnum`
+
+_Format of the notification mail. "html" will include a preview image of the fax_
+
+**Enum** (`enumType: string`):
+
+- `html`
+- `text`
+
+### `telephony.FaxProperties`
+
+_Fax properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callNumber` | `string` | ❌ | ❌ | ✅ |  |
+| `countryCode` | `string` | ❌ | ❌ | ✅ |  |
+| `faxMaxCall` | `telephony.FaxSendingTries` | ❌ | ❌ | ❌ |  |
+| `faxQuality` | `telephony.FaxQualityEnum` | ❌ | ❌ | ❌ |  |
+| `faxTagLine` | `string` | ❌ | ❌ | ❌ |  |
+| `fromEmail` | `string` | ❌ | ❌ | ❌ |  |
+| `fromName` | `string` | ❌ | ❌ | ❌ |  |
+| `mailFormat` | `telephony.FaxMailFormatEnum` | ❌ | ❌ | ❌ |  |
+| `receiver` | `string` | ❌ | ❌ | ❌ |  |
+| `redirectionEmail` | `string[]` | ❌ | ❌ | ❌ |  |
+| `rejectAnonymous` | `boolean` | ❌ | ❌ | ❌ |  |
+| `sender` | `string` | ❌ | ❌ | ❌ |  |
+
+### `telephony.FaxQualityEnum`
+
+_Available quality for fax documents_
+
+**Enum** (`enumType: string`):
+
+- `best`
+- `high`
+- `normal`
+
+### `telephony.FaxScreen`
+
+_Fax ScreenLists_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `blacklistedNumbers` | `string[]` | ❌ | ✅ | ❌ | List of numbers not allowed to send a fax |
+| `blacklistedTSI` | `string[]` | ❌ | ✅ | ❌ | List of logins (TSI or ID) not allowed to send a fax |
+| `callNumber` | `string` | ❌ | ❌ | ✅ | Number of the fax service |
+| `countryCode` | `string` | ❌ | ❌ | ✅ | Country code of the fax service |
+| `filteringList` | `telephony.FaxScreenListTypeEnum` | ❌ | ✅ | ✅ | Which list is active (blackist, whitelist or none) |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `whitelistedNumbers` | `string[]` | ❌ | ✅ | ❌ | List of numbers allowed to send a fax |
+| `whitelistedTSI` | `string[]` | ❌ | ✅ | ❌ | List of logins (TSI or ID) allowed to send a fax |
+
+### `telephony.FaxScreenListTypeEnum`
+
+_Type of screen list_
+
+**Enum** (`enumType: string`):
+
+- ``
+- `blacklist`
+- `no`
+- `whitelist`
+
+### `telephony.FaxSendingTries`
+
+_Number of tries when sending a fax_
+
+**Enum** (`enumType: long`):
+
+- `1`
+- `2`
+- `3`
+- `4`
+- `5`
+- `6`
+- `7`
+- `8`
+- `9`
+
+### `telephony.FunctionKey`
+
+_Plug & Phone function key_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `default` | `string` | ❌ | ✅ | ✅ | The default function used by the key |
+| `function` | `string` | ❌ | ✅ | ❌ | The function active on the key |
+| `keyNum` | `long` | ❌ | ❌ | ✅ | The number of the function key |
+| `label` | `string` | ❌ | ❌ | ✅ | The key label |
+| `parameter` | `string` | ❌ | ✅ | ❌ | The function parameter |
+| `type` | `string` | ❌ | ❌ | ✅ | The key type |
+
+### `telephony.GenericScreen`
+
+_Time conditions capable services_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.HardwareOffer`
+
+_Informations related to a telephone offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | The telephony description |
+| `name` | `string` | ❌ | ❌ | ❌ | The telephony name |
+| `price` | `order.Price` | ❌ | ❌ | ❌ | Telephony price |
+| `url` | `string` | ❌ | ✅ | ❌ | An URL to telephony details |
+
+### `telephony.HistoryConsumption`
+
+_Previous billed consumptions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `date` | ❌ | ❌ | ✅ |  |
+| `price` | `order.Price` | ❌ | ❌ | ✅ |  |
+| `priceOutplan` | `order.Price` | ❌ | ❌ | ✅ |  |
+| `status` | `telephony.BillStatusEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.HistoryRepaymentConsumption`
+
+_Previous repayment bill_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `billingNumber` | `string` | ❌ | ❌ | ✅ | the number of the bill |
+| `date` | `date` | ❌ | ❌ | ✅ | date of the bill |
+| `price` | `order.Price` | ❌ | ❌ | ✅ | the amout which is repayed |
+| `status` | `telephony.BillStatusEnum` | ❌ | ❌ | ✅ | status of the bill |
+
+### `telephony.HistoryTollfreeConsumption`
+
+_Previous tollfree bill_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `date` | ❌ | ❌ | ✅ | date of the bill |
+| `price` | `order.Price` | ❌ | ❌ | ✅ | the amount which is paid by the called number |
+| `status` | `telephony.BillStatusEnum` | ❌ | ❌ | ✅ | status of the bill |
+
+### `telephony.Line`
+
+_Line service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canChangePassword` | `boolean` | ❌ | ❌ | ✅ | Ability to manage SIP password on this service |
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `deviceSlot` | `long` | ❌ | ❌ | ✅ | The position of the line when attached to a device (0 if the line is not attached to a device) |
+| `getPublicOffer` | `telephony.LineOffer` | ❌ | ❌ | ✅ | The line offers |
+| `infrastructure` | `string` | ❌ | ❌ | ✅ | The infrastructure where is configured the line |
+| `isAttachedToOtherLinesPhone` | `boolean` | ❌ | ❌ | ✅ | Is this line attached to a phone that belongs to another line? |
+| `notifications` | `telephony.LineNotificationsOptions` | ❌ | ✅ | ❌ | Send notifications about Line's diagnosticReports |
+| `offers` | `string[]` | ❌ | ❌ | ✅ | The line offers (Deprecated, prefer "name" in getPublicOffer) |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+| `simultaneousLines` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.LineBlockingMode`
+
+_The blocking mode of line calls_
+
+**Enum** (`enumType: string`):
+
+- `both`
+- `incoming`
+- `outgoing`
+
+### `telephony.LineNotificationsLogsFrequencyEnum`
+
+_Types of statistics available for a line._
+
+**Enum** (`enumType: string`):
+
+- `Never`
+- `Once a day`
+- `Twice a day`
+
+### `telephony.LineNotificationsLogsOptions`
+
+_Error logging notifications options_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `email` | `string` | ❌ | ✅ | ❌ | Email address where to send notifications |
+| `frequency` | `telephony.LineNotificationsLogsFrequencyEnum` | ❌ | ✅ | ❌ | Frequency at which the notifications will be send |
+| `sendIfNull` | `boolean` | ❌ | ✅ | ❌ | Send a blank notification if there is no diagnosticReports entries for the period |
+
+### `telephony.LineNotificationsOptions`
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `logs` | `telephony.LineNotificationsLogsOptions` | ❌ | ✅ | ❌ | Error logging notifications options |
+
+### `telephony.LineOffer`
+
+_Informations related to a line offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | The offer description |
+| `name` | `string` | ❌ | ❌ | ❌ | The offer name |
+| `price` | `order.Price` | ❌ | ✅ | ❌ | Offer price per month |
+
+### `telephony.LineOffersAndContracts`
+
+_Informations related to a line offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contracts` | `order.Contract[]` | ❌ | ❌ | ❌ | Informations related to a line contracts |
+| `offers` | `telephony.LineOffer[]` | ❌ | ❌ | ❌ | Informations related to a line offer |
+
+### `telephony.LineOptionForwardNatureTypeEnum`
+
+_The nature of the call forward_
+
+**Enum** (`enumType: string`):
+
+- `fax`
+- `number`
+- `voicemail`
+
+### `telephony.LineOptionIntercomEnum`
+
+_Intercom configuration_
+
+**Enum** (`enumType: string`):
+
+- `no`
+- `prefixed`
+- `yes`
+
+### `telephony.LineOptionLanguageEnum`
+
+_The language of the line_
+
+**Enum** (`enumType: string`):
+
+- `Dutch`
+- `English (UK)`
+- `French`
+- `French (BE)`
+- `German`
+- `Italian`
+- `Spanish`
+
+### `telephony.LineOptions`
+
+_Line options_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `absentSubscriber` | `boolean` | ❌ | ❌ | ❌ |  |
+| `anonymousCallRejection` | `boolean` | ❌ | ❌ | ❌ | Reject anonymous calls |
+| `callRestrictionIncoming` | `boolean` | ❌ | ❌ | ❌ | Whether or not the line has restriction on incoming calls |
+| `callRestrictionOutgoing` | `boolean` | ❌ | ❌ | ❌ | Whether or not the line has restriction on outgoing calls |
+| `callWaiting` | `boolean` | ❌ | ❌ | ❌ | If the line receives a new call and the line is already in communication, this new call is dispatched once the current call is completed |
+| `codecs` | `string` | ❌ | ❌ | ❌ | Codecs preferences |
+| `defaultVoicemail` | `phoneNumber` | ❌ | ❌ | ❌ | The default voicemail of the line. It can be the voicemail of any line of your account. |
+| `displayNumber` | `phoneNumber` | ❌ | ❌ | ❌ |  |
+| `doNotDisturb` | `boolean` | ❌ | ❌ | ❌ |  |
+| `domain` | `string` | ❌ | ❌ | ❌ | The domain to configure in your SIP client. |
+| `forwardBackup` | `boolean` | ❌ | ❌ | ❌ | Enable calls forward when the line is unavailable |
+| `forwardBackupNature` | `telephony.LineOptionForwardNatureTypeEnum` | ❌ | ❌ | ❌ | Nature of the forward when the line is unavailable |
+| `forwardBackupNumber` | `phoneNumber` | ❌ | ❌ | ❌ | Destination of the forward when the line is unavailable |
+| `forwardBusy` | `boolean` | ❌ | ❌ | ❌ | Enable calls forward when the line is busy |
+| `forwardBusyNature` | `telephony.LineOptionForwardNatureTypeEnum` | ❌ | ❌ | ❌ | Nature of the forward when the line is busy |
+| `forwardBusyNumber` | `phoneNumber` | ❌ | ❌ | ❌ | Destination of the forward when the line is busy |
+| `forwardNoReply` | `boolean` | ❌ | ❌ | ❌ | Enable calls forward on no-reply |
+| `forwardNoReplyDelay` | `long` | ❌ | ❌ | ❌ | Delay before forward on no-reply |
+| `forwardNoReplyNature` | `telephony.LineOptionForwardNatureTypeEnum` | ❌ | ❌ | ❌ | Nature of the forward on no-reply |
+| `forwardNoReplyNumber` | `phoneNumber` | ❌ | ❌ | ❌ | Destination of the forward on no-reply |
+| `forwardUnconditional` | `boolean` | ❌ | ❌ | ❌ | Enable unconditional calls forward |
+| `forwardUnconditionalNature` | `telephony.LineOptionForwardNatureTypeEnum` | ❌ | ❌ | ❌ | Nature of the unconditional forward |
+| `forwardUnconditionalNumber` | `phoneNumber` | ❌ | ❌ | ❌ | Destination of the unconditional forward |
+| `identificationRestriction` | `boolean` | ❌ | ❌ | ❌ | Do not display your number |
+| `intercom` | `telephony.LineOptionIntercomEnum` | ❌ | ❌ | ❌ | Intercom mode: takes automatically the call with the loudspeaker |
+| `ipRestrictions` | `ipBlock[]` | ❌ | ❌ | ❌ | The ip restrictions of your line |
+| `language` | `telephony.LineOptionLanguageEnum` | ❌ | ❌ | ❌ | Language of the line |
+| `lockOutCall` | `boolean` | ❌ | ❌ | ❌ | Disallow outgoing calls |
+| `lockOutCallPassword` | `string` | ❌ | ✅ | ❌ | Disallow outgoing calls password |
+| `proxy` | `string` | ❌ | ❌ | ✅ | The outbound proxy to configure in your SIP client. |
+| `recordOutgoingCallsBeta` | `boolean` | ❌ | ❌ | ❌ | Enable or disable record of outgoing calls |
+| `toneOnCallWaitingSoundId` | `long` | ❌ | ✅ | ❌ | Sound ID of on-call-waiting tone |
+| `toneOnHoldSoundId` | `long` | ❌ | ✅ | ❌ | Sound ID of on-hold tone |
+| `toneRingbackSoundId` | `long` | ❌ | ✅ | ❌ | Sound ID of ringback tone |
+| `voicemailExternalNumber` | `phoneNumber` | ❌ | ❌ | ✅ | Voicemail number to dial from any other line |
+| `voicemailInternalNumber` | `string` | ❌ | ❌ | ✅ | Voicemail short number to dial from the line |
+
+### `telephony.LinePhone`
+
+_Informations related to phone capabilities_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `brand` | `string` | ❌ | ❌ | ❌ | Brand name of the phone |
+| `description` | `string` | ❌ | ❌ | ❌ | The phone description |
+| `fees` | `order.Price` | ❌ | ✅ | ❌ | Setup fees |
+| `maxline` | `long` | ❌ | ❌ | ❌ | Maximum number of lines managed by a phone |
+| `offerType` | `telephony.RmaOfferTypeEnum` | ❌ | ❌ | ❌ | Type of purchase |
+| `price` | `order.Price` | ❌ | ❌ | ❌ | Telephony price |
+| `protocol` | `telephony.ProtocolEnum` | ❌ | ❌ | ❌ | Phone protocol |
+
+### `telephony.LinePhoneAssociable`
+
+_Informations related to associable phone capabilities_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `associatedLines` | `telephony.LinePhoneAssociableConfiguredLines[]` | ❌ | ❌ | ❌ | Current lines configured on the phone |
+| `brand` | `string` | ❌ | ❌ | ❌ | Brand name of the phone |
+| `maxLines` | `long` | ❌ | ❌ | ❌ | Maximum quantity of lines managed by the phone |
+| `protocol` | `telephony.ProtocolEnum` | ❌ | ❌ | ❌ | Phone protocol |
+
+### `telephony.LinePhoneAssociableConfiguredLines`
+
+_Current lines configured on the phone_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | The line description |
+| `serviceName` | `string` | ❌ | ❌ | ❌ | Service name of the line |
+
+### `telephony.LineStatisticsTypeEnum`
+
+_Types of statistics available for a line._
+
+**Enum** (`enumType: string`):
+
+- `maxDelay`
+- `maxJitter`
+- `rtpMos`
+- `sumRtpLost`
+
+### `telephony.Number`
+
+_Additional number_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the service |
+| `featureType` | `telephony.TypeEnum` | ❌ | ❌ | ✅ | Feature enabled on the number |
+| `partOfPool` | `string` | ❌ | ✅ | ✅ | Parent of the service (if it is part of a pool) |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the service |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.NumberCountryCodeEnum`
+
+_Number country code_
+
+**Enum** (`enumType: long`):
+
+- `32`
+- `33`
+- `34`
+- `41`
+- `44`
+- `49`
+
+### `telephony.NumberCountryEnum`
+
+_Number country_
+
+**Enum** (`enumType: string`):
+
+- `be`
+- `ch`
+- `fr`
+- `gb`
+- `uk`
+
+### `telephony.NumberDetailedZone`
+
+_A geographic zone from a country_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `askedCity` | `string` | ❌ | ✅ | ❌ | The searched value |
+| `city` | `string` | ❌ | ❌ | ❌ | The city of the zone |
+| `country` | `telephony.NumberCountryEnum` | ❌ | ❌ | ❌ | The country of the zone |
+| `internationalNumber` | `string` | ❌ | ❌ | ❌ | The number's range of this zone, in international format |
+| `matchingCriteria` | `telephony.NumberDetailedZoneMatchingCriteriaEnum` | ❌ | ✅ | ❌ | The criteria that matched the searched value |
+| `number` | `string` | ❌ | ❌ | ❌ | The number's range of this zone |
+| `prefix` | `telephony.NumberCountryCodeEnum` | ❌ | ❌ | ❌ | The country code of the number's range |
+| `type` | `telephony.NumberDetailedZoneTypeEnum` | ❌ | ❌ | ❌ | The type of number's range of this zone |
+| `zipCode` | `string` | ❌ | ✅ | ❌ | The zip code of the zone |
+| `zneList` | `string[]` | ❌ | ❌ | ❌ | The list of ZNE of this zone |
+
+### `telephony.NumberDetailedZoneMatchingCriteriaEnum`
+
+_The possible criteria matching a searched value for a zone_
+
+**Enum** (`enumType: string`):
+
+- `city`
+- `internationalNumber`
+- `number`
+- `zne`
+
+### `telephony.NumberDetailedZoneTypeEnum`
+
+_A zone type_
+
+**Enum** (`enumType: string`):
+
+- `geographic`
+- `non-geographic`
+- `special`
+
+### `telephony.NumberTypeEnum`
+
+_Typology of number_
+
+**Enum** (`enumType: string`):
+
+- `geographic`
+- `nogeographic`
+- `special`
+
+### `telephony.OfferChange`
+
+_Offer change_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `offer` | `string` | ❌ | ❌ | ✅ | The current offer will be replace by this one on the next renew. |
+
+### `telephony.OfferTask`
+
+_Operation on a telephony offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `telephony.OfferTaskActionEnum` | ❌ | ❌ | ✅ | Actual action that will be executed |
+| `executionDate` | `datetime` | ❌ | ❌ | ❌ | Planned execution date |
+| `status` | `telephony.TaskStatusEnum` | ❌ | ❌ | ✅ | Current status of the task |
+| `taskId` | `long` | ❌ | ❌ | ✅ |  |
+| `type` | `telephony.OfferTaskTypeEnum` | ❌ | ❌ | ✅ | Type of operation that will be executed |
+
+### `telephony.OfferTaskActionEnum`
+
+_Offer task actions_
+
+**Enum** (`enumType: string`):
+
+- `convertToAlias`
+- `convertToSip`
+- `migrateToNewVoicemail`
+- `removeSimltaneousLines`
+- `switchServer`
+- `termination`
+- `updateFirmware`
+- `upgrade`
+
+### `telephony.OfferTaskTypeEnum`
+
+_Offer task types_
+
+**Enum** (`enumType: string`):
+
+- `line`
+- `offer`
+- `option`
+- `phone`
+
+### `telephony.OldPhone`
+
+_Informations related to phone_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `mac` | `string` | ❌ | ❌ | ❌ | Mac address of the phone |
+| `model` | `string` | ❌ | ❌ | ❌ | Model of the phone |
+
+### `telephony.OutplanNotificationBlockEnum`
+
+_Type of line blocking on outplan notification_
+
+**Enum** (`enumType: string`):
+
+- `blockAllCalls`
+- `blockIncomingCalls`
+- `blockOutgoingCalls`
+- `none`
+
+### `telephony.OvhPabx`
+
+_OVH calls queues and OVH IVRs (Interactive Voice Response)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the service |
+| `featureType` | `telephony.TypeEnum` | ❌ | ❌ | ✅ | Feature of the service |
+| `isCCS` | `boolean` | ❌ | ❌ | ✅ | Does the service have extended CCS options enabled? |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ | General type of the service |
+
+### `telephony.OvhPabxCustomStatus`
+
+_Custom statuses of your callcenter agents_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `color` | `string` | ❌ | ✅ | ✅ | The color (in hexadecimal) of the status that will be displayed on agent banner web application |
+| `description` | `string` | ❌ | ✅ | ✅ | A short description of the status |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ | The name of the status (Pause, Mission, etc...) |
+
+### `telephony.OvhPabxDialplan`
+
+_Dialplan_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `anonymousRejection` | `boolean` | ❌ | ❌ | ❌ | Reject (hangup) anonymous calls |
+| `dialplanId` | `long` | ❌ | ❌ | ✅ |  |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ❌ | The dialplan name |
+| `showCallerNumber` | `telephony.OvhPabxDialplanNumberPresentationEnum` | ❌ | ❌ | ❌ | The presented number when bridging calls |
+| `transferTimeout` | `long` | ❌ | ❌ | ❌ | The timeout (in seconds) when bridging calls |
+
+### `telephony.OvhPabxDialplanExtension`
+
+_Dialplan extension_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ❌ | True if the extension is enabled |
+| `extensionId` | `long` | ❌ | ❌ | ✅ |  |
+| `position` | `long` | ❌ | ❌ | ❌ | The position of the extension in the dialplan (the extensions are executed following this order) |
+| `schedulerCategory` | `telephony.SchedulerCategoryEnum` | ❌ | ✅ | ❌ | Additionnal conditions are used from this chosen scheduler category |
+| `screenListType` | `telephony.OvhPabxDialplanExtensionConditionScreenListTypeEnum` | ❌ | ✅ | ❌ | The type of the screenlist |
+
+### `telephony.OvhPabxDialplanExtensionConditionScreenList`
+
+_Screenlist condition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callerIdNumber` | `string` | ❌ | ✅ | ✅ | Screenlist based on the presented caller number |
+| `conditionId` | `long` | ❌ | ❌ | ✅ |  |
+| `destinationNumber` | `string` | ❌ | ✅ | ✅ | Screenlist based on the destination number |
+| `screenListType` | `telephony.OvhPabxDialplanExtensionConditionScreenListTypeEnum` | ❌ | ✅ | ✅ | Type of screenlist |
+
+### `telephony.OvhPabxDialplanExtensionConditionScreenListTypeEnum`
+
+_Screenlist condition type_
+
+**Enum** (`enumType: string`):
+
+- `destinationBlackList`
+- `destinationWhiteList`
+- `incomingBlackList`
+- `incomingWhiteList`
+
+### `telephony.OvhPabxDialplanExtensionConditionTime`
+
+_Time condition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `conditionId` | `long` | ❌ | ❌ | ✅ |  |
+| `timeFrom` | `time` | ❌ | ❌ | ❌ | The time of the day when the extension will start to be executed |
+| `timeTo` | `time` | ❌ | ❌ | ❌ | The time of the day when the extension will stop to be executed |
+| `weekDay` | `telephony.OvhPabxDialplanExtensionConditionTimeWeekDayEnum` | ❌ | ❌ | ❌ | The day of the week when the extension will be executed |
+
+### `telephony.OvhPabxDialplanExtensionConditionTimeWeekDayEnum`
+
+_Day of the week_
+
+**Enum** (`enumType: string`):
+
+- `friday`
+- `monday`
+- `saturday`
+- `sunday`
+- `thursday`
+- `tuesday`
+- `wednesday`
+
+### `telephony.OvhPabxDialplanExtensionRule`
+
+_Dialplan rule_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `telephony.OvhPabxDialplanExtensionRuleActionEnum` | ❌ | ❌ | ❌ | The action made by the rule |
+| `actionParam` | `string` | ❌ | ✅ | ❌ | The parameter of the chosen action |
+| `negativeAction` | `boolean` | ❌ | ❌ | ❌ | If true, the rule will be executed only when the result of the conditions is false |
+| `position` | `long` | ❌ | ❌ | ❌ | The position of the rule in the extension (the rules are executed following this order) |
+| `ruleId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.OvhPabxDialplanExtensionRuleActionEnum`
+
+_Dialplan rule action_
+
+**Enum** (`enumType: string`):
+
+- `bridge`
+- `endless_playback`
+- `hangup`
+- `hunting`
+- `ivr`
+- `playback`
+- `readDtmf`
+- `setCallerName`
+- `sleep`
+- `tts`
+- `voicemail`
+
+### `telephony.OvhPabxDialplanNumberPresentationEnum`
+
+_Displayed number_
+
+**Enum** (`enumType: string`):
+
+- `alias`
+- `both`
+- `caller`
+
+### `telephony.OvhPabxHunting`
+
+_PABX Hunting_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `crmUrlTemplate` | `string` | ❌ | ✅ | ❌ | The templated url of your CRM, opened by the banner application of your cloudpabx |
+| `g729` | `boolean` | ❌ | ✅ | ❌ | Enable G729 codec on your callcenter |
+| `name` | `string` | ❌ | ❌ | ✅ | The name of your callcenter offer |
+| `statusIvrEnabled` | `boolean` | ❌ | ❌ | ❌ | Enable/Disable the status change IVR on your callcenter. The IVR is enabled by default. |
+
+### `telephony.OvhPabxHuntingAgent`
+
+_Calls agent_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `agentId` | `long` | ❌ | ❌ | ✅ |  |
+| `breakStatus` | `long` | ❌ | ✅ | ❌ | The id of the current break status of the agent |
+| `description` | `string` | ❌ | ✅ | ❌ | The agent's description |
+| `number` | `phoneNumber` | ❌ | ❌ | ❌ | The number of the agent |
+| `simultaneousLines` | `long` | ❌ | ❌ | ❌ | The maximum of simultaneous calls that the agent will receive from the hunting |
+| `status` | `telephony.OvhPabxHuntingAgentStatusEnum` | ❌ | ❌ | ❌ | The current status of the agent |
+| `timeout` | `long` | ❌ | ❌ | ❌ | The waiting timeout (in seconds) before hangup an assigned called |
+| `type` | `telephony.OvhPabxHuntingAgentTypeEnum` | ❌ | ❌ | ✅ | The agent's type |
+| `wrapUpTime` | `long` | ❌ | ❌ | ❌ | The wrap up time (in seconds) after the calls |
+
+### `telephony.OvhPabxHuntingAgentLiveStatus`
+
+_Live statistics of the queue_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `answeredCalls` | `long` | ❌ | ❌ | ✅ | The number of calls this agent took on the current day |
+| `lastStatusChange` | `datetime` | ❌ | ❌ | ✅ | Last status change date |
+| `status` | `telephony.OvhPabxHuntingLiveAgentStatusEnum` | ❌ | ❌ | ✅ | Current status of the agent |
+| `totalCallDuration` | `long` | ❌ | ❌ | ✅ | The total duration in seconds of the calls this agent took on the current day |
+
+### `telephony.OvhPabxHuntingAgentQueue`
+
+_Agent assigned to a queue_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `agentId` | `long` | ❌ | ❌ | ✅ |  |
+| `position` | `long` | ❌ | ❌ | ❌ | The position in the queue |
+| `queueId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.OvhPabxHuntingAgentStatusEnum`
+
+_Status of the agent_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `loggedOut`
+- `onBreak`
+
+### `telephony.OvhPabxHuntingAgentTypeEnum`
+
+_Type of the agent_
+
+**Enum** (`enumType: string`):
+
+- `external`
+- `internal`
+
+### `telephony.OvhPabxHuntingLiveAgentStatusEnum`
+
+_Status of the agent_
+
+**Enum** (`enumType: string`):
+
+- `inAQueueCall`
+- `loggedOut`
+- `onBreak`
+- `receiving`
+- `waiting`
+
+### `telephony.OvhPabxHuntingLiveCallsStateEnum`
+
+_State of the call_
+
+**Enum** (`enumType: string`):
+
+- `Answered`
+- `Waiting`
+
+### `telephony.OvhPabxHuntingQueue`
+
+_Calls queue_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actionOnClosure` | `telephony.OvhPabxQueueActionEnum` | ❌ | ✅ | ❌ | Action executed when there is no member in queue |
+| `actionOnClosureParam` | `string` | ❌ | ✅ | ❌ | The additionnal parameter of the on closure action |
+| `actionOnOverflow` | `telephony.OvhPabxQueueActionEnum` | ❌ | ✅ | ❌ | Action executed when caller enters a full queue |
+| `actionOnOverflowParam` | `string` | ❌ | ✅ | ❌ | The additionnal parameter of the overflow action |
+| `askForRecordDisabling` | `boolean` | ❌ | ✅ | ❌ | Allow the caller to disable call record by pressing a key |
+| `confirmKey` | `telephony.OvhPabxIvrMenuKeyEnum` | ❌ | ✅ | ❌ | The key that tells the IVR that digit-entry is finished. Also used as a "repeat" key in the menus when no input is expected. |
+| `description` | `string` | ❌ | ✅ | ❌ | The name of the queue |
+| `followCallForwards` | `boolean` | ❌ | ✅ | ❌ | Follow the calls forwarding |
+| `maxMember` | `long` | ❌ | ❌ | ❌ | The maximum of people waiting in the queue |
+| `maxWaitTime` | `long` | ❌ | ❌ | ❌ | The maximum waiting time (in seconds) in the queue |
+| `queueId` | `long` | ❌ | ❌ | ✅ |  |
+| `record` | `boolean` | ❌ | ✅ | ❌ | Enable record on calls in queue |
+| `recordDisablingDigit` | `telephony.OvhPabxHuntingQueueRecordDisablingDigitEnum` | ❌ | ✅ | ❌ | Key to press to disable record |
+| `recordDisablingLanguage` | `telephony.OvhPabxHuntingQueueRecordDisablingLanguageEnum` | ❌ | ✅ | ❌ | Language of the sound played to the caller to inform that he can disable record |
+| `soundOnHold` | `long` | ❌ | ✅ | ❌ | The id of the OvhPabxSound played to caller when on hold |
+| `strategy` | `telephony.OvhPabxHuntingQueueStrategyEnum` | ❌ | ❌ | ❌ | The calls dispatching strategy |
+
+### `telephony.OvhPabxHuntingQueueLiveCalls`
+
+_Live statistics of the queue_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `agent` | `string` | ❌ | ❌ | ✅ | Name or number of the agent who answered the call |
+| `answered` | `datetime` | ❌ | ✅ | ✅ | Answer date of the call |
+| `begin` | `datetime` | ❌ | ❌ | ✅ | Begin date of the call |
+| `callerIdName` | `string` | ❌ | ❌ | ✅ | Name of the caller (or anonymous if unknown) |
+| `callerIdNumber` | `string` | ❌ | ❌ | ✅ | Phone number of the caller (or anonymous if unknown) |
+| `destinationNumber` | `string` | ❌ | ❌ | ✅ | Phone number called (in case of an outgoing call) |
+| `end` | `datetime` | ❌ | ✅ | ✅ | End date of the call |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `onHold` | `boolean` | ❌ | ✅ | ✅ | Whether or not the call is on hold |
+| `queue` | `string` | ❌ | ❌ | ✅ | Name of the queue of the call |
+| `state` | `telephony.OvhPabxHuntingLiveCallsStateEnum` | ❌ | ❌ | ✅ | Current state of the call |
+
+### `telephony.OvhPabxHuntingQueueLiveStatistics`
+
+_Live statistics of the queue_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callsAnswered` | `long` | ❌ | ❌ | ✅ | Total of calls answered |
+| `callsLost` | `long` | ❌ | ❌ | ✅ | Total of calls lost |
+| `callsTotal` | `long` | ❌ | ❌ | ✅ | Total of calls |
+| `lastReset` | `datetime` | ❌ | ❌ | ✅ | Last reset datetime of queue's statistics |
+| `totalCallDuration` | `long` | ❌ | ❌ | ✅ | Total call duration in seconds |
+| `totalWaitingDuration` | `long` | ❌ | ❌ | ✅ | Total waiting duration in seconds |
+
+### `telephony.OvhPabxHuntingQueueRecordDisablingDigitEnum`
+
+_Digit keys allowed to be pressed to disable call record_
+
+**Enum** (`enumType: long`):
+
+- `0`
+- `1`
+- `2`
+- `3`
+- `4`
+- `5`
+- `6`
+- `7`
+- `8`
+- `9`
+
+### `telephony.OvhPabxHuntingQueueRecordDisablingLanguageEnum`
+
+_Possible languages of the sound played to inform caller that he can disable call record_
+
+**Enum** (`enumType: string`):
+
+- `english`
+- `french`
+
+### `telephony.OvhPabxHuntingQueueStrategyEnum`
+
+_Calls dispatching startegy_
+
+**Enum** (`enumType: string`):
+
+- `cumulationByAgentOrder`
+- `longestHangupAgent`
+- `longestIdleAgent`
+- `random`
+- `ringAll`
+- `roundRobin`
+- `sequentiallyByAgentOrder`
+
+### `telephony.OvhPabxIvrMenuEntryActionEnum`
+
+_IVR menu action_
+
+**Enum** (`enumType: string`):
+
+- `bridge`
+- `callcenter`
+- `menuBack`
+- `menuExit`
+- `menuSub`
+- `menuTop`
+- `playback`
+- `readDtmf`
+- `setCallerName`
+
+### `telephony.OvhPabxIvrMenuKeyEnum`
+
+_IVR menu key_
+
+**Enum** (`enumType: string`):
+
+- `#`
+- `*`
+- `0`
+- `1`
+- `2`
+- `3`
+- `4`
+- `5`
+- `6`
+- `7`
+- `8`
+- `9`
+
+### `telephony.OvhPabxMenu`
+
+_IVR Menu_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `greetSound` | `long` | ❌ | ✅ | ❌ | The id of the OvhPabxSound played to greet |
+| `greetSoundTts` | `long` | ❌ | ✅ | ❌ | The text to speech sound played to greet |
+| `interDigitTimeout` | `long` | ❌ | ❌ | ❌ | The timeout in milliseconds before considering the DTMF entry as done |
+| `invalidSound` | `long` | ❌ | ✅ | ❌ | The id of the OvhPabxSound played when the caller uses an invalid DTMF |
+| `invalidSoundTts` | `long` | ❌ | ✅ | ❌ | The text to speech sound played when the caller uses an invalid DTMF |
+| `menuId` | `long` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ❌ | The name of the menu |
+| `timeout` | `long` | ❌ | ❌ | ❌ | The timeout in milliseconds before ending the menu when no DTMF is received |
+
+### `telephony.OvhPabxMenuEntry`
+
+_IVR menu entry_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `telephony.OvhPabxIvrMenuEntryActionEnum` | ❌ | ❌ | ❌ | The action triggered by the DTMF |
+| `actionParam` | `string` | ❌ | ❌ | ❌ | The additionnal parameter of the action |
+| `dtmf` | `string` | ❌ | ❌ | ❌ | The DTMF that triggers the action |
+| `entryId` | `long` | ❌ | ❌ | ✅ |  |
+| `position` | `long` | ❌ | ❌ | ✅ | The position of the entry in the menu |
+
+### `telephony.OvhPabxQueueActionEnum`
+
+_Available actions for overflow and on closure_
+
+**Enum** (`enumType: string`):
+
+- `playback`
+- `voicemail`
+
+### `telephony.OvhPabxRecord`
+
+_The PABX records_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `agent` | `string` | ❌ | ✅ | ✅ | The agent number of the recorded call |
+| `callEnd` | `datetime` | ❌ | ✅ | ✅ | The end date of the recorded call |
+| `callStart` | `datetime` | ❌ | ❌ | ✅ | The begin date of the recorded call |
+| `callerIdName` | `string` | ❌ | ❌ | ✅ | The caller name of the recorded call |
+| `callerIdNumber` | `string` | ❌ | ❌ | ✅ | The caller number of the recorded call |
+| `destinationNumber` | `string` | ❌ | ✅ | ✅ | The destination number of the recorded call |
+| `duration` | `long` | ❌ | ❌ | ✅ | The duration in seconds of the recorded call |
+| `fileUrl` | `string` | ❌ | ❌ | ✅ | The record sound url |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.OvhPabxSound`
+
+_The PABX sounds_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | The sound filename |
+| `soundId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.OvhPabxTts`
+
+_The PABX Text To Speech sounds_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `text` | `string` | ❌ | ❌ | ❌ | The text that will be played |
+| `voice` | `telephony.OvhPabxTtsVoiceEnum` | ❌ | ❌ | ❌ | The voice used to say text |
+
+### `telephony.OvhPabxTtsVoiceEnum`
+
+_Voice to use for your text to speech_
+
+**Enum** (`enumType: string`):
+
+- `Bruce`
+- `Helene`
+- `Jenny`
+- `Loic`
+
+### `telephony.OvhPabxWhisperingModeEnum`
+
+_Whispering mode_
+
+**Enum** (`enumType: string`):
+
+- `Whisper to agent only`
+- `Whisper to all participants`
+
+### `telephony.PcsFile`
+
+_Telephony API related file hosted_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `filename` | `string` | ❌ | ❌ | ✅ |  |
+| `status` | `telephony.PcsFileStatusEnum` | ❌ | ❌ | ✅ |  |
+| `url` | `string` | ❌ | ❌ | ✅ |  |
+| `urlExpirationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+
+### `telephony.PcsFileStatusEnum`
+
+_File providing task status_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `telephony.Phone`
+
+_Plug & Phone_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `brand` | `string` | ❌ | ❌ | ✅ | Brand name |
+| `description` | `string` | ❌ | ❌ | ✅ | The phone description |
+| `macAddress` | `string` | ❌ | ❌ | ✅ | Mac Address |
+| `maxSimultaneousCalls` | `long` | ❌ | ❌ | ✅ | Maximum simultaneous calls managed by the phone |
+| `maxline` | `long` | ❌ | ❌ | ✅ | Maximum number of lines managed by a phone |
+| `mgcpIpRestriction` | `ip` | ❌ | ✅ | ❌ | The ip restriction of your MGCP phone |
+| `phoneConfiguration` | `telephony.PhoneConfigurationProperty[]` | ❌ | ❌ | ✅ | Current phone properties |
+| `protocol` | `telephony.ProtocolEnum` | ❌ | ❌ | ✅ | Phone protocol |
+| `userPassword` | `password` | ❌ | ✅ | ✅ | The phone user password |
+
+### `telephony.PhoneConfigurationLevelEnum`
+
+_Phone Configuration level enum_
+
+**Enum** (`enumType: string`):
+
+- `admin`
+- `expert`
+
+### `telephony.PhoneConfigurationProperty`
+
+_Phone configuration property_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `default` | `string` | ❌ | ✅ | ❌ | Default property value |
+| `description` | `string` | ❌ | ✅ | ❌ | Property description |
+| `enum` | `string[]` | ❌ | ✅ | ❌ | Property value possibilities |
+| `group` | `string` | ❌ | ✅ | ❌ | The property group |
+| `level` | `telephony.PhoneConfigurationLevelEnum` | ❌ | ✅ | ❌ | Provisioning level |
+| `maxlength` | `long` | ❌ | ✅ | ❌ | Max string chars |
+| `name` | `string` | ❌ | ✅ | ❌ | The property name |
+| `rangeValue` | `complexType.Range<long>` | ❌ | ✅ | ❌ | Range property value |
+| `type` | `telephony.PhoneConfigurationTypeEnum` | ❌ | ✅ | ❌ | Provisioning type |
+| `value` | `string` | ❌ | ✅ | ❌ | Current property value |
+
+### `telephony.PhoneConfigurationTypeEnum`
+
+_Phone configuration type enum_
+
+**Enum** (`enumType: string`):
+
+- `boolean`
+- `enum`
+- `hidden`
+- `ipv4`
+- `numeric`
+- `string`
+
+### `telephony.PhoneCredentials`
+
+_Credentials to access the web interface of the phone_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `login` | `string` | ❌ | ✅ | ❌ | Username to access the web interface of the phone |
+| `password` | `password` | ❌ | ❌ | ❌ | Password to access the web interface of the phone |
+
+### `telephony.Phonebook`
+
+_Phone book_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bookKey` | `string` | ❌ | ❌ | ✅ | Identifier of the phonebook |
+| `isReadonly` | `boolean` | ❌ | ❌ | ❌ | Set if phonebook is readonly |
+| `name` | `string` | ❌ | ❌ | ❌ | Phonebook name |
+| `phoneKey` | `string` | ❌ | ❌ | ✅ | Phone key identifier between the phone and phonebooks |
+
+### `telephony.PhonebookContact`
+
+_Phone book contact_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `group` | `string` | ❌ | ❌ | ❌ | Group name of the phonebook |
+| `homeMobile` | `phoneNumber` | ❌ | ✅ | ❌ | Home mobile phone number of the contact |
+| `homePhone` | `phoneNumber` | ❌ | ✅ | ❌ | Home landline phone number of the contact |
+| `id` | `long` | ❌ | ❌ | ✅ | Contact identifier |
+| `name` | `string` | ❌ | ❌ | ❌ | Contact name |
+| `surname` | `string` | ❌ | ❌ | ❌ | Contact surname |
+| `workMobile` | `phoneNumber` | ❌ | ✅ | ❌ | Mobile phone office number of the contact |
+| `workPhone` | `phoneNumber` | ❌ | ✅ | ❌ | Landline phone office number of the contact |
+
+### `telephony.PhonebookMaster`
+
+_Phone book on group_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bookKey` | `string` | ❌ | ❌ | ✅ | Identifier of the phonebook |
+| `name` | `string` | ❌ | ❌ | ❌ | Phone book name |
+
+### `telephony.Portability`
+
+_Portability informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `billingAccount` | `string` | ❌ | ❌ | ✅ | The billing account where the numbers will be inserted |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | The portability's creation date |
+| `customerInfos` | `telephony.PortabilityCustomerInfos` | ❌ | ❌ | ✅ | Customer informations about this portability |
+| `desiredExecutionDate` | `datetime` | ❌ | ✅ | ✅ | The date when the portability will be done and when numbers will be ported |
+| `error` | `boolean` | ❌ | ❌ | ✅ | Indicates that portability is in error |
+| `errorCodes` | `string[]` | ❌ | ❌ | ✅ | Codes representing the error in current portability |
+| `id` | `long` | ❌ | ❌ | ✅ | The ID of the portability |
+| `lineToRedirectTo` | `string` | ❌ | ✅ | ✅ | Show the redirection that will be configured when the portability will be done |
+| `numbersList` | `string[]` | ❌ | ❌ | ✅ | The list of numbers that is going to be ported |
+| `operator` | `string` | ❌ | ❌ | ✅ | The operator that currently holds the numbers |
+| `orderId` | `long` | ❌ | ❌ | ✅ | The ID of the portability order |
+| `portabilityCountry` | `telephony.PortabilityCountryEnum` | ❌ | ❌ | ✅ | Country that defines the portability kind |
+| `rio` | `string` | ❌ | ✅ | ✅ | RIO of the portability (France only) |
+
+### `telephony.PortabilityCountryEnum`
+
+_Country that defines the portability kind_
+
+**Enum** (`enumType: string`):
+
+- `belgium`
+- `france`
+- `switzerland`
+
+### `telephony.PortabilityCustomerInfos`
+
+_Customer informations about a portability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `building` | `string` | ❌ | ✅ | ❌ | Building of the customer's address |
+| `city` | `string` | ❌ | ❌ | ❌ | City of the customer's address |
+| `door` | `string` | ❌ | ✅ | ❌ | Door of the customer's address |
+| `floor` | `string` | ❌ | ✅ | ❌ | Floor of the customer's address |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the customer |
+| `siret` | `string` | ❌ | ✅ | ❌ | SIRET of the customer |
+| `stair` | `string` | ❌ | ✅ | ❌ | Stair of the customer's address |
+| `streetName` | `string` | ❌ | ❌ | ❌ | Street name of the customer's address |
+| `streetNumber` | `string` | ❌ | ❌ | ❌ | Street number of the customer's address |
+| `zip` | `string` | ❌ | ❌ | ❌ | ZIP code of the customer's address |
+
+### `telephony.PortabilityDocument`
+
+_Document linked to a portability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the document |
+| `documentId` | `long` | ❌ | ❌ | ✅ | Identifier of the document |
+| `getUrl` | `string` | ❌ | ❌ | ✅ | URL to get document |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the document |
+| `putUrl` | `string` | ❌ | ✅ | ✅ | URL to upload document |
+| `size` | `long` | ❌ | ❌ | ✅ | Document size (in bytes) |
+
+### `telephony.PortabilityFixErrorPossibleParameters`
+
+_Possible parameters to provide to fix portability errors_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `mandatoryParameters` | `string[]` | ❌ | ❌ | ❌ | Mandatory parameter list |
+| `optionalParameters` | `string[]` | ❌ | ❌ | ❌ | Optional parameter list |
+
+### `telephony.PortabilityStep`
+
+_A step in the portability process_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | A brief description of the step |
+| `doneDate` | `datetime` | ❌ | ✅ | ❌ | The date when this step was done |
+| `duration` | `telephony.PortabilityStepDuration` | ❌ | ❌ | ❌ | The theoric delay between the previous step's done date and this step's done date |
+| `infos` | `telephony.PortabilityStepInfos` | ❌ | ✅ | ❌ | Additional informations about the step |
+| `name` | `telephony.PortabilityStepNameEnum` | ❌ | ❌ | ❌ | The name of the portability step |
+| `status` | `telephony.PortabilityStepStatusEnum` | ❌ | ❌ | ❌ | Indicates if the step is to do, currently doing or done |
+
+### `telephony.PortabilityStepDuration`
+
+_Represent the delay between two portability steps_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `long` | ❌ | ❌ | ❌ | The quantity of delay |
+| `unit` | `telephony.PortabilityStepDurationUnitEnum` | ❌ | ❌ | ❌ | The delay's unit |
+
+### `telephony.PortabilityStepDurationUnitEnum`
+
+_List of possible duration unit. "NA" means that there is no defined duration_
+
+**Enum** (`enumType: string`):
+
+- `NA`
+- `day`
+- `hour`
+- `openday`
+
+### `telephony.PortabilityStepInfos`
+
+_Additional informations about the portability step_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `lastProposedDate` | `datetime` | ❌ | ✅ | ❌ | The last portability due date that has been proposed |
+| `reason` | `string` | ❌ | ✅ | ❌ | If the step status is "error", it is the reason |
+| `reasonType` | `string` | ❌ | ✅ | ❌ | A code representing the reason |
+
+### `telephony.PortabilityStepNameEnum`
+
+_List of possible step name_
+
+**Enum** (`enumType: string`):
+
+- `acknowledgmentReceivedFromOperator`
+- `belgiumPortabilityRequestCreated`
+- `belgiumPortabilityRequestExecutionAcked`
+- `belgiumPortabilityRequestExecutionAsked`
+- `belgiumPortabilityRequestExecutionCompleted`
+- `belgiumPortabilityRequestValidated`
+- `belgiumPortabilityRequestWaitingUntilExec`
+- `customerFormReceived`
+- `customerFormSent`
+- `customerFormValidated`
+- `finalReportReceivedFromOperator`
+- `intermediateReportReceivedFromOperator`
+- `numberActivation`
+- `requestSentToOperator`
+- `sDASequenceReceivedFromOperator`
+
+### `telephony.PortabilityStepStatusEnum`
+
+_List of possible status of a step_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `hold`
+- `todo`
+
+### `telephony.PreviousVoiceConsumption`
+
+_Call delivery record of the previous month_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `called` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `calling` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `consumptionId` | `long` | ❌ | ❌ | ✅ |  |
+| `countrySuffix` | `string` | ❌ | ❌ | ✅ | Country suffix destination |
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+| `designation` | `string` | ❌ | ❌ | ✅ | Description of the destination |
+| `destinationType` | `telephony.VoiceConsumptionDestinationTypeEnum` | ❌ | ❌ | ✅ |  |
+| `duration` | `long` | ❌ | ❌ | ✅ |  |
+| `hangupNature` | `string` | ❌ | ✅ | ✅ | Information about hangup cause |
+| `planType` | `telephony.VoiceConsumptionPlanTypeEnum` | ❌ | ❌ | ✅ |  |
+| `priceWithoutTax` | `order.Price` | ❌ | ❌ | ✅ |  |
+| `wayType` | `telephony.VoiceConsumptionWayTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.Procedure`
+
+_Procedure linked to your account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `finishDate` | `datetime` | ❌ | ✅ | ✅ | The date at which the procedure was closed. |
+| `id` | `long` | ❌ | ❌ | ✅ | Procedure ID |
+| `pdfUrl` | `string` | ❌ | ❌ | ✅ | The URL of the procedure document. |
+| `requestDate` | `datetime` | ❌ | ❌ | ✅ | The date at which the procedure was opened. |
+| `status` | `telephony.ProcedureStatusEnum` | ❌ | ❌ | ✅ | The current status of the procedure. |
+
+### `telephony.ProcedureStatusEnum`
+
+_Telephony procedure status_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `todo`
+- `waiting_for_customer`
+
+### `telephony.PropertyEnum`
+
+_All existing properties of line or alias offer_
+
+**Enum** (`enumType: string`):
+
+- `xdsl`
+
+### `telephony.ProtocolEnum`
+
+_Phone protocol_
+
+**Enum** (`enumType: string`):
+
+- `mgcp`
+- `sip`
+
+### `telephony.RateCodeInformation`
+
+_Informations related to the rate code_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `string` | ❌ | ❌ | ❌ | The Rsva rate code |
+| `pricePerCallWithoutTax` | `order.Price` | ❌ | ❌ | ❌ | Price per call |
+| `pricePerMinuteWithoutTax` | `order.Price` | ❌ | ❌ | ❌ | Price per minute |
+
+### `telephony.RealtimeEventDirection`
+
+_The call direction for a given event_
+
+**Enum** (`enumType: string`):
+
+- `incoming`
+- `outgoing`
+
+### `telephony.RealtimeEventProtocol`
+
+_The event protocol_
+
+**Enum** (`enumType: string`):
+
+- `mgcp`
+- `sip`
+
+### `telephony.RealtimeEventType`
+
+_The event type_
+
+**Enum** (`enumType: string`):
+
+- `end_calling`
+- `end_hold`
+- `end_ringing`
+- `start_calling`
+- `start_hold`
+- `start_ringing`
+
+### `telephony.Redirect`
+
+_Redirect service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `destination` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `featureType` | `telephony.TypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.RegistrationInformations`
+
+_Informations about a SIP registration (i.e. IP, port, User-Agent...)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datetime` | `datetime` | ❌ | ❌ | ❌ | SIP registration's date |
+| `domain` | `string` | ❌ | ✅ | ❌ | SIP registration's domain |
+| `ip` | `ip` | ❌ | ❌ | ❌ | SIP registration's IP |
+| `localIp` | `ip` | ❌ | ✅ | ❌ | SIP registration's local device IP |
+| `localPort` | `long` | ❌ | ✅ | ❌ | SIP registration's local device port |
+| `port` | `long` | ❌ | ✅ | ❌ | SIP registration's port |
+| `userAgent` | `string` | ❌ | ✅ | ❌ | SIP registration's User-Agent |
+
+### `telephony.RepaymentConsumption`
+
+_Call which are repayable_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `called` | `phoneNumber` | ❌ | ✅ | ✅ | Called number of the call |
+| `calling` | `phoneNumber` | ❌ | ✅ | ✅ | Calling number of the call |
+| `consumptionId` | `long` | ❌ | ❌ | ✅ |  |
+| `creationDatetime` | `datetime` | ❌ | ✅ | ✅ | the Datetime of the start of the call |
+| `dialed` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `duration` | `long` | ❌ | ✅ | ✅ | Duration of the call |
+| `operator` | `string` | ❌ | ✅ | ✅ | Calling number's operator |
+| `price` | `double` | ❌ | ✅ | ✅ | Price repayed with the call |
+| `repayable` | `boolean` | ❌ | ✅ | ✅ | Is the call repayable right now |
+
+### `telephony.ResellerPanelPasswordUpdateStatusEnum`
+
+_Status of password update_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `telephony.ResellerPanelStatus`
+
+_Describe the status of the reseller panel, if it is activated and if there is a password update ongoing_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ❌ | Whether the reseller panel is enabled or not |
+| `passwordUpdateStatus` | `telephony.ResellerPanelPasswordUpdateStatusEnum` | ❌ | ✅ | ❌ | Password update task status |
+
+### `telephony.ResetPhoneCodeInfo`
+
+_Relevant informations about reset code_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activationCode` | `string` | ❌ | ✅ | ❌ | Activation code |
+| `keyBook` | `string` | ❌ | ✅ | ❌ | Key book url |
+| `serverURL` | `string` | ❌ | ✅ | ❌ | Server url |
+
+### `telephony.ResetPhoneInfo`
+
+_Relevant informations of the phone reset_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `resetCodeInfo` | `telephony.ResetPhoneCodeInfo` | ❌ | ✅ | ❌ | Reset code informations |
+| `resetPhoneMethod` | `telephony.ResetPhoneMethodEnum` | ❌ | ❌ | ❌ | Which way had been used to reset the phone |
+
+### `telephony.ResetPhoneMethodEnum`
+
+_How the phone had been reset_
+
+**Enum** (`enumType: string`):
+
+- `code`
+- `http`
+
+### `telephony.Rma`
+
+_Current Return Merchandise Authorisation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cancellable` | `boolean` | ❌ | ❌ | ✅ | Is the RMA cancellable? |
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ | Creation datetime of the return merchandise authorisation ticket |
+| `equipmentReference` | `string` | ❌ | ❌ | ✅ | Merchandise reference |
+| `id` | `string` | ❌ | ❌ | ✅ | Return merchandise authorisation identifier |
+| `newMerchandise` | `string` | ❌ | ✅ | ✅ | New merchandise brand in case of exchange |
+| `offerTypeNew` | `telephony.RmaOfferTypeEnum` | ❌ | ✅ | ✅ | Offer type of the new merchandise in case of exchange |
+| `offerTypeOld` | `telephony.RmaOfferTypeEnum` | ❌ | ❌ | ✅ | Offer type of the return merchandise |
+| `process` | `telephony.RmaReplaceTypeEnum` | ❌ | ❌ | ❌ | Process determined for merchandise returned |
+| `receptionDatetime` | `datetime` | ❌ | ✅ | ✅ | Reception datetime of the return merchandise authorisation ticket |
+| `shippingContact` | `telephony.Contact` | ❌ | ❌ | ❌ | Contact information related to the delivery shipping in case of exchange |
+| `status` | `telephony.RmaStatusEnum` | ❌ | ❌ | ✅ | Return merchandise authorisation step |
+| `steps` | `telephony.RmaStep[]` | ❌ | ❌ | ✅ | Indicates the current status of the RMA with a list of steps |
+| `terminationDatetime` | `datetime` | ❌ | ✅ | ✅ | Termination datetime of the return merchandise authorisation ticket |
+| `type` | `telephony.RmaTypeEnum` | ❌ | ❌ | ✅ | Typology process of merchandise return |
+
+### `telephony.RmaChangeTypeEnum`
+
+_Types of return merchandise authorisation you can change to_
+
+**Enum** (`enumType: string`):
+
+- `resiliate`
+- `toSip`
+
+### `telephony.RmaOfferTypeEnum`
+
+_Return merchandise authorisation offer type_
+
+**Enum** (`enumType: string`):
+
+- `deposit`
+- `loan`
+- `purchase`
+
+### `telephony.RmaPublicTypeEnum`
+
+_Return merchandise authorisation type_
+
+**Enum** (`enumType: string`):
+
+- `change to another phone/equipment (restitution first and shipping then)`
+- `restitution but keep the service enable`
+
+### `telephony.RmaReplaceTypeEnum`
+
+_Return merchandise authorisation type_
+
+**Enum** (`enumType: string`):
+
+- `changePhone`
+- `phoneRestitution`
+- `undefined`
+
+### `telephony.RmaReturn`
+
+_Post-creation return information structure_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ❌ | Voucher reference identifier of the return merchandise authorisation |
+
+### `telephony.RmaStatusEnum`
+
+_Return merchandise authorisation step_
+
+**Enum** (`enumType: string`):
+
+- `closed`
+- `open`
+- `received`
+
+### `telephony.RmaStep`
+
+_Informations related to the current RMA step status_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | A brief description of the step |
+| `doneDate` | `datetime` | ❌ | ✅ | ❌ | The date when this step was done |
+| `infos` | `string` | ❌ | ✅ | ❌ | Additional informations about the step |
+| `name` | `telephony.RmaStepNameEnum` | ❌ | ❌ | ❌ | The name of the RMA step |
+| `status` | `telephony.RmaStepStatusEnum` | ❌ | ❌ | ❌ | Status of the step |
+
+### `telephony.RmaStepNameEnum`
+
+_RMA step names_
+
+**Enum** (`enumType: string`):
+
+- `dispatchJustification`
+- `equipmentSending`
+- `equipmentTesting`
+- `opening`
+- `parcelReception`
+- `parcelValidation`
+- `validation`
+
+### `telephony.RmaStepStatusEnum`
+
+_Status of the RMA step_
+
+**Enum** (`enumType: string`):
+
+- `done`
+- `todo`
+
+### `telephony.RmaTypeEnum`
+
+_Return merchandise authorisation type_
+
+**Enum** (`enumType: string`):
+
+- `after sale equipment service exchange`
+- `after sale phone service exchange`
+- `equipment restitution`
+- `fast exchange`
+- `old merchandise reception before exchange`
+- `phone restitution`
+- `resends due to shipping lost by the carrier`
+- `resends due to shipping not withdraw`
+- `specific return merchandise authorisation`
+- `termination`
+- `unknown`
+
+### `telephony.Rsva`
+
+_French value added services subject to the RSVA reform (Référentiel des numéros SVA)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `typology` | `telephony.portability.SpecialNumberCategoryEnum` | ❌ | ✅ | ❌ |  |
+
+### `telephony.Scheduler`
+
+_Scheduler capable services_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `timeZone` | `telephony.timeZone` | ❌ | ❌ | ❌ |  |
+
+### `telephony.SchedulerCategoryEnum`
+
+_Scheculer category_
+
+**Enum** (`enumType: string`):
+
+- `holidays`
+- `scheduler1`
+- `scheduler2`
+- `scheduler3`
+
+### `telephony.SchedulerEvent`
+
+_Scheduled event_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `categories` | `telephony.SchedulerCategoryEnum` | ❌ | ❌ | ❌ | The category of the event |
+| `dateEnd` | `datetime` | ❌ | ❌ | ❌ | The ending date of the event |
+| `dateStart` | `datetime` | ❌ | ❌ | ❌ | The beginning date of the event |
+| `description` | `string` | ❌ | ✅ | ❌ |  |
+| `title` | `string` | ❌ | ❌ | ❌ |  |
+| `uid` | `string` | ❌ | ❌ | ✅ | The unique ICS event identifier |
+
+### `telephony.Screen`
+
+_ScreenList capable services_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `incomingScreenList` | `telephony.ScreenListChoosingEnum` | ❌ | ❌ | ❌ |  |
+| `outgoingScreenList` | `telephony.ScreenListChoosingEnum` | ❌ | ❌ | ❌ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.ScreenList`
+
+_Screen list_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callNumber` | `string` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `nature` | `telephony.ScreenListNatureEnum` | ❌ | ❌ | ✅ |  |
+| `status` | `string` | ❌ | ❌ | ✅ |  |
+| `type` | `telephony.ScreenListTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.ScreenListChoosingEnum`
+
+_Type of screen list_
+
+**Enum** (`enumType: string`):
+
+- `blacklist`
+- `disabled`
+- `whitelist`
+
+### `telephony.ScreenListNatureEnum`
+
+_Nature of screen list_
+
+**Enum** (`enumType: string`):
+
+- `fax`
+- `international`
+- `services`
+- `special`
+- `voicemail`
+
+### `telephony.ScreenListTypeEnum`
+
+_Type of screen list_
+
+**Enum** (`enumType: string`):
+
+- `incomingBlackList`
+- `incomingWhiteList`
+- `outgoingBlackList`
+- `outgoingWhiteList`
+
+### `telephony.ServiceNumberCountryEnum`
+
+_Number country_
+
+**Enum** (`enumType: string`):
+
+- `be`
+- `ch`
+- `de`
+- `es`
+- `fr`
+- `gb`
+- `uk`
+
+### `telephony.ServiceVoicemailAudioFormatEnum`
+
+_Voicemail audio format_
+
+**Enum** (`enumType: string`):
+
+- `aiff`
+- `au`
+- `flac`
+- `mp3`
+- `ogg`
+- `wav`
+
+### `telephony.ServiceVoicemailMailOptionEnum`
+
+_Voicemail configuration_
+
+**Enum** (`enumType: string`):
+
+- `attachment`
+- `attachment+transcript`
+- `simple`
+- `transcript`
+
+### `telephony.ServiceVoicemailNotifications`
+
+_Voicemail configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `email` | `string` | ❌ | ❌ | ❌ |  |
+| `type` | `telephony.ServiceVoicemailMailOptionEnum` | ❌ | ❌ | ❌ |  |
+
+### `telephony.SimultaneousChannelsDetails`
+
+_Details about simultaneous channels of this line_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `basic` | `long` | ❌ | ❌ | ❌ | Basic quantity of simultaneous channels included in the line. |
+| `current` | `long` | ❌ | ❌ | ❌ | Current quantity of simultaneous channels. |
+| `extra` | `long` | ❌ | ❌ | ❌ | Extra quantity of simultaneous channels added to the line. |
+| `maximum` | `long` | ❌ | ❌ | ❌ | Maximum quantity of simultaneous channels the line can have. |
+| `toBeDeleted` | `long` | ❌ | ❌ | ❌ | Quantity of simultaneous channels going to be deleted at the end of the billing cycle. |
+
+### `telephony.SipDomainProductTypeEnum`
+
+_Product type_
+
+**Enum** (`enumType: string`):
+
+- `sip`
+- `trunk`
+
+### `telephony.SoftphoneBetaStatus`
+
+_Beta status of softphone_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ✅ | ❌ | ❌ | Whether Softphone beta is enabled or disabled |
+
+### `telephony.SoftphoneDevices`
+
+_List of softphone devices_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Device ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Device name |
+| `os` | `string` | ❌ | ❌ | ✅ | Device operating system |
+| `updateTime` | `datetime` | ❌ | ❌ | ✅ | Last device register date |
+| `userAgent` | `string` | ❌ | ❌ | ✅ | Device user agent |
+
+### `telephony.SoftphoneInfrastructureEnum`
+
+_Softphone infrastructure_
+
+**Enum** (`enumType: string`):
+
+- `LEGACY`
+- `NOWI`
+
+### `telephony.SoftphoneLogo`
+
+_Softphone logo information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `filename` | `string` | ✅ | ❌ | ❌ | Logo filename |
+| `url` | `string` | ✅ | ❌ | ❌ | URL used to download logo |
+
+### `telephony.SoftphoneStatus`
+
+_Softphone status_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activation` | `boolean` | ❌ | ❌ | ✅ | Line beta softphone activation status |
+| `eligibility` | `boolean` | ❌ | ❌ | ✅ | Line eligibility to softphone |
+| `infrastructure` | `telephony.SoftphoneInfrastructureEnum` | ❌ | ❌ | ✅ | Line infrastructure |
+
+### `telephony.SoftphoneStoreLinks`
+
+_Softphone application stores links_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `android` | `string` | ❌ | ❌ | ✅ | Android application store link |
+| `ios` | `string` | ❌ | ❌ | ✅ | iOS application store link |
+| `macos` | `string` | ❌ | ❌ | ✅ | MacOS application store link |
+| `windows` | `string` | ❌ | ❌ | ✅ | Windows application store link |
+
+### `telephony.SoftphoneTheme`
+
+_Softphone theme information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `color` | `string` | ❌ | ❌ | ✅ | Theme main color code |
+| `themeId` | `long` | ❌ | ❌ | ✅ | Theme ID |
+
+### `telephony.SoftphoneThemeInput`
+
+_Softphone theme update inputs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `themeId` | `long` | ✅ | ❌ | ❌ | Theme ID |
+
+### `telephony.SoftphoneToken`
+
+_Softphone provisioning token_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `token` | `password` | ❌ | ❌ | ✅ | Provisioning token used to register device |
+
+### `telephony.SoftphoneTokenInput`
+
+_Softphone token input_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `email` | `string` | ❌ | ❌ | ❌ | Email to receive the generated provisioning token |
+
+### `telephony.Sound`
+
+_Sounds attached to this telephony account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Sound creation date |
+| `description` | `string` | ❌ | ✅ | ❌ | Sound description |
+| `filename` | `string` | ❌ | ❌ | ❌ | Sound filename |
+| `getUrl` | `string` | ❌ | ❌ | ✅ | URL to get sound file |
+| `id` | `long` | ❌ | ❌ | ✅ | Sound ID |
+| `putUrl` | `string` | ❌ | ✅ | ✅ | URL to upload sound file |
+| `size` | `long` | ❌ | ❌ | ✅ | Sound file size (in bytes) |
+
+### `telephony.SpecificNumber`
+
+_Specific number available_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `isPremium` | `boolean` | ❌ | ❌ | ❌ | Set if number is premium |
+| `number` | `phoneNumber` | ❌ | ❌ | ❌ | The number |
+
+### `telephony.StatisticsTimeframeEnum`
+
+_Available timeframes for statistics_
+
+**Enum** (`enumType: string`):
+
+- `daily`
+- `hourly`
+- `monthly`
+- `weekly`
+- `yearly`
+
+### `telephony.Task`
+
+_Operation on a telephony service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `string` | ❌ | ❌ | ✅ | Action associated with the task |
+| `message` | `string` | ❌ | ✅ | ✅ | Potential failure reason of the task |
+| `objectCreated` | `string` | ❌ | ✅ | ✅ | Object potentially created at the end of the task |
+| `serviceType` | `string` | ❌ | ❌ | ✅ |  |
+| `status` | `telephony.TaskStatusEnum` | ❌ | ❌ | ✅ | Status of the task |
+| `taskId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.TaskStatusEnum`
+
+_Task status_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `pause`
+- `todo`
+
+### `telephony.TelephonyGenericService`
+
+_Telephony service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.TelephonyGenericServiceWithIAM`
+
+_Telephony service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.TelephonySearchService`
+
+_Informations related to a telephony service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `billingAccount` | `string` | ❌ | ✅ | ❌ | The billing account of the service |
+| `domain` | `string` | ❌ | ❌ | ❌ | The service domain |
+| `type` | `telephony.TelephonySearchServiceTypeEnum` | ❌ | ❌ | ❌ | The offer description |
+
+### `telephony.TelephonySearchServiceTypeEnum`
+
+_List of possible type of a telephony service_
+
+**Enum** (`enumType: string`):
+
+- `alias`
+- `line`
+- `trunk`
+
+### `telephony.TelephonyService`
+
+_Telephony service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `associatedDeviceMac` | `macAddress` | ❌ | ✅ | ✅ | MAC address of the associated device if there is one. |
+| `country` | `telephony.ServiceNumberCountryEnum` | ❌ | ❌ | ✅ | The country of the number |
+| `countryCode` | `telephony.NumberCountryCodeEnum` | ❌ | ❌ | ✅ | The country code of the number |
+| `currentOutplan` | `order.Price` | ❌ | ❌ | ✅ | Current outplan |
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `featureType` | `telephony.TypeEnum` | ❌ | ❌ | ✅ |  |
+| `getPublicOffer` | `telephony.LineOffer` | ❌ | ❌ | ✅ | The service offers |
+| `hasFaxCapabilities` | `boolean` | ❌ | ❌ | ✅ | Does this service have fax capabilities? |
+| `offers` | `string[]` | ❌ | ❌ | ✅ |  |
+| `properties` | `telephony.PropertyEnum[]` | ❌ | ❌ | ✅ |  |
+| `rio` | `string` | ❌ | ❌ | ✅ | The identifier to use to port the number |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+| `simultaneousLines` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.TemporaryLogsLink`
+
+_Temporary url informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ❌ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ❌ | Temporary url |
+
+### `telephony.TerminationReasonEnum`
+
+_Termination reason_
+
+**Enum** (`enumType: string`):
+
+- `addresseMove`
+- `billingDifficulties`
+- `cessationOfActivity`
+- `missingOptions`
+- `moveToCompetitor`
+- `other`
+- `plugAndPhoneDifficulties`
+- `technicalDifficulties`
+
+### `telephony.TimeCondition`
+
+_Time conditions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `day` | `telephony.TimeConditionsDayEnum` | ❌ | ❌ | ❌ |  |
+| `hourBegin` | `string` | ❌ | ❌ | ❌ |  |
+| `hourEnd` | `string` | ❌ | ❌ | ❌ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `policy` | `telephony.TimeConditionsPolicyEnum` | ❌ | ❌ | ❌ |  |
+| `status` | `string` | ❌ | ❌ | ❌ |  |
+
+### `telephony.TimeConditionOptions`
+
+_Time conditions options_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `slot1Number` | `string` | ❌ | ❌ | ❌ | Number associated to the first slot action |
+| `slot1Type` | `telephony.TimeConditionsSlotTypeEnum` | ❌ | ❌ | ❌ | Action type executed when the first slot is used |
+| `slot2Number` | `string` | ❌ | ❌ | ❌ | Number associated to the second slot action |
+| `slot2Type` | `telephony.TimeConditionsSlotTypeEnum` | ❌ | ❌ | ❌ | Action type executed when the second slot is used |
+| `slot3Number` | `string` | ❌ | ❌ | ❌ | Number associated to the third slot action |
+| `slot3Type` | `telephony.TimeConditionsSlotTypeEnum` | ❌ | ❌ | ❌ | Action type executed when the third slot is used |
+| `status` | `telephony.TimeConditionsGlobalStatusEnum` | ❌ | ❌ | ❌ | Status of time conditions |
+| `timeout` | `telephony.TimeConditionsTimeoutEnum` | ❌ | ✅ | ❌ | Timeout value of the time condition |
+| `unavailableNumber` | `string` | ❌ | ❌ | ❌ | Number associated to the unavailable slot action |
+| `unavailableType` | `telephony.TimeConditionsSlotTypeEnum` | ❌ | ❌ | ❌ | Action type executed when the unavailable slot is used |
+
+### `telephony.TimeConditionsDayEnum`
+
+_Day of the time condition_
+
+**Enum** (`enumType: string`):
+
+- `friday`
+- `holiday`
+- `monday`
+- `saturday`
+- `sunday`
+- `thursday`
+- `tuesday`
+- `wednesday`
+
+### `telephony.TimeConditionsGlobalStatusEnum`
+
+_Time conditions global status_
+
+**Enum** (`enumType: string`):
+
+- `deleted`
+- `disabled`
+- `enabled`
+
+### `telephony.TimeConditionsPolicyEnum`
+
+_Policy of the time condition_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `slot1`
+- `slot2`
+- `slot3`
+
+### `telephony.TimeConditionsSettingsForwardTypeEnum`
+
+_Forward type_
+
+**Enum** (`enumType: string`):
+
+- `number`
+- `voicemail`
+
+### `telephony.TimeConditionsSlotTypeEnum`
+
+_Type of slot_
+
+**Enum** (`enumType: string`):
+
+- `number`
+- `voicemail`
+
+### `telephony.TimeConditionsTimeoutEnum`
+
+_Timeout before unavailable action is triggered_
+
+**Enum** (`enumType: long`):
+
+- `5`
+- `10`
+- `15`
+- `20`
+- `25`
+- `30`
+- `35`
+- `40`
+- `45`
+- `50`
+- `55`
+- `60`
+- `65`
+- `70`
+- `75`
+- `80`
+- `85`
+- `90`
+
+### `telephony.TimestampAndValue`
+
+_A value associated to a timestamp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `timestamp` | `long` | ❌ | ❌ | ❌ |  |
+| `value` | `double` | ❌ | ✅ | ❌ |  |
+
+### `telephony.TokenExpirationEnum`
+
+_expiration possibility_
+
+**Enum** (`enumType: string`):
+
+- `1 day`
+- `1 hour`
+- `30 days`
+- `5 minutes`
+- `unlimited`
+
+### `telephony.Tones`
+
+_Line tones_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callWaiting` | `telephony.TonesEnum` | ❌ | ❌ | ❌ | Tone played when caller is waiting in queue |
+| `endCall` | `telephony.TonesEnum` | ❌ | ❌ | ❌ | Tone played when callee is ending call |
+| `onHold` | `telephony.TonesOnHoldEnum` | ❌ | ❌ | ❌ | Tone played when caller is put on hold |
+| `ringback` | `telephony.TonesEnum` | ❌ | ❌ | ❌ | Ringback tone |
+
+### `telephony.TonesEnum`
+
+_Tones type_
+
+**Enum** (`enumType: string`):
+
+- `Custom sound`
+- `None`
+
+### `telephony.TonesOnHoldEnum`
+
+_Tones type_
+
+**Enum** (`enumType: string`):
+
+- `Custom sound`
+- `None`
+- `Predefined 1`
+- `Predefined 2`
+
+### `telephony.TonesTypeEnum`
+
+_Tones type_
+
+**Enum** (`enumType: string`):
+
+- `callWaiting`
+- `endCall`
+- `onHold`
+- `ringback`
+
+### `telephony.TranscriptFile`
+
+_Telephony API related to the transcript file hosted_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `filename` | `string` | ❌ | ✅ | ❌ | The transcript filename |
+| `status` | `telephony.TranscriptFileStatusEnum` | ❌ | ❌ | ❌ | The status of the request |
+| `url` | `string` | ❌ | ✅ | ❌ | The download URL for the transcript file |
+| `urlExpirationDatetime` | `datetime` | ❌ | ✅ | ❌ | The expiration date for the download URL |
+
+### `telephony.TranscriptFileStatusEnum`
+
+_Enum providing transcript status_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+
+### `telephony.TranscriptFormatEnum`
+
+_Enum providing transcript file format_
+
+**Enum** (`enumType: string`):
+
+- `json`
+- `text`
+
+### `telephony.Trunk`
+
+_Trunk service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the service |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the service |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ | Type of the service |
+
+### `telephony.TrunkExternalDisplayedNumber`
+
+_External displayed number linked to a trunk_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `number` | `phoneNumber` | ❌ | ❌ | ✅ | External displayed number linked to a trunk |
+| `status` | `telephony.TrunkExternalDisplayedNumberStatusEnum` | ❌ | ❌ | ✅ | Validation status |
+| `validatedAt` | `datetime` | ❌ | ✅ | ✅ | Validation date |
+
+### `telephony.TrunkExternalDisplayedNumberStatusEnum`
+
+_Status of the trunk's external displayed number_
+
+**Enum** (`enumType: string`):
+
+- `enabled`
+- `refused`
+- `toDelete`
+- `waitingValidation`
+
+### `telephony.TrunkExternalDisplayedNumberValidation`
+
+_Trunk external displayed number validation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `phoneCallTaskId` | `long` | ❌ | ❌ | ❌ | telephony.Task id of the validation phone call |
+| `validationCode` | `string` | ❌ | ❌ | ❌ | Validation code to type during phone call |
+
+### `telephony.TrunkSimultaneousPack`
+
+_Details for a channels pack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `channels` | `long` | ❌ | ❌ | ❌ | The number of channels included in the pack |
+| `quantity` | `long` | ❌ | ❌ | ❌ | The quantity of packs present in the combination |
+| `unitPrice` | `order.Price` | ❌ | ❌ | ❌ | The unit price of the channels pack |
+
+### `telephony.TrunkSimultaneousPacksRepartition`
+
+_Repartition of simultaneous channels packs for a trunk_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `optimizedChannelsQuantity` | `long` | ❌ | ❌ | ❌ | The optimized quantity of channels to order |
+| `packsRepartition` | `telephony.TrunkSimultaneousPack[]` | ❌ | ❌ | ❌ | The repartition of the packs |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ❌ | The total price of the channels packs combination |
+
+### `telephony.TypeEnum`
+
+_All existing types of line or alias_
+
+**Enum** (`enumType: string`):
+
+- `carrierSip`
+- `cloudHunting`
+- `cloudIvr`
+- `conference`
+- `contactCenterSolution`
+- `contactCenterSolutionExpert`
+- `ddi`
+- `easyHunting`
+- `empty`
+- `fax`
+- `freefax`
+- `mgcp`
+- `oldConference`
+- `plugAndFax`
+- `redirect`
+- `sip`
+- `svi`
+- `voicefax`
+- `voicemail`
+- `vxml`
+
+### `telephony.TypeServiceEnum`
+
+_All existing types_
+
+**Enum** (`enumType: string`):
+
+- `alias`
+- `line`
+
+### `telephony.VoiceConsumption`
+
+_Call delivery record_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `called` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `calling` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `consumptionId` | `long` | ❌ | ❌ | ✅ |  |
+| `countrySuffix` | `string` | ❌ | ❌ | ✅ | Country suffix destination |
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+| `designation` | `string` | ❌ | ❌ | ✅ | Description of the destination |
+| `destinationType` | `telephony.VoiceConsumptionDestinationTypeEnum` | ❌ | ❌ | ✅ |  |
+| `dialed` | `phoneNumber` | ❌ | ✅ | ✅ |  |
+| `duration` | `long` | ❌ | ❌ | ✅ |  |
+| `hangupNature` | `string` | ❌ | ✅ | ✅ | Information about hangup cause |
+| `planType` | `telephony.VoiceConsumptionPlanTypeEnum` | ❌ | ❌ | ✅ |  |
+| `priceWithoutTax` | `order.Price` | ❌ | ❌ | ✅ |  |
+| `wayType` | `telephony.VoiceConsumptionWayTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.VoiceConsumptionDestinationTypeEnum`
+
+_Consumption destination type_
+
+**Enum** (`enumType: string`):
+
+- `landline`
+- `mobile`
+- `special`
+
+### `telephony.VoiceConsumptionPlanTypeEnum`
+
+_Consumption plan type_
+
+**Enum** (`enumType: string`):
+
+- `outplan`
+- `priceplan`
+
+### `telephony.VoiceConsumptionWayTypeEnum`
+
+_Consumption way type_
+
+**Enum** (`enumType: string`):
+
+- `incoming`
+- `outgoing`
+- `transfer`
+
+### `telephony.VoicefaxRoutingEnum`
+
+_All existing type of routing for a voicemail_
+
+**Enum** (`enumType: string`):
+
+- `fax`
+- `voicemail`
+
+### `telephony.Voicemail`
+
+_Voicemail service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `offers` | `string[]` | ❌ | ❌ | ✅ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.VoicemailGreetingEnum`
+
+_Greeting type_
+
+**Enum** (`enumType: string`):
+
+- `default`
+- `full`
+- `short`
+
+### `telephony.VoicemailGreetings`
+
+_Voicemail greeting_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callee` | `phoneNumber` | ❌ | ❌ | ✅ | Callee number in international format |
+| `dir` | `telephony.VoicemailMessageFolderGreetingEnum` | ❌ | ❌ | ✅ | Customized greeting voicemail directory |
+| `id` | `long` | ❌ | ❌ | ✅ | Uniq customized greeting identifier |
+
+### `telephony.VoicemailMessageFolderDirectoryEnum`
+
+_Folder type_
+
+**Enum** (`enumType: string`):
+
+- `family`
+- `friends`
+- `inbox`
+- `old`
+- `urgent`
+- `work`
+
+### `telephony.VoicemailMessageFolderGreetingEnum`
+
+_Folder type_
+
+**Enum** (`enumType: string`):
+
+- `busy`
+- `greet`
+- `temp`
+- `unavail`
+
+### `telephony.VoicemailMessages`
+
+_Voicemail message_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `callee` | `phoneNumber` | ❌ | ❌ | ✅ | Callee number in international format |
+| `caller` | `phoneNumber` | ❌ | ❌ | ✅ | Caller number in international format |
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ | Message datetime creation |
+| `dir` | `telephony.VoicemailMessageFolderDirectoryEnum` | ❌ | ❌ | ✅ | Voicemessage directory |
+| `duration` | `long` | ❌ | ❌ | ✅ | Message duration (in seconds) |
+| `id` | `long` | ❌ | ❌ | ✅ | Uniq voicemail message identifier |
+
+### `telephony.VoicemailNumbers`
+
+_Internal and external numbers for voicemail service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `external` | `string` | ❌ | ❌ | ❌ | The external voicemail number |
+| `internal` | `string` | ❌ | ❌ | ❌ | The internal voicemail number |
+
+### `telephony.VoicemailProperties`
+
+_Voicemail Properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `annouceMessage` | `string` | ❌ | ❌ | ✅ | Name of the voicemail panel announce file |
+| `audioFormat` | `telephony.ServiceVoicemailAudioFormatEnum` | ❌ | ❌ | ❌ | Format of the voicemail audio file attached to emails |
+| `doNotRecord` | `boolean` | ❌ | ❌ | ❌ | Don't allow callers to leave voicemails |
+| `forcePassword` | `boolean` | ❌ | ❌ | ❌ | Force password request to access the voicemail panel |
+| `fromEmail` | `string` | ❌ | ❌ | ❌ | Email address from which emails will be sent |
+| `fromName` | `string` | ❌ | ❌ | ❌ | Name from which emails will be sent |
+| `fullGreetingSoundId` | `long` | ❌ | ✅ | ❌ | Sound ID of the long greeeting |
+| `greetingType` | `telephony.VoicemailGreetingEnum` | ❌ | ❌ | ❌ | Type of the greeting to play |
+| `isNewVersion` | `boolean` | ❌ | ❌ | ✅ | Current voicemail version |
+| `keepMessage` | `boolean` | ❌ | ❌ | ❌ | Don't delete voicemails after they've been sent by email |
+| `redirectionEmails` | `telephony.ServiceVoicemailNotifications[]` | ❌ | ❌ | ❌ | Email addresses to notify when a new voicemail is left |
+| `shortGreetingSoundId` | `long` | ❌ | ✅ | ❌ | Sound ID of the short greeting played before an automated message |
+| `temporaryGreetingActivated` | `boolean` | ❌ | ❌ | ❌ | Play the temporary greeting instead of the regular one |
+| `temporaryGreetingSoundId` | `long` | ❌ | ✅ | ❌ | Sound ID of the temporary greeeting |
+| `unreadMessages` | `long` | ❌ | ❌ | ✅ | Quantity of unread voicemails |
+
+### `telephony.Vxml`
+
+_Vxml services_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ |  |
+| `offers` | `string[]` | ❌ | ❌ | ✅ |  |
+| `serviceName` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceType` | `telephony.TypeServiceEnum` | ❌ | ❌ | ✅ |  |
+
+### `telephony.VxmlProperties`
+
+_Vxml Properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `url` | `string` | ❌ | ❌ | ❌ |  |
+| `urlRecord` | `string` | ❌ | ❌ | ❌ |  |
+
+### `telephony.portability.SpecialNumberCategoryEnum`
+
+_Special number category_
+
+**Enum** (`enumType: string`):
+
+- `access`
+- `announced`
+- `conferencing`
+- `contentsAuto`
+- `contentsManual`
+- `directory`
+- `games`
+- `linking`
+- `m2m`
+- `relationship`
+
+### `telephony.timeZone`
+
+_Time zones available for scheduled events time definitions_
+
+**Enum** (`enumType: string`):
+
+- `Europe/Berlin`
+- `Europe/Brussels`
+- `Europe/London`
+- `Europe/Madrid`
+- `Europe/Paris`
+- `Europe/Zurich`
+
+### `telephony.trafficExtract`
+
+_Traffic extracts (SIP) of your line_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dateEnd` | `datetime` | ❌ | ❌ | ✅ | The start date of the traffic extract |
+| `dateStart` | `datetime` | ❌ | ❌ | ✅ | The start date of the traffic extract |
+| `fileSize` | `long` | ❌ | ❌ | ✅ | The PCAP file size of the traffic extract |
+| `fileUrl` | `string` | ❌ | ❌ | ✅ | The PCAP URL of the traffic extract |
+| `id` | `long` | ❌ | ❌ | ✅ | The id of the traffic extract |
+| `status` | `telephony.TaskStatusEnum` | ❌ | ❌ | ✅ | The status of the extract |
 
 

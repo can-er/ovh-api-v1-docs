@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **52** — Operations: **72**
+> Routes: **52** — Operations: **72**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `01f2953bc8046c42`
 
 ---
 
@@ -67,7 +69,7 @@
 
 ## `/hosting/privateDatabase`
 
-### 🟢 GET `GET` — List available Web Cloud Databases
+### 🟢 GET — List available Web Cloud Databases
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -88,7 +90,7 @@
 
 ## `/hosting/privateDatabase/availableOrderCapacities`
 
-### 🟢 GET `GET` — Get available order capacities
+### 🟢 GET — Get available order capacities
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -109,7 +111,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}`
 
-### 🟢 GET `GET` — Get a Web Cloud Database properties
+### 🟢 GET — Get a Web Cloud Database properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -127,7 +129,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Alter a Web Cloud Database properties
+### 🟠 PUT — Alter a Web Cloud Database properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -149,7 +151,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/availableVersions`
 
-### 🟢 GET `GET` — Get the availables versions for this private database
+### 🟢 GET — Get the availables versions for this private database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -170,7 +172,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/changeContact`
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -192,7 +194,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/changeFtpPassword`
 
-### 🟡 POST `POST` — Change FTP password of your Web Cloud Database
+### 🟡 POST — Change FTP password of your Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -214,7 +216,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/changeVersion`
 
-### 🟡 POST `POST` — Change DBMS version of your Web Cloud Database
+### 🟡 POST — Change DBMS version of your Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -236,7 +238,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/config`
 
-### 🟢 GET `GET` — Get the current configuration for this Web Cloud Database
+### 🟢 GET — Get the current configuration for this Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -257,7 +259,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/config/update`
 
-### 🟡 POST `POST` — Update the configuration of this Web Cloud Database
+### 🟡 POST — Update the configuration of this Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -279,7 +281,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/confirmTermination`
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -301,7 +303,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/cpuThrottle`
 
-### 🟢 GET `GET` — List of privatesql CPU throttle
+### 🟢 GET — List of privatesql CPU throttle
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -322,7 +324,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database`
 
-### 🟢 GET `GET` — List databases on a privateDatabase
+### 🟢 GET — List databases on a privateDatabase
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -340,7 +342,7 @@
 
 ---
 
-### 🟡 POST `POST` — Create a new database in a Web Cloud Database
+### 🟡 POST — Create a new database in a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -362,7 +364,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}`
 
-### 🔴 DELETE `DELETE` — Delete a database from a Web Cloud Database
+### 🔴 DELETE — Delete a database from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -381,7 +383,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get database properties
+### 🟢 GET — Get database properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -403,7 +405,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/copy`
 
-### 🟢 GET `GET` — List database copy of a privateDatabase
+### 🟢 GET — List database copy of a privateDatabase
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -422,7 +424,7 @@
 
 ---
 
-### 🟡 POST `POST` — Create a new database copy in a Web Cloud Database
+### 🟡 POST — Create a new database copy in a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -444,7 +446,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/copy/{id}`
 
-### 🔴 DELETE `DELETE` — Delete the database copy of a Web Cloud Database
+### 🔴 DELETE — Delete the database copy of a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -464,7 +466,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get database copy properties
+### 🟢 GET — Get database copy properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -487,7 +489,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/copyRestore`
 
-### 🟡 POST `POST` — Request the copy into a Web Cloud Database
+### 🟡 POST — Request the copy into a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -510,7 +512,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/dump`
 
-### 🟢 GET `GET` — Get all database dump from a Web Cloud Database
+### 🟢 GET — Get all database dump from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -529,7 +531,7 @@
 
 ---
 
-### 🟡 POST `POST` — Request the dump of this database (an email will be sent with a link available 30 days)
+### 🟡 POST — Request the dump of this database (an email will be sent with a link available 30 days)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -552,7 +554,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/dump/{id}`
 
-### 🔴 DELETE `DELETE` — Delete dump before expiration date
+### 🔴 DELETE — Delete dump before expiration date
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -572,7 +574,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get a database dump from a Web Cloud Database
+### 🟢 GET — Get a database dump from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -595,7 +597,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/dump/{id}/restore`
 
-### 🟡 POST `POST` — Request the restore from this dump
+### 🟡 POST — Request the restore from this dump
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -618,7 +620,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/extension`
 
-### 🟢 GET `GET` — List extensions available for a Webcloud Database
+### 🟢 GET — List extensions available for a Webcloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -642,7 +644,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/extension/{extensionName}`
 
-### 🟢 GET `GET` — Get properties of a Webcloud Database extension
+### 🟢 GET — Get properties of a Webcloud Database extension
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -665,7 +667,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/extension/{extensionName}/disable`
 
-### 🟡 POST `POST` — Disable an extension on a Web Cloud Database
+### 🟡 POST — Disable an extension on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -688,7 +690,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/extension/{extensionName}/enable`
 
-### 🟡 POST `POST` — Enable an extension on a Web Cloud Database
+### 🟡 POST — Enable an extension on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -711,7 +713,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/database/{databaseName}/import`
 
-### 🟡 POST `POST` — Import a database into a Web Cloud Database
+### 🟡 POST — Import a database into a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -734,7 +736,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/databaseWizard`
 
-### 🟡 POST `POST` — Create a new database/user and grant it
+### 🟡 POST — Create a new database/user and grant it
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -756,7 +758,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/dump`
 
-### 🟢 GET `GET` — Get all database dump from a Web Cloud Database
+### 🟢 GET — Get all database dump from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -779,7 +781,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/dump/{dumpId}`
 
-### 🔴 DELETE `DELETE` — Delete a database dump from a Web Cloud Database
+### 🔴 DELETE — Delete a database dump from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -798,7 +800,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get a database dump from a Web Cloud Database
+### 🟢 GET — Get a database dump from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -820,7 +822,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/dump/{dumpId}/restore`
 
-### 🟡 POST `POST` — Restore a database dump into a Web Cloud Database
+### 🟡 POST — Restore a database dump into a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -843,7 +845,7 @@
 
 ## `/hosting/privateDatabase/{serviceName}/generateTemporaryLogsLink`
 
-### 🟡 POST `POST` — Generate a temporary link to access logs for a Web Cloud Database
+### 🟡 POST — Generate a temporary link to access logs for a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -866,7 +868,7 @@
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -889,7 +891,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -913,7 +915,7 @@ _Access to available log kind_
 
 _Query operations on Web Cloud Database logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for Web Cloud Database
+### 🟢 GET — List subscription IDs for Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -932,7 +934,7 @@ _Query operations on Web Cloud Database logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a Web Cloud Database
+### 🟡 POST — Create subscription to log to customer for a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -956,7 +958,7 @@ _Query operations on Web Cloud Database logs subscription to log to customer_
 
 _Query operations on Web Cloud Database logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -975,7 +977,7 @@ _Query operations on Web Cloud Database logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -999,7 +1001,7 @@ _Query operations on Web Cloud Database logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1021,7 +1023,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/metricsToken`
 
-### 🟢 GET `GET` — Generate a metrics token
+### 🟢 GET — Generate a metrics token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1042,7 +1044,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/oom`
 
-### 🟢 GET `GET` — List of privatesql OOM kill
+### 🟢 GET — List of privatesql OOM kill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1063,7 +1065,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/quotaRefresh`
 
-### 🟡 POST `POST` — Refresh the quota of your Web Cloud Database
+### 🟡 POST — Refresh the quota of your Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1084,7 +1086,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/restart`
 
-### 🟡 POST `POST` — Restart the Web Cloud Database
+### 🟡 POST — Restart the Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1105,7 +1107,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/serviceInfos`
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1123,7 +1125,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1145,7 +1147,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/tasks`
 
-### 🟢 GET `GET` — List tasks for a Webcloud Database
+### 🟢 GET — List tasks for a Webcloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1168,7 +1170,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/tasks/{id}`
 
-### 🟢 GET `GET` — Get task details
+### 🟢 GET — Get task details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1190,7 +1192,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/terminate`
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1211,7 +1213,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/user`
 
-### 🟢 GET `GET` — List users on a Web Cloud Database
+### 🟢 GET — List users on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1229,7 +1231,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟡 POST `POST` — Create a user on a Web Cloud Database
+### 🟡 POST — Create a user on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1251,7 +1253,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/user/{userName}`
 
-### 🔴 DELETE `DELETE` — Delete a user on a Web Cloud Database
+### 🔴 DELETE — Delete a user on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1270,7 +1272,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟢 GET `GET` — Get user properties
+### 🟢 GET — Get user properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1292,7 +1294,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/user/{userName}/changePassword`
 
-### 🟡 POST `POST` — Change the password of a user on a Web Cloud Database
+### 🟡 POST — Change the password of a user on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1315,7 +1317,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/user/{userName}/grant`
 
-### 🟢 GET `GET` — Get all information about the grants for a user in a Web Cloud Database
+### 🟢 GET — Get all information about the grants for a user in a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1334,7 +1336,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟡 POST `POST` — Add grant on a Web Cloud Database
+### 🟡 POST — Add grant on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1357,7 +1359,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/user/{userName}/grant/{databaseName}`
 
-### 🔴 DELETE `DELETE` — Delete a grant from a Web Cloud Database
+### 🔴 DELETE — Delete a grant from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1377,7 +1379,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟢 GET `GET` — Get information about the grants for a user in a Web Cloud Database
+### 🟢 GET — Get information about the grants for a user in a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1400,7 +1402,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/user/{userName}/grant/{databaseName}/update`
 
-### 🟡 POST `POST` — Update the permissions of a grant for a user on a Web Cloud Database
+### 🟡 POST — Update the permissions of a grant for a user on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1424,7 +1426,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/webhostingNetwork`
 
-### 🔴 DELETE `DELETE` — Delete access from the web hosting network on a Web Cloud Database
+### 🔴 DELETE — Delete access from the web hosting network on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1442,7 +1444,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟢 GET `GET` — Get Webhosting network status
+### 🟢 GET — Get Webhosting network status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1460,7 +1462,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟡 POST `POST` — Permit access from the web hosting network on a Web Cloud Database
+### 🟡 POST — Permit access from the web hosting network on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1481,7 +1483,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/webs`
 
-### 🟢 GET `GET` — List linked webs
+### 🟢 GET — List linked webs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1502,7 +1504,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/whitelist`
 
-### 🟢 GET `GET` — List whitelists on a Web Cloud Database
+### 🟢 GET — List whitelists on a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1523,7 +1525,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟡 POST `POST` — Create a new IP whitelist in a Web Cloud Database
+### 🟡 POST — Create a new IP whitelist in a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1545,7 +1547,7 @@ _Generate a temporary URL to retrieve logs_
 
 ## `/hosting/privateDatabase/{serviceName}/whitelist/{ip}`
 
-### 🔴 DELETE `DELETE` — Delete an IP whitelist from a Web Cloud Database
+### 🔴 DELETE — Delete an IP whitelist from a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1564,7 +1566,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟢 GET `GET` — Get whitelist properties
+### 🟢 GET — Get whitelist properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1583,7 +1585,7 @@ _Generate a temporary URL to retrieve logs_
 
 ---
 
-### 🟠 PUT `PUT` — Update an IP whitelist in a Web Cloud Database
+### 🟠 PUT — Update an IP whitelist in a Web Cloud Database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1600,5 +1602,1118 @@ _Generate a temporary URL to retrieve logs_
 
 **IAM actions:** `webCloudDatabases:apiovh:whitelist/edit` (required)
 
+
+---
+
+## Models
+
+### `complexType.UnitAndValue<T>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ | Unit of the value |
+| `value` | `T` | ❌ | ❌ | ✅ | Value |
+
+### `complexType.UnitAndValue<long>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ | Unit of the value |
+| `value` | `T` | ❌ | ❌ | ✅ | Value |
+
+### `dbaas.logs.LogKind`
+
+_Log kind_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalReturnedFields` | `string[]` | ❌ | ❌ | ✅ | List of additional log fields managed in this log kind |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the log kind |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Log kind display name |
+| `kindId` | `uuid` | ❌ | ❌ | ✅ | Log kind ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Log kind name |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the log kind |
+
+### `dbaas.logs.LogSubscription`
+
+_Log subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the subscription |
+| `kind` | `string` | ❌ | ❌ | ✅ | Log kind name of this subscription |
+| `resource` | `dbaas.logs.SubscriptionResource` | ❌ | ❌ | ✅ | Subscribed resource, where the logs come from |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the destination log service |
+| `streamId` | `string` | ❌ | ❌ | ✅ | Id of the destination log stream |
+| `subscriptionId` | `uuid` | ❌ | ❌ | ✅ | Subscription ID |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the subscription |
+
+### `dbaas.logs.LogSubscriptionCreation`
+
+_Log subscription creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name to subscribe to |
+| `streamId` | `uuid` | ✅ | ❌ | ❌ | Customer log stream ID |
+
+### `dbaas.logs.LogSubscriptionResponse`
+
+_Asynchronous operation after subscribing or unsubscribing to a resource logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operationId` | `uuid` | ❌ | ❌ | ✅ | Identifier of the operation |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Operation owner's service name |
+
+### `dbaas.logs.LogUrlCreation`
+
+_Log temporary URL creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name |
+
+### `dbaas.logs.SubscriptionResource`
+
+_Log subscription resource_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of subscribed resource |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of subscribed resource |
+
+### `dbaas.logs.TemporaryLogsLink`
+
+_Temporary url information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ✅ | Temporary url |
+
+### `hosting.PrivateDatabase.AvailableVersionEnum`
+
+_Private database available versions_
+
+**Enum** (`enumType: string`):
+
+- `mariadb_10.11`
+- `mariadb_10.4`
+- `mariadb_10.5`
+- `mariadb_10.6`
+- `mysql_5.7`
+- `mysql_8.0`
+- `postgresql_12`
+- `postgresql_13`
+- `postgresql_14`
+- `postgresql_15`
+- `redis_6.0`
+- `redis_7.0`
+
+### `hosting.PrivateDatabase.Capability`
+
+_Private database capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `create` | `boolean` | ❌ | ❌ | ❌ | Can the object be created |
+| `delete` | `boolean` | ❌ | ❌ | ❌ | Can the object be deleted |
+| `object` | `string` | ❌ | ❌ | ❌ | Object name |
+| `update` | `boolean` | ❌ | ❌ | ❌ | Can the object be updated |
+
+### `hosting.PrivateDatabase.DatacenterEnum`
+
+_Available datacenters_
+
+**Enum** (`enumType: string`):
+
+- `bhs1`
+- `gra1`
+- `gra2`
+- `gra3`
+- `p19`
+
+### `hosting.PrivateDatabase.GraphEndpoint`
+
+_Parameters required to query metrics from OpenTSDB_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `host` | `string` | ❌ | ❌ | ❌ | The OpenTSDB host |
+| `readToken` | `string` | ❌ | ❌ | ❌ | A read-only token |
+| `readTokenId` | `string` | ❌ | ❌ | ❌ | A read-only token ID |
+
+### `hosting.PrivateDatabase.OfferEnum`
+
+_Available offers_
+
+**Enum** (`enumType: string`):
+
+- `classic`
+- `public`
+
+### `hosting.PrivateDatabase.StateEnum`
+
+_Private database state_
+
+**Enum** (`enumType: string`):
+
+- `detached`
+- `restartPending`
+- `startPending`
+- `started`
+- `stopPending`
+- `stopped`
+
+### `hosting.PrivateDatabase.TypeEnum`
+
+_Private database type_
+
+**Enum** (`enumType: string`):
+
+- `mariadb`
+- `mysql`
+- `postgresql`
+- `redis`
+
+### `hosting.privateDatabase.AvailableRamSizeEnum`
+
+_Private database available ram sizes_
+
+**Enum** (`enumType: string`):
+
+- `1024`
+- `2048`
+- `4096`
+- `512`
+
+### `hosting.privateDatabase.AvailableVersionEnum`
+
+_Private database available version_
+
+**Enum** (`enumType: string`):
+
+- `mariadb_10.11`
+- `mariadb_10.6`
+- `mariadb_11.4`
+- `mariadb_11.8`
+- `mysql_8.0`
+- `mysql_8.4`
+- `postgresql_14`
+- `postgresql_15`
+- `postgresql_16`
+- `postgresql_17`
+- `postgresql_18`
+- `valkey_7.2`
+
+### `hosting.privateDatabase.Capability`
+
+_Private database capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `create` | `boolean` | ❌ | ❌ | ✅ | Can the object be created |
+| `delete` | `boolean` | ❌ | ❌ | ✅ | Can the object be deleted |
+| `object` | `string` | ❌ | ❌ | ✅ | Object name |
+| `update` | `boolean` | ❌ | ❌ | ✅ | Can the object be updated |
+
+### `hosting.privateDatabase.ChangeFtpPasswordPayload`
+
+_Payload used to change the FTP password of a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `password` | `password` | ✅ | ❌ | ❌ | New ftp admin password (alphanumeric and 8 characters minimum) |
+
+### `hosting.privateDatabase.ChangeVersionPayload`
+
+_Payload used to change the DBMS version of a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `version` | `hosting.privateDatabase.AvailableVersionEnum` | ✅ | ❌ | ❌ | Change the private database engine version |
+
+### `hosting.privateDatabase.ConfigDetail`
+
+_Config detail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availableValues` | `string[]` | ❌ | ❌ | ✅ | Configuration available values |
+| `defaultValue` | `string` | ❌ | ❌ | ✅ | Configuration default value |
+| `description` | `string` | ❌ | ❌ | ✅ | Configuration description |
+| `key` | `string` | ❌ | ❌ | ✅ | Configuration key name |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Configuration last update |
+| `type` | `hosting.privateDatabase.config.TypeEnum` | ❌ | ❌ | ✅ | Configuration value type |
+| `unit` | `string` | ❌ | ✅ | ✅ | Configuration unit type |
+| `value` | `string` | ❌ | ❌ | ✅ | Configuration current value |
+
+### `hosting.privateDatabase.ConfigKeyValue`
+
+_ConfigKeyValue_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ✅ | ❌ | ❌ | Web Cloud Database configuration key |
+| `value` | `string` | ✅ | ❌ | ❌ | Web Cloud Database configuration value |
+
+### `hosting.privateDatabase.ConfigUpdatePayload`
+
+_ConfigUpdatePayload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `parameters` | `hosting.privateDatabase.ConfigKeyValue[]` | ✅ | ❌ | ❌ | Web Cloud Database configurations |
+
+### `hosting.privateDatabase.Configs`
+
+_Configs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `details` | `hosting.privateDatabase.ConfigDetail[]` | ❌ | ❌ | ✅ | Configuration details |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Configuration last update |
+| `status` | `hosting.privateDatabase.config.StatusEnum` | ❌ | ❌ | ✅ | Configuration status |
+| `taskId` | `long` | ❌ | ✅ | ✅ | Configuration linked task id |
+
+### `hosting.privateDatabase.CpuThrottle`
+
+_CPU throttle informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endDate` | `datetime` | ❌ | ✅ | ✅ | End date of the CPU throttle |
+| `startDate` | `datetime` | ❌ | ❌ | ✅ | Start date of the CPU throttle |
+
+### `hosting.privateDatabase.Database`
+
+_Databases_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupTime` | `time` | ❌ | ✅ | ✅ | Time of the next backup (every day) |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date of the database |
+| `databaseName` | `string` | ❌ | ❌ | ✅ | Database name |
+| `quotaUsed` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Space used by the database |
+| `users` | `hosting.privateDatabase.Database.User[]` | ❌ | ❌ | ✅ | Users granted to this database |
+
+### `hosting.privateDatabase.Database.Copy`
+
+_Database copy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date of the database copy |
+| `expirationDate` | `datetime` | ❌ | ✅ | ✅ | Expiration date of the database copy |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Database copy ID |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Last update of the database copy |
+| `status` | `hosting.privateDatabase.database.copy.StatusEnum` | ❌ | ❌ | ✅ | Database copy status |
+
+### `hosting.privateDatabase.Database.CopyRestorePayload`
+
+_Payload used to restore a copy in a database on a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `copyId` | `uuid` | ✅ | ❌ | ❌ | Copy ID |
+| `flushDatabase` | `boolean` | ❌ | ❌ | ❌ | Whether to flush the database before restoring the copy (default to false) |
+
+### `hosting.privateDatabase.Database.CreateDump`
+
+_Dumps_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `sendEmail` | `boolean` | ❌ | ❌ | ❌ | Whether to receive an email when the import is complete (default to false) |
+
+### `hosting.privateDatabase.Database.CreatePayload`
+
+_Payload used to create a database on a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseName` | `string` | ✅ | ❌ | ❌ | Name of your new database |
+
+### `hosting.privateDatabase.Database.Dump`
+
+_Dumps_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date of the dump |
+| `databaseName` | `string` | ❌ | ❌ | ✅ | Dump of this database name |
+| `deletionDate` | `datetime` | ❌ | ❌ | ✅ | Automatic deletion date of the dump |
+| `id` | `long` | ❌ | ❌ | ✅ | Dump id |
+| `url` | `string` | ❌ | ❌ | ✅ | Dump URL access |
+
+### `hosting.privateDatabase.Database.ImportPayload`
+
+_Payload used to import a dump in a database on a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `documentId` | `string` | ✅ | ❌ | ❌ | Documents ID of the dump from /me/documents |
+| `flushDatabase` | `boolean` | ❌ | ❌ | ❌ | Whether to flush the database before importing the dump (default to false) |
+| `sendEmail` | `boolean` | ❌ | ❌ | ❌ | Whether to receive an email when the import is complete (default to false) |
+
+### `hosting.privateDatabase.Database.User`
+
+_Users_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `grantId` | `long` | ❌ | ❌ | ✅ | The grantId associated for this databaseName and this userName |
+| `grantType` | `hosting.privateDatabase.grant.GrantEnum` | ❌ | ❌ | ✅ | User's rights on this database |
+| `userName` | `string` | ❌ | ❌ | ✅ | User's name granted on this database |
+
+### `hosting.privateDatabase.DatabaseWizardPayload`
+
+_Payload used to create user and grant and apply it on a new database on a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseName` | `string` | ✅ | ❌ | ❌ | Name of your new database |
+| `grant` | `hosting.privateDatabase.grant.GrantEnum` | ✅ | ❌ | ❌ | Grant of the user on this database |
+| `password` | `password` | ✅ | ❌ | ❌ | Password for the new user (alphanumeric and 8 characters minimum) |
+| `userName` | `string` | ✅ | ❌ | ❌ | New user name used to connect on your database |
+
+### `hosting.privateDatabase.DatacenterEnum`
+
+_Private database datacenter_
+
+**Enum** (`enumType: string`):
+
+- `bhs1`
+- `gra1`
+- `gra2`
+- `gra3`
+
+### `hosting.privateDatabase.Dump`
+
+_Dumps_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date of the dump |
+| `databaseName` | `string` | ❌ | ❌ | ✅ | Dump of this database name |
+| `deletionDate` | `datetime` | ❌ | ❌ | ✅ | Automatic deletion date of the dump |
+| `dumpId` | `long` | ❌ | ❌ | ✅ | Dump id |
+| `orphan` | `boolean` | ❌ | ❌ | ✅ | Dump orphan flag (true if database does not exists) |
+| `url` | `string` | ❌ | ❌ | ✅ | Dump URL access |
+
+### `hosting.privateDatabase.Dump.Restore`
+
+_Restore a database dump into a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseName` | `string` | ❌ | ❌ | ❌ | Database name |
+
+### `hosting.privateDatabase.Extension`
+
+_Webcloud Database extension_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Extension details |
+| `extensionName` | `string` | ❌ | ❌ | ✅ | Extension name |
+| `requiredExtensions` | `string[]` | ❌ | ❌ | ✅ | Required extensions |
+| `status` | `hosting.privateDatabase.extension.StatusEnum` | ❌ | ❌ | ✅ | Extension status |
+
+### `hosting.privateDatabase.GraphEndpoint`
+
+_Parameters required to query metrics from OpenTSDB_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `host` | `string` | ❌ | ✅ | ✅ | The OpenTSDB host |
+| `readToken` | `password` | ❌ | ✅ | ✅ | A read-only token |
+| `readTokenId` | `string` | ❌ | ✅ | ✅ | A read-only token ID |
+
+### `hosting.privateDatabase.InfrastructureEnum`
+
+_Private database infrastructure_
+
+**Enum** (`enumType: string`):
+
+- `docker`
+
+### `hosting.privateDatabase.MetricsToken`
+
+_Metrics token_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpoint` | `string` | ❌ | ❌ | ✅ | Backend url |
+| `token` | `password` | ❌ | ❌ | ✅ | Generated token |
+
+### `hosting.privateDatabase.OfferEnum`
+
+_Available offers_
+
+**Enum** (`enumType: string`):
+
+- `classic`
+- `public`
+
+### `hosting.privateDatabase.Oom`
+
+_List of privatesql OOM kill_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ✅ | Date of the OOM kill |
+| `sizeReached` | `long` | ❌ | ❌ | ✅ | Memory size reached |
+
+### `hosting.privateDatabase.Service`
+
+_Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `capabilities` | `hosting.privateDatabase.Capability[]` | ❌ | ❌ | ✅ | Private database capabilities |
+| `cpu` | `long` | ❌ | ❌ | ✅ | Number of cpu on your private database |
+| `datacenter` | `hosting.privateDatabase.DatacenterEnum` | ❌ | ❌ | ✅ | Datacenter where this private database is located |
+| `displayName` | `string` | ❌ | ✅ | ❌ | Set the name displayed in customer panel for your private database (max 50 chars) |
+| `graphEndpoint` | `hosting.privateDatabase.GraphEndpoint` | ❌ | ✅ | ✅ | Parameters required to query metrics from OpenTSDB |
+| `guiURL` | `string` | ❌ | ✅ | ✅ | URL for the graphical user interface |
+| `hostname` | `string` | ❌ | ❌ | ✅ | Private database hostname |
+| `hostnameFtp` | `string` | ❌ | ✅ | ✅ | Private database ftp hostname |
+| `infrastructure` | `hosting.privateDatabase.InfrastructureEnum` | ❌ | ❌ | ✅ | Infrastructure where service was stored |
+| `ip` | `ipv4` | ❌ | ✅ | ✅ | Private database ip |
+| `isUnderMaintenance` | `boolean` | ❌ | ❌ | ✅ | Is the service under maintenance |
+| `lastCheck` | `datetime` | ❌ | ❌ | ✅ | Date of the last data synchronization |
+| `offer` | `hosting.privateDatabase.OfferEnum` | ❌ | ❌ | ✅ | Type of the private database offer |
+| `port` | `long` | ❌ | ❌ | ✅ | Private database service port |
+| `portFtp` | `long` | ❌ | ✅ | ✅ | Private database ftp port |
+| `quotaSize` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Space allowed on your private database |
+| `quotaUsed` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Total space used on your private database |
+| `ram` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Amount of ram on your private database |
+| `server` | `string` | ❌ | ❌ | ✅ | Private database server name |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Service name |
+| `state` | `hosting.privateDatabase.StateEnum` | ❌ | ❌ | ✅ | Private database state |
+| `tlsCa` | `text` | ❌ | ✅ | ✅ | Return the TLS certificate authority used by the private database |
+| `type` | `hosting.privateDatabase.TypeEnum` | ❌ | ❌ | ✅ | Private database type |
+| `version` | `hosting.privateDatabase.VersionEnum` | ❌ | ❌ | ✅ | Private database version |
+| `versionLabel` | `string` | ❌ | ❌ | ✅ | Private database version label |
+| `versionNumber` | `double` | ❌ | ❌ | ✅ | Private database version number |
+
+### `hosting.privateDatabase.ServiceWithIAM`
+
+_Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `capabilities` | `hosting.privateDatabase.Capability[]` | ❌ | ❌ | ✅ | Private database capabilities |
+| `cpu` | `long` | ❌ | ❌ | ✅ | Number of cpu on your private database |
+| `datacenter` | `hosting.privateDatabase.DatacenterEnum` | ❌ | ❌ | ✅ | Datacenter where this private database is located |
+| `displayName` | `string` | ❌ | ✅ | ❌ | Set the name displayed in customer panel for your private database (max 50 chars) |
+| `graphEndpoint` | `hosting.privateDatabase.GraphEndpoint` | ❌ | ✅ | ✅ | Parameters required to query metrics from OpenTSDB |
+| `guiURL` | `string` | ❌ | ✅ | ✅ | URL for the graphical user interface |
+| `hostname` | `string` | ❌ | ❌ | ✅ | Private database hostname |
+| `hostnameFtp` | `string` | ❌ | ✅ | ✅ | Private database ftp hostname |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `infrastructure` | `hosting.privateDatabase.InfrastructureEnum` | ❌ | ❌ | ✅ | Infrastructure where service was stored |
+| `ip` | `ipv4` | ❌ | ✅ | ✅ | Private database ip |
+| `isUnderMaintenance` | `boolean` | ❌ | ❌ | ✅ | Is the service under maintenance |
+| `lastCheck` | `datetime` | ❌ | ❌ | ✅ | Date of the last data synchronization |
+| `offer` | `hosting.privateDatabase.OfferEnum` | ❌ | ❌ | ✅ | Type of the private database offer |
+| `port` | `long` | ❌ | ❌ | ✅ | Private database service port |
+| `portFtp` | `long` | ❌ | ✅ | ✅ | Private database ftp port |
+| `quotaSize` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Space allowed on your private database |
+| `quotaUsed` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Total space used on your private database |
+| `ram` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Amount of ram on your private database |
+| `server` | `string` | ❌ | ❌ | ✅ | Private database server name |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Service name |
+| `state` | `hosting.privateDatabase.StateEnum` | ❌ | ❌ | ✅ | Private database state |
+| `tlsCa` | `text` | ❌ | ✅ | ✅ | Return the TLS certificate authority used by the private database |
+| `type` | `hosting.privateDatabase.TypeEnum` | ❌ | ❌ | ✅ | Private database type |
+| `version` | `hosting.privateDatabase.VersionEnum` | ❌ | ❌ | ✅ | Private database version |
+| `versionLabel` | `string` | ❌ | ❌ | ✅ | Private database version label |
+| `versionNumber` | `double` | ❌ | ❌ | ✅ | Private database version number |
+
+### `hosting.privateDatabase.StateEnum`
+
+_Private database state_
+
+**Enum** (`enumType: string`):
+
+- `detached`
+- `restartPending`
+- `startPending`
+- `started`
+- `stopPending`
+- `stopped`
+
+### `hosting.privateDatabase.Task`
+
+_Web Cloud Database task_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseName` | `string` | ❌ | ✅ | ✅ | Database name on which the task is working |
+| `doneDate` | `datetime` | ❌ | ✅ | ✅ | Completion date |
+| `dumpId` | `long` | ❌ | ✅ | ✅ | DumpId on which the task is working |
+| `function` | `hosting.privateDatabase.task.FunctionEnum` | ❌ | ❌ | ✅ | Function name |
+| `id` | `long` | ❌ | ❌ | ✅ | The id of the task |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | Last update |
+| `startDate` | `datetime` | ❌ | ❌ | ✅ | Task creation date |
+| `status` | `hosting.privateDatabase.task.StatusEnum` | ❌ | ❌ | ✅ | Task status |
+| `userName` | `string` | ❌ | ✅ | ✅ | User name on which the task is working |
+
+### `hosting.privateDatabase.TemporaryUrlInformations`
+
+_ Temporary url information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ✅ | Temporary url |
+
+### `hosting.privateDatabase.TypeEnum`
+
+_Private database type_
+
+**Enum** (`enumType: string`):
+
+- `mariadb`
+- `mysql`
+- `postgresql`
+- `valkey`
+
+### `hosting.privateDatabase.User`
+
+_Users_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date of the user |
+| `databases` | `hosting.privateDatabase.User.Database[]` | ❌ | ❌ | ✅ | Databases granted for this user |
+| `userName` | `string` | ❌ | ❌ | ✅ | User name used to connect to your databases |
+
+### `hosting.privateDatabase.User.ChangePasswordPayload`
+
+_Payload used to change the password of a user on a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `password` | `password` | ✅ | ❌ | ❌ | Password for the new user ( alphanumeric and 8 characters minimum ) |
+
+### `hosting.privateDatabase.User.CreatePayload`
+
+_Payload used to create a user on a Web Cloud Database_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `password` | `password` | ✅ | ❌ | ❌ | Password for the new user ( alphanumeric and 8 characters minimum ) |
+| `userName` | `string` | ✅ | ❌ | ❌ | User name used to connect on your databases |
+
+### `hosting.privateDatabase.User.Database`
+
+_Users_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseName` | `string` | ❌ | ❌ | ✅ | Database granted for this user |
+| `grantId` | `long` | ❌ | ❌ | ✅ | The grantId associated for this databaseName and this userName |
+| `grantType` | `hosting.privateDatabase.grant.GrantEnum` | ❌ | ❌ | ✅ | User's rights on this database |
+
+### `hosting.privateDatabase.User.Grant`
+
+_Grant_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Automatic deletion date of the dump |
+| `databaseName` | `string` | ❌ | ❌ | ✅ | Dump of this database name |
+| `grant` | `hosting.privateDatabase.grant.GrantEnum` | ❌ | ❌ | ✅ | Grant set |
+
+### `hosting.privateDatabase.User.Grant.Create`
+
+_Grant_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseName` | `string` | ✅ | ❌ | ❌ | Database name where add grant |
+| `grant` | `hosting.privateDatabase.grant.GrantEnum` | ✅ | ❌ | ❌ | Grant on a database for a specific user |
+
+### `hosting.privateDatabase.User.Grant.Update`
+
+_Update user grant_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `grant` | `hosting.privateDatabase.grant.GrantEnum` | ✅ | ❌ | ❌ | Grant on a database for a specific user |
+
+### `hosting.privateDatabase.VersionEnum`
+
+_Private database version_
+
+**Enum** (`enumType: string`):
+
+- `mariadb_10.11`
+- `mariadb_10.6`
+- `mariadb_11.4`
+- `mariadb_11.8`
+- `mysql_8.0`
+- `mysql_8.4`
+- `postgresql_14`
+- `postgresql_15`
+- `postgresql_16`
+- `postgresql_17`
+- `postgresql_18`
+- `valkey_7.2`
+
+### `hosting.privateDatabase.Whitelist`
+
+_Whitelist_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date of this whitelist |
+| `ip` | `ipv4Block` | ❌ | ❌ | ✅ | The whitelisted IP in your Web Cloud Database |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | The last update date of this whitelist |
+| `name` | `string` | ❌ | ✅ | ❌ | Custom name for your Whitelisted IP |
+| `service` | `boolean` | ❌ | ❌ | ❌ | Authorize this IP to access service port |
+| `sftp` | `boolean` | ❌ | ❌ | ❌ | Authorize this IP to access sftp port |
+| `status` | `hosting.privateDatabase.whitelist.StatusEnum` | ❌ | ❌ | ✅ | Whitelist status |
+| `taskId` | `long` | ❌ | ✅ | ✅ | The id of the task working on this object |
+
+### `hosting.privateDatabase.Whitelist.CreatePayload`
+
+_Whitelist_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `string` | ✅ | ❌ | ❌ | The whitelisted IP in your Web Cloud Database |
+| `name` | `string` | ❌ | ✅ | ❌ | Custom name for your Whitelisted IP |
+| `service` | `boolean` | ❌ | ❌ | ❌ | Authorize this IP to access service port |
+| `sftp` | `boolean` | ❌ | ❌ | ❌ | Authorize this IP to access sftp port |
+
+### `hosting.privateDatabase.availableOrderCapacities`
+
+_Description for available order capacities following an offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenter` | `hosting.privateDatabase.DatacenterEnum[]` | ❌ | ❌ | ✅ | A list of datacenter available for this offer |
+| `offer` | `hosting.privateDatabase.OfferEnum` | ❌ | ❌ | ✅ | Offer |
+| `ram` | `hosting.privateDatabase.AvailableRamSizeEnum[]` | ❌ | ❌ | ✅ | A list of ram size available for this offer |
+| `version` | `hosting.privateDatabase.AvailableVersionEnum[]` | ❌ | ❌ | ✅ | A list of version available for this offer |
+
+### `hosting.privateDatabase.config.StatusEnum`
+
+_Web Cloud Database config status_
+
+**Enum** (`enumType: string`):
+
+- `applied`
+- `updating`
+
+### `hosting.privateDatabase.config.TypeEnum`
+
+_Web Cloud Database config type_
+
+**Enum** (`enumType: string`):
+
+- `boolean`
+- `number`
+- `string`
+
+### `hosting.privateDatabase.database.copy.StatusEnum`
+
+_Database copy status_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `hosting.privateDatabase.extension.StatusEnum`
+
+_Extension status_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `disabling`
+- `enabled`
+- `enabling`
+
+### `hosting.privateDatabase.grant.GrantEnum`
+
+_Grant on a database for a specific user_
+
+**Enum** (`enumType: string`):
+
+- `admin`
+- `none`
+- `ro`
+- `rw`
+
+### `hosting.privateDatabase.task.FunctionEnum`
+
+_Task's dunction_
+
+**Enum** (`enumType: string`):
+
+- `abuse`
+- `changeFtpPassword`
+- `changeRam`
+- `changeVersion`
+- `configuration/update`
+- `create`
+- `database/copy`
+- `database/copyRestore`
+- `database/create`
+- `database/delete`
+- `database/dump`
+- `database/dump/delete`
+- `database/extension/create`
+- `database/extension/delete`
+- `database/import`
+- `database/restore`
+- `database/wizard`
+- `delete`
+- `grant/create`
+- `grant/delete`
+- `grant/update`
+- `install`
+- `overquota/in`
+- `overquota/out`
+- `quotaRefresh`
+- `refresh`
+- `reopen`
+- `restart`
+- `start`
+- `stop`
+- `suspend`
+- `user/changePassword`
+- `user/create`
+- `user/delete`
+- `webhostingNetwork/disable`
+- `webhostingNetwork/enable`
+- `whitelist/create`
+- `whitelist/delete`
+- `whitelist/update`
+
+### `hosting.privateDatabase.task.StatusEnum`
+
+_Task's status_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `hosting.privateDatabase.webhostingNetwork`
+
+_webhosting Network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `status` | `hosting.privateDatabase.webhostingNetwork.StatusEnum` | ❌ | ❌ | ✅ | Webhosting network status |
+
+### `hosting.privateDatabase.webhostingNetwork.StatusEnum`
+
+_Webhosting network status_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `disabling`
+- `enabled`
+- `enabling`
+
+### `hosting.privateDatabase.whitelist.StatusEnum`
+
+_Whitelist status_
+
+**Enum** (`enumType: string`):
+
+- `created`
+- `creating`
+- `deleting`
+- `updating`
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+_service.StateEnum_
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `services.changeContact`
+
+_Service change contact payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contactAdmin` | `string` | ❌ | ❌ | ❌ | The contact to set as admin contact |
+| `contactBilling` | `string` | ❌ | ❌ | ❌ | The contact to set as billing contact |
+| `contactTech` | `string` | ❌ | ❌ | ❌ | The contact to set as tech contact |
+
+### `services.confirmTermination`
+
+_Service confirm termination payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `commentary` | `string` | ❌ | ❌ | ❌ | Commentary about your termination request |
+| `commentaryFutureUse` | `string` | ❌ | ❌ | ❌ | Commentary about your future use |
+| `commentaryReason` | `string` | ❌ | ❌ | ❌ | Commentary about your reason for termination request |
+| `futureUse` | `service.TerminationFutureUseEnum` | ❌ | ❌ | ❌ | All future uses you can provide for a service termination |
+| `reason` | `service.TerminationReasonEnum` | ❌ | ❌ | ❌ | All reasons you can provide for a service termination |
+| `token` | `string` | ✅ | ❌ | ❌ | The termination token sent by email to the admin contact |
 
 

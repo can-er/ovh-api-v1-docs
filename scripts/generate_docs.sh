@@ -5,6 +5,15 @@ SPECS="$ROOT/specs"
 DOCS="$ROOT/docs"
 mkdir -p "$DOCS"
 
+# Optional positional arg: limit regeneration to a single section (basename
+# without .json). Useful for iterating on the generator without touching all
+# 70 docs files. Example: bash scripts/generate_docs.sh allDom
+ONLY="${1:-}"
+
+# Single timestamp shared by every file in this run — easier to reason about
+# freshness across the repo than per-file timestamps.
+TS="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
 # jq filter: emit nicely-formatted markdown for a single spec
 JQ_FILTER='
 def httpBadge(m):
@@ -27,7 +36,7 @@ def param:
   "| `\(.name // "-")` | `\(.dataType // "-")` | \(.paramType // "-") | \(if .required then "✅" else "❌" end) | \((.description // "") | gsub("\n";" ") | gsub("\\|";"\\|")) |";
 
 def operation:
-  "### \(httpBadge(.httpMethod)) `\(.httpMethod)` — \(.description // "_no description_")\n\n" +
+  "### \(httpBadge(.httpMethod)) — \(.description // "_no description_")\n\n" +
   (if .apiStatus then "\(.apiStatus | statusBadge)\n\n" else "" end) +
   (if (.operationId // "") != "" then "**operationId:** `\(.operationId)`  \n" else "" end) +
   "**Authentication required:** \(if .noAuthentication == true then "❌ no" else "✅ yes" end)  \n" +
@@ -45,24 +54,62 @@ def routeBlock:
   (if (.description // "") != "" then "_\(.description)_\n\n" else "" end) +
   ((.operations // []) | map(operation) | join("\n---\n\n"));
 
+def propRow:
+  . as $p |
+  "| `\($p.key)` | `\($p.value.type // "-")` | \(if $p.value.required then "✅" else "❌" end) | \(if $p.value.canBeNull then "✅" else "❌" end) | \(if $p.value.readOnly then "✅" else "❌" end) | \(($p.value.description // "") | gsub("\n";" ") | gsub("\\|";"\\|")) |";
+
+def modelBlock:
+  . as $m |
+  "### `\($m.key)`\n\n" +
+  (if ($m.value.description // "") != "" then "_\($m.value.description)_\n\n" else "" end) +
+  (if ($m.value.enum // null) != null then
+    "**Enum** (`enumType: \($m.value.enumType // "-")`):\n\n" +
+    (($m.value.enum) | map("- `\(.)`") | join("\n")) + "\n"
+   else
+    "**Properties**\n\n" +
+    "| Property | Type | Required | Nullable | Read-only | Description |\n" +
+    "|---|---|---|---|---|---|\n" +
+    (((($m.value.properties // {}) | to_entries) | sort_by(.key)) | map(propRow) | join("\n")) + "\n"
+   end);
+
+def modelsAppendix:
+  if ((.models // {}) | length) == 0 then ""
+  else
+    "\n---\n\n## Models\n\n" +
+    (((.models | to_entries) | sort_by(.key)) | map(modelBlock) | join("\n"))
+  end;
+
 "# Section `\(.resourcePath)`\n\n" +
 "> Base path: `\(.basePath)`  \n" +
 "> API version: `\(.apiVersion)`  \n" +
-"> Routes: **\((.apis // []) | length)** — Operations: **\(((.apis // []) | map(.operations // [] | length) | add) // 0)**\n\n" +
+"> Routes: **\((.apis // []) | length)** — Operations: **\(((.apis // []) | map(.operations // [] | length) | add) // 0)**  \n" +
+"> Generated: \($ts)  \n" +
+"> Spec sha256: `\($sha)`\n\n" +
 "---\n\n" +
 "## Table of routes\n\n" +
 "| Path | Methods |\n|------|---------|\n" +
 ((.apis // []) | map("| [`\(.path)`](#\(.path | ascii_downcase | gsub("[/{}.]";"") | gsub("[^a-z0-9-]";"-"))) | " + ((.operations // []) | map(.httpMethod) | unique | join(", ")) + " |") | join("\n")) +
 "\n\n---\n\n" +
 ((.apis // []) | map(routeBlock) | join("\n\n---\n\n")) +
+modelsAppendix +
 "\n"
 '
 
 count=0
 for f in "$SPECS"/*.json; do
   base="$(basename "$f" .json)"
+  if [[ -n "$ONLY" && "$base" != "$ONLY" ]]; then
+    continue
+  fi
   out="$DOCS/${base}.md"
-  jq -r "$JQ_FILTER" "$f" > "$out"
+  SHA="$(sha256sum "$f" | cut -c1-16)"
+  jq -r --arg ts "$TS" --arg sha "$SHA" "$JQ_FILTER" "$f" > "$out"
   count=$((count + 1))
 done
+
+if [[ -n "$ONLY" && "$count" -eq 0 ]]; then
+  echo "No spec matched '$ONLY' in $SPECS" >&2
+  exit 1
+fi
+
 echo "Generated $count markdown files in $DOCS"

@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **75** — Operations: **107**
+> Routes: **75** — Operations: **107**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `ffef5a551b120ea8`
 
 ---
 
@@ -92,7 +94,7 @@
 
 _Operations about the MX service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -115,7 +117,7 @@ _Operations about the MX service_
 
 _List the email.domain.AccountDelegated objects_
 
-### 🟢 GET `GET` — Delegated emails
+### 🟢 GET — Delegated emails
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -139,7 +141,7 @@ _List the email.domain.AccountDelegated objects_
 
 _Account List_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -157,7 +159,7 @@ _Account List_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -181,7 +183,7 @@ _Account List_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change mailbox password (length : [9;30], no space at begin and end, no accent)
+### 🟡 POST — Change mailbox password (length : [9;30], no space at begin and end, no accent)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -205,7 +207,7 @@ _changePassword operations_
 
 _List the email.domain.Filter objects_
 
-### 🟢 GET `GET` — Get filters
+### 🟢 GET — Get filters
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -223,7 +225,7 @@ _List the email.domain.Filter objects_
 
 ---
 
-### 🟡 POST `POST` — Create new filter for account
+### 🟡 POST — Create new filter for account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -254,7 +256,7 @@ _List the email.domain.Filter objects_
 
 _Filter List_
 
-### 🔴 DELETE `DELETE` — Delete an existing filter
+### 🔴 DELETE — Delete an existing filter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -273,7 +275,7 @@ _Filter List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -297,7 +299,7 @@ _Filter List_
 
 _changeActivity operations_
 
-### 🟡 POST `POST` — Change filter activity
+### 🟡 POST — Change filter activity
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -322,7 +324,7 @@ _changeActivity operations_
 
 _changePriority operations_
 
-### 🟡 POST `POST` — Change filter priority
+### 🟡 POST — Change filter priority
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -347,7 +349,7 @@ _changePriority operations_
 
 _List the email.domain.Rule objects_
 
-### 🟢 GET `GET` — Get rules
+### 🟢 GET — Get rules
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -366,7 +368,7 @@ _List the email.domain.Rule objects_
 
 ---
 
-### 🟡 POST `POST` — Create new rule for filter
+### 🟡 POST — Create new rule for filter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -393,7 +395,7 @@ _List the email.domain.Rule objects_
 
 _Rule List_
 
-### 🔴 DELETE `DELETE` — Delete an existing filter
+### 🔴 DELETE — Delete an existing filter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -413,7 +415,7 @@ _Rule List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -438,7 +440,7 @@ _Rule List_
 
 _Responder of account_
 
-### 🔴 DELETE `DELETE` — Delete an existing responder in server
+### 🔴 DELETE — Delete an existing responder in server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -456,7 +458,7 @@ _Responder of account_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -474,7 +476,7 @@ _Responder of account_
 
 ---
 
-### 🟡 POST `POST` — Create new responder in server
+### 🟡 POST — Create new responder in server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -497,7 +499,7 @@ _Responder of account_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -521,7 +523,7 @@ _Responder of account_
 
 _updateUsage operations_
 
-### 🟡 POST `POST` — Update usage of account
+### 🟡 POST — Update usage of account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -544,7 +546,7 @@ _updateUsage operations_
 
 _usage operations_
 
-### 🟡 POST `POST` — usage of account
+### 🟡 POST — usage of account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -567,7 +569,7 @@ _usage operations_
 
 _Get limits of mailing list_
 
-### 🟢 GET `GET` — Get limits of mailing list
+### 🟢 GET — Get limits of mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -588,7 +590,7 @@ _Get limits of mailing list_
 
 _Domain service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -611,7 +613,7 @@ _Domain service_
 
 _List the email.domain.Account objects_
 
-### 🟢 GET `GET` — Get accounts
+### 🟢 GET — Get accounts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -631,7 +633,7 @@ _List the email.domain.Account objects_
 
 ---
 
-### 🟡 POST `POST` — Create new mailbox in server
+### 🟡 POST — Create new mailbox in server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -658,7 +660,7 @@ _List the email.domain.Account objects_
 
 _Account List_
 
-### 🔴 DELETE `DELETE` — Delete an existing mailbox in server
+### 🔴 DELETE — Delete an existing mailbox in server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -677,7 +679,7 @@ _Account List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -696,7 +698,7 @@ _Account List_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -721,7 +723,7 @@ _Account List_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change mailbox password (length : [9;30], no space at begin and end, no accent)
+### 🟡 POST — Change mailbox password (length : [9;30], no space at begin and end, no accent)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -746,7 +748,7 @@ _changePassword operations_
 
 _List the email.domain.Delegation objects_
 
-### 🟢 GET `GET` — Get delegations
+### 🟢 GET — Get delegations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -765,7 +767,7 @@ _List the email.domain.Delegation objects_
 
 ---
 
-### 🟡 POST `POST` — Create delegation for this account
+### 🟡 POST — Create delegation for this account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -790,7 +792,7 @@ _List the email.domain.Delegation objects_
 
 _Delegation List_
 
-### 🔴 DELETE `DELETE` — Delete an existing delegation
+### 🔴 DELETE — Delete an existing delegation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -810,7 +812,7 @@ _Delegation List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -835,7 +837,7 @@ _Delegation List_
 
 _List the email.domain.Filter objects_
 
-### 🟢 GET `GET` — Get filters
+### 🟢 GET — Get filters
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -854,7 +856,7 @@ _List the email.domain.Filter objects_
 
 ---
 
-### 🟡 POST `POST` — Create new filter for account
+### 🟡 POST — Create new filter for account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -886,7 +888,7 @@ _List the email.domain.Filter objects_
 
 _Filter List_
 
-### 🔴 DELETE `DELETE` — Delete an existing filter
+### 🔴 DELETE — Delete an existing filter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -906,7 +908,7 @@ _Filter List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -931,7 +933,7 @@ _Filter List_
 
 _changeActivity operations_
 
-### 🟡 POST `POST` — Change filter activity
+### 🟡 POST — Change filter activity
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -957,7 +959,7 @@ _changeActivity operations_
 
 _changePriority operations_
 
-### 🟡 POST `POST` — Change filter priority
+### 🟡 POST — Change filter priority
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -983,7 +985,7 @@ _changePriority operations_
 
 _List the email.domain.Rule objects_
 
-### 🟢 GET `GET` — Get rules
+### 🟢 GET — Get rules
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1003,7 +1005,7 @@ _List the email.domain.Rule objects_
 
 ---
 
-### 🟡 POST `POST` — Create new rule for filter
+### 🟡 POST — Create new rule for filter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1031,7 +1033,7 @@ _List the email.domain.Rule objects_
 
 _Rule List_
 
-### 🔴 DELETE `DELETE` — Delete an existing filter
+### 🔴 DELETE — Delete an existing filter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1052,7 +1054,7 @@ _Rule List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1078,7 +1080,7 @@ _Rule List_
 
 _List the email.domain.MigrationService objects_
 
-### 🟢 GET `GET` — Get migration service
+### 🟢 GET — Get migration service
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1103,7 +1105,7 @@ _List the email.domain.MigrationService objects_
 
 _Migration service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1128,7 +1130,7 @@ _Migration service_
 
 _List the email.domain.MigrationAccount objects_
 
-### 🟢 GET `GET` — List of email address available for migration
+### 🟢 GET — List of email address available for migration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1154,7 +1156,7 @@ _List the email.domain.MigrationAccount objects_
 
 _Migration account_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1180,7 +1182,7 @@ _Migration account_
 
 _checkMigrate operations_
 
-### 🟢 GET `GET` — Check if it's possible to migrate
+### 🟢 GET — Check if it's possible to migrate
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1206,7 +1208,7 @@ _checkMigrate operations_
 
 _migrate operations_
 
-### 🟡 POST `POST` — Migrate account to destination account
+### 🟡 POST — Migrate account to destination account
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1233,7 +1235,7 @@ _migrate operations_
 
 _updateUsage operations_
 
-### 🟡 POST `POST` — Update usage of account
+### 🟡 POST — Update usage of account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1257,7 +1259,7 @@ _updateUsage operations_
 
 _usage operations_
 
-### 🟢 GET `GET` — usage of account
+### 🟢 GET — usage of account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1281,7 +1283,7 @@ _usage operations_
 
 _List the email.domain.Acl objects_
 
-### 🟢 GET `GET` — Get ACL on your domain
+### 🟢 GET — Get ACL on your domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1299,7 +1301,7 @@ _List the email.domain.Acl objects_
 
 ---
 
-### 🟡 POST `POST` — Create new ACL
+### 🟡 POST — Create new ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1323,7 +1325,7 @@ _List the email.domain.Acl objects_
 
 _Email ACL_
 
-### 🔴 DELETE `DELETE` — Delete ACL
+### 🔴 DELETE — Delete ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1342,7 +1344,7 @@ _Email ACL_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1366,7 +1368,7 @@ _Email ACL_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1392,7 +1394,7 @@ _Change the contacts of this service_
 
 _changeDnsMXFilter operations_
 
-### 🟡 POST `POST` — Change MX filter, so change MX DNS records
+### 🟡 POST — Change MX filter, so change MX DNS records
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1418,7 +1420,7 @@ _changeDnsMXFilter operations_
 
 _confirmTermination operations_
 
-### 🟡 POST `POST` — Confirm termination of your email service
+### 🟡 POST — Confirm termination of your email service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1444,7 +1446,7 @@ _confirmTermination operations_
 
 _DKIM for a domain_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1467,7 +1469,7 @@ _DKIM for a domain_
 
 _disable operations_
 
-### 🟠 PUT `PUT` — Disable DKIM
+### 🟠 PUT — Disable DKIM
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1490,7 +1492,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟠 PUT `PUT` — Enable DKIM
+### 🟠 PUT — Enable DKIM
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1513,7 +1515,7 @@ _enable operations_
 
 _dnsMXFilter operations_
 
-### 🟢 GET `GET` — Domain MX filter
+### 🟢 GET — Domain MX filter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1537,7 +1539,7 @@ _dnsMXFilter operations_
 
 _dnsMXRecords operations_
 
-### 🟢 GET `GET` — Domain MX records
+### 🟢 GET — Domain MX records
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1561,7 +1563,7 @@ _dnsMXRecords operations_
 
 _List the email.domain.MailingList objects_
 
-### 🟢 GET `GET` — Get mailing lists
+### 🟢 GET — Get mailing lists
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1580,7 +1582,7 @@ _List the email.domain.MailingList objects_
 
 ---
 
-### 🟡 POST `POST` — Create new mailingList
+### 🟡 POST — Create new mailingList
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1608,7 +1610,7 @@ _List the email.domain.MailingList objects_
 
 _Mailing List_
 
-### 🔴 DELETE `DELETE` — Delete existing Mailing list
+### 🔴 DELETE — Delete existing Mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1627,7 +1629,7 @@ _Mailing List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1646,7 +1648,7 @@ _Mailing List_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1671,7 +1673,7 @@ _Mailing List_
 
 _changeOptions operations_
 
-### 🟡 POST `POST` — Change mailing list options
+### 🟡 POST — Change mailing list options
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1696,7 +1698,7 @@ _changeOptions operations_
 
 _List the email.domain.Moderator objects_
 
-### 🟢 GET `GET` — List of moderators
+### 🟢 GET — List of moderators
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1716,7 +1718,7 @@ _List the email.domain.Moderator objects_
 
 ---
 
-### 🟡 POST `POST` — Add moderator to mailing list
+### 🟡 POST — Add moderator to mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1741,7 +1743,7 @@ _List the email.domain.Moderator objects_
 
 _Moderators List_
 
-### 🔴 DELETE `DELETE` — Delete existing moderator
+### 🔴 DELETE — Delete existing moderator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1761,7 +1763,7 @@ _Moderators List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1786,7 +1788,7 @@ _Moderators List_
 
 _sendListByEmail operations_
 
-### 🟡 POST `POST` — Send moderators list and subscribers list of this mailing list by email
+### 🟡 POST — Send moderators list and subscribers list of this mailing list by email
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1811,7 +1813,7 @@ _sendListByEmail operations_
 
 _List the email.domain.Subscriber objects_
 
-### 🟢 GET `GET` — List of subscribers
+### 🟢 GET — List of subscribers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1831,7 +1833,7 @@ _List the email.domain.Subscriber objects_
 
 ---
 
-### 🟡 POST `POST` — Add subscriber to mailing list
+### 🟡 POST — Add subscriber to mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1856,7 +1858,7 @@ _List the email.domain.Subscriber objects_
 
 _Subscribers List_
 
-### 🔴 DELETE `DELETE` — Delete existing subscriber
+### 🔴 DELETE — Delete existing subscriber
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1876,7 +1878,7 @@ _Subscribers List_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1901,7 +1903,7 @@ _Subscribers List_
 
 _migrateDelegationV3toV6 operations_
 
-### 🟡 POST `POST` — Create delegation of domain with same nic than V3
+### 🟡 POST — Create delegation of domain with same nic than V3
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1924,7 +1926,7 @@ _migrateDelegationV3toV6 operations_
 
 _quota operations_
 
-### 🟢 GET `GET` — List all quotas for this domain
+### 🟢 GET — List all quotas for this domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1947,7 +1949,7 @@ _quota operations_
 
 _recommendedDNSRecords operations_
 
-### 🟢 GET `GET` — Recommended domain DNS records
+### 🟢 GET — Recommended domain DNS records
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1970,7 +1972,7 @@ _recommendedDNSRecords operations_
 
 _List the email.domain.RedirectionGlobal objects_
 
-### 🟢 GET `GET` — Get redirections
+### 🟢 GET — Get redirections
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -1990,7 +1992,7 @@ _List the email.domain.RedirectionGlobal objects_
 
 ---
 
-### 🟡 POST `POST` — Create new redirection in server
+### 🟡 POST — Create new redirection in server
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2014,7 +2016,7 @@ _List the email.domain.RedirectionGlobal objects_
 
 _List the email.domain.RedirectionGlobal objects_
 
-### 🔴 DELETE `DELETE` — Delete an existing redirection in server
+### 🔴 DELETE — Delete an existing redirection in server
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2033,7 +2035,7 @@ _List the email.domain.RedirectionGlobal objects_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2057,7 +2059,7 @@ _List the email.domain.RedirectionGlobal objects_
 
 _changeRedirection operations_
 
-### 🟡 POST `POST` — Change redirection
+### 🟡 POST — Change redirection
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2082,7 +2084,7 @@ _changeRedirection operations_
 
 _List the email.domain.Responder objects_
 
-### 🟢 GET `GET` — Get responders
+### 🟢 GET — Get responders
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2101,7 +2103,7 @@ _List the email.domain.Responder objects_
 
 ---
 
-### 🟡 POST `POST` — Create new responder in server
+### 🟡 POST — Create new responder in server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2130,7 +2132,7 @@ _List the email.domain.Responder objects_
 
 _Responder_
 
-### 🔴 DELETE `DELETE` — Delete an existing responder in server
+### 🔴 DELETE — Delete an existing responder in server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2149,7 +2151,7 @@ _Responder_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2168,7 +2170,7 @@ _Responder_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2193,7 +2195,7 @@ _Responder_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2211,7 +2213,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2235,7 +2237,7 @@ _Details about a Service_
 
 _summary operations_
 
-### 🟢 GET `GET` — Summary for this domain
+### 🟢 GET — Summary for this domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2258,7 +2260,7 @@ _summary operations_
 
 _List the email.domain.TaskPop objects_
 
-### 🟢 GET `GET` — Get account tasks
+### 🟢 GET — Get account tasks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2282,7 +2284,7 @@ _List the email.domain.TaskPop objects_
 
 _Task Pop List_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2306,7 +2308,7 @@ _Task Pop List_
 
 _List the email.domain.task objects_
 
-### 🟢 GET `GET` — Get tasks
+### 🟢 GET — Get tasks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2329,7 +2331,7 @@ _List the email.domain.task objects_
 
 _Tasks_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2353,7 +2355,7 @@ _Tasks_
 
 _List the email.domain.TaskFilter objects_
 
-### 🟢 GET `GET` — Get filter tasks
+### 🟢 GET — Get filter tasks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2377,7 +2379,7 @@ _List the email.domain.TaskFilter objects_
 
 _Task filter List_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2401,7 +2403,7 @@ _Task filter List_
 
 _List the email.domain.TaskMl objects_
 
-### 🟢 GET `GET` — Get Mailing List tasks
+### 🟢 GET — Get Mailing List tasks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2425,7 +2427,7 @@ _List the email.domain.TaskMl objects_
 
 _Task Mailing List_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2449,7 +2451,7 @@ _Task Mailing List_
 
 _List the email.domain.TaskSpecialAccount objects_
 
-### 🟢 GET `GET` — Get redirection tasks
+### 🟢 GET — Get redirection tasks
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2473,7 +2475,7 @@ _List the email.domain.TaskSpecialAccount objects_
 
 _List the email.domain.TaskSpecialAccount objects_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2497,7 +2499,7 @@ _List the email.domain.TaskSpecialAccount objects_
 
 _List the email.domain.TaskSpecialAccount objects_
 
-### 🟢 GET `GET` — Get responder tasks
+### 🟢 GET — Get responder tasks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2521,7 +2523,7 @@ _List the email.domain.TaskSpecialAccount objects_
 
 _Task special account List_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2545,7 +2547,7 @@ _Task special account List_
 
 _terminate operations_
 
-### 🟡 POST `POST` — Terminate your email service
+### 🟡 POST — Terminate your email service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2560,5 +2562,849 @@ _terminate operations_
 
 **IAM actions:** `emailDomain:apiovh:terminate` (required)
 
+
+---
+
+## Models
+
+### `domain.DomainFilterActionEnum`
+
+_Possible values for filter action_
+
+**Enum** (`enumType: string`):
+
+- `accept`
+- `account`
+- `delete`
+- `redirect`
+
+### `domain.DomainFilterOperandEnum`
+
+_Possible values for filter operation_
+
+**Enum** (`enumType: string`):
+
+- `checkspf`
+- `contains`
+- `noContains`
+
+### `domain.DomainMXFilterEnum`
+
+_Possible values for MX filter_
+
+**Enum** (`enumType: string`):
+
+- `CUSTOM`
+- `FULL_FILTERING`
+- `NO_FILTERING`
+- `REDIRECT`
+- `SIMPLE_FILTERING`
+
+### `domain.DomainMlLanguageEnum`
+
+_Possible values for mailing list language_
+
+**Enum** (`enumType: string`):
+
+- `de`
+- `en`
+- `es`
+- `fr`
+- `it`
+- `nl`
+- `pl`
+- `pt`
+
+### `domain.DomainMlLimits`
+
+_Structure of mailinglist limits_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `subscribers` | `long` | ❌ | ❌ | ❌ | Maximum number of subscribers |
+
+### `domain.DomainMlOptionsStruct`
+
+_Structure of imapCopy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `moderatorMessage` | `boolean` | ❌ | ❌ | ❌ | If true, messages are moderate |
+| `subscribeByModerator` | `boolean` | ❌ | ❌ | ❌ | If true, enabled moderation for subscribe |
+| `usersPostOnly` | `boolean` | ❌ | ❌ | ❌ | If true, just user can post |
+
+### `domain.DomainPopActionEnum`
+
+_Possible values for pop action task_
+
+**Enum** (`enumType: string`):
+
+- `addAccount`
+- `changeAccount`
+- `changePassword`
+- `deleteAccount`
+- `internalMigration`
+- `migration`
+- `temporaryTask`
+- `unknown`
+
+### `domain.DomainQuota`
+
+_Values of quota account (pop, mailing list, redirection, responder and big pop)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `account` | `long` | ❌ | ❌ | ❌ | Maximum number of mailboxes |
+| `alias` | `long` | ❌ | ❌ | ❌ | Maximum number of aliases |
+| `mailingList` | `long` | ❌ | ❌ | ❌ | Maximum number of mailing lists |
+| `redirection` | `long` | ❌ | ❌ | ❌ | Maximum number of redirections |
+| `responder` | `long` | ❌ | ❌ | ❌ | Maximum number of responders |
+
+### `domain.DomainSpecialAccountActionEnum`
+
+_Possible values for pop action task_
+
+**Enum** (`enumType: string`):
+
+- `add`
+- `change`
+- `delete`
+
+### `domain.DomainSpecialAccountTypeEnum`
+
+_Possible type task_
+
+**Enum** (`enumType: string`):
+
+- `25g`
+- `alias`
+- `delete`
+- `filter`
+- `forward`
+- `responder`
+
+### `domain.DomainStatusEnum`
+
+_Possible values for status domain_
+
+**Enum** (`enumType: string`):
+
+- `close`
+- `ok`
+- `readOnly`
+- `unknown`
+
+### `domain.DomainSummary`
+
+_Values of number account (account, mailing list, redirection and responder)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `account` | `long` | ❌ | ❌ | ❌ | Number of mailboxes |
+| `mailingList` | `long` | ❌ | ❌ | ❌ | Number of mailing lists |
+| `redirection` | `long` | ❌ | ❌ | ❌ | Number of redirections |
+| `responder` | `long` | ❌ | ❌ | ❌ | Number of responders |
+
+### `domain.DomainUsageAccountStruct`
+
+_Structure of usage account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ✅ | ❌ | Timestamp |
+| `emailCount` | `long` | ❌ | ✅ | ❌ | Number of message in mailbox |
+| `quota` | `long` | ❌ | ✅ | ❌ | Size of mailbox (bytes) |
+
+### `email.domain.Account`
+
+_Account List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountName` | `string` | ❌ | ❌ | ✅ | Name of account |
+| `description` | `string` | ❌ | ❌ | ❌ | Account description |
+| `domain` | `string` | ❌ | ❌ | ✅ | Name of domain |
+| `email` | `string` | ❌ | ❌ | ✅ | Email |
+| `isBlocked` | `boolean` | ❌ | ❌ | ✅ | If true your account is blocked |
+| `size` | `long` | ❌ | ❌ | ❌ | Size of your account in bytes |
+
+### `email.domain.AccountDelegated`
+
+_Account List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountName` | `string` | ❌ | ❌ | ✅ | Name of account |
+| `allowedAccountSize` | `long[]` | ❌ | ✅ | ✅ | List of allowed sizes for this account in bytes |
+| `description` | `string` | ❌ | ❌ | ❌ | Account description |
+| `domain` | `string` | ❌ | ❌ | ✅ | Name of domain |
+| `email` | `string` | ❌ | ❌ | ✅ | Email |
+| `isBlocked` | `boolean` | ❌ | ❌ | ✅ | If true your account is blocked |
+| `size` | `long` | ❌ | ❌ | ❌ | Size of your account in bytes |
+
+### `email.domain.Acl`
+
+_Email ACL_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountId` | `string` | ❌ | ❌ | ✅ | OVH customer unique identifier |
+
+### `email.domain.DKIMSelector`
+
+_DKIM selector data for a domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cname` | `string` | ❌ | ❌ | ❌ | CNAME record |
+| `selectorName` | `string` | ❌ | ❌ | ❌ | Internal name of selector |
+| `status` | `email.domain.DKIMSelectorStatusEnum` | ❌ | ❌ | ❌ | Status of selector |
+
+### `email.domain.DKIMSelectorStatusEnum`
+
+_Status of DKIM selector_
+
+**Enum** (`enumType: string`):
+
+- `set`
+- `toFix`
+- `toSet`
+
+### `email.domain.DKIMStatusEnum`
+
+_Status of DKIM deployment_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+- `error`
+- `modifying`
+- `toConfigure`
+
+### `email.domain.Delegation`
+
+_Delegation List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountId` | `string` | ❌ | ❌ | ✅ | OVH customer unique identifier |
+
+### `email.domain.Diagnose`
+
+_Email diagnoses_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ✅ | Creation date of diagnose |
+| `function` | `email.domain.DomainDiagnoseFunctionEnum` | ❌ | ❌ | ✅ | Function of diagnose |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of diagnose |
+| `name` | `string` | ❌ | ✅ | ✅ | Name of account |
+| `result` | `email.domain.DomainDiagnoseResultEnum` | ❌ | ✅ | ✅ | Result of diagnose |
+| `trace` | `email.domain.DomainDiagnoseTraceStruct<email.domain.DomainDiagnoseResultEnum>[]` | ❌ | ✅ | ✅ | Trace of diagnose |
+
+### `email.domain.DiagnoseEnum`
+
+_Result value for diagnose_
+
+**Enum** (`enumType: string`):
+
+- `checkFail`
+- `invalid`
+- `none`
+- `unknown`
+- `valid`
+
+### `email.domain.DnsRecordTypeEnum`
+
+_Types of DNS record for fieldType_
+
+**Enum** (`enumType: string`):
+
+- `A`
+- `AAAA`
+- `CAA`
+- `CNAME`
+- `DKIM`
+- `DMARC`
+- `DNAME`
+- `LOC`
+- `MX`
+- `NAPTR`
+- `NS`
+- `PTR`
+- `SPF`
+- `SRV`
+- `SSHFP`
+- `TLSA`
+- `TXT`
+
+### `email.domain.DomainDiagnoseFunctionEnum`
+
+_Function of diagnose_
+
+**Enum** (`enumType: string`):
+
+- `MX`
+
+### `email.domain.DomainDiagnoseResultEnum`
+
+_Result of diagnose_
+
+**Enum** (`enumType: string`):
+
+- `CUSTOM`
+- `DEPRECATED`
+- `KO`
+- `OK`
+
+### `email.domain.DomainDiagnoseTraceStruct<T>`
+
+_Test and result, with proper test strings_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `result` | `T` | ❌ | ❌ | ❌ |  |
+| `test` | `string` | ❌ | ❌ | ❌ |  |
+
+### `email.domain.DomainDiagnoseTraceStruct<email.domain.DomainDiagnoseResultEnum>`
+
+_Test and result, with proper test strings_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `result` | `T` | ❌ | ❌ | ❌ |  |
+| `test` | `string` | ❌ | ❌ | ❌ |  |
+
+### `email.domain.DomainService`
+
+_Domain service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountSize` | `long[]` | ❌ | ✅ | ✅ | List of allowed sizes for this domain in bytes |
+| `creationDate` | `datetime` | ❌ | ✅ | ✅ | Creation date of domain |
+| `domain` | `string` | ❌ | ❌ | ✅ | Name of domain |
+| `filerz` | `long` | ❌ | ✅ | ✅ | Filerz of domain |
+| `isMXValid` | `email.domain.DiagnoseEnum` | ❌ | ❌ | ✅ | Result of MX check if current MX fit to OVH recommendations |
+| `isSPFValid` | `email.domain.DiagnoseEnum` | ❌ | ❌ | ✅ | Result of SPF check if current SPF fit to OVH recommendations |
+| `linkTo` | `string` | ❌ | ✅ | ✅ | Name of servicelinked with this domain |
+| `migratedMXPlanServiceName` | `string` | ❌ | ✅ | ✅ | Name of new MXPlan service |
+| `offer` | `string` | ❌ | ✅ | ✅ | Offer of email service |
+| `status` | `domain.DomainStatusEnum` | ❌ | ❌ | ✅ | Domain Status |
+
+### `email.domain.DomainServiceWithIAM`
+
+_Domain service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountSize` | `long[]` | ❌ | ✅ | ✅ | List of allowed sizes for this domain in bytes |
+| `creationDate` | `datetime` | ❌ | ✅ | ✅ | Creation date of domain |
+| `domain` | `string` | ❌ | ❌ | ✅ | Name of domain |
+| `filerz` | `long` | ❌ | ✅ | ✅ | Filerz of domain |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `isMXValid` | `email.domain.DiagnoseEnum` | ❌ | ❌ | ✅ | Result of MX check if current MX fit to OVH recommendations |
+| `isSPFValid` | `email.domain.DiagnoseEnum` | ❌ | ❌ | ✅ | Result of SPF check if current SPF fit to OVH recommendations |
+| `linkTo` | `string` | ❌ | ✅ | ✅ | Name of servicelinked with this domain |
+| `migratedMXPlanServiceName` | `string` | ❌ | ✅ | ✅ | Name of new MXPlan service |
+| `offer` | `string` | ❌ | ✅ | ✅ | Offer of email service |
+| `status` | `domain.DomainStatusEnum` | ❌ | ❌ | ✅ | Domain Status |
+
+### `email.domain.Filter`
+
+_Filter List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `domain.DomainFilterActionEnum` | ❌ | ✅ | ✅ | Action of filter |
+| `actionParam` | `string` | ❌ | ✅ | ✅ | Action parameter of filter |
+| `active` | `boolean` | ❌ | ❌ | ✅ | If true filter is active |
+| `domain` | `string` | ❌ | ❌ | ✅ | Domain name of filter |
+| `name` | `string` | ❌ | ❌ | ✅ | Filter name |
+| `pop` | `string` | ❌ | ❌ | ✅ | Account name of filter |
+| `priority` | `long` | ❌ | ❌ | ✅ | Priority of filter |
+
+### `email.domain.MailingList`
+
+_Mailing List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ | Id of mailing list |
+| `language` | `domain.DomainMlLanguageEnum` | ❌ | ✅ | ❌ | Language of mailing list |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of mailing list |
+| `nbSubscribers` | `long` | ❌ | ✅ | ✅ | Subscribers number of mailing list |
+| `nbSubscribersUpdateDate` | `datetime` | ❌ | ✅ | ✅ | Last update subscribers |
+| `options` | `domain.DomainMlOptionsStruct` | ❌ | ❌ | ✅ | Options of mailing list |
+| `ownerEmail` | `string` | ❌ | ❌ | ❌ | Owner email of mailing list |
+| `replyTo` | `string` | ❌ | ❌ | ❌ | Email to reply of mailing list |
+
+### `email.domain.MigrationAccount`
+
+_Migration account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `destinationEmailAddress` | `string` | ❌ | ❌ | ✅ | Destination account name |
+| `quota` | `long` | ❌ | ❌ | ✅ | Account maximum size |
+
+### `email.domain.MigrationCheckCodeEnum`
+
+_Result code of check migration_
+
+**Enum** (`enumType: string`):
+
+- `ACCOUNT_EMPTY`
+- `ACCOUNT_INPROGRESS`
+- `DELEGATION_EXIST`
+- `DOMAIN_EMPTY`
+- `FILTER_EXIST`
+- `FORWARD_EXIST`
+- `FORWARD_LOCAL`
+- `MAILINGLIST_EXIST`
+- `MAILINGLIST_INPROGRESS`
+- `MAILPROXY_BAD_INFRA`
+- `MAILPROXY_EMPTY`
+- `MAILPROXY_INPROGRESS`
+- `MAILPROXY_RESERVATION`
+- `REDIRECTION_INPROGRESS`
+- `RESPONDER_EXIST`
+- `RESPONDER_INPROGRESS`
+- `UNKNOW`
+
+### `email.domain.MigrationCheckResultStruct`
+
+_Check Migration result_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `email.domain.MigrationCheckCodeEnum` | ❌ | ❌ | ❌ | Result code of check migration |
+| `details` | `string` | ❌ | ✅ | ❌ | Details of result code |
+
+### `email.domain.MigrationCheckStruct`
+
+_Check Migration result_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alias` | `string[]` | ❌ | ✅ | ❌ | List of aliases |
+| `error` | `email.domain.MigrationCheckResultStruct[]` | ❌ | ✅ | ❌ | List of errors |
+| `filter` | `string[]` | ❌ | ✅ | ❌ | List of filters |
+| `forward` | `string[]` | ❌ | ✅ | ❌ | List of forwards |
+| `warning` | `email.domain.MigrationCheckResultStruct[]` | ❌ | ✅ | ❌ | List of warnings |
+
+### `email.domain.MigrationService`
+
+_Migration service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ | Admin contact of service |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ | Billing contact of service |
+| `contactTech` | `string` | ❌ | ❌ | ✅ | Tech contact of service |
+| `creation` | `date` | ❌ | ❌ | ✅ | Creation date of service |
+| `destinationServiceName` | `string` | ❌ | ❌ | ✅ | Service name allowed as migration destination |
+| `expiration` | `date` | ❌ | ❌ | ✅ | Expiration date of service |
+| `type` | `email.domain.MigrationServiceType` | ❌ | ❌ | ✅ | Offer type of service |
+
+### `email.domain.MigrationServiceType`
+
+_Types of migration service_
+
+**Enum** (`enumType: string`):
+
+- `EMAIL PRO`
+- `HOSTED EXCHANGE`
+- `PRIVATE EXCHANGE`
+- `PROVIDER EXCHANGE`
+
+### `email.domain.Moderator`
+
+_Moderators List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `email` | `string` | ❌ | ❌ | ✅ |  |
+| `mailinglist` | `string` | ❌ | ❌ | ✅ |  |
+
+### `email.domain.Record`
+
+_DNS record for email services_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fieldType` | `email.domain.DnsRecordTypeEnum` | ❌ | ❌ | ✅ | Type of DNS record |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of record |
+| `subDomain` | `string` | ❌ | ✅ | ✅ | subdomain of record |
+| `target` | `string` | ❌ | ❌ | ✅ | Target of DNS record |
+| `ttl` | `long` | ❌ | ✅ | ✅ | TTL of record |
+| `zone` | `string` | ❌ | ❌ | ✅ | Name of DNS zone |
+
+### `email.domain.RedirectionChangeRedirectionCreation`
+
+_Change redirection_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `to` | `string` | ✅ | ❌ | ❌ | Target of account |
+
+### `email.domain.RedirectionCreation`
+
+_Create redirection_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `from` | `string` | ✅ | ❌ | ❌ | Name of redirection |
+| `localCopy` | `boolean` | ✅ | ❌ | ❌ | If true keep a local copy |
+| `to` | `string` | ✅ | ❌ | ❌ | Target of account |
+
+### `email.domain.RedirectionGlobal`
+
+_Global Redirection_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `from` | `string` | ❌ | ❌ | ✅ | Name of redirection |
+| `id` | `string` | ❌ | ❌ | ✅ | Id of redirection |
+| `to` | `string` | ❌ | ❌ | ✅ | Target of redirection |
+
+### `email.domain.Responder`
+
+_Responder_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `account` | `string` | ❌ | ❌ | ✅ | Name of account |
+| `content` | `string` | ❌ | ❌ | ❌ | Content of responder |
+| `copy` | `boolean` | ❌ | ❌ | ✅ | If false, emails will be dropped. If true and copyTo field is empty, emails will be delivered to your mailbox. If true and copyTo is set with an address, emails will be delivered to this address |
+| `copyTo` | `string` | ❌ | ✅ | ✅ | Account where copy emails |
+| `from` | `datetime` | ❌ | ✅ | ❌ | Date of start responder |
+| `to` | `datetime` | ❌ | ✅ | ❌ | Date of end responder |
+
+### `email.domain.ResponderAccount`
+
+_Responder of account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `account` | `string` | ❌ | ❌ | ✅ | Name of account |
+| `content` | `string` | ❌ | ❌ | ❌ | Content of responder |
+| `copy` | `boolean` | ❌ | ❌ | ✅ | If true, emails will be copy to emailToCopy address |
+| `copyTo` | `string` | ❌ | ✅ | ✅ | Account where copy emails |
+| `from` | `datetime` | ❌ | ✅ | ❌ | Date of start responder |
+| `to` | `datetime` | ❌ | ✅ | ❌ | Date of end responder |
+
+### `email.domain.Rule`
+
+_Rule List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `header` | `string` | ❌ | ❌ | ✅ | Header to be filtered |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `operand` | `domain.DomainFilterOperandEnum` | ❌ | ❌ | ✅ | Rule of filter |
+| `value` | `string` | ❌ | ❌ | ✅ | Rule parameter of filter |
+
+### `email.domain.Subscriber`
+
+_Subscribers List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `email` | `string` | ❌ | ❌ | ✅ |  |
+| `mailinglist` | `string` | ❌ | ❌ | ✅ |  |
+
+### `email.domain.TaskFilter`
+
+_Task filter List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `account` | `string` | ❌ | ❌ | ✅ | Account name of task |
+| `action` | `string` | ❌ | ❌ | ✅ | Action of task |
+| `domain` | `string` | ❌ | ❌ | ✅ | Domain name of task |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of task |
+| `timestamp` | `datetime` | ❌ | ❌ | ✅ | Creation date of task |
+
+### `email.domain.TaskMl`
+
+_Task Mailing List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `account` | `string` | ❌ | ❌ | ✅ |  |
+| `action` | `string` | ❌ | ❌ | ✅ |  |
+| `date` | `datetime` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `language` | `domain.DomainMlLanguageEnum` | ❌ | ❌ | ✅ |  |
+
+### `email.domain.TaskPop`
+
+_Task Pop List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `domain.DomainPopActionEnum` | ❌ | ❌ | ✅ | Action of task |
+| `date` | `datetime` | ❌ | ❌ | ✅ | Creation date of task |
+| `domain` | `string` | ❌ | ❌ | ✅ | Domain name of task |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of task |
+| `name` | `string` | ❌ | ❌ | ✅ | Account name of task |
+
+### `email.domain.TaskSpecialAccount`
+
+_Task special account List_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `account` | `string` | ❌ | ❌ | ✅ | Account name of task |
+| `action` | `domain.DomainSpecialAccountActionEnum` | ❌ | ❌ | ✅ | Action of task |
+| `date` | `datetime` | ❌ | ❌ | ✅ | Creation date of task |
+| `domain` | `string` | ❌ | ❌ | ✅ | Domain name of task |
+| `id` | `string` | ❌ | ❌ | ✅ | Id of task |
+| `type` | `domain.DomainSpecialAccountTypeEnum` | ❌ | ❌ | ✅ | Type of action filter |
+
+### `email.domain.TaskStatusEnum`
+
+_Possible values for domain task status_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `customerError`
+- `doing`
+- `done`
+- `init`
+- `ovhError`
+- `todo`
+
+### `email.domain.dkim_simplified`
+
+_DKIM for a domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeSelector` | `string` | ❌ | ✅ | ✅ | activeSelector |
+| `autoconfig` | `boolean` | ❌ | ✅ | ✅ | If true your DNS CNAME configuration is valid |
+| `selectors` | `email.domain.DKIMSelector[]` | ❌ | ✅ | ✅ | DKIM status |
+| `status` | `email.domain.DKIMStatusEnum` | ❌ | ❌ | ✅ | DKIM status |
+
+### `email.domain.task`
+
+_Tasks_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `domain` | `string` | ❌ | ❌ | ✅ | Domain name of the task |
+| `function` | `string` | ❌ | ❌ | ✅ | Function of the task |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of the task |
+| `status` | `email.domain.TaskStatusEnum` | ❌ | ❌ | ✅ | Status of the task |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

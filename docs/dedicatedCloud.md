@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **268** — Operations: **305**
+> Routes: **268** — Operations: **305**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `508289ab2c592c68`
 
 ---
 
@@ -285,7 +287,7 @@
 
 _Operations about the PCC service_
 
-### 🟢 GET `GET` — List VMware on OVHcloud infrastructures
+### 🟢 GET — List VMware on OVHcloud infrastructures
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -308,7 +310,7 @@ _Operations about the PCC service_
 
 _List the dedicatedCloud.CommercialRange objects_
 
-### 🟢 GET `GET` — List commercial ranges
+### 🟢 GET — List commercial ranges
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -323,7 +325,7 @@ _List the dedicatedCloud.CommercialRange objects_
 
 _Commercial ranges_
 
-### 🟢 GET `GET` — Get commercial range
+### 🟢 GET — Get commercial range
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -344,7 +346,7 @@ _Commercial ranges_
 
 _List the dedicatedCloud.PccZone objects_
 
-### 🟢 GET `GET` — List hosting locations
+### 🟢 GET — List hosting locations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -361,7 +363,7 @@ _List the dedicatedCloud.PccZone objects_
 
 _Hosting location_
 
-### 🟢 GET `GET` — Get hosting location
+### 🟢 GET — Get hosting location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -384,7 +386,7 @@ _Hosting location_
 
 _List the dedicatedCloud.HostProfile objects_
 
-### 🟢 GET `GET` — List host profiles on hosting location
+### 🟢 GET — List host profiles on hosting location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -407,7 +409,7 @@ _List the dedicatedCloud.HostProfile objects_
 
 _Host profile_
 
-### 🟢 GET `GET` — Get host profile
+### 🟢 GET — Get host profile
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -431,7 +433,7 @@ _Host profile_
 
 _List the dedicatedCloud.Os objects_
 
-### 🟢 GET `GET` — List hypervisor versions on hosting location
+### 🟢 GET — List hypervisor versions on hosting location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -454,7 +456,7 @@ _List the dedicatedCloud.Os objects_
 
 _Hypervisor_
 
-### 🟢 GET `GET` — Get hypervisor
+### 🟢 GET — Get hypervisor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -478,7 +480,7 @@ _Hypervisor_
 
 _host operations_
 
-### 🟢 GET `GET` — Get hosts stock
+### 🟢 GET — Get hosts stock
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -502,7 +504,7 @@ _host operations_
 
 _pcc operations_
 
-### 🟢 GET `GET` — Get hypervisors stock
+### 🟢 GET — Get hypervisors stock
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -525,7 +527,7 @@ _pcc operations_
 
 _zpool operations_
 
-### 🟢 GET `GET` — Get datastores stock
+### 🟢 GET — Get datastores stock
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -549,7 +551,7 @@ _zpool operations_
 
 _VMware on OVHcloud_
 
-### 🟢 GET `GET` — Get VMware on OVHcloud
+### 🟢 GET — Get VMware on OVHcloud
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -567,7 +569,7 @@ _VMware on OVHcloud_
 
 ---
 
-### 🟠 PUT `PUT` — Update VMware on OVHcloud
+### 🟠 PUT — Update VMware on OVHcloud
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -591,7 +593,7 @@ _VMware on OVHcloud_
 
 _List the dedicatedCloud.AllowedNetwork objects_
 
-### 🟢 GET `GET` — List networks allowed on infrastructure firewall
+### 🟢 GET — List networks allowed on infrastructure firewall
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -609,7 +611,7 @@ _List the dedicatedCloud.AllowedNetwork objects_
 
 ---
 
-### 🟡 POST `POST` — Create network allowed on infrastructure firewall
+### 🟡 POST — Create network allowed on infrastructure firewall
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -634,7 +636,7 @@ _List the dedicatedCloud.AllowedNetwork objects_
 
 _Network allowed on infrastructure firewall_
 
-### 🔴 DELETE `DELETE` — Remove network allowed on infrastructure firewall
+### 🔴 DELETE — Remove network allowed on infrastructure firewall
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -653,7 +655,7 @@ _Network allowed on infrastructure firewall_
 
 ---
 
-### 🟢 GET `GET` — Get network allowed on infrastructure firewall
+### 🟢 GET — Get network allowed on infrastructure firewall
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -672,7 +674,7 @@ _Network allowed on infrastructure firewall_
 
 ---
 
-### 🟠 PUT `PUT` — Update network allowed on infrastructure firewall
+### 🟠 PUT — Update network allowed on infrastructure firewall
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -697,7 +699,7 @@ _Network allowed on infrastructure firewall_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations associated to a network allowed on infrastructure firewall
+### 🟢 GET — List operations associated to a network allowed on infrastructure firewall
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -723,7 +725,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -748,7 +750,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -774,7 +776,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -800,7 +802,7 @@ _resetTaskState operations_
 
 _List the dedicatedCloud.BackupRepository objects_
 
-### 🟢 GET `GET` — List backup repositories
+### 🟢 GET — List backup repositories
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -823,7 +825,7 @@ _List the dedicatedCloud.BackupRepository objects_
 
 _Backup repository_
 
-### 🟢 GET `GET` — Get backup repository
+### 🟢 GET — Get backup repository
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -847,7 +849,7 @@ _Backup repository_
 
 _canDeployNsxtEdgesOnGlobalDatastores operations_
 
-### 🟢 GET `GET` — Check if global datastore have enough free space to host NSX-T edges
+### 🟢 GET — Check if global datastore have enough free space to host NSX-T edges
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -872,7 +874,7 @@ _canDeployNsxtEdgesOnGlobalDatastores operations_
 
 _Available features_
 
-### 🟢 GET `GET` — Get available features
+### 🟢 GET — Get available features
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -895,7 +897,7 @@ _Available features_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -921,7 +923,7 @@ _Change the contacts of this service_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Update VMware on OVHcloud
+### 🟡 POST — Update VMware on OVHcloud
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -950,7 +952,7 @@ _changeProperties operations_
 
 _compliance operations_
 
-### 🟢 GET `GET` — Get compliant commercial ranges
+### 🟢 GET — Get compliant commercial ranges
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -973,7 +975,7 @@ _compliance operations_
 
 _orderable operations_
 
-### 🟢 GET `GET` — Get orderable commercial ranges
+### 🟢 GET — Get orderable commercial ranges
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -996,7 +998,7 @@ _orderable operations_
 
 _Confirm service termination_
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1023,7 +1025,7 @@ _Confirm service termination_
 
 _List the dedicatedCloud.Datacenter objects_
 
-### 🟢 GET `GET` — List virtual datacenters
+### 🟢 GET — List virtual datacenters
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1041,7 +1043,7 @@ _List the dedicatedCloud.Datacenter objects_
 
 ---
 
-### 🟡 POST `POST` — Create virtual datacenter
+### 🟡 POST — Create virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1066,7 +1068,7 @@ _List the dedicatedCloud.Datacenter objects_
 
 _Virtual datacenter_
 
-### 🔴 DELETE `DELETE` — Remove virtual datacenter
+### 🔴 DELETE — Remove virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1085,7 +1087,7 @@ _Virtual datacenter_
 
 ---
 
-### 🟢 GET `GET` — Get virtual datacenter
+### 🟢 GET — Get virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1104,7 +1106,7 @@ _Virtual datacenter_
 
 ---
 
-### 🟠 PUT `PUT` — Update virtual datacenter
+### 🟠 PUT — Update virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1129,7 +1131,7 @@ _Virtual datacenter_
 
 _Backup option_
 
-### 🟢 GET `GET` — Get backup option
+### 🟢 GET — Get backup option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1153,7 +1155,7 @@ _Backup option_
 
 _batchRestore operations_
 
-### 🟡 POST `POST` — Restore from last point for each backup job
+### 🟡 POST — Restore from last point for each backup job
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1179,7 +1181,7 @@ _batchRestore operations_
 
 _canOptimizeProxies operations_
 
-### 🟢 GET `GET` — Generate recommendations for backup proxies optimization
+### 🟢 GET — Generate recommendations for backup proxies optimization
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1203,7 +1205,7 @@ _canOptimizeProxies operations_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Update backup option
+### 🟡 POST — Update backup option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1235,7 +1237,7 @@ _changeProperties operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable backup option
+### 🟡 POST — Disable backup option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1259,7 +1261,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable backup option
+### 🟡 POST — Enable backup option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1284,7 +1286,7 @@ _enable operations_
 
 _generateReport operations_
 
-### 🟡 POST `POST` — Generate email report with all backup information
+### 🟡 POST — Generate email report with all backup information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1308,7 +1310,7 @@ _generateReport operations_
 
 _offerCapabilities operations_
 
-### 🟢 GET `GET` — List backup offer capabilities
+### 🟢 GET — List backup offer capabilities
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1332,7 +1334,7 @@ _offerCapabilities operations_
 
 _optimizeProxies operations_
 
-### 🟡 POST `POST` — Optimize number of backup proxies
+### 🟡 POST — Optimize number of backup proxies
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1356,7 +1358,7 @@ _optimizeProxies operations_
 
 _List the dedicatedCloud.BackupRepository objects_
 
-### 🟢 GET `GET` — List backup repositories in virtual datacenter
+### 🟢 GET — List backup repositories in virtual datacenter
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1380,7 +1382,7 @@ _List the dedicatedCloud.BackupRepository objects_
 
 _Backup repository_
 
-### 🟢 GET `GET` — Get backup repository
+### 🟢 GET — Get backup repository
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1405,7 +1407,7 @@ _Backup repository_
 
 _checkBackupJobs operations_
 
-### 🟡 POST `POST` — Check if backup jobs are correctly set in virtual datacenter (when vms have been moved to another virtual datacenter)
+### 🟡 POST — Check if backup jobs are correctly set in virtual datacenter (when vms have been moved to another virtual datacenter)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1429,7 +1431,7 @@ _checkBackupJobs operations_
 
 _List the dedicatedCloud.Cluster objects_
 
-### 🟢 GET `GET` — List clusters within virtual datacenter
+### 🟢 GET — List clusters within virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1453,7 +1455,7 @@ _List the dedicatedCloud.Cluster objects_
 
 _Cluster_
 
-### 🟢 GET `GET` — Get cluster
+### 🟢 GET — Get cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1478,7 +1480,7 @@ _Cluster_
 
 _nsxt operations_
 
-### 🔴 DELETE `DELETE` — Unconfigure NSX-T on cluster
+### 🔴 DELETE — Unconfigure NSX-T on cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1498,7 +1500,7 @@ _nsxt operations_
 
 ---
 
-### 🟡 POST `POST` — Configure NSX-T on cluster
+### 🟡 POST — Configure NSX-T on cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1518,7 +1520,7 @@ _nsxt operations_
 
 ---
 
-### 🟠 PUT `PUT` — Update NSX-T configuration on cluster
+### 🟠 PUT — Update NSX-T configuration on cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1543,7 +1545,7 @@ _nsxt operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable Zerto disaster recovery between two VMware on OVHcloud infrastructures
+### 🟡 POST — Disable Zerto disaster recovery between two VMware on OVHcloud infrastructures
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1569,7 +1571,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable Zerto disaster recovery between two VMware on OVHcloud infrastructures
+### 🟡 POST — Enable Zerto disaster recovery between two VMware on OVHcloud infrastructures
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1597,7 +1599,7 @@ _enable operations_
 
 _endMigration operations_
 
-### 🟡 POST `POST` — Unlink migration source virtual datacenter from Zerto disaster recovery
+### 🟡 POST — Unlink migration source virtual datacenter from Zerto disaster recovery
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1621,7 +1623,7 @@ _endMigration operations_
 
 _endpointPublicIp operations_
 
-### 🟡 POST `POST` — Change the IP address used by Zerto disaster recovery endpoint for public network access
+### 🟡 POST — Change the IP address used by Zerto disaster recovery endpoint for public network access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1646,7 +1648,7 @@ _endpointPublicIp operations_
 
 _remoteSites operations_
 
-### 🔴 DELETE `DELETE` — Remove Zerto disaster recovery remote site
+### 🔴 DELETE — Remove Zerto disaster recovery remote site
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1666,7 +1668,7 @@ _remoteSites operations_
 
 ---
 
-### 🟢 GET `GET` — List Zerto disaster recovery remote sites
+### 🟢 GET — List Zerto disaster recovery remote sites
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1685,7 +1687,7 @@ _remoteSites operations_
 
 ---
 
-### 🟡 POST `POST` — Create Zerto disaster recovery remote site on VPN endpoint
+### 🟡 POST — Create Zerto disaster recovery remote site on VPN endpoint
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1714,7 +1716,7 @@ _remoteSites operations_
 
 _requestHealthCheck operations_
 
-### 🟡 POST `POST` — Run Zerto disaster recovery health check task
+### 🟡 POST — Run Zerto disaster recovery health check task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1738,7 +1740,7 @@ _requestHealthCheck operations_
 
 _startMigration operations_
 
-### 🟡 POST `POST` — Link migration target virtual datacenter to Zerto disaster recovery
+### 🟡 POST — Link migration target virtual datacenter to Zerto disaster recovery
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1762,7 +1764,7 @@ _startMigration operations_
 
 _status operations_
 
-### 🟢 GET `GET` — Get Zerto disaster recovery option status
+### 🟢 GET — Get Zerto disaster recovery option status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1786,7 +1788,7 @@ _status operations_
 
 _usageReport operations_
 
-### 🟢 GET `GET` — List Zerto disaster recovery protected virtual machines
+### 🟢 GET — List Zerto disaster recovery protected virtual machines
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1812,7 +1814,7 @@ _usageReport operations_
 
 _vraResources operations_
 
-### 🟢 GET `GET` — Lists all Zerto VRAs along with their allocated CPU and RAM resources
+### 🟢 GET — Lists all Zerto VRAs along with their allocated CPU and RAM resources
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1831,7 +1833,7 @@ _vraResources operations_
 
 ---
 
-### 🟡 POST `POST` — Updates the CPU and RAM resources allocated to a specified Zerto VRA
+### 🟡 POST — Updates the CPU and RAM resources allocated to a specified Zerto VRA
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1857,7 +1859,7 @@ _vraResources operations_
 
 _configureVpn operations_
 
-### 🟡 POST `POST` — Configure VPN for Zerto disaster recovery between VMware on OVHcloud infrastructure and onsite infrastructure
+### 🟡 POST — Configure VPN for Zerto disaster recovery between VMware on OVHcloud infrastructure and onsite infrastructure
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1886,7 +1888,7 @@ _configureVpn operations_
 
 _defaultLocalVraNetwork operations_
 
-### 🟢 GET `GET` — Get Zerto disaster recovery default suggested local VRA subnet
+### 🟢 GET — Get Zerto disaster recovery default suggested local VRA subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1910,7 +1912,7 @@ _defaultLocalVraNetwork operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable Zerto disaster recovery between VMware on OVHcloud infrastructure and onsite infrastructure
+### 🟡 POST — Disable Zerto disaster recovery between VMware on OVHcloud infrastructure and onsite infrastructure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1934,7 +1936,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable Zerto disaster recovery between VMware on OVHcloud infrastructure and onsite infrastructure
+### 🟡 POST — Enable Zerto disaster recovery between VMware on OVHcloud infrastructure and onsite infrastructure
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1961,7 +1963,7 @@ _enable operations_
 
 _endpointPublicIp operations_
 
-### 🟡 POST `POST` — Change the IP address used by Zerto disaster recovery endpoint for public network access
+### 🟡 POST — Change the IP address used by Zerto disaster recovery endpoint for public network access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1986,7 +1988,7 @@ _endpointPublicIp operations_
 
 _remoteSites operations_
 
-### 🔴 DELETE `DELETE` — Remove Zerto disaster recovery remote site
+### 🔴 DELETE — Remove Zerto disaster recovery remote site
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2006,7 +2008,7 @@ _remoteSites operations_
 
 ---
 
-### 🟢 GET `GET` — List Zerto disaster recovery remote sites
+### 🟢 GET — List Zerto disaster recovery remote sites
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2025,7 +2027,7 @@ _remoteSites operations_
 
 ---
 
-### 🟡 POST `POST` — Create Zerto disaster recovery remote site on VPN endpoint
+### 🟡 POST — Create Zerto disaster recovery remote site on VPN endpoint
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2054,7 +2056,7 @@ _remoteSites operations_
 
 _requestPairingToken operations_
 
-### 🟡 POST `POST` — Request Zerto disaster recovery pairing token for onsite infrastructure
+### 🟡 POST — Request Zerto disaster recovery pairing token for onsite infrastructure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2078,7 +2080,7 @@ _requestPairingToken operations_
 
 _vraResources operations_
 
-### 🟢 GET `GET` — Lists all Zerto VRAs along with their allocated CPU and RAM resources
+### 🟢 GET — Lists all Zerto VRAs along with their allocated CPU and RAM resources
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2097,7 +2099,7 @@ _vraResources operations_
 
 ---
 
-### 🟡 POST `POST` — Updates the CPU and RAM resources allocated to a specified Zerto VRA
+### 🟡 POST — Updates the CPU and RAM resources allocated to a specified Zerto VRA
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2123,7 +2125,7 @@ _vraResources operations_
 
 _List the dedicatedCloud.Filer objects_
 
-### 🟢 GET `GET` — List datastores in virtual datacenter
+### 🟢 GET — List datastores in virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2147,7 +2149,7 @@ _List the dedicatedCloud.Filer objects_
 
 _Datastore_
 
-### 🟢 GET `GET` — Get datastore
+### 🟢 GET — Get datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2172,7 +2174,7 @@ _Datastore_
 
 _checkGlobalCompatible operations_
 
-### 🟢 GET `GET` — Check ability to convert datastore to global datastore
+### 🟢 GET — Check ability to convert datastore to global datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2197,7 +2199,7 @@ _checkGlobalCompatible operations_
 
 _convertToGlobal operations_
 
-### 🟡 POST `POST` — Convert datastore to global datastore
+### 🟡 POST — Convert datastore to global datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2222,7 +2224,7 @@ _convertToGlobal operations_
 
 _hourlyConsumption operations_
 
-### 🟢 GET `GET` — Get datastore hourly consumption
+### 🟢 GET — Get datastore hourly consumption
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2247,7 +2249,7 @@ _hourlyConsumption operations_
 
 _location operations_
 
-### 🟢 GET `GET` — Get datastore location
+### 🟢 GET — Get datastore location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2273,7 +2275,7 @@ _location operations_
 
 _remove operations_
 
-### 🟡 POST `POST` — Remove datastore
+### 🟡 POST — Remove datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2298,7 +2300,7 @@ _remove operations_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations associated to datastore
+### 🟢 GET — List operations associated to datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2325,7 +2327,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2351,7 +2353,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2378,7 +2380,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2405,7 +2407,7 @@ _resetTaskState operations_
 
 _List the dedicatedCloud.Host objects_
 
-### 🟢 GET `GET` — List hosts in virtual datacenter
+### 🟢 GET — List hosts in virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2429,7 +2431,7 @@ _List the dedicatedCloud.Host objects_
 
 _Host_
 
-### 🟢 GET `GET` — Get host
+### 🟢 GET — Get host
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2454,7 +2456,7 @@ _Host_
 
 _addHostSpare operations_
 
-### 🟡 POST `POST` — Request host replacement
+### 🟡 POST — Request host replacement
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2480,7 +2482,7 @@ _addHostSpare operations_
 
 _hourlyConsumption operations_
 
-### 🟢 GET `GET` — Get host hourly consumption
+### 🟢 GET — Get host hourly consumption
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2505,7 +2507,7 @@ _hourlyConsumption operations_
 
 _location operations_
 
-### 🟢 GET `GET` — Get host location
+### 🟢 GET — Get host location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2530,7 +2532,7 @@ _location operations_
 
 _remove operations_
 
-### 🟡 POST `POST` — Remove host
+### 🟡 POST — Remove host
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2555,7 +2557,7 @@ _remove operations_
 
 _Host resilience test status_
 
-### 🟢 GET `GET` — Get host resilience test status
+### 🟢 GET — Get host resilience test status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2580,7 +2582,7 @@ _Host resilience test status_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if resilience test can be performed
+### 🟢 GET — Check if resilience test can be performed
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2605,7 +2607,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Stop resilience test
+### 🟡 POST — Stop resilience test
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2630,7 +2632,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Start resilience test (will cut host network access)
+### 🟡 POST — Start resilience test (will cut host network access)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2656,7 +2658,7 @@ _enable operations_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations associated to host
+### 🟢 GET — List operations associated to host
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2683,7 +2685,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2709,7 +2711,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2736,7 +2738,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2763,7 +2765,7 @@ _resetTaskState operations_
 
 _List the dedicatedCloud.NsxtEdge objects_
 
-### 🟢 GET `GET` — List NSX-T Edges within virtual datacenter
+### 🟢 GET — List NSX-T Edges within virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2782,7 +2784,7 @@ _List the dedicatedCloud.NsxtEdge objects_
 
 ---
 
-### 🟡 POST `POST` — Add a NSX-T Edge in the virtual datacenter
+### 🟡 POST — Add a NSX-T Edge in the virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2806,7 +2808,7 @@ _List the dedicatedCloud.NsxtEdge objects_
 
 _NSX-T Edge_
 
-### 🔴 DELETE `DELETE` — Remove NSX-T Edge from the virtual datacenter
+### 🔴 DELETE — Remove NSX-T Edge from the virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2826,7 +2828,7 @@ _NSX-T Edge_
 
 ---
 
-### 🟢 GET `GET` — Get NSX-T Edge details
+### 🟢 GET — Get NSX-T Edge details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2851,7 +2853,7 @@ _NSX-T Edge_
 
 _relocateEdge operations_
 
-### 🟡 POST `POST` — Relocate NSX-T Edge compute resources and/or disks
+### 🟡 POST — Relocate NSX-T Edge compute resources and/or disks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2878,7 +2880,7 @@ _relocateEdge operations_
 
 _NSX-T Edge resilience test status_
 
-### 🟢 GET `GET` — Get NSX-T Edge resilience test status
+### 🟢 GET — Get NSX-T Edge resilience test status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2903,7 +2905,7 @@ _NSX-T Edge resilience test status_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if resilience test can be performed
+### 🟢 GET — Check if resilience test can be performed
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2928,7 +2930,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Stop resilience test
+### 🟡 POST — Stop resilience test
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2953,7 +2955,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Start resilience test (will put NSX-T Edge in maintenance mode)
+### 🟡 POST — Start resilience test (will put NSX-T Edge in maintenance mode)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2979,7 +2981,7 @@ _enable operations_
 
 _nsxtEdgesResizingCapabilities operations_
 
-### 🟢 GET `GET` — Resizing Capabilities of NSX-T edges cluster on specified datacenter
+### 🟢 GET — Resizing Capabilities of NSX-T edges cluster on specified datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3003,7 +3005,7 @@ _nsxtEdgesResizingCapabilities operations_
 
 _nsxtEdgesScalingCapabilities operations_
 
-### 🟢 GET `GET` — Scaling Capabilities of NSX-T edges cluster on specified datacenter
+### 🟢 GET — Scaling Capabilities of NSX-T edges cluster on specified datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3027,7 +3029,7 @@ _nsxtEdgesScalingCapabilities operations_
 
 _orderNewFilerHourly operations_
 
-### 🟡 POST `POST` — Order hourly datastore
+### 🟡 POST — Order hourly datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3052,7 +3054,7 @@ _orderNewFilerHourly operations_
 
 _orderNewHostHourly operations_
 
-### 🟡 POST `POST` — Order hourly host
+### 🟡 POST — Order hourly host
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3078,7 +3080,7 @@ _orderNewHostHourly operations_
 
 _orderableFilerProfiles operations_
 
-### 🟢 GET `GET` — List available datastore profiles
+### 🟢 GET — List available datastore profiles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3102,7 +3104,7 @@ _orderableFilerProfiles operations_
 
 _orderableHostProfiles operations_
 
-### 🟢 GET `GET` — List available host profiles
+### 🟢 GET — List available host profiles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3126,7 +3128,7 @@ _orderableHostProfiles operations_
 
 _Private management gateway_
 
-### 🟢 GET `GET` — Get private management gateway
+### 🟢 GET — Get private management gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3150,7 +3152,7 @@ _Private management gateway_
 
 _disable operations_
 
-### 🟡 POST `POST` — Remove the private management gateway
+### 🟡 POST — Remove the private management gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3174,7 +3176,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Deploy private management gateway
+### 🟡 POST — Deploy private management gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3201,7 +3203,7 @@ _enable operations_
 
 _reconfigure operations_
 
-### 🟡 POST `POST` — Reconfigure private management gateway
+### 🟡 POST — Reconfigure private management gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3229,7 +3231,7 @@ _reconfigure operations_
 
 _resizeNsxtEdgeCluster operations_
 
-### 🟡 POST `POST` — Resize NSX-T edges on specified datacenter
+### 🟡 POST — Resize NSX-T edges on specified datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3254,7 +3256,7 @@ _resizeNsxtEdgeCluster operations_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations associated to virtual datacenter
+### 🟢 GET — List operations associated to virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3280,7 +3282,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3305,7 +3307,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3331,7 +3333,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3357,7 +3359,7 @@ _resetTaskState operations_
 
 _List the dedicatedCloud.Vm objects_
 
-### 🟢 GET `GET` — List virtual machines within virtual datacenter
+### 🟢 GET — List virtual machines within virtual datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3381,7 +3383,7 @@ _List the dedicatedCloud.Vm objects_
 
 _Virtual machine_
 
-### 🟢 GET `GET` — Get virtual machines
+### 🟢 GET — Get virtual machines
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3406,7 +3408,7 @@ _Virtual machine_
 
 _Backup job_
 
-### 🟢 GET `GET` — Get virtual machine backup job
+### 🟢 GET — Get virtual machine backup job
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3426,7 +3428,7 @@ _Backup job_
 
 ---
 
-### 🟡 POST `POST` — Update backup job
+### 🟡 POST — Update backup job
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3452,7 +3454,7 @@ _Backup job_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable backup job
+### 🟡 POST — Disable backup job
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3477,7 +3479,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable backup job
+### 🟡 POST — Enable backup job
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3503,7 +3505,7 @@ _enable operations_
 
 _List the dedicatedCloud.RestorePoint objects_
 
-### 🟢 GET `GET` — List restore points
+### 🟢 GET — List restore points
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3528,7 +3530,7 @@ _List the dedicatedCloud.RestorePoint objects_
 
 _Restore point_
 
-### 🟢 GET `GET` — Get restore point
+### 🟢 GET — Get restore point
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3554,7 +3556,7 @@ _Restore point_
 
 _restore operations_
 
-### 🟡 POST `POST` — Restore from point
+### 🟡 POST — Restore from point
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3581,7 +3583,7 @@ _restore operations_
 
 _disableBackup operations_
 
-### 🟡 POST `POST` — Deactivate backup on virtual machine
+### 🟡 POST — Deactivate backup on virtual machine
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3606,7 +3608,7 @@ _disableBackup operations_
 
 _disableCarp operations_
 
-### 🟡 POST `POST` — Disable CARP on virtual machine on VM Network portgroup
+### 🟡 POST — Disable CARP on virtual machine on VM Network portgroup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3632,7 +3634,7 @@ _disableCarp operations_
 
 _editBackup operations_
 
-### 🟡 POST `POST` — Update backup configuration
+### 🟡 POST — Update backup configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3658,7 +3660,7 @@ _editBackup operations_
 
 _enableBackup operations_
 
-### 🟡 POST `POST` — Activate backup on virtual machine
+### 🟡 POST — Activate backup on virtual machine
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3684,7 +3686,7 @@ _enableBackup operations_
 
 _enableCarp operations_
 
-### 🟡 POST `POST` — Enable CARP on virtual machine on VM Network portgroup
+### 🟡 POST — Enable CARP on virtual machine on VM Network portgroup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3710,7 +3712,7 @@ _enableCarp operations_
 
 _removeLicense operations_
 
-### 🟡 POST `POST` — Remove a managed license from virtual machine
+### 🟡 POST — Remove a managed license from virtual machine
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3735,7 +3737,7 @@ _removeLicense operations_
 
 _restoreBackup operations_
 
-### 🟡 POST `POST` — Restore backup
+### 🟡 POST — Restore backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3763,7 +3765,7 @@ _restoreBackup operations_
 
 _setLicense operations_
 
-### 🟡 POST `POST` — Set a managed license on virtual machine
+### 🟡 POST — Set a managed license on virtual machine
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3790,7 +3792,7 @@ _setLicense operations_
 
 _vmLicensed operations_
 
-### 🟢 GET `GET` — Get virtual machines with managed license
+### 🟢 GET — Get virtual machines with managed license
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3815,7 +3817,7 @@ _vmLicensed operations_
 
 _Active Directory federation option_
 
-### 🟢 GET `GET` — Get Active Directory federation option
+### 🟢 GET — Get Active Directory federation option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3838,7 +3840,7 @@ _Active Directory federation option_
 
 _List the dedicatedCloud.FederationAccessNetwork objects_
 
-### 🟢 GET `GET` — List federated Active Directories
+### 🟢 GET — List federated Active Directories
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3856,7 +3858,7 @@ _List the dedicatedCloud.FederationAccessNetwork objects_
 
 ---
 
-### 🟡 POST `POST` — Create federated Active Directory
+### 🟡 POST — Create federated Active Directory
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3891,7 +3893,7 @@ _List the dedicatedCloud.FederationAccessNetwork objects_
 
 _Federated Active Directory_
 
-### 🔴 DELETE `DELETE` — Remove federated Active Directory
+### 🔴 DELETE — Remove federated Active Directory
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3910,7 +3912,7 @@ _Federated Active Directory_
 
 ---
 
-### 🟢 GET `GET` — Get federated Active Directory
+### 🟢 GET — Get federated Active Directory
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3934,7 +3936,7 @@ _Federated Active Directory_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Update federated Active Directory
+### 🟡 POST — Update federated Active Directory
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3962,7 +3964,7 @@ _changeProperties operations_
 
 _grantActiveDirectoryGroup operations_
 
-### 🟡 POST `POST` — Grant Active Directory group
+### 🟡 POST — Grant Active Directory group
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3987,7 +3989,7 @@ _grantActiveDirectoryGroup operations_
 
 _grantActiveDirectoryUser operations_
 
-### 🟡 POST `POST` — Grant Active Directory user
+### 🟡 POST — Grant Active Directory user
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4012,7 +4014,7 @@ _grantActiveDirectoryUser operations_
 
 _List the dedicatedCloud.Filer objects_
 
-### 🟢 GET `GET` — List global datastores mounted on all virtual datacenters
+### 🟢 GET — List global datastores mounted on all virtual datacenters
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4035,7 +4037,7 @@ _List the dedicatedCloud.Filer objects_
 
 _Datastore_
 
-### 🟢 GET `GET` — Get datastore
+### 🟢 GET — Get datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4059,7 +4061,7 @@ _Datastore_
 
 _checkGlobalCompatible operations_
 
-### 🟢 GET `GET` — Check ability to convert datastore to global datastore
+### 🟢 GET — Check ability to convert datastore to global datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4083,7 +4085,7 @@ _checkGlobalCompatible operations_
 
 _convertToGlobal operations_
 
-### 🟡 POST `POST` — Convert datastore to global datastore
+### 🟡 POST — Convert datastore to global datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4107,7 +4109,7 @@ _convertToGlobal operations_
 
 _hourlyConsumption operations_
 
-### 🟢 GET `GET` — Get datastore hourly consumption
+### 🟢 GET — Get datastore hourly consumption
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4131,7 +4133,7 @@ _hourlyConsumption operations_
 
 _location operations_
 
-### 🟢 GET `GET` — Get datastore location
+### 🟢 GET — Get datastore location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4156,7 +4158,7 @@ _location operations_
 
 _remove operations_
 
-### 🟡 POST `POST` — Remove datastore
+### 🟡 POST — Remove datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4180,7 +4182,7 @@ _remove operations_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations associated to datastore
+### 🟢 GET — List operations associated to datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4206,7 +4208,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4231,7 +4233,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4257,7 +4259,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4283,7 +4285,7 @@ _resetTaskState operations_
 
 _generateNsxvInventory operations_
 
-### 🟡 POST `POST` — Generate a NSX-V inventory
+### 🟡 POST — Generate a NSX-V inventory
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4306,7 +4308,7 @@ _generateNsxvInventory operations_
 
 _generateVxlanToVrackMapping operations_
 
-### 🟡 POST `POST` — Generate a NSX-V VXLAN to vRack mapping
+### 🟡 POST — Generate a NSX-V VXLAN to vRack mapping
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4329,7 +4331,7 @@ _generateVxlanToVrackMapping operations_
 
 _globalTasks operations_
 
-### 🟢 GET `GET` — List filtered operations
+### 🟢 GET — List filtered operations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4368,7 +4370,7 @@ _globalTasks operations_
 
 _VMware Hybrid Cloud Extension option_
 
-### 🟢 GET `GET` — Get VMware Hybrid Cloud Extension option
+### 🟢 GET — Get VMware Hybrid Cloud Extension option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4391,7 +4393,7 @@ _VMware Hybrid Cloud Extension option_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if VMware Hybrid Cloud Extension option can be disabled
+### 🟢 GET — Check if VMware Hybrid Cloud Extension option can be disabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4414,7 +4416,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if VMware Hybrid Cloud Extension option can be enabled
+### 🟢 GET — Check if VMware Hybrid Cloud Extension option can be enabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4437,7 +4439,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable VMware Hybrid Cloud Extension option
+### 🟡 POST — Disable VMware Hybrid Cloud Extension option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4460,7 +4462,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable VMware Hybrid Cloud Extension option
+### 🟡 POST — Enable VMware Hybrid Cloud Extension option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4483,7 +4485,7 @@ _enable operations_
 
 _HDS certification option_
 
-### 🟢 GET `GET` — Get HDS certification option
+### 🟢 GET — Get HDS certification option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4506,7 +4508,7 @@ _HDS certification option_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if HDS certification option can be disabled
+### 🟢 GET — Check if HDS certification option can be disabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4529,7 +4531,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if HDS certification option can be enabled
+### 🟢 GET — Check if HDS certification option can be enabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4552,7 +4554,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable HDS certification option
+### 🟡 POST — Disable HDS certification option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4575,7 +4577,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable HDS certification option
+### 🟡 POST — Enable HDS certification option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4598,7 +4600,7 @@ _enable operations_
 
 _HIPAA certification option_
 
-### 🟢 GET `GET` — Get HIPAA certification option
+### 🟢 GET — Get HIPAA certification option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4621,7 +4623,7 @@ _HIPAA certification option_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if HIPAA certification option can be disabled
+### 🟢 GET — Check if HIPAA certification option can be disabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4644,7 +4646,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if HIPAA certification option can be enabled
+### 🟢 GET — Check if HIPAA certification option can be enabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4667,7 +4669,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable HIPAA certification option
+### 🟡 POST — Disable HIPAA certification option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4690,7 +4692,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable HIPAA certification option
+### 🟡 POST — Enable HIPAA certification option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4713,7 +4715,7 @@ _enable operations_
 
 _OVHcloud IAM option_
 
-### 🟢 GET `GET` — Get OVHcloud IAM option
+### 🟢 GET — Get OVHcloud IAM option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4736,7 +4738,7 @@ _OVHcloud IAM option_
 
 _addRole operations_
 
-### 🟡 POST `POST` — Create IAM role
+### 🟡 POST — Create IAM role
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4760,7 +4762,7 @@ _addRole operations_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if OVHcloud IAM option can be disabled
+### 🟢 GET — Check if OVHcloud IAM option can be disabled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4783,7 +4785,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if OVHcloud IAM option can be enabled
+### 🟢 GET — Check if OVHcloud IAM option can be enabled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4806,7 +4808,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable OVHcloud IAM option
+### 🟡 POST — Disable OVHcloud IAM option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4829,7 +4831,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable OVHcloud IAM option
+### 🟡 POST — Enable OVHcloud IAM option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4852,7 +4854,7 @@ _enable operations_
 
 _List the dedicatedCloud.Ip objects_
 
-### 🟢 GET `GET` — List IP blocks
+### 🟢 GET — List IP blocks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4875,7 +4877,7 @@ _List the dedicatedCloud.Ip objects_
 
 _IP block_
 
-### 🟢 GET `GET` — Get IP block
+### 🟢 GET — Get IP block
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4899,7 +4901,7 @@ _IP block_
 
 _details operations_
 
-### 🟢 GET `GET` — Get details about this IP Block
+### 🟢 GET — Get details about this IP Block
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4923,7 +4925,7 @@ _details operations_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations associated to IP block
+### 🟢 GET — List operations associated to IP block
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4949,7 +4951,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4974,7 +4976,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5000,7 +5002,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5026,7 +5028,7 @@ _resetTaskState operations_
 
 _Hosting location_
 
-### 🟢 GET `GET` — Get hosting location
+### 🟢 GET — Get hosting location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5049,7 +5051,7 @@ _Hosting location_
 
 _List the dedicatedCloud.HostProfile objects_
 
-### 🟢 GET `GET` — List host profiles on hosting location
+### 🟢 GET — List host profiles on hosting location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5072,7 +5074,7 @@ _List the dedicatedCloud.HostProfile objects_
 
 _Host profile_
 
-### 🟢 GET `GET` — Get host profile
+### 🟢 GET — Get host profile
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5096,7 +5098,7 @@ _Host profile_
 
 _List the dedicatedCloud.Os objects_
 
-### 🟢 GET `GET` — List hypervisor versions on hosting location
+### 🟢 GET — List hypervisor versions on hosting location
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5119,7 +5121,7 @@ _List the dedicatedCloud.Os objects_
 
 _Hypervisor_
 
-### 🟢 GET `GET` — Get hypervisor
+### 🟢 GET — Get hypervisor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5143,7 +5145,7 @@ _Hypervisor_
 
 _List the dedicatedCloud.ldpKind objects_
 
-### 🟢 GET `GET` — Log kinds for your dedicated cloud
+### 🟢 GET — Log kinds for your dedicated cloud
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5166,7 +5168,7 @@ _List the dedicatedCloud.ldpKind objects_
 
 _Log kind for your dedicated cloud_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5190,7 +5192,7 @@ _Log kind for your dedicated cloud_
 
 _List the dedicatedCloud.ldpSubscription objects_
 
-### 🟢 GET `GET` — Log subscriptions for your dedicated cloud
+### 🟢 GET — Log subscriptions for your dedicated cloud
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5209,7 +5211,7 @@ _List the dedicatedCloud.ldpSubscription objects_
 
 ---
 
-### 🟡 POST `POST` — Create a log subscription for your dedicated cloud
+### 🟡 POST — Create a log subscription for your dedicated cloud
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5234,7 +5236,7 @@ _List the dedicatedCloud.ldpSubscription objects_
 
 _Log subscription for your dedicated cloud_
 
-### 🔴 DELETE `DELETE` — Delete a log subscription for your dedicated cloud
+### 🔴 DELETE — Delete a log subscription for your dedicated cloud
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5253,7 +5255,7 @@ _Log subscription for your dedicated cloud_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5277,7 +5279,7 @@ _Log subscription for your dedicated cloud_
 
 _url operations_
 
-### 🟡 POST `POST` — Generate a log url
+### 🟡 POST — Generate a log url
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5301,7 +5303,7 @@ _url operations_
 
 _Log forwarder option_
 
-### 🟢 GET `GET` — Enable or disable log forwarder option
+### 🟢 GET — Enable or disable log forwarder option
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -5324,7 +5326,7 @@ _Log forwarder option_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if log forwarder option can be disabled
+### 🟢 GET — Check if log forwarder option can be disabled
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -5347,7 +5349,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if the log forwarder option can be enabled
+### 🟢 GET — Check if the log forwarder option can be enabled
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -5370,7 +5372,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable log forwarder option
+### 🟡 POST — Disable log forwarder option
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -5393,7 +5395,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable log forwarder option
+### 🟡 POST — Enable log forwarder option
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -5416,7 +5418,7 @@ _enable operations_
 
 _newPrices operations_
 
-### 🟢 GET `GET` — Get new prices
+### 🟢 GET — Get new prices
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5439,7 +5441,7 @@ _newPrices operations_
 
 _VMware NSX-V option_
 
-### 🟢 GET `GET` — Get VMware NSX-V option
+### 🟢 GET — Get VMware NSX-V option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5462,7 +5464,7 @@ _VMware NSX-V option_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if VMware NSX-V option can be disabled
+### 🟢 GET — Check if VMware NSX-V option can be disabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5485,7 +5487,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if VMware NSX-V option can be enabled
+### 🟢 GET — Check if VMware NSX-V option can be enabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5508,7 +5510,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable VMware NSX-V option
+### 🟡 POST — Disable VMware NSX-V option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5531,7 +5533,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable VMware NSX-V option
+### 🟡 POST — Enable VMware NSX-V option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5554,7 +5556,7 @@ _enable operations_
 
 _VMware NSX-T option_
 
-### 🟢 GET `GET` — Get VMware NSX-T option
+### 🟢 GET — Get VMware NSX-T option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5577,7 +5579,7 @@ _VMware NSX-T option_
 
 _orderNewFilerHourly operations_
 
-### 🟡 POST `POST` — Order hourly global datastore mounted on all virtual datacenters
+### 🟡 POST — Order hourly global datastore mounted on all virtual datacenters
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5601,7 +5603,7 @@ _orderNewFilerHourly operations_
 
 _orderableIpCountries operations_
 
-### 🟢 GET `GET` — Get orderable IP blocks countries
+### 🟢 GET — Get orderable IP blocks countries
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5624,7 +5626,7 @@ _orderableIpCountries operations_
 
 _passwordPolicy operations_
 
-### 🟢 GET `GET` — Get password policy
+### 🟢 GET — Get password policy
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5647,7 +5649,7 @@ _passwordPolicy operations_
 
 _PCI-DSS certification option_
 
-### 🟢 GET `GET` — Get PCI-DSS certification option
+### 🟢 GET — Get PCI-DSS certification option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5670,7 +5672,7 @@ _PCI-DSS certification option_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if PCI-DSS certification option can be disabled
+### 🟢 GET — Check if PCI-DSS certification option can be disabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5693,7 +5695,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if PCI-DSS certification option can be enabled
+### 🟢 GET — Check if PCI-DSS certification option can be enabled
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5716,7 +5718,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable PCI-DSS certification option
+### 🟡 POST — Disable PCI-DSS certification option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5739,7 +5741,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable PCI-DSS certification option
+### 🟡 POST — Enable PCI-DSS certification option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5762,7 +5764,7 @@ _enable operations_
 
 _resetTriggeredAlarm operations_
 
-### 🟡 POST `POST` — Reset all hypervisor triggered alarms
+### 🟡 POST — Reset all hypervisor triggered alarms
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5785,7 +5787,7 @@ _resetTriggeredAlarm operations_
 
 _List the dedicatedCloud.Robot objects_
 
-### 🟢 GET `GET` — List robots
+### 🟢 GET — List robots
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5808,7 +5810,7 @@ _List the dedicatedCloud.Robot objects_
 
 _Robot_
 
-### 🟢 GET `GET` — Get robot
+### 🟢 GET — Get robot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5832,7 +5834,7 @@ _Robot_
 
 _SAP pre-installation wizard_
 
-### 🟢 GET `GET` — Get SAP pre-installation tasks list
+### 🟢 GET — Get SAP pre-installation tasks list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5851,7 +5853,7 @@ _SAP pre-installation wizard_
 
 ---
 
-### 🟡 POST `POST` — Create a SAP pre-installation task
+### 🟡 POST — Create a SAP pre-installation task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5875,7 +5877,7 @@ _SAP pre-installation wizard_
 
 _SAP pre-installation wizard_
 
-### 🔴 DELETE `DELETE` — Delete a SAP pre-installation task
+### 🔴 DELETE — Delete a SAP pre-installation task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5894,7 +5896,7 @@ _SAP pre-installation wizard_
 
 ---
 
-### 🟢 GET `GET` — Get information from a SAP pre-installation task
+### 🟢 GET — Get information from a SAP pre-installation task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5918,7 +5920,7 @@ _SAP pre-installation wizard_
 
 _Security option_
 
-### 🟢 GET `GET` — Get security options
+### 🟢 GET — Get security options
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5941,7 +5943,7 @@ _Security option_
 
 _compatibilityMatrix operations_
 
-### 🟢 GET `GET` — Get security options compatibility matrix
+### 🟢 GET — Get security options compatibility matrix
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5966,7 +5968,7 @@ _compatibilityMatrix operations_
 
 _dependenciesTree operations_
 
-### 🟢 GET `GET` — Get security options dependencies tree
+### 🟢 GET — Get security options dependencies tree
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5990,7 +5992,7 @@ _dependenciesTree operations_
 
 _pendingOptions operations_
 
-### 🟢 GET `GET` — Get pending activation security options
+### 🟢 GET — Get pending activation security options
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6013,7 +6015,7 @@ _pendingOptions operations_
 
 _resumePendingEnabling operations_
 
-### 🟡 POST `POST` — Retry pending security option activation
+### 🟡 POST — Retry pending security option activation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6037,7 +6039,7 @@ _resumePendingEnabling operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6055,7 +6057,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6079,7 +6081,7 @@ _Details about a Service_
 
 _servicePack operations_
 
-### 🟢 GET `GET` — Get service pack information
+### 🟢 GET — Get service pack information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6102,7 +6104,7 @@ _servicePack operations_
 
 _List the dedicatedCloud.ServicePack objects_
 
-### 🟢 GET `GET` — List service packs
+### 🟢 GET — List service packs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6125,7 +6127,7 @@ _List the dedicatedCloud.ServicePack objects_
 
 _Service pack_
 
-### 🟢 GET `GET` — Get service pack
+### 🟢 GET — Get service pack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6149,7 +6151,7 @@ _Service pack_
 
 _List the dedicatedCloud.Tag objects_
 
-### 🟢 GET `GET` — List tags
+### 🟢 GET — List tags
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6172,7 +6174,7 @@ _List the dedicatedCloud.Tag objects_
 
 _Tag_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6196,7 +6198,7 @@ _Tag_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations
+### 🟢 GET — List operations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6222,7 +6224,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6246,7 +6248,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6271,7 +6273,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6296,7 +6298,7 @@ _resetTaskState operations_
 
 _Ask for the termination of your service. Admin contact of this service will receive a termination token in order to confirm its termination with /confirmTermination endpoint._
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6319,7 +6321,7 @@ _Ask for the termination of your service. Admin contact of this service will rec
 
 _List the dedicatedCloud.twoFAWhitelist objects_
 
-### 🟢 GET `GET` — List two factor authentication whitelisted networks
+### 🟢 GET — List two factor authentication whitelisted networks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6337,7 +6339,7 @@ _List the dedicatedCloud.twoFAWhitelist objects_
 
 ---
 
-### 🟡 POST `POST` — Create two factor authentication whitelisted network
+### 🟡 POST — Create two factor authentication whitelisted network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6362,7 +6364,7 @@ _List the dedicatedCloud.twoFAWhitelist objects_
 
 _Two factor authentication whitelisted network_
 
-### 🔴 DELETE `DELETE` — Remove two factor authentication whitelisted network
+### 🔴 DELETE — Remove two factor authentication whitelisted network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6381,7 +6383,7 @@ _Two factor authentication whitelisted network_
 
 ---
 
-### 🟢 GET `GET` — Get two factor authentication whitelisted network
+### 🟢 GET — Get two factor authentication whitelisted network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6405,7 +6407,7 @@ _Two factor authentication whitelisted network_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Update two factor authentication whitelisted network
+### 🟡 POST — Update two factor authentication whitelisted network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6430,7 +6432,7 @@ _changeProperties operations_
 
 _upgradeHypervisor operations_
 
-### 🟡 POST `POST` — Upgrade hypervisor to next version
+### 🟡 POST — Upgrade hypervisor to next version
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6453,7 +6455,7 @@ _upgradeHypervisor operations_
 
 _upgradeVcenter operations_
 
-### 🟡 POST `POST` — Upgrade hypervisor to next version
+### 🟡 POST — Upgrade hypervisor to next version
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6477,7 +6479,7 @@ _upgradeVcenter operations_
 
 _List the dedicatedCloud.User objects_
 
-### 🟢 GET `GET` — List users
+### 🟢 GET — List users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6496,7 +6498,7 @@ _List the dedicatedCloud.User objects_
 
 ---
 
-### 🟡 POST `POST` — Create user
+### 🟡 POST — Create user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6535,7 +6537,7 @@ _List the dedicatedCloud.User objects_
 
 _User_
 
-### 🔴 DELETE `DELETE` — Remove user
+### 🔴 DELETE — Remove user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6554,7 +6556,7 @@ _User_
 
 ---
 
-### 🟢 GET `GET` — Update user
+### 🟢 GET — Update user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6578,7 +6580,7 @@ _User_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change user password
+### 🟡 POST — Change user password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6603,7 +6605,7 @@ _changePassword operations_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Update user
+### 🟡 POST — Update user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6639,7 +6641,7 @@ _changeProperties operations_
 
 _confirmPhoneNumber operations_
 
-### 🟡 POST `POST` — Confirm user phone number
+### 🟡 POST — Confirm user phone number
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6664,7 +6666,7 @@ _confirmPhoneNumber operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable user
+### 🟡 POST — Disable user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6688,7 +6690,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable user
+### 🟡 POST — Enable user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6712,7 +6714,7 @@ _enable operations_
 
 _List the dedicatedCloud.ObjectRight objects_
 
-### 🟢 GET `GET` — List user object rights
+### 🟢 GET — List user object rights
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6731,7 +6733,7 @@ _List the dedicatedCloud.ObjectRight objects_
 
 ---
 
-### 🟡 POST `POST` — Create user object right
+### 🟡 POST — Create user object right
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6759,7 +6761,7 @@ _List the dedicatedCloud.ObjectRight objects_
 
 _User object right_
 
-### 🔴 DELETE `DELETE` — Remove user object right
+### 🔴 DELETE — Remove user object right
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6779,7 +6781,7 @@ _User object right_
 
 ---
 
-### 🟢 GET `GET` — Get user object right
+### 🟢 GET — Get user object right
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6804,7 +6806,7 @@ _User object right_
 
 _List the dedicatedCloud.Right objects_
 
-### 🟢 GET `GET` — List user datacenter rights
+### 🟢 GET — List user datacenter rights
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6828,7 +6830,7 @@ _List the dedicatedCloud.Right objects_
 
 _User datacenter right_
 
-### 🟢 GET `GET` — Get user datacenter right
+### 🟢 GET — Get user datacenter right
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6848,7 +6850,7 @@ _User datacenter right_
 
 ---
 
-### 🟠 PUT `PUT` — Update user datacenter right
+### 🟠 PUT — Update user datacenter right
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6874,7 +6876,7 @@ _User datacenter right_
 
 _List the dedicatedCloud.Task objects_
 
-### 🟢 GET `GET` — List operations associated to user
+### 🟢 GET — List operations associated to user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6900,7 +6902,7 @@ _List the dedicatedCloud.Task objects_
 
 _Operation_
 
-### 🟢 GET `GET` — Get operation
+### 🟢 GET — Get operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6925,7 +6927,7 @@ _Operation_
 
 _changeMaintenanceExecutionDate operations_
 
-### 🟡 POST `POST` — Change the execution date of a maintenance operation
+### 🟡 POST — Change the execution date of a maintenance operation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6951,7 +6953,7 @@ _changeMaintenanceExecutionDate operations_
 
 _resetTaskState operations_
 
-### 🟡 POST `POST` — Relaunch operation currently in error state
+### 🟡 POST — Relaunch operation currently in error state
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6977,7 +6979,7 @@ _resetTaskState operations_
 
 _vcenterVersion operations_
 
-### 🟢 GET `GET` — Get available upgrades for hypervisor
+### 🟢 GET — Get available upgrades for hypervisor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7000,7 +7002,7 @@ _vcenterVersion operations_
 
 _Vendor information_
 
-### 🟢 GET `GET` — Get vendor information
+### 🟢 GET — Get vendor information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7023,7 +7025,7 @@ _Vendor information_
 
 _objectType operations_
 
-### 🟡 POST `POST` — Get vendor object types
+### 🟡 POST — Get vendor object types
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7046,7 +7048,7 @@ _objectType operations_
 
 _ovhId operations_
 
-### 🟡 POST `POST` — Get OVHcloud API id for object
+### 🟡 POST — Get OVHcloud API id for object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7071,7 +7073,7 @@ _ovhId operations_
 
 _List the dedicatedCloud.Vlan objects_
 
-### 🟢 GET `GET` — List vLANs
+### 🟢 GET — List vLANs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7094,7 +7096,7 @@ _List the dedicatedCloud.Vlan objects_
 
 _vLAN_
 
-### 🟢 GET `GET` — Get vLAN
+### 🟢 GET — Get vLAN
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7118,7 +7120,7 @@ _vLAN_
 
 _Virtual machine encryption option_
 
-### 🟢 GET `GET` — Get virtual machine encryption option
+### 🟢 GET — Get virtual machine encryption option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7141,7 +7143,7 @@ _Virtual machine encryption option_
 
 _List the dedicatedCloud.VMEncryptionAccessNetwork objects_
 
-### 🟢 GET `GET` — List virtual machine encryption KMS servers
+### 🟢 GET — List virtual machine encryption KMS servers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7159,7 +7161,7 @@ _List the dedicatedCloud.VMEncryptionAccessNetwork objects_
 
 ---
 
-### 🟡 POST `POST` — Create virtual machine encryption KMS server
+### 🟡 POST — Create virtual machine encryption KMS server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7185,7 +7187,7 @@ _List the dedicatedCloud.VMEncryptionAccessNetwork objects_
 
 _Virtual machine encryption KMS server_
 
-### 🔴 DELETE `DELETE` — Remove virtual machine encryption KMS server
+### 🔴 DELETE — Remove virtual machine encryption KMS server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7204,7 +7206,7 @@ _Virtual machine encryption KMS server_
 
 ---
 
-### 🟢 GET `GET` — Get virtual machine encryption KMS server
+### 🟢 GET — Get virtual machine encryption KMS server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7228,7 +7230,7 @@ _Virtual machine encryption KMS server_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Update virtual machine encryption KMS server
+### 🟡 POST — Update virtual machine encryption KMS server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7254,7 +7256,7 @@ _changeProperties operations_
 
 _vmwareCloudDirectorEligibility operations_
 
-### 🟡 POST `POST` — Check PCC eligibility for VCD migration
+### 🟡 POST — Check PCC eligibility for VCD migration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7277,7 +7279,7 @@ _vmwareCloudDirectorEligibility operations_
 
 _List the vrack.dedicatedCloud objects_
 
-### 🟢 GET `GET` — List vRacks
+### 🟢 GET — List vRacks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7300,7 +7302,7 @@ _List the vrack.dedicatedCloud objects_
 
 _VMware on OVHcloud vRack link_
 
-### 🔴 DELETE `DELETE` — Remove VMware on OVHcloud from vRack
+### 🔴 DELETE — Remove VMware on OVHcloud from vRack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7319,7 +7321,7 @@ _VMware on OVHcloud vRack link_
 
 ---
 
-### 🟢 GET `GET` — Get vRack
+### 🟢 GET — Get vRack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7343,7 +7345,7 @@ _VMware on OVHcloud vRack link_
 
 _VMware Aria Operations option_
 
-### 🟢 GET `GET` — Get VMware Aria Operations option
+### 🟢 GET — Get VMware Aria Operations option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7366,7 +7368,7 @@ _VMware Aria Operations option_
 
 _canBeDisabled operations_
 
-### 🟢 GET `GET` — Check if VMware Aria Operations option can be disabled
+### 🟢 GET — Check if VMware Aria Operations option can be disabled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7389,7 +7391,7 @@ _canBeDisabled operations_
 
 _canBeEnabled operations_
 
-### 🟢 GET `GET` — Check if VMware Aria Operations option can be enabled
+### 🟢 GET — Check if VMware Aria Operations option can be enabled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7412,7 +7414,7 @@ _canBeEnabled operations_
 
 _disable operations_
 
-### 🟡 POST `POST` — Disable VMware Aria Operations option
+### 🟡 POST — Disable VMware Aria Operations option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7435,7 +7437,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — Enable VMware Aria Operations option
+### 🟡 POST — Enable VMware Aria Operations option
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7458,7 +7460,7 @@ _enable operations_
 
 _List the dedicatedCloud.VropsOutgoingFlow objects_
 
-### 🟢 GET `GET` — List VMware Aria Operations outgoing flows
+### 🟢 GET — List VMware Aria Operations outgoing flows
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7476,7 +7478,7 @@ _List the dedicatedCloud.VropsOutgoingFlow objects_
 
 ---
 
-### 🟡 POST `POST` — Create VMware Aria Operations outgoing flow
+### 🟡 POST — Create VMware Aria Operations outgoing flow
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7502,7 +7504,7 @@ _List the dedicatedCloud.VropsOutgoingFlow objects_
 
 _VMware Aria Operations outgoing flows_
 
-### 🔴 DELETE `DELETE` — Remove VMware Aria Operations outgoing flow
+### 🔴 DELETE — Remove VMware Aria Operations outgoing flow
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7521,7 +7523,7 @@ _VMware Aria Operations outgoing flows_
 
 ---
 
-### 🟢 GET `GET` — Get VMware Aria Operations outgoing flows
+### 🟢 GET — Get VMware Aria Operations outgoing flows
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7545,7 +7547,7 @@ _VMware Aria Operations outgoing flows_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Update VMware Aria Operations outgoing flow
+### 🟡 POST — Update VMware Aria Operations outgoing flow
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7570,7 +7572,7 @@ _changeProperties operations_
 
 _upgrade operations_
 
-### 🟡 POST `POST` — Upgrade VMware Aria Operations
+### 🟡 POST — Upgrade VMware Aria Operations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7586,5 +7588,3477 @@ _upgrade operations_
 
 **IAM actions:** `pccVMware:apiovh:vrops/upgrade` (required)
 
+
+---
+
+## Models
+
+### `complexType.UnitAndValue<T>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `complexType.UnitAndValue<double>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `complexType.UnitAndValue<long>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `dedicated.DatacenterEnum`
+
+_ovh datacenter_
+
+**Enum** (`enumType: string`):
+
+- `bhs1`
+- `bhs2`
+- `bhs3`
+- `bhs4`
+- `bhs5`
+- `bhs6`
+- `bhs7`
+- `bhs8`
+- `cch01`
+- `crx1`
+- `crx2`
+- `dc1`
+- `eri1`
+- `eri2`
+- `gra04`
+- `gra1`
+- `gra2`
+- `gra3`
+- `gsw`
+- `hdf01`
+- `hil1`
+- `ieb01`
+- `itbsi01`
+- `itmil01`
+- `itzvf01`
+- `lil1-int1`
+- `lim1`
+- `lim2`
+- `lim3`
+- `mr901`
+- `p19`
+- `rbx`
+- `rbx-hz`
+- `rbx1`
+- `rbx10`
+- `rbx2`
+- `rbx3`
+- `rbx4`
+- `rbx5`
+- `rbx6`
+- `rbx7`
+- `rbx8`
+- `rbx9`
+- `sbg1`
+- `sbg2`
+- `sbg3`
+- `sbg4`
+- `sbg5`
+- `sgp02`
+- `sgp1`
+- `syd03`
+- `syd1`
+- `syd2`
+- `vin1`
+- `waw1`
+- `ynm1`
+- `yyz01`
+
+### `dedicatedCloud.AllowedNetwork`
+
+_Network allowed on infrastructure firewall_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ |  |
+| `network` | `ipv4Block` | ❌ | ❌ | ❌ | Network name, e.g. 123.100.200.0/32 |
+| `networkAccessId` | `long` | ❌ | ❌ | ✅ |  |
+| `state` | `dedicatedCloud.AllowedNetworkStateEnum` | ❌ | ❌ | ✅ |  |
+
+### `dedicatedCloud.AllowedNetworkStateEnum`
+
+_All states an Allowed Network can be in_
+
+**Enum** (`enumType: string`):
+
+- `allowed`
+- `toDelete`
+- `toUpdate`
+
+### `dedicatedCloud.AutoScaleConfig`
+
+_Autoscale configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpuMaxThreshold` | `long` | ❌ | ❌ | ❌ | CPU Max Threshold |
+| `cpuMinThreshold` | `long` | ❌ | ❌ | ❌ | CPU Min Threshold |
+| `description` | `string` | ❌ | ✅ | ❌ | Description of AutoScale configurations |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of the AutoScale configuration |
+| `maxNumOfHosts` | `long` | ❌ | ❌ | ❌ | Maximum number of hosts in the cluster |
+| `memMaxThreshold` | `long` | ❌ | ❌ | ❌ | Memory Max Threshold |
+| `memMinThreshold` | `long` | ❌ | ❌ | ❌ | Memory Min Threshold |
+| `minNumOfHosts` | `long` | ❌ | ❌ | ❌ | Minimum number of hosts in the cluster |
+| `storageMaxThreshold` | `long` | ❌ | ❌ | ❌ | Storage Max Threshold |
+| `timeDelayScaleIn` | `long` | ❌ | ❌ | ❌ | Time delay between two scale-ins in mins |
+| `timeDelayScaleOut` | `long` | ❌ | ❌ | ❌ | Time delay between two scale-outs in mins |
+| `timeDelayStorageScaleOut` | `long` | ❌ | ❌ | ❌ | Time delay between two storage scale-outs in mins |
+
+### `dedicatedCloud.AutoScaleVirtual`
+
+_Autoscale option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.Backup`
+
+_Backup option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupDurationInReport` | `boolean` | ❌ | ✅ | ✅ | Duration on email report |
+| `backupOffer` | `dedicatedCloud.backup.OfferTypeEnum` | ❌ | ✅ | ✅ | Backup offer type |
+| `backupSizeInReport` | `boolean` | ❌ | ✅ | ✅ | Backup size on day on email report |
+| `diskSizeInReport` | `boolean` | ❌ | ✅ | ✅ | Disk size on mail report |
+| `encryption` | `boolean` | ❌ | ✅ | ✅ | Backup is encrypted |
+| `fullDayInReport` | `boolean` | ❌ | ✅ | ✅ | Full day on mail report |
+| `hostname` | `string` | ❌ | ✅ | ✅ | Name of the backup server virtual machine. |
+| `mailAddress` | `string` | ❌ | ✅ | ✅ | Unique additional email address for backup daily report |
+| `replicationZone` | `string` | ❌ | ✅ | ✅ | Backup replication zone |
+| `restorePointInReport` | `boolean` | ❌ | ✅ | ✅ | RestorePoint number on mail report |
+| `scheduleHour` | `time` | ❌ | ✅ | ✅ | Schedule hour for start backup |
+| `state` | `dedicatedCloud.BackupStateEnum` | ❌ | ❌ | ✅ | This Backup current state |
+| `vmwareVmId` | `string` | ❌ | ✅ | ✅ | The moref of the backup server virtual machine |
+
+### `dedicatedCloud.BackupJob`
+
+_Backup job_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allocatedDisk` | `double` | ❌ | ✅ | ✅ | Disk space allocated to the virtual machine |
+| `backupDays` | `dedicatedCloud.backup.BackupDaysEnum[]` | ❌ | ✅ | ✅ | List of days your Virtual Machine will be backuped |
+| `encryption` | `boolean` | ❌ | ✅ | ✅ | Backup is encrypted |
+| `offerType` | `dedicatedCloud.backup.OfferTypeEnum` | ❌ | ✅ | ✅ | Offer type of the backup job |
+| `retentionTime` | `long` | ❌ | ✅ | ✅ | Number of days before the backup is deleted |
+| `state` | `dedicatedCloud.backup.StateEnum` | ❌ | ❌ | ✅ | State of the backup job |
+| `vmName` | `string` | ❌ | ✅ | ✅ | Name of the virtual Machine |
+
+### `dedicatedCloud.BackupRepository`
+
+_Backup repository_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `lastSuccessfulReplicationDate` | `datetime` | ❌ | ✅ | ✅ | Replication last successful date |
+| `replication` | `dedicatedCloud.option.StateEnum` | ❌ | ✅ | ✅ | Replication status |
+| `replicationZone` | `string` | ❌ | ✅ | ✅ | Replication zone |
+| `repositoryId` | `long` | ❌ | ❌ | ✅ | Repository Id |
+| `repositoryName` | `string` | ❌ | ❌ | ✅ | Repository Name |
+| `syncStatus` | `dedicatedCloud.backup.ReplicationSyncStatus` | ❌ | ✅ | ✅ | Replication sync status |
+
+### `dedicatedCloud.BackupStateEnum`
+
+_All states a Dedicated Cloud Backup can be in_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `disabling`
+- `enabled`
+- `enabling`
+- `error`
+- `migrating`
+- `removing`
+
+### `dedicatedCloud.BillingTypeEnum`
+
+_The billing type of this Dedicated Cloud_
+
+**Enum** (`enumType: string`):
+
+- `demo`
+- `monthly`
+
+### `dedicatedCloud.BlockRegisterEnum`
+
+_The Regional Internet Registry of this IP block_
+
+**Enum** (`enumType: string`):
+
+- `arin`
+- `ripe`
+
+### `dedicatedCloud.Capabilities`
+
+_Available features_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `addRessourceRightStatus` | `dedicatedCloud.capabilities.FeatureStatusEnum` | ❌ | ❌ | ✅ | canAddRessource right order status in this VMware on OVHcloud |
+| `backupStatus` | `dedicatedCloud.capabilities.FeatureStatusEnum` | ❌ | ❌ | ✅ | Backup feature order status for this VMware on OVHcloud |
+| `canAddUser` | `boolean` | ❌ | ❌ | ✅ | if true user can be added in this VMware on OVHcloud (with POST /dedicatedCloud/{serviceName}/user |
+| `fullAdminRoUserStatus` | `dedicatedCloud.capabilities.FeatureStatusEnum` | ❌ | ❌ | ✅ | fullAdminRO user right order status in this VMware on OVHcloud |
+| `nexus1000vStatus` | `dedicatedCloud.capabilities.FeatureStatusEnum` | ❌ | ❌ | ✅ | Nexus 1000v feature order status in this VMware on OVHcloud ? |
+| `upgradable` | `boolean` | ❌ | ❌ | ✅ | Hypervisor upgrade order status in this VMware on OVHcloud (upgrade with POST /dedicatedCloud/{serviceName}/upgradeHypervisor) |
+| `userAccessPolicyStatus` | `dedicatedCloud.capabilities.FeatureStatusEnum` | ❌ | ❌ | ✅ | userAccessPolicy property edition status in PUT /dedicatedCloud/{serviceName} |
+
+### `dedicatedCloud.Cluster`
+
+_Cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `autoscale` | `dedicatedCloud.cluster.AutoScale` | ❌ | ✅ | ✅ | AutoScale associated to this cluster |
+| `clusterId` | `long` | ❌ | ❌ | ✅ | Id of the cluster |
+| `drsMode` | `dedicatedCloud.cluster.ClusterDrsModeEnum` | ❌ | ❌ | ✅ | Drs mode of the cluster |
+| `drsStatus` | `dedicatedCloud.cluster.ClusterConfigsStatusEnum` | ❌ | ❌ | ✅ | Drs status of the cluster |
+| `evcMode` | `string` | ❌ | ❌ | ✅ | Evc mode of the cluster |
+| `haStatus` | `dedicatedCloud.cluster.ClusterConfigsStatusEnum` | ❌ | ❌ | ✅ | High availability status of the cluster |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the cluster |
+| `vmwareClusterId` | `string` | ❌ | ❌ | ✅ | The VMware MoRef of the cluster |
+
+### `dedicatedCloud.CommercialNameEnum`
+
+_The commercial name component_
+
+**Enum** (`enumType: string`):
+
+- `CDI`
+- `CDI-HDS`
+- `CDI-HIPAA`
+- `CDI-NSX`
+- `CDI-NSX-T`
+- `CDI-NSX-VROPS`
+- `CDI-PCIDSS`
+- `CDI-UNKNOWN`
+- `CDI-VROPS`
+- `DC`
+- `DC-ANCIENT`
+- `DC-ANCIENT-HDS`
+- `DC-ANCIENT-HIPAA`
+- `DC-ANCIENT-NSX`
+- `DC-ANCIENT-NSX-T`
+- `DC-ANCIENT-NSX-VROPS`
+- `DC-ANCIENT-PCIDSS`
+- `DC-ANCIENT-UNKNOWN`
+- `DC-ANCIENT-VROPS`
+- `DC-HDS`
+- `DC-HIPAA`
+- `DC-LEGACY`
+- `DC-LEGACY-HDS`
+- `DC-LEGACY-HIPAA`
+- `DC-LEGACY-NSX`
+- `DC-LEGACY-NSX-T`
+- `DC-LEGACY-NSX-VROPS`
+- `DC-LEGACY-PCIDSS`
+- `DC-LEGACY-UNKNOWN`
+- `DC-LEGACY-VROPS`
+- `DC-NSX`
+- `DC-NSX-T`
+- `DC-NSX-VROPS`
+- `DC-PCIDSS`
+- `DC-UNKNOWN`
+- `DC-VROPS`
+- `ESSENTIALS`
+- `ESSENTIALS-HDS`
+- `ESSENTIALS-HIPAA`
+- `ESSENTIALS-NSX`
+- `ESSENTIALS-NSX-T`
+- `ESSENTIALS-NSX-VROPS`
+- `ESSENTIALS-PCIDSS`
+- `ESSENTIALS-UNKNOWN`
+- `ESSENTIALS-VROPS`
+- `NSX-T`
+- `NSX-T-DEFAULT`
+- `NSX-T-HDS`
+- `NSX-T-NSX`
+- `NSX-T-NSX-VROPS`
+- `NSX-T-PCIDSS`
+- `NSX-T-VROPS`
+- `NSX-T-VROPS-WITHOUT-NSX`
+- `NSX-T-WITHOUT-NSX`
+- `PREMIER`
+- `PREMIER-DEFAULT`
+- `PREMIER-HDS`
+- `PREMIER-HIPAA`
+- `PREMIER-NSX`
+- `PREMIER-NSX-T`
+- `PREMIER-NSX-VROPS`
+- `PREMIER-PCIDSS`
+- `PREMIER-UNKNOWN`
+- `PREMIER-VROPS`
+- `SDDC`
+- `SDDC-DEFAULT`
+- `SDDC-HDS`
+- `SDDC-HIPAA`
+- `SDDC-LEGACY`
+- `SDDC-LEGACY-HDS`
+- `SDDC-LEGACY-HIPAA`
+- `SDDC-LEGACY-PCIDSS`
+- `SDDC-LEGACY-UNKNOWN`
+- `SDDC-LEGACY-VROPS`
+- `SDDC-LEGACY-VROPS-WITHOUT-NSX`
+- `SDDC-LEGACY-WITHOUT-NSX`
+- `SDDC-PCIDSS`
+- `SDDC-UNKNOWN`
+- `SDDC-VROPS`
+- `SDDC-VROPS-WITHOUT-NSX`
+- `SDDC-WITHOUT-NSX`
+- `UNKNOWN`
+- `UNKNOWN-HDS`
+- `UNKNOWN-HIPAA`
+- `UNKNOWN-NSX`
+- `UNKNOWN-NSX-T`
+- `UNKNOWN-NSX-VROPS`
+- `UNKNOWN-PCIDSS`
+- `UNKNOWN-UNKNOWN`
+- `UNKNOWN-VROPS`
+- `UNKNOWN-VSPHERE`
+- `VSPHERE`
+- `VSPHERE-DEFAULT`
+- `VSPHERE-HDS`
+- `VSPHERE-NSX`
+- `VSPHERE-NSX-VROPS`
+- `VSPHERE-PCIDSS`
+- `VSPHERE-VROPS`
+- `VSPHERE-VROPS-WITHOUT-NSX`
+- `VSPHERE-WITHOUT-NSX`
+
+### `dedicatedCloud.CommercialRange`
+
+_Commercial ranges_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedHypervisorVersions` | `dedicatedCloud.HypervisorVersionEnum[]` | ❌ | ❌ | ✅ | The hypervisor versions compliant with this commercial Range |
+| `allowedNetworkRoles` | `dedicatedCloud.right.NetworkRoleEnum[]` | ❌ | ❌ | ✅ | The list of NetworkRoles allowed for one user in this commercial range |
+| `commercialRangeName` | `string` | ❌ | ❌ | ✅ | The name of this commercial range |
+| `dedicatedCloudVersion` | `string` | ❌ | ❌ | ✅ | The name of the dedicated Cloud version associated to this commercial range |
+| `range` | `string` | ❌ | ✅ | ✅ | The range of this Datacenter in this VMware on OVHcloud version |
+
+### `dedicatedCloud.Datacenter`
+
+_Virtual datacenter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `commercialName` | `dedicatedCloud.CommercialNameEnum` | ❌ | ❌ | ✅ | The commercial name of this Datacenter |
+| `commercialRangeName` | `string` | ❌ | ❌ | ✅ | The commercial range associated to this Datacenter |
+| `datacenterId` | `long` | ❌ | ❌ | ✅ | Id of the Datacenter |
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `hasMixedHostProfiles` | `boolean` | ❌ | ❌ | ✅ | Check if this datacenter has different host profiles |
+| `hasMixedVsanHostProfiles` | `boolean` | ❌ | ❌ | ✅ | Check if this datacenter has different VSAN host profiles |
+| `horizonViewName` | `string` | ❌ | ✅ | ✅ | Name of the associated Horizon View service if the VDI option is enabled |
+| `isRemovable` | `boolean` | ❌ | ❌ | ✅ | Check if this datacenter is removable (Need to be Empty) |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `version` | `string` | ❌ | ❌ | ✅ | Os version installed on your VMware on OVHcloud |
+
+### `dedicatedCloud.Datastore`
+
+_Datastore_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datastoreId` | `string` | ❌ | ❌ | ✅ | Id of the datastore |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the datastore |
+
+### `dedicatedCloud.DvsSecurityPolicy`
+
+_A structure describing the vmware DVSSecurityPolicy data object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowPromiscuous` | `dedicatedCloud.vmwareBoolPolicy` | ❌ | ❌ | ❌ |  |
+| `forgedTransmits` | `dedicatedCloud.vmwareBoolPolicy` | ❌ | ❌ | ❌ |  |
+| `macChanges` | `dedicatedCloud.vmwareBoolPolicy` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.Federation`
+
+_Active Directory federation option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.FederationAccessNetwork`
+
+_Federated Active Directory_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeDirectoryId` | `long` | ❌ | ❌ | ✅ | Id of the Active Directory |
+| `baseDnForGroups` | `string` | ❌ | ❌ | ✅ | Active Directory base DN for groups |
+| `baseDnForUsers` | `string` | ❌ | ❌ | ✅ | Active Directory base DN for users |
+| `description` | `string` | ❌ | ❌ | ✅ | Description of your option access network |
+| `domainAlias` | `string` | ❌ | ❌ | ✅ | Active Directory NetBIOS name |
+| `domainName` | `string` | ❌ | ❌ | ✅ | Active Directory domain name |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | IP address of the remote service |
+| `ldapHostname` | `string` | ❌ | ✅ | ✅ | Active Directory LDAP hostname |
+| `ldapTcpPort` | `long` | ❌ | ❌ | ✅ | Active Directory LDAP port |
+| `noSsl` | `boolean` | ❌ | ❌ | ✅ | Use unsecure LDAP instead of LDAPS |
+| `sslThumbprint` | `string` | ❌ | ✅ | ✅ | SSL thumbprint of the remote service |
+| `state` | `dedicatedCloud.optionAccessNetwork.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+| `username` | `string` | ❌ | ❌ | ✅ | Active Directory user name |
+
+### `dedicatedCloud.Filer`
+
+_Datastore_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeNode` | `dedicatedCloud.filer.NodeTypeEnum` | ❌ | ✅ | ✅ | Filer active node. |
+| `billingType` | `dedicatedCloud.ressources.BillingTypeEnum` | ❌ | ✅ | ✅ | Billing type of this filer |
+| `connectionState` | `dedicatedCloud.filer.ConnexionStateEnum` | ❌ | ✅ | ✅ | Filer connexion state. |
+| `filerId` | `long` | ❌ | ❌ | ✅ | Filer Id |
+| `fullProfile` | `string` | ❌ | ❌ | ✅ | Human-Readable profile name |
+| `isManagedByOvh` | `boolean` | ❌ | ❌ | ✅ | Filer accessibility (if true, customer cannot access it) |
+| `master` | `string` | ❌ | ❌ | ✅ | Filer master node hostname. |
+| `name` | `string` | ❌ | ❌ | ✅ | Filer name |
+| `profile` | `string` | ❌ | ❌ | ✅ | Commercial profile name |
+| `resourceName` | `string` | ❌ | ✅ | ✅ | Resource name |
+| `size` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Filer capacity |
+| `slave` | `string` | ❌ | ✅ | ✅ | Filer slave node hostname. |
+| `spaceFree` | `double` | ❌ | ✅ | ✅ | Available space of this datastore, in GB |
+| `spaceProvisionned` | `double` | ❌ | ✅ | ✅ | Provisionned space of this datastore, in GB |
+| `spaceUsed` | `double` | ❌ | ✅ | ✅ | Used Space of this filer, in GB |
+| `state` | `dedicatedCloud.filer.StateEnum` | ❌ | ❌ | ✅ | State of the filer |
+| `vmTotal` | `long` | ❌ | ✅ | ✅ | Number of virtual machine on the filer |
+
+### `dedicatedCloud.GenerationEnum`
+
+_The generation of a Dedicated Cloud_
+
+**Enum** (`enumType: string`):
+
+- `1.0`
+- `2.0`
+
+### `dedicatedCloud.Hcx`
+
+_VMware Hybrid Cloud Extension option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `build` | `string` | ❌ | ✅ | ✅ | Build of the VMware Hybrid Cloud Extension |
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+| `version` | `string` | ❌ | ✅ | ✅ | Version of the VMware Hybrid Cloud Extension |
+
+### `dedicatedCloud.Hds`
+
+_HDS certification option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.Hipaa`
+
+_HIPAA certification option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.Host`
+
+_Host_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `billingType` | `dedicatedCloud.ressources.BillingTypeEnum` | ❌ | ❌ | ✅ | Billing type of the host |
+| `clusterName` | `string` | ❌ | ✅ | ✅ | Cluster of the host |
+| `connectionState` | `dedicatedCloud.hostSystemConnectionState` | ❌ | ✅ | ✅ | Connection state of the host |
+| `cpu` | `complexType.UnitAndValue<double>` | ❌ | ❌ | ✅ | CPU total frenquency |
+| `cpuMax` | `long` | ❌ | ✅ | ✅ | The maximum speed of the cpu, in Mhz |
+| `cpuMaxCore` | `long` | ❌ | ✅ | ✅ | The speed of the CPU cores. This is an average value if there are multiple speeds. in Mhz |
+| `cpuNum` | `long` | ❌ | ✅ | ✅ | Number of physical CPU cores on the host. |
+| `cpuUsed` | `long` | ❌ | ✅ | ✅ | Current cpu utilization, in Mhz |
+| `hostId` | `long` | ❌ | ❌ | ✅ | Id of the host |
+| `inMaintenance` | `boolean` | ❌ | ✅ | ✅ | Host is in maintenance mode |
+| `memoryUsed` | `double` | ❌ | ✅ | ✅ | Amount of used memory. Sum of the memory used by all powered on virtual machines and vSphere services on the host. in MB |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the host (IP address) |
+| `parentHostId` | `long` | ❌ | ✅ | ✅ | Id of the parent host (if any) |
+| `profile` | `string` | ❌ | ❌ | ✅ | Host profile in a commercial range |
+| `profileCode` | `string` | ❌ | ❌ | ✅ | Host profile code |
+| `rack` | `string` | ❌ | ❌ | ✅ | Rack of the host |
+| `ram` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Total RAM quantity |
+| `resourceName` | `string` | ❌ | ✅ | ✅ | Resource name |
+| `state` | `dedicatedCloud.host.StateEnum` | ❌ | ❌ | ✅ | State of the host |
+| `uptime` | `long` | ❌ | ✅ | ✅ | Host uptime in second |
+| `vmTotal` | `long` | ❌ | ✅ | ✅ | Number of Virtual Machine on the host |
+| `vmVcpuTotal` | `long` | ❌ | ✅ | ✅ | Number of Vcpu use by virtual machines on the host |
+
+### `dedicatedCloud.HostProfile`
+
+_Host profile_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ | Id of Host profile |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of Host profile |
+
+### `dedicatedCloud.HostResilience`
+
+_Host resilience test status_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.HostStockHypervisor`
+
+_Hypervisor and their availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `value` | `long` | ❌ | ❌ | ❌ | Number of available hypervisors |
+| `version` | `string` | ❌ | ❌ | ❌ | Version of hypervisor |
+
+### `dedicatedCloud.HostStockProcGen`
+
+_Processor generation and their availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpuGeneration` | `string` | ❌ | ❌ | ❌ | CPU generation |
+| `value` | `dedicatedCloud.HostStockHypervisor[]` | ❌ | ❌ | ❌ | Number of available hosts |
+
+### `dedicatedCloud.HostStockProfile`
+
+_HostProfiles and their availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ❌ | Id of host profile |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of host profile |
+| `ref` | `string` | ❌ | ❌ | ❌ | Reference of host profile |
+| `value` | `dedicatedCloud.HostStockProcGen[]` | ❌ | ❌ | ❌ | Available hosts |
+
+### `dedicatedCloud.HypervisorVersionEnum`
+
+_The Hypervisor version of this Dedicated Cloud component_
+
+**Enum** (`enumType: string`):
+
+- `4.1`
+- `5.0`
+- `5.1`
+- `5.5`
+- `6.0`
+- `6.5`
+- `6.7`
+- `7.0`
+- `8.0`
+- `hv3.1`
+- `hvdc3.1`
+- `nc1.0`
+
+### `dedicatedCloud.Iam`
+
+_OVHcloud IAM option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `identityProviderId` | `long` | ❌ | ✅ | ✅ | Identity Provider ID |
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.Ip`
+
+_IP block_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `country` | `string` | ❌ | ❌ | ✅ |  |
+| `description` | `string` | ❌ | ❌ | ✅ |  |
+| `gateway` | `ip` | ❌ | ❌ | ✅ | Gateway value |
+| `netmask` | `ip` | ❌ | ❌ | ✅ | Netmask value |
+| `network` | `ipv4Block` | ❌ | ❌ | ✅ | IP ex: 213.186.33.34/24 |
+| `networkName` | `string` | ❌ | ❌ | ✅ | Network name |
+| `register` | `dedicatedCloud.BlockRegisterEnum` | ❌ | ❌ | ✅ | The Regional Internet Registry of this Ip Block |
+| `vlanNumber` | `long` | ❌ | ❌ | ✅ | Vlan where this network is routed |
+
+### `dedicatedCloud.IpCountriesEnum`
+
+_All countries in which an Ip Block may be ordered_
+
+**Enum** (`enumType: string`):
+
+- `be`
+- `ca`
+- `ch`
+- `cz`
+- `de`
+- `es`
+- `fi`
+- `fr`
+- `gb`
+- `ie`
+- `it`
+- `lt`
+- `nl`
+- `pl`
+- `pt`
+- `us`
+
+### `dedicatedCloud.IpDetails`
+
+_Details about an Ip_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ip` | ❌ | ❌ | ❌ | IP address |
+| `reverse` | `string` | ❌ | ✅ | ❌ | IP address reverse record |
+| `usage` | `dedicatedCloud.ipUsageEnum` | ❌ | ❌ | ❌ | IP address usage |
+| `usageDetails` | `string` | ❌ | ✅ | ❌ | IP address usage details |
+
+### `dedicatedCloud.LogForwarder`
+
+_Log forwarder option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.LogSubscriptionResource`
+
+_Log subscription resource_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | Name of subscribed resource |
+| `type` | `string` | ❌ | ❌ | ❌ | Type of subscribed resource |
+
+### `dedicatedCloud.LogSubscriptionResponse`
+
+_synchronous operation after subscribing or unsubscribing to a resource logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operationId` | `uuid` | ❌ | ❌ | ❌ | Identifier of the operation |
+| `serviceName` | `string` | ❌ | ❌ | ❌ | Operation owner's service name |
+
+### `dedicatedCloud.LogsURL`
+
+_URL with real time logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ❌ | Expiration date |
+| `url` | `string` | ❌ | ❌ | ❌ | URL |
+
+### `dedicatedCloud.ManagementInterfaceEnum`
+
+_The management interface of this Dedicated Cloud_
+
+**Enum** (`enumType: string`):
+
+- `azure`
+- `openstack`
+- `systemcenter`
+- `vcloud`
+- `vcsa`
+- `vsphere`
+
+### `dedicatedCloud.Nsx`
+
+_VMware NSX-V option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+| `url` | `string` | ❌ | ✅ | ✅ | Url of the NSX API |
+
+### `dedicatedCloud.Nsxt`
+
+_VMware NSX-T option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacentersState` | `dedicatedCloud.option.DatacenterOptionState[]` | ❌ | ✅ | ✅ | Installation status on all datacenters |
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the NSX-T option |
+| `url` | `string` | ❌ | ✅ | ✅ | Url of the NSX-T interface |
+| `version` | `string` | ❌ | ✅ | ✅ | Version of the NSX-T |
+
+### `dedicatedCloud.NsxtEdge`
+
+_NSX-T Edge_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `diskLocation` | `string` | ❌ | ✅ | ✅ | Location of NSX-T Edge disks |
+| `hostId` | `long` | ❌ | ✅ | ✅ | Host id where NSX-T Edge is located |
+| `ip` | `ip` | ❌ | ❌ | ✅ | IP of the NSX-T Edge |
+| `moRef` | `string` | ❌ | ✅ | ✅ | The VMware MoRef of the NSX-T Edge |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the NSX-T Edge |
+| `nsxtEdgeId` | `long` | ❌ | ❌ | ✅ | Id of the NSX-T Edge |
+| `size` | `dedicatedCloud.nsxt.NsxtEdgeSizeEnum` | ❌ | ❌ | ✅ | Size of the NSX-T Edge |
+| `state` | `dedicatedCloud.StateEnum` | ❌ | ❌ | ✅ | State of the NSX-T Edge |
+
+### `dedicatedCloud.NsxtEdgeResilience`
+
+_NSX-T Edge resilience test status_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.ObjectRight`
+
+_User object right_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the object |
+| `objectRightId` | `long` | ❌ | ❌ | ✅ |  |
+| `propagate` | `boolean` | ❌ | ❌ | ✅ | Right propagation on children objects |
+| `right` | `dedicatedCloud.right.RightEnum` | ❌ | ❌ | ✅ | User access on the VMware object |
+| `type` | `dedicatedCloud.right.UserObjectRightTypeEnum` | ❌ | ❌ | ✅ | Type of the object |
+| `vmwareObjectId` | `string` | ❌ | ❌ | ✅ | The VMware MoRef of the object |
+
+### `dedicatedCloud.Os`
+
+_Hypervisor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fullName` | `string` | ❌ | ❌ | ✅ | Full name of hypervisor |
+| `lastModificationDate` | `datetime` | ❌ | ❌ | ✅ | Last modification of hypervisor |
+| `shortName` | `string` | ❌ | ❌ | ✅ | Short name of hypervisor |
+
+### `dedicatedCloud.PccStockProfile`
+
+_PCC and their availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `count` | `long` | ❌ | ❌ | ❌ | Available PCC |
+| `mode` | `string` | ❌ | ❌ | ❌ | Kind of hypervisor |
+| `realVersion` | `string` | ❌ | ❌ | ❌ | Hypervisor version |
+
+### `dedicatedCloud.PccZone`
+
+_Hosting location_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `city` | `string` | ❌ | ❌ | ✅ | Name of City |
+| `countryCode` | `nichandle.CountryEnum` | ❌ | ❌ | ✅ | Country code |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of pccZone |
+| `pccZone` | `string` | ❌ | ❌ | ✅ | Name of pccZone |
+| `region` | `string` | ❌ | ❌ | ✅ | Region name |
+| `regionLocation` | `string` | ❌ | ❌ | ✅ | Location name |
+
+### `dedicatedCloud.PciDss`
+
+_PCI-DSS certification option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.Portgroup`
+
+_Portgroup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the portgroup |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the portgroup |
+| `portgroupId` | `long` | ❌ | ❌ | ✅ | Id of the portgroup |
+
+### `dedicatedCloud.PrivateGateway`
+
+_Private management gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `customerIp` | `ip` | ❌ | ✅ | ✅ | Ip set on your private gateway in your network |
+| `customerNetmask` | `ip` | ❌ | ✅ | ✅ | Your netmask set on the private gateway |
+| `customerPortGroup` | `string` | ❌ | ✅ | ✅ | Portgroup in your VMware on OVHcloud used to deploy the private gateway |
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.RestorePoint`
+
+_Restore point_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationTime` | `string` | ❌ | ✅ | ✅ | Creation time of the restore point |
+| `isCorrupted` | `boolean` | ❌ | ❌ | ✅ | Show if the restore point is corrupted |
+| `restorePointId` | `long` | ❌ | ❌ | ✅ | Id of the restore point. |
+| `restorePointSize` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Size of the restore point |
+| `type` | `dedicatedCloud.backup.BackupTypeEnum` | ❌ | ✅ | ✅ | Type of the restore point |
+
+### `dedicatedCloud.Right`
+
+_User datacenter right_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canAddRessource` | `boolean` | ❌ | ❌ | ❌ | Determine if the user can add ressources in your VMware on OVHcloud |
+| `datacenterId` | `long` | ❌ | ❌ | ✅ |  |
+| `networkRole` | `dedicatedCloud.right.NetworkRoleEnum` | ❌ | ❌ | ❌ | Determine how this user can interact with the VMware on OVHcloud V(x)Lans |
+| `right` | `dedicatedCloud.right.RightEnum` | ❌ | ❌ | ❌ | Determine what kind of access the User will have in this Datacenter of your VMware on OVHcloud |
+| `rightId` | `long` | ❌ | ❌ | ✅ |  |
+| `vmNetworkRole` | `dedicatedCloud.right.VmNetworkRoleEnum` | ❌ | ❌ | ❌ | Determine how this user can interact with the VMware on OVHcloud VM Network |
+
+### `dedicatedCloud.Robot`
+
+_Robot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `criticity` | `string` | ❌ | ❌ | ✅ | The criticity of this robot |
+| `description` | `string` | ❌ | ✅ | ✅ | Description of this robot |
+| `enabled` | `boolean` | ❌ | ❌ | ✅ | Is this robot enabled |
+| `name` | `string` | ❌ | ❌ | ✅ | The name of this robot |
+| `type` | `string` | ❌ | ❌ | ✅ | The type of this robot |
+
+### `dedicatedCloud.SecurityOption`
+
+_Security option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.securityOption.StateEnum` | ❌ | ❌ | ✅ | State of security options |
+
+### `dedicatedCloud.ServicePack`
+
+_Service pack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the Service Pack |
+| `options` | `string[]` | ❌ | ❌ | ✅ | Options available in the Service Pack |
+
+### `dedicatedCloud.StateEnum`
+
+_All states a Dedicated Cloud can be in_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `delivered`
+- `disabled`
+- `disabling`
+- `error`
+- `migrating`
+- `provisionning`
+- `recycling`
+- `reserved`
+- `toDisable`
+- `toProvision`
+- `toRecycle`
+- `toRemove`
+- `toUnprovision`
+- `unprovisionning`
+- `upgrading`
+
+### `dedicatedCloud.StoragePolicy`
+
+_Storage Policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the storage policy |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the storage policy |
+| `storagePolicyId` | `string` | ❌ | ❌ | ✅ | Id of the storage policy |
+
+### `dedicatedCloud.SyslogForward`
+
+_Log forward to syslog option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.SyslogForwardAccessNetwork`
+
+_Forward logs from your PCC infrastructure to your syslog_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Log forwarding description |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | IP address of the remote service |
+| `logForwardId` | `long` | ❌ | ❌ | ✅ | Id of the log forwarder |
+| `logLevel` | `dedicatedCloud.syslogForward.LogLevelEnum` | ❌ | ❌ | ✅ | Minimal log level |
+| `noSsl` | `boolean` | ❌ | ❌ | ✅ | Use unsecure log forwarding |
+| `servicePort` | `long` | ❌ | ❌ | ✅ | Remote service port |
+| `sourceType` | `dedicatedCloud.syslogForward.SourceTypeEnum[]` | ❌ | ❌ | ✅ | Possible log sources type |
+| `sslThumbprint` | `string` | ❌ | ✅ | ✅ | SSL thumbprint of the remote service |
+| `state` | `dedicatedCloud.optionAccessNetwork.StateEnum` | ❌ | ❌ | ✅ | Log fowarder state |
+
+### `dedicatedCloud.Tag`
+
+_Tag_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ✅ | Description of the tag |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the tag |
+| `state` | `dedicatedCloud.TagStateEnum` | ❌ | ✅ | ✅ | State of the tag |
+| `value` | `string` | ❌ | ✅ | ✅ | Value of the tag |
+| `version` | `string` | ❌ | ✅ | ✅ | Version of the tag |
+
+### `dedicatedCloud.TagStateEnum`
+
+_Tag states_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `disabling`
+- `enabled`
+- `enabling`
+- `error`
+- `unknown`
+- `updating`
+
+### `dedicatedCloud.Task`
+
+_Operation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdBy` | `string` | ❌ | ✅ | ✅ | Creator of the task |
+| `createdFrom` | `string` | ❌ | ✅ | ✅ | Origin of the task |
+| `datacenterId` | `long` | ❌ | ✅ | ✅ | datacenterId of the associated dedicatedCloud.Datacenter object |
+| `description` | `string` | ❌ | ✅ | ✅ | Current progress description |
+| `endDate` | `datetime` | ❌ | ✅ | ✅ | Task end date |
+| `executionDate` | `datetime` | ❌ | ❌ | ✅ | Task execution date |
+| `filerId` | `long` | ❌ | ✅ | ✅ | filerId of the associated dedicatedCloud.Filer object |
+| `hostId` | `long` | ❌ | ✅ | ✅ | hostId of the associated dedicatedCloud.Host object |
+| `lastModificationDate` | `datetime` | ❌ | ✅ | ✅ | Task last modification date |
+| `maintenanceDateFrom` | `datetime` | ❌ | ✅ | ✅ | Maintenance task min allowed execution date |
+| `maintenanceDateTo` | `datetime` | ❌ | ✅ | ✅ | Maintenance task max allowed execution date |
+| `name` | `string` | ❌ | ❌ | ✅ | Task name |
+| `network` | `string` | ❌ | ✅ | ✅ | network of the associated dedicatedCloud.Ip object |
+| `networkAccessId` | `long` | ❌ | ✅ | ✅ | networkAccessId of the associated dedicatedCloud.AllowedNetwork object |
+| `orderId` | `long` | ❌ | ✅ | ✅ | orderId of the associated billing.Order object |
+| `parentTaskId` | `long` | ❌ | ✅ | ✅ | taskId of the parent dedicatedCloud.Task object |
+| `progress` | `long` | ❌ | ❌ | ✅ | Current progress |
+| `state` | `dedicatedCloud.TaskStateEnum` | ❌ | ❌ | ✅ | Current Task state |
+| `taskId` | `long` | ❌ | ❌ | ✅ | Task id |
+| `type` | `string` | ❌ | ❌ | ✅ | Task type |
+| `userId` | `long` | ❌ | ✅ | ✅ | userId of the associated dedicatedCloud.User object |
+| `vlanId` | `long` | ❌ | ✅ | ✅ | vlanId of the parent dedicatedCloud.Vlan object |
+
+### `dedicatedCloud.TaskStateEnum`
+
+_All states a Dedicated Cloud Task can be in_
+
+**Enum** (`enumType: string`):
+
+- `canceled`
+- `doing`
+- `done`
+- `error`
+- `fixing`
+- `toCancel`
+- `toCreate`
+- `todo`
+- `unknown`
+- `waitingForChilds`
+- `waitingTodo`
+
+### `dedicatedCloud.TwoFAWhitelistStateEnum`
+
+_All states a Dedicated Cloud two factor authentication whitelist can be in_
+
+**Enum** (`enumType: string`):
+
+- `enabled`
+- `enabling`
+- `error`
+- `migrating`
+- `removed`
+- `removing`
+
+### `dedicatedCloud.User`
+
+_User_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activationState` | `dedicatedCloud.user.ActivationStateEnum` | ❌ | ✅ | ✅ | Activation state of the user account |
+| `activeDirectoryId` | `long` | ❌ | ✅ | ✅ | Deprecated - Linked Federation Active Directory (if any) |
+| `activeDirectoryType` | `dedicatedCloud.user.TypeEnum` | ❌ | ✅ | ✅ | Deprecated - Federation Active Directory User type (if any) |
+| `canManageIpFailOvers` | `boolean` | ❌ | ❌ | ✅ | Defines if the user can manage ip failovers |
+| `canManageNetwork` | `boolean` | ❌ | ❌ | ✅ | Defines if the user can manage the network |
+| `canManageRights` | `boolean` | ❌ | ❌ | ✅ | Defines if the user can manage users rights |
+| `email` | `string` | ❌ | ✅ | ✅ | Email address of the user |
+| `encryptionRight` | `boolean` | ❌ | ❌ | ✅ | Defines if the user can manage encryption / KMS configuration |
+| `firstName` | `string` | ❌ | ✅ | ✅ | First name of the user |
+| `fullAdminRo` | `boolean` | ❌ | ❌ | ✅ | Defines if the user is a full admin in readonly |
+| `identityProviderId` | `long` | ❌ | ✅ | ✅ | Linked Identity Provider (if any), can be Federation Active Directory or IAM |
+| `identityProviderType` | `dedicatedCloud.user.IdentityProviderTypeEnum` | ❌ | ✅ | ✅ | Linked Identity Provider type (if any), can be Federation Active Directory or IAM |
+| `isEnableManageable` | `boolean` | ❌ | ❌ | ✅ | Check if the given VMware on OVHcloud user can be enabled or disabled ? |
+| `isTokenValidator` | `boolean` | ❌ | ❌ | ✅ | Defines if the user can confirm security tokens (if a compatible option is enabled) |
+| `lastName` | `string` | ❌ | ✅ | ✅ | Last name of the user |
+| `login` | `string` | ❌ | ❌ | ✅ | Login of the user |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the user |
+| `nsxRight` | `boolean` | ❌ | ❌ | ✅ | Is this User able to access nsx interface (requires NSX option) |
+| `phoneNumber` | `string` | ❌ | ✅ | ✅ | Mobile phone number of the user |
+| `receiveAlerts` | `boolean` | ❌ | ❌ | ✅ | Defines if the user receives technical alerts |
+| `state` | `dedicatedCloud.user.StateEnum` | ❌ | ❌ | ✅ | State of the user account |
+| `type` | `dedicatedCloud.user.TypeEnum` | ❌ | ✅ | ✅ | User type (if any) |
+| `userId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `dedicatedCloud.UserAccessPolicyEnum`
+
+_Open or restricted access to management interface ?_
+
+**Enum** (`enumType: string`):
+
+- `filtered`
+- `open`
+
+### `dedicatedCloud.UserLogoutPolicyEnum`
+
+_Which user will be disconnected first in case of quota of maximum connection is reached_
+
+**Enum** (`enumType: string`):
+
+- `first`
+- `last`
+
+### `dedicatedCloud.VMEncryption`
+
+_Virtual machine encryption option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.VMEncryptionAccessNetwork`
+
+_Virtual machine encryption KMS server_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Description of your option access network |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | IP address of the remote service |
+| `kmsId` | `long` | ❌ | ❌ | ✅ | Id of the VM Encryption KMS |
+| `kmsTcpPort` | `long` | ❌ | ❌ | ✅ | VM Encryption KMS TCP port |
+| `sslThumbprint` | `string` | ❌ | ❌ | ✅ | SSL thumbprint of the remote service |
+| `state` | `dedicatedCloud.optionAccessNetwork.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+
+### `dedicatedCloud.Vendor`
+
+_Vendor information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `vendorName` | `string` | ❌ | ❌ | ✅ | name |
+
+### `dedicatedCloud.VendorObjectTypeEnum`
+
+_Dedicated Cloud vendors objects types_
+
+**Enum** (`enumType: string`):
+
+- `cluster`
+- `datacenter`
+- `filer`
+- `host`
+- `vm`
+
+### `dedicatedCloud.Version`
+
+_Detailed version_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `build` | `string` | ❌ | ❌ | ❌ |  |
+| `major` | `string` | ❌ | ❌ | ❌ |  |
+| `minor` | `string` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.Vlan`
+
+_vLAN_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `routingRateLimit` | `string` | ❌ | ❌ | ✅ | Speed in Mbps |
+| `state` | `dedicatedCloud.vlan.StateEnum` | ❌ | ❌ | ✅ |  |
+| `type` | `dedicatedCloud.vlan.TypeEnum` | ❌ | ❌ | ✅ |  |
+| `vlanId` | `long` | ❌ | ❌ | ✅ |  |
+| `vlanNumber` | `long` | ❌ | ❌ | ✅ |  |
+
+### `dedicatedCloud.Vm`
+
+_Virtual machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backup` | `dedicatedCloud.backup.Backup` | ❌ | ✅ | ✅ | Backup associated to this Virtual Machine |
+| `cdroms` | `dedicatedCloud.virtualMachineCdrom[]` | ❌ | ✅ | ✅ | Virtual machine cdroms devices |
+| `clusterName` | `string` | ❌ | ✅ | ✅ | Cluster of the virtual machine. |
+| `cpuMax` | `double` | ❌ | ✅ | ✅ | Maximum CPU performance, in MHz. |
+| `cpuNum` | `long` | ❌ | ✅ | ✅ | Number of processors in the virtual machine. |
+| `cpuReady` | `double` | ❌ | ✅ | ✅ | Time that the virtual machine was ready, but could not get scheduled to run on the physical CPU. In millisecond |
+| `cpuReadyPercent` | `double` | ❌ | ✅ | ✅ | Percentage of time that the virtual machine was ready, but could not get scheduled to run on the physical CPU. In percent |
+| `cpuUsed` | `long` | ❌ | ✅ | ✅ | Current CPU performance, in MHz. |
+| `filers` | `dedicatedCloud.vmFiler[]` | ❌ | ✅ | ✅ | List of filers in use by the virtual machine. |
+| `folderName` | `string` | ❌ | ✅ | ✅ | Folder of the virtual machine. |
+| `guestOsFamily` | `string` | ❌ | ✅ | ✅ | VMware guest configured OS family |
+| `hostName` | `string` | ❌ | ✅ | ✅ | Name of the host hosting the virtual machine. |
+| `license` | `dedicatedCloud.spla.KmsLicenseIncludingLegacyEnum` | ❌ | ✅ | ✅ | Registered managed license |
+| `memoryMax` | `long` | ❌ | ✅ | ✅ | Memory size of the virtual machine, in MB |
+| `memoryTps` | `string` | ❌ | ✅ | ✅ | Amount of guest memory that is shared with other virtual machines, in Mb |
+| `memoryUsed` | `long` | ❌ | ✅ | ✅ | Current memory utilization, in MB |
+| `moRef` | `string` | ❌ | ❌ | ✅ | moRef of the virtual machine. |
+| `name` | `string` | ❌ | ✅ | ✅ | Name of the virtual machine. |
+| `netPacketRx` | `double` | ❌ | ✅ | ✅ | Number of packets received. |
+| `netPacketTx` | `double` | ❌ | ✅ | ✅ | Number of packets transmitted. |
+| `netRx` | `double` | ❌ | ✅ | ✅ | Rate at which data is received. In KB/s |
+| `netTx` | `double` | ❌ | ✅ | ✅ | Rate at which data is transmitted. In KB/s |
+| `networks` | `dedicatedCloud.vmNetwork[]` | ❌ | ✅ | ✅ | List of the networks link to this virtual machine |
+| `powerState` | `dedicatedCloud.virtualMachinePowerState` | ❌ | ❌ | ✅ | Power state of the virtual machine. |
+| `readLatency` | `double` | ❌ | ✅ | ✅ | Amount of time for a read operation from the virtual disk. In millisecond |
+| `readPerSecond` | `double` | ❌ | ✅ | ✅ | Number of read issued per second to the virtual disk. In millisecond |
+| `readRate` | `double` | ❌ | ✅ | ✅ | Rate of reading data from the virtual disk. In KB/s |
+| `roleFt` | `string` | ❌ | ✅ | ✅ | The index of the current VM in instanceUuids array starting from 1, so 1 means that it is the primary VM. |
+| `snapshotNum` | `long` | ❌ | ✅ | ✅ | Number of snapshot of the virtual machine. |
+| `stateFt` | `dedicatedCloud.virtualMachineFaultToleranceState` | ❌ | ✅ | ✅ | The fault tolerance state of the virtual machine. |
+| `vmId` | `long` | ❌ | ❌ | ✅ | Id of the virtual machine. |
+| `vmwareTools` | `string` | ❌ | ✅ | ✅ | Current version status of VMware Tools in the guest operating system. |
+| `vmwareToolsVersion` | `string` | ❌ | ✅ | ✅ | Current version of VMware Tools |
+| `writeLatency` | `double` | ❌ | ✅ | ✅ | Amount of time for a write operation from the virtual disk. In millisecond |
+| `writePerSecond` | `double` | ❌ | ✅ | ✅ | Number of write issued per second to the virtual disk. In millisecond |
+| `writeRate` | `double` | ❌ | ✅ | ✅ | Rate of writing data from the virtual disk. In KB/s |
+
+### `dedicatedCloud.Vrops`
+
+_VMware Aria Operations option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ✅ | State of the option |
+| `upgrades` | `string[]` | ❌ | ✅ | ✅ | Available upgrades for Aria Operations |
+| `url` | `string` | ❌ | ✅ | ✅ | Url of Aria Operations interface |
+| `vROpsPublicIP` | `ip` | ❌ | ✅ | ✅ | VMware Aria Operation public IP |
+| `version` | `string` | ❌ | ✅ | ✅ | Version of Aria Operations |
+
+### `dedicatedCloud.VropsOutgoingFlow`
+
+_VMware Aria Operations outgoing flows_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Outgoing flow description |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | IP address of the remote service |
+| `outgoingFlowId` | `long` | ❌ | ❌ | ✅ | Id of the VMware Aria Operations outgoing flow |
+| `servicePort` | `long` | ❌ | ❌ | ✅ | Remote service port (25, 465, 587 or 2525) |
+| `state` | `dedicatedCloud.optionAccessNetwork.StateEnum` | ❌ | ❌ | ✅ | Outgoing flow state |
+
+### `dedicatedCloud.VsanDatastore`
+
+_vSAN datastore_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `clusterId` | `long` | ❌ | ❌ | ✅ | Id of Cluster. |
+| `connectionState` | `dedicatedCloud.filer.ConnexionStateEnum` | ❌ | ✅ | ✅ | Datastore connection state. |
+| `datacenterId` | `long` | ❌ | ❌ | ✅ | Id of the datacenter. |
+| `datastoreId` | `long` | ❌ | ❌ | ✅ | Id of the vsan datastore. |
+| `datastoreName` | `string` | ❌ | ❌ | ✅ | Name of the datastore. |
+| `spaceFree` | `double` | ❌ | ✅ | ✅ | Available space of this datastore, in GB |
+| `spaceProvisioned` | `double` | ❌ | ✅ | ✅ | Provisioned space of this datastore, in GB |
+| `spaceUsed` | `double` | ❌ | ✅ | ✅ | Used Space of this datastore, in GB |
+| `vmTotal` | `long` | ❌ | ✅ | ✅ | Number of virtual machine on the datastore |
+
+### `dedicatedCloud.ZpoolStockProfile`
+
+_Zpool and their availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `minimumAvailability` | `string` | ❌ | ❌ | ❌ | Minimum accepted available zpools |
+| `profile` | `string` | ❌ | ❌ | ❌ | Reference of zpool |
+| `realCount` | `long` | ❌ | ❌ | ❌ | Available zpools |
+
+### `dedicatedCloud.backup.Backup`
+
+_Details about a backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allocatedDisk` | `double` | ❌ | ✅ | ❌ | Disk space allocated to the virtual machine (in GB) |
+| `backupDays` | `dedicatedCloud.backup.BackupDaysEnum[]` | ❌ | ✅ | ❌ | List of days your Virtual Machine will be backuped |
+| `backupRepositoryId` | `long` | ❌ | ✅ | ❌ | Associated backup repository Id |
+| `encryption` | `boolean` | ❌ | ✅ | ❌ | Backup is encrypted |
+| `lastCreationTime` | `datetime` | ❌ | ✅ | ❌ | Last creation time of the backup job |
+| `lastDuration` | `complexType.UnitAndValue<long>` | ❌ | ✅ | ❌ | Last duration of the backup job |
+| `lastResult` | `dedicatedCloud.backup.JobStateEnum` | ❌ | ✅ | ❌ | Last result of the backup job |
+| `lastSuccessfulCreationTime` | `datetime` | ❌ | ✅ | ❌ | Last successful creation time of the backup job |
+| `lastSuccessfulDuration` | `complexType.UnitAndValue<long>` | ❌ | ✅ | ❌ | Last successful duration of the backup job |
+| `offerType` | `dedicatedCloud.backup.OfferTypeEnum` | ❌ | ✅ | ❌ | Offer type of the backup job |
+| `restorePoints` | `dedicatedCloud.backup.RestorePoint[]` | ❌ | ✅ | ❌ | Restore points of this backup job |
+| `retentionTime` | `long` | ❌ | ✅ | ❌ | Number of days before the backup is deleted |
+| `state` | `dedicatedCloud.backup.StateEnum` | ❌ | ✅ | ❌ | State of the backup job |
+
+### `dedicatedCloud.backup.BackupCapabilities`
+
+_Details about BackupCapabilities_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupDays` | `boolean` | ❌ | ❌ | ❌ | Customized backup days |
+| `customReport` | `boolean` | ❌ | ❌ | ❌ | Customized Backup report |
+| `dedicatedProxy` | `boolean` | ❌ | ❌ | ❌ | Indicates additional backup proxy for large disk size VM |
+| `encryption` | `boolean` | ❌ | ❌ | ❌ | Indicates if backup will be encrypted |
+| `mailAddress` | `boolean` | ❌ | ❌ | ❌ | Indicates if customer can add an additional email address for backup report |
+| `minimumFullBackups` | `long` | ❌ | ❌ | ❌ | Minimum number of full backups |
+| `offerName` | `string` | ❌ | ❌ | ❌ | Name of offer type |
+| `proxyPerHost` | `boolean` | ❌ | ❌ | ❌ | Backup Proxy per host |
+| `replication` | `boolean` | ❌ | ❌ | ❌ | Backup Replication enabled |
+| `retention` | `long` | ❌ | ❌ | ❌ | Restore points |
+| `scheduleHour` | `boolean` | ❌ | ❌ | ❌ | Scheduled hour of backup start customizable |
+
+### `dedicatedCloud.backup.BackupDaysEnum`
+
+_All the possible Days of Backup_
+
+**Enum** (`enumType: string`):
+
+- `Friday`
+- `Monday`
+- `Saturday`
+- `Sunday`
+- `Thursday`
+- `Tuesday`
+- `Wednesday`
+
+### `dedicatedCloud.backup.BackupTypeEnum`
+
+_All the type of a restore point_
+
+**Enum** (`enumType: string`):
+
+- `full`
+- `incremental`
+
+### `dedicatedCloud.backup.JobStateEnum`
+
+_State of the backup job_
+
+**Enum** (`enumType: string`):
+
+- `failed`
+- `running`
+- `stopped`
+- `stopping`
+- `success`
+- `unknown`
+- `warning`
+
+### `dedicatedCloud.backup.OfferTypeEnum`
+
+_All the offer type of the backup_
+
+**Enum** (`enumType: string`):
+
+- `advanced`
+- `backup`
+- `classic`
+- `legacy`
+- `premium`
+
+### `dedicatedCloud.backup.OptimizeMessageEnum`
+
+_All messages descriptions for the proxies optimization_
+
+**Enum** (`enumType: string`):
+
+- `hasMoreBackupJobs`
+- `hasMoreProxies`
+- `hasSufficientProxies`
+- `noBackupJobs`
+
+### `dedicatedCloud.backup.OptimizeProxies`
+
+_Details about proxies Optimization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `message` | `dedicatedCloud.backup.OptimizeMessageEnum` | ❌ | ❌ | ❌ | Brief information about recommendation |
+| `numberOfProxiesDeployed` | `long` | ❌ | ❌ | ❌ | Number of proxies deployed in the Datacenter |
+| `numberOfProxiesImpact` | `long` | ❌ | ❌ | ❌ | Number of proxies get impacted by recommendation |
+| `recommendation` | `dedicatedCloud.backup.OptimizeRecommendationEnum` | ❌ | ❌ | ❌ | Action recommended for the optimization |
+
+### `dedicatedCloud.backup.OptimizeRecommendationEnum`
+
+_All recommendations for the proxies optimization_
+
+**Enum** (`enumType: string`):
+
+- `add`
+- `optimized`
+- `remove`
+
+### `dedicatedCloud.backup.ReplicationSyncStatus`
+
+_All possible replication sync status_
+
+**Enum** (`enumType: string`):
+
+- `ok`
+- `out-of-sync`
+- `sync-required`
+- `unknown`
+
+### `dedicatedCloud.backup.RestorePoint`
+
+_Details about a restore point_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationTime` | `datetime` | ❌ | ✅ | ❌ | Creation time of the restore point |
+| `isCorrupted` | `boolean` | ❌ | ✅ | ❌ | Show if the restore point is corrupted |
+| `restorePointId` | `long` | ❌ | ❌ | ❌ | Id of the restore point |
+| `size` | `complexType.UnitAndValue<long>` | ❌ | ✅ | ❌ | Size of the restore point |
+| `type` | `dedicatedCloud.backup.BackupTypeEnum` | ❌ | ✅ | ❌ | Type of the restore point |
+
+### `dedicatedCloud.backup.StateEnum`
+
+_All the state of the backup_
+
+**Enum** (`enumType: string`):
+
+- `deleting`
+- `delivered`
+- `disabled`
+- `disabling`
+- `enabling`
+- `error`
+- `migrating`
+- `pending`
+- `removed`
+- `stopping`
+- `toCreate`
+- `toDelete`
+- `toDisable`
+- `toEnable`
+- `toStop`
+- `unknown`
+
+### `dedicatedCloud.capabilities.FeatureStatusEnum`
+
+_All Dedicated Cloud feature status available_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `comingSoon`
+- `no`
+
+### `dedicatedCloud.cluster.AutoScale`
+
+_Details about AutoScale_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `autoScaleInHost` | `dedicatedCloud.cluster.AutoScaleModeEnum` | ❌ | ❌ | ❌ | Mode of Auto Scale-In Host operation |
+| `autoScaleOutHost` | `dedicatedCloud.cluster.AutoScaleModeEnum` | ❌ | ❌ | ❌ | Mode of Auto Scale-Out Host operation |
+| `autoScaleOutStorage` | `dedicatedCloud.cluster.AutoScaleModeEnum` | ❌ | ❌ | ❌ | Mode of Auto Scale-Out Storage operation |
+| `configId` | `long` | ❌ | ❌ | ❌ | AutoScale configuration id |
+| `id` | `long` | ❌ | ❌ | ❌ | Id of the AutoScale Service |
+| `inMaintenanceMode` | `boolean` | ❌ | ❌ | ❌ | Maintenace Mode for AutoScale service |
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ❌ | State of the Autoscale service |
+
+### `dedicatedCloud.cluster.AutoScaleModeEnum`
+
+_Modes of the AutoScale service_
+
+**Enum** (`enumType: string`):
+
+- `automatic`
+- `manual`
+
+### `dedicatedCloud.cluster.ClusterConfigsStatusEnum`
+
+_Config status of the cluster_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+- `unknown`
+
+### `dedicatedCloud.cluster.ClusterDrsModeEnum`
+
+_Config status of the cluster_
+
+**Enum** (`enumType: string`):
+
+- `fullyAutomated`
+- `manual`
+- `partiallyAutomated`
+
+### `dedicatedCloud.compliantRanges`
+
+_compliant range information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `addons` | `dedicatedCloud.requiredAddon[]` | ❌ | ✅ | ❌ |  |
+| `estimateRequired` | `boolean` | ❌ | ❌ | ❌ |  |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `upgradeCode` | `string` | ❌ | ✅ | ❌ |  |
+| `upgradeRequired` | `boolean` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.dedicatedCloud`
+
+_VMware on OVHcloud_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `advancedSecurity` | `boolean` | ❌ | ❌ | ✅ | Advanced security state |
+| `bandwidth` | `string` | ❌ | ❌ | ✅ | The current bandwidth of your VMware on OVHcloud |
+| `billingType` | `dedicatedCloud.BillingTypeEnum` | ❌ | ❌ | ✅ | Billing type of your VMware on OVHcloud |
+| `canMigrateToVCD` | `boolean` | ❌ | ❌ | ✅ | Can the PCC be migrated to VCD |
+| `certifiedInterfaceUrl` | `string` | ❌ | ❌ | ✅ | Url to the VMware on OVHcloud certified interface |
+| `commercialRange` | `string` | ❌ | ❌ | ✅ | The current version of your VMware on OVHcloud |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of your VMware on OVHcloud |
+| `generation` | `dedicatedCloud.GenerationEnum` | ❌ | ❌ | ✅ | Generation of your VMware on OVHcloud |
+| `location` | `string` | ❌ | ❌ | ✅ | Datacenter where your VMware on OVHcloud is physically located |
+| `managementInterface` | `dedicatedCloud.ManagementInterfaceEnum` | ❌ | ❌ | ✅ | The management interface name |
+| `productReference` | `dedicatedCloud.productReferenceEnum` | ❌ | ❌ | ✅ | The reference universe information for your VMware on OVHcloud |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Service name of your VMware on OVHcloud |
+| `servicePackName` | `string` | ❌ | ✅ | ✅ | Name of the current service pack |
+| `spla` | `boolean` | ❌ | ❌ | ✅ | SPLA licensing state |
+| `sslV3` | `boolean` | ❌ | ✅ | ❌ | Enable SSL v3 support. Warning : this option is not recommended as it was recognized as a security breach. If this is enabled, we advise you to enable the filtered User access policy |
+| `state` | `dedicatedCloud.StateEnum` | ❌ | ❌ | ✅ | Current state of your VMware on OVHcloud |
+| `userAccessPolicy` | `dedicatedCloud.UserAccessPolicyEnum` | ❌ | ❌ | ❌ | Access policy of your VMware on OVHcloud : opened to every IPs or filtered |
+| `userLimitConcurrentSession` | `long` | ❌ | ❌ | ❌ | The maximum amount of connected users allowed on the VMware on OVHcloud management interface |
+| `userLogoutPolicy` | `dedicatedCloud.UserLogoutPolicyEnum` | ❌ | ❌ | ❌ |  |
+| `userSessionTimeout` | `long` | ❌ | ❌ | ❌ | The timeout (in seconds) for the user sessions on the VMware on OVHcloud management interface. 0 value disable the timeout |
+| `vScopeUrl` | `string` | ❌ | ❌ | ✅ | Url to the VMware on OVHcloud vScope interface |
+| `version` | `dedicatedCloud.Version` | ❌ | ❌ | ✅ | Version of the management interface |
+| `webInterfaceUrl` | `string` | ❌ | ❌ | ✅ | Url to the VMware on OVHcloud web interface |
+
+### `dedicatedCloud.dedicatedCloudWithIAM`
+
+_VMware on OVHcloud_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `advancedSecurity` | `boolean` | ❌ | ❌ | ✅ | Advanced security state |
+| `bandwidth` | `string` | ❌ | ❌ | ✅ | The current bandwidth of your VMware on OVHcloud |
+| `billingType` | `dedicatedCloud.BillingTypeEnum` | ❌ | ❌ | ✅ | Billing type of your VMware on OVHcloud |
+| `canMigrateToVCD` | `boolean` | ❌ | ❌ | ✅ | Can the PCC be migrated to VCD |
+| `certifiedInterfaceUrl` | `string` | ❌ | ❌ | ✅ | Url to the VMware on OVHcloud certified interface |
+| `commercialRange` | `string` | ❌ | ❌ | ✅ | The current version of your VMware on OVHcloud |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of your VMware on OVHcloud |
+| `generation` | `dedicatedCloud.GenerationEnum` | ❌ | ❌ | ✅ | Generation of your VMware on OVHcloud |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `location` | `string` | ❌ | ❌ | ✅ | Datacenter where your VMware on OVHcloud is physically located |
+| `managementInterface` | `dedicatedCloud.ManagementInterfaceEnum` | ❌ | ❌ | ✅ | The management interface name |
+| `productReference` | `dedicatedCloud.productReferenceEnum` | ❌ | ❌ | ✅ | The reference universe information for your VMware on OVHcloud |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Service name of your VMware on OVHcloud |
+| `servicePackName` | `string` | ❌ | ✅ | ✅ | Name of the current service pack |
+| `spla` | `boolean` | ❌ | ❌ | ✅ | SPLA licensing state |
+| `sslV3` | `boolean` | ❌ | ✅ | ❌ | Enable SSL v3 support. Warning : this option is not recommended as it was recognized as a security breach. If this is enabled, we advise you to enable the filtered User access policy |
+| `state` | `dedicatedCloud.StateEnum` | ❌ | ❌ | ✅ | Current state of your VMware on OVHcloud |
+| `userAccessPolicy` | `dedicatedCloud.UserAccessPolicyEnum` | ❌ | ❌ | ❌ | Access policy of your VMware on OVHcloud : opened to every IPs or filtered |
+| `userLimitConcurrentSession` | `long` | ❌ | ❌ | ❌ | The maximum amount of connected users allowed on the VMware on OVHcloud management interface |
+| `userLogoutPolicy` | `dedicatedCloud.UserLogoutPolicyEnum` | ❌ | ❌ | ❌ |  |
+| `userSessionTimeout` | `long` | ❌ | ❌ | ❌ | The timeout (in seconds) for the user sessions on the VMware on OVHcloud management interface. 0 value disable the timeout |
+| `vScopeUrl` | `string` | ❌ | ❌ | ✅ | Url to the VMware on OVHcloud vScope interface |
+| `version` | `dedicatedCloud.Version` | ❌ | ❌ | ✅ | Version of the management interface |
+| `webInterfaceUrl` | `string` | ❌ | ❌ | ✅ | Url to the VMware on OVHcloud web interface |
+
+### `dedicatedCloud.disasterRecovery.DrpTypeEnum`
+
+_Disaster Recovery Plan Types_
+
+**Enum** (`enumType: string`):
+
+- `onPremise`
+- `ovh`
+
+### `dedicatedCloud.disasterRecovery.ExtendedJournal`
+
+_List of Repositories configured as Extended Journal_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bucketName` | `string` | ❌ | ❌ | ❌ | Name of the OVHCloud Object Storage bucket |
+| `endpointUrl` | `string` | ❌ | ❌ | ❌ | OVHCloud Object Storage endpoint url configured in Extended Journal |
+| `immutabilityDays` | `long` | ❌ | ✅ | ❌ | Immutability days set in Extended Journal |
+| `immutabilityPolicy` | `dedicatedCloud.disasterRecovery.ImmutabilityPolicyEnum` | ❌ | ✅ | ❌ | Immutability policy configured in Extended Journal |
+| `isImmutable` | `boolean` | ❌ | ❌ | ❌ | Status of the Immutability |
+| `path` | `string` | ❌ | ❌ | ❌ | Full OVHCloud Object Storage path of the repository bucket |
+| `repositoryId` | `uuid` | ❌ | ❌ | ❌ | Repository Id of the Extended Journal |
+| `repositoryName` | `string` | ❌ | ❌ | ❌ | Repository Name of the Extended Journal |
+
+### `dedicatedCloud.disasterRecovery.ImmutabilityPolicyEnum`
+
+_Zerto LTR immutability policies_
+
+**Enum** (`enumType: string`):
+
+- `Period`
+- `perVPGRetentionPolicy`
+
+### `dedicatedCloud.disasterRecovery.LocalSiteDetails`
+
+_Information on the local datacenter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpointPublicIp` | `ip` | ❌ | ✅ | ❌ | Local tunnel endpoint public Ip |
+| `role` | `dedicatedCloud.disasterRecovery.SiteRoleEnum` | ❌ | ❌ | ❌ | Zvm mode configured |
+| `state` | `dedicatedCloud.StateEnum` | ❌ | ✅ | ❌ | State of the local Zvm |
+| `type` | `dedicatedCloud.disasterRecovery.SiteTypeEnum` | ❌ | ❌ | ❌ | Type of hosting for the local datacenter |
+| `vraNetwork` | `ipv4Block` | ❌ | ✅ | ❌ | Internal zerto subnet of this infrastructure (ip/cidr) |
+| `zertoVersion` | `string` | ❌ | ❌ | ❌ | Installed version of Zerto |
+| `zvmIp` | `ip` | ❌ | ✅ | ❌ | Local Network Ip of the Zerto virtual manager |
+
+### `dedicatedCloud.disasterRecovery.ObjectStorageRepoTypeEnum`
+
+_OVHCloud Object Storage Repo Type_
+
+**Enum** (`enumType: string`):
+
+- `highPerformance`
+- `standard`
+
+### `dedicatedCloud.disasterRecovery.Profile`
+
+_State of the disaster recovery option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `drpType` | `dedicatedCloud.disasterRecovery.DrpTypeEnum` | ❌ | ✅ | ❌ | Disaster Recovery Plan Type |
+| `localSiteInformation` | `dedicatedCloud.disasterRecovery.LocalSiteDetails` | ❌ | ✅ | ❌ | Information about the site installed on this Dedicated Cloud |
+| `remoteSiteInformation` | `dedicatedCloud.disasterRecovery.RemoteSiteDetails` | ❌ | ✅ | ❌ | Deprecated - Information about the first remote paired site |
+| `remoteSitesInformation` | `dedicatedCloud.disasterRecovery.RemoteSiteDetails[]` | ❌ | ✅ | ❌ | Information about the remote paired sites |
+| `state` | `dedicatedCloud.StateEnum` | ❌ | ❌ | ❌ | State of the disaster recovery service |
+| `systemVersion` | `string` | ❌ | ❌ | ❌ | Technical solution used |
+
+### `dedicatedCloud.disasterRecovery.RemoteSiteDetails`
+
+_Information on the remote datacenter linked to the local one_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenterId` | `long` | ❌ | ✅ | ❌ | Datacenter Id (if hosted by OVH) |
+| `datacenterName` | `string` | ❌ | ✅ | ❌ | Datacenter name (if hosted by OVH) |
+| `lastVpnConfig` | `datetime` | ❌ | ✅ | ❌ | Last VPN config change date (if type is onPremise) |
+| `remoteEndpointInternalIp` | `ipv4` | ❌ | ✅ | ❌ | Stunnel endpoint internal IP (if type is onPremise) |
+| `remoteEndpointPublicIp` | `ipv4` | ❌ | ✅ | ❌ | Stunnel endpoint public IP (if type is onPremise) |
+| `remoteZvmInternalIp` | `ipv4` | ❌ | ✅ | ❌ | Remote ZVM IP (if type is onPremise) |
+| `role` | `dedicatedCloud.disasterRecovery.SiteRoleEnum` | ❌ | ✅ | ❌ | Zvm mode configured |
+| `serviceName` | `string` | ❌ | ✅ | ❌ | Service name (if hosted by OVH) |
+| `state` | `dedicatedCloud.StateEnum` | ❌ | ✅ | ❌ | State of the remote Zvm |
+| `type` | `dedicatedCloud.disasterRecovery.SiteTypeEnum` | ❌ | ❌ | ❌ | Type of hosting for the remote datacenter |
+| `vpnConfigState` | `dedicatedCloud.disasterRecovery.VpnConfigStateEnum` | ❌ | ✅ | ❌ | VPN configuration state (if type is onPremise) |
+| `vraNetwork` | `ipv4Block` | ❌ | ✅ | ❌ | Internal zerto subnet of your infrastructure (ip/cidr) |
+| `zertoVersion` | `string` | ❌ | ✅ | ❌ | Installed version of Zerto |
+
+### `dedicatedCloud.disasterRecovery.SiteRoleEnum`
+
+_Site manager configured mode_
+
+**Enum** (`enumType: string`):
+
+- `primary`
+- `secondary`
+- `single`
+
+### `dedicatedCloud.disasterRecovery.SiteTypeEnum`
+
+_Site manager hosting type_
+
+**Enum** (`enumType: string`):
+
+- `onPremise`
+- `ovhPrivateCloud`
+
+### `dedicatedCloud.disasterRecovery.VpnConfigStateEnum`
+
+_Zerto VPN configuration state_
+
+**Enum** (`enumType: string`):
+
+- `configured`
+- `configuring`
+- `error`
+- `notConfigured`
+- `tunnelError`
+
+### `dedicatedCloud.disasterRecovery.ZertoProtectedVm`
+
+_Information on virtual machine protected by Zerto_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fromDate` | `datetime` | ❌ | ❌ | ❌ | Start of the backup for the requested period |
+| `protectedSite` | `string` | ❌ | ❌ | ❌ | Name of the site in which the VM is running |
+| `recoverySite` | `string` | ❌ | ❌ | ❌ | Name of the site where the VM is backed up |
+| `vmId` | `string` | ❌ | ❌ | ❌ | ID of the protected VM |
+| `vmName` | `string` | ❌ | ❌ | ❌ | Name of the protected VM |
+| `vpgName` | `string` | ❌ | ❌ | ❌ | Name of the virtual protection group in which the VM is located |
+
+### `dedicatedCloud.disasterRecovery.ZertoRemoteVra`
+
+_Zerto disaster recovery remote site_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ❌ | ID of the remote Vra Network |
+| `label` | `string` | ❌ | ❌ | ❌ | Name given to this network |
+| `remoteEndpointPublicIp` | `ip` | ❌ | ❌ | ❌ | Your onsite endpoint public IP for the secured replication data tunnel |
+| `remoteVraNetwork` | `ipBlock` | ❌ | ❌ | ❌ | Internal zerto subnet of your onsite infrastructure (ip/cidr) |
+| `remoteZvmInternalIp` | `ip` | ❌ | ❌ | ❌ | Internal ZVM ip on your onsite infrastructure local network |
+| `state` | `dedicatedCloud.optionAccessNetwork.StateEnum` | ❌ | ❌ | ❌ | Current state of your current Zerto remote site |
+
+### `dedicatedCloud.disasterRecovery.ZertoVraResourceSizeEnum`
+
+_Zerto VRA resource size_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `S`
+- `XL`
+- `XS`
+
+### `dedicatedCloud.disasterRecovery.ZertoVrasResource`
+
+_Zerto VRA resource details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpu` | `long` | ❌ | ❌ | ❌ | Number of CPUs of VRA VM |
+| `memory` | `long` | ❌ | ❌ | ❌ | Memory of VRA vm in GB |
+| `vmId` | `long` | ❌ | ❌ | ❌ | ID of the Vra |
+| `vraName` | `string` | ❌ | ❌ | ❌ | Name of the VRA VM |
+
+### `dedicatedCloud.filer.ConnexionStateEnum`
+
+_Connexion states for a Dedicated Cloud Filer._
+
+**Enum** (`enumType: string`):
+
+- `offline`
+- `online`
+
+### `dedicatedCloud.filer.FilerTypeEnum`
+
+_All types of filer that are available for restoring a VM_
+
+**Enum** (`enumType: string`):
+
+- `nas`
+- `vsan`
+
+### `dedicatedCloud.filer.HourlyConsumption`
+
+_Hourly consumption of a filer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `consumption` | `complexType.UnitAndValue<double>` | ❌ | ❌ | ❌ | Consumption of the Filer |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ❌ | Last update |
+
+### `dedicatedCloud.filer.Location`
+
+_Location of the Filer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenter` | `dedicated.DatacenterEnum` | ❌ | ❌ | ❌ | Datacenter of the Filer. |
+| `rack` | `string` | ❌ | ❌ | ❌ | Rack of the slave Filer. |
+| `room` | `string` | ❌ | ❌ | ❌ | Room of the Filer. |
+
+### `dedicatedCloud.filer.NodeTypeEnum`
+
+_All nodes types for a Filer_
+
+**Enum** (`enumType: string`):
+
+- `master`
+- `slave`
+
+### `dedicatedCloud.filer.Profile`
+
+_A Filer profile_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fullName` | `string` | ❌ | ❌ | ❌ | Human-Readable name |
+| `name` | `string` | ❌ | ❌ | ❌ | Commercial name |
+| `size` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.filer.StateEnum`
+
+_All states a Dedicated Cloud Filer can be in_
+
+**Enum** (`enumType: string`):
+
+- `adding`
+- `delivered`
+- `error`
+- `removing`
+- `unknown`
+
+### `dedicatedCloud.host.HourlyConsumption`
+
+_Hourly consumption of a host_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `consumption` | `complexType.UnitAndValue<double>` | ❌ | ❌ | ❌ | Consumption of the Host. |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ❌ | Last update. |
+
+### `dedicatedCloud.host.Location`
+
+_Location of the Host_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenter` | `dedicated.DatacenterEnum` | ❌ | ❌ | ❌ | Datacenter of the Host. |
+| `rack` | `string` | ❌ | ❌ | ❌ | Rack of the Host. |
+| `room` | `string` | ❌ | ❌ | ❌ | Room of the Host. |
+
+### `dedicatedCloud.host.Profile`
+
+_A Host profile_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `core` | `string` | ❌ | ❌ | ❌ |  |
+| `cpu` | `complexType.UnitAndValue<double>` | ❌ | ❌ | ❌ |  |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `ram` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.host.StateEnum`
+
+_All states a Dedicated Cloud Host can be in_
+
+**Enum** (`enumType: string`):
+
+- `adding`
+- `delivered`
+- `error`
+- `removing`
+- `unknown`
+
+### `dedicatedCloud.hostSystemConnectionState`
+
+_The connection state of the host_
+
+**Enum** (`enumType: string`):
+
+- `connected`
+- `disconnected`
+- `notResponding`
+
+### `dedicatedCloud.ipUsageEnum`
+
+_IP address usage_
+
+**Enum** (`enumType: string`):
+
+- `nsxt`
+- `reserved`
+- `vm`
+
+### `dedicatedCloud.ldpKind`
+
+_Log kind for your dedicated cloud_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalReturnedFields` | `string[]` | ❌ | ❌ | ✅ | List of additional log fields managed in this log kind |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the log kind |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Log kind display name |
+| `kindId` | `uuid` | ❌ | ❌ | ✅ | Log kind ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Log kind name |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the log kind |
+
+### `dedicatedCloud.ldpSubscription`
+
+_Log subscription for your dedicated cloud_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the subscription |
+| `kind` | `string` | ❌ | ❌ | ✅ | Log kind name of this subscription |
+| `resource` | `dedicatedCloud.LogSubscriptionResource` | ❌ | ❌ | ✅ | Subscribed resource, where the logs come from |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the destination log service |
+| `streamId` | `uuid` | ❌ | ❌ | ✅ | Id of the destination log stream |
+| `subscriptionId` | `uuid` | ❌ | ❌ | ✅ | Subscription ID |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the subscription |
+
+### `dedicatedCloud.nsxt.NsxtEdgeScalingCapability`
+
+_Maximum number of NSX-T Edges supported in datacenter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `number` | `long` | ❌ | ✅ | ❌ |  |
+
+### `dedicatedCloud.nsxt.NsxtEdgeSizeEnum`
+
+_Sizes of NSX-T Edges_
+
+**Enum** (`enumType: string`):
+
+- `LARGE`
+- `MEDIUM`
+- `XLARGE`
+
+### `dedicatedCloud.nsxt.NsxtEdgeSizingCapability`
+
+_Available sizing of NSX-T Edges supported in datacenter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `size` | `string[]` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.option.DatacenterOptionState`
+
+_States of a Dedicated Cloud Datacenter Option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ❌ | ID of the Datacenter |
+| `state` | `dedicatedCloud.option.StateEnum` | ❌ | ❌ | ❌ | State of the Datacenter option |
+
+### `dedicatedCloud.option.StateEnum`
+
+_States of a Dedicated Cloud option_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `disabling`
+- `enabled`
+- `enabling`
+- `error`
+- `migrating`
+- `unknown`
+
+### `dedicatedCloud.optionAccessNetwork.StateEnum`
+
+_States of a Dedicated Cloud option_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleting`
+- `delivered`
+- `error`
+- `toCreate`
+- `toDelete`
+- `toUpdate`
+- `unknown`
+- `updating`
+
+### `dedicatedCloud.optionCompatibility`
+
+_A structure describing option compatibility_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `newCommercialVersion` | `string` | ❌ | ❌ | ❌ | The new/future commercial version |
+| `oldCommercialVersion` | `string` | ❌ | ❌ | ❌ | The old/current commercial version |
+
+### `dedicatedCloud.passwordPolicy`
+
+_A structure describing the current password policy for your Dedicated Cloud_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deniedChars` | `string[]` | ❌ | ❌ | ❌ | List of denied characters in the password |
+| `digitMandatory` | `boolean` | ❌ | ❌ | ❌ | Whether or not a digit (0-9) is mandatory in the password |
+| `historyCheck` | `long` | ❌ | ❌ | ❌ | Number of previous passwords to keep |
+| `letterMandatory` | `boolean` | ❌ | ❌ | ❌ | Whether or not a letter (a-z or A-Z) is mandatory in the password |
+| `lowercaseLetterMandatory` | `boolean` | ❌ | ❌ | ❌ | Whether or not a lowercase letter (a-z) is mandatory in the password |
+| `maxLength` | `long` | ❌ | ❌ | ❌ | Maximum lenght of the password |
+| `minLength` | `long` | ❌ | ❌ | ❌ | Minimum lenght of the password |
+| `specialMandatory` | `boolean` | ❌ | ❌ | ❌ | Whether or not a special character (\W or _) is mandatory in the password |
+| `uppercaseLetterMandatory` | `boolean` | ❌ | ❌ | ❌ | Whether or not an uppercase letter (A-Z) is mandatory in the password |
+| `validityPeriod` | `long` | ❌ | ❌ | ❌ | Password validity period (in days) |
+
+### `dedicatedCloud.productReferenceEnum`
+
+_The reference universe information for your Dedicated Cloud_
+
+**Enum** (`enumType: string`):
+
+- `EPCC`
+- `MBM`
+
+### `dedicatedCloud.releaseEnum`
+
+_All vCenter upgrade possibility_
+
+**Enum** (`enumType: string`):
+
+- `major`
+- `minor`
+
+### `dedicatedCloud.requiredAddon`
+
+_required addon information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `planCode` | `string` | ❌ | ❌ | ❌ |  |
+| `quantity` | `long` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.resourceNewPrices`
+
+_A structure describing the Resource's new price_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `resources` | `dedicatedCloud.resourceNewPricesEntry[]` | ❌ | ✅ | ❌ |  |
+
+### `dedicatedCloud.resourceNewPricesEntry`
+
+_A structure describing the Resource's new price_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `billingType` | `dedicatedCloud.ressources.BillingTypeEnum` | ❌ | ❌ | ❌ |  |
+| `changed` | `boolean` | ❌ | ❌ | ❌ |  |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `newPrice` | `order.Price` | ❌ | ❌ | ❌ |  |
+| `oldPrice` | `order.Price` | ❌ | ❌ | ❌ |  |
+| `resourceType` | `dedicatedCloud.ressources.ResourceTypeEnum` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.ressources.BillingTypeEnum`
+
+_The billing type of this Dedicated Cloud ressource_
+
+**Enum** (`enumType: string`):
+
+- `freeSpare`
+- `hourly`
+- `monthly`
+- `undefined`
+
+### `dedicatedCloud.ressources.ResourceTypeEnum`
+
+_The resource type of this Dedicated Cloud ressource_
+
+**Enum** (`enumType: string`):
+
+- `host`
+- `storage`
+
+### `dedicatedCloud.right.NetworkRoleEnum`
+
+_Determine how this user can act on the Dedicated Cloud vLans or vxLans_
+
+**Enum** (`enumType: string`):
+
+- `admin`
+- `manager`
+- `noAccess`
+- `readonly`
+
+### `dedicatedCloud.right.RightEnum`
+
+_All rights a Dedicated Cloud user may be associated with_
+
+**Enum** (`enumType: string`):
+
+- `admin`
+- `disabled`
+- `readonly`
+- `readwrite`
+
+### `dedicatedCloud.right.UserObjectRightTypeEnum`
+
+_All types of objects handled in objectRights_
+
+**Enum** (`enumType: string`):
+
+- `cluster`
+- `datastore`
+- `dvportgroup`
+- `folder`
+- `pool`
+- `vm`
+
+### `dedicatedCloud.right.VmNetworkRoleEnum`
+
+_Determine how this user can act on the Dedicated Cloud vmNetwork_
+
+**Enum** (`enumType: string`):
+
+- `admin`
+- `noAccess`
+- `readonly`
+
+### `dedicatedCloud.sap`
+
+_This schema provides detailed information about the pre-installation tasks related to SAP deployments._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `applicationType` | `dedicatedCloud.sap.applicationTypeEnum` | ❌ | ❌ | ✅ | Describes the type of SAP application that is being installed as part of the pre-installation tasks. |
+| `applicationVersion` | `string` | ❌ | ❌ | ✅ | Describes the specific version of the SAP application that is being installed during the pre-installation process. |
+| `cleanStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current status of the clean-up operations performed as part of the pre-installation tasks. |
+| `deploymentType` | `dedicatedCloud.sap.deploymentTypeEnum` | ❌ | ❌ | ✅ | Describes the type of deployment strategy being used for the SAP installation during the pre-installation process. |
+| `endTime` | `string` | ❌ | ✅ | ✅ | Records the date and time when the pre-installation tasks were finished. |
+| `errorMessage` | `text` | ❌ | ✅ | ✅ | Contains a detailed error message if any issues or failures occurred during the execution of the pre-installation tasks. |
+| `gatewayStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of the Gateway component during the pre-installation process. |
+| `sapHanaInstallationStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of the SAP HANA installation during the pre-installation process. |
+| `sapHanaSid` | `string` | ❌ | ❌ | ✅ | Describes the System ID (SID) assigned to the SAP HANA instance being installed as part of the pre-installation tasks. |
+| `sapSid` | `string` | ❌ | ❌ | ✅ | Describes the System ID (SID) assigned to the SAP system being installed as part of the pre-installation tasks. |
+| `sapSystemInstallationStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of the SAP system installation during the pre-installation process. |
+| `startTime` | `string` | ❌ | ❌ | ✅ | Records the date and time when the pre-installation tasks were initiated. |
+| `status` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides an overview of the current overall status of the pre-installation tasks. |
+| `taskId` | `uuid` | ❌ | ❌ | ✅ | Uniquely identifies each set of pre-installation tasks. |
+| `vmDeploymentStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of virtual machines deployment during the pre-installation process. |
+
+### `dedicatedCloud.sap.applicationServers`
+
+_This section contains the configuration details for setting up the SAP Application servers._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datastoreName` | `string` | ✅ | ❌ | ❌ | Defines the name of the datastore where the SAP Application server's virtual machine will be stored. |
+| `gateway` | `ipv4` | ✅ | ❌ | ❌ | Defines the IPv4 address of the default gateway that the SAP Application server will use to access external networks. |
+| `instanceNumber` | `string` | ✅ | ❌ | ❌ | Represents the unique instance number assigned to the SAP Application server within the SAP system landscape. |
+| `ipAddress` | `ipv4` | ✅ | ❌ | ❌ | Defines the static IPv4 address for the SAP Application server, which must be unique within the specified network. |
+| `memory` | `long` | ✅ | ❌ | ❌ | Allocates the amount of RAM (in gigabytes) to be assigned to the SAP Application server for optimal performance. |
+| `name` | `string` | ✅ | ❌ | ❌ | Defines the hostname of the SAP Application server's virtual machine, which should be unique. |
+| `netmask` | `ipv4` | ✅ | ❌ | ❌ | Defines the netmask for the SAP Application server, which defines the network range it belongs to. |
+| `network` | `string` | ✅ | ❌ | ❌ | Defines the network name to which the SAP Application server will be connected. |
+| `ovaTemplate` | `dedicatedCloud.sap.ovaTemplatesEnum` | ✅ | ❌ | ❌ | Selects the OVA template that will be used to deploy the SAP Application server. |
+| `role` | `dedicatedCloud.sap.rolesEnum` | ✅ | ❌ | ❌ | Assigns a specific role to the SAP Application server, based on its intended function within the SAP environment. |
+| `rootPassword` | `password` | ✅ | ❌ | ❌ | Defines the password for the root user account of the SAP Application server's virtual machine. |
+| `vcpus` | `long` | ✅ | ❌ | ❌ | Defines the number of virtual CPUs (vCPUs) that will be allocated to the SAP Application server. |
+
+### `dedicatedCloud.sap.applicationTypeEnum`
+
+_This enumeration specifies the type of SAP application._
+
+**Enum** (`enumType: string`):
+
+- `ABAP`
+- `JAVA`
+
+### `dedicatedCloud.sap.applicationVersionEnum`
+
+_This enumeration specifies the version of the SAP application._
+
+**Enum** (`enumType: string`):
+
+- `NetWeaver 7.50`
+- `S/4HANA 2021`
+- `S/4HANA 2022`
+- `S/4HANA 2023`
+
+### `dedicatedCloud.sap.bucket`
+
+_This schema defines the configuration details required for a bucket, including authentication and endpoint information._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessKey` | `string` | ✅ | ❌ | ❌ | A unique alphanumeric string used as part of the authentication process to access the bucket. |
+| `endpoint` | `string` | ✅ | ❌ | ❌ | The URL where the bucket can be accessed over the internet. |
+| `id` | `string` | ✅ | ❌ | ❌ | A unique identifier assigned to the bucket. |
+| `secretKey` | `password` | ✅ | ❌ | ❌ | Confidential string used with access key for bucket authentication. |
+
+### `dedicatedCloud.sap.deploymentTypeEnum`
+
+_This enumeration specifies the type of deployment for the SAP system._
+
+**Enum** (`enumType: string`):
+
+- `Distributed`
+- `High-Availability`
+- `Standard`
+
+### `dedicatedCloud.sap.firewall`
+
+_This configuration allows you to manage and control the firewall settings specifically for SAP Central Services, SAP Application servers, and SAP HANA databases at the operating system level. By enabling or disabling the firewall for each component, you can enhance the security of your SAP environment while ensuring that necessary communication channels remain open._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `applicationServers` | `boolean` | ✅ | ❌ | ❌ | Controls the firewall status for the SAP Application servers at the operating system level. Set to 'true' to enable the firewall, or 'false' to disable it. |
+| `centralServices` | `boolean` | ✅ | ❌ | ❌ | Controls the firewall status for the SAP Central Services server at the operating system level. Set to 'true' to enable the firewall, or 'false' to disable it. |
+| `hanaDatabase` | `boolean` | ✅ | ❌ | ❌ | Controls the firewall status for the SAP HANA servers at the operating system level. Set to 'true' to enable the firewall, or 'false' to disable it. |
+
+### `dedicatedCloud.sap.hanaServers`
+
+_This section contains the configuration details required for setting up and managing SAP HANA servers._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datastoreName` | `string` | ✅ | ❌ | ❌ | Defines the name of the datastore where the SAP HANA server's virtual machine will be stored. |
+| `gateway` | `ipv4` | ✅ | ❌ | ❌ | Defines the IPv4 address of the default gateway that the SAP HANA server will use to access external networks. |
+| `instanceNumber` | `string` | ✅ | ❌ | ❌ | Represents the unique instance number assigned to the SAP HANA server within the SAP system landscape. |
+| `ipAddress` | `ipv4` | ✅ | ❌ | ❌ | Defines the IPv4 address that will be assigned to the SAP HANA server's virtual machine. |
+| `memory` | `long` | ✅ | ❌ | ❌ | Allocates the amount of RAM (in gigabytes) to be assigned to the SAP HANA server for optimal performance. |
+| `name` | `string` | ✅ | ❌ | ❌ | Defines the hostname that will be assigned to the SAP HANA server's virtual machine. |
+| `netmask` | `ipv4` | ✅ | ❌ | ❌ | Defines the netmask for the SAP HANA server, which defines the network range it belongs to. |
+| `network` | `string` | ✅ | ❌ | ❌ | Defines the network name to which the SAP HANA server will be connected. |
+| `ovaTemplate` | `dedicatedCloud.sap.ovaTemplatesEnum` | ✅ | ❌ | ❌ | Selects the OVA template that will be used to deploy the SAP HANA server. |
+| `rootPassword` | `password` | ✅ | ❌ | ❌ | Defines the password for the root user account of the SAP HANA server's virtual machine. |
+| `thickDatastorePolicy` | `string` | ✅ | ❌ | ❌ | Defines the thick provisioning policy that will be applied to the SAP HANA server's storage allocation. |
+| `vcpus` | `long` | ✅ | ❌ | ❌ | Defines the number of virtual CPUs (vCPUs) that will be allocated to the SAP HANA server. |
+
+### `dedicatedCloud.sap.ldp`
+
+_This schema defines the necessary configuration parameters for integrating with the SAP Logs Data Platform, including authentication and endpoint details._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `certificate` | `password` | ✅ | ❌ | ❌ | A certificate to authenticate and establish a trusted connection with the entrypoint of the SAP Logs Data Platform. |
+| `entrypoint` | `string` | ✅ | ❌ | ❌ | The specific URL endpoint provided by Logs Data Platform for pushing logs. |
+
+### `dedicatedCloud.sap.ovaTemplatesEnum`
+
+_This enumeration represents the available OVA templates specifically designed for deploying SAP servers._
+
+**Enum** (`enumType: string`):
+
+- `SLES SLE-15-SP4-Full-x86_64 (BYOL)`
+- `SLES SLE-15-SP5-Full-x86_64 (BYOL)`
+- `SLES SLE-15-SP6-Full-x86_64 (BYOL)`
+- `SLES SLE-15-SP7-Full-x86_64 (BYOL)`
+- `SLES for SAP SLE-15-SP4-Full-x86_64 (BYOL)`
+- `SLES for SAP SLE-15-SP5-Full-x86_64 (BYOL)`
+- `SLES for SAP SLE-15-SP6-Full-x86_64 (BYOL)`
+- `SLES for SAP SLE-15-SP7-Full-x86_64 (BYOL)`
+
+### `dedicatedCloud.sap.params`
+
+_This object defines the parameters required to initiate a pre-installation task for an SAP environment._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `applicationServers` | `dedicatedCloud.sap.applicationServers[]` | ✅ | ❌ | ❌ | An array containing the configuration details for each SAP Application Server (such as SCS, ERS, PAS, AAS) virtual machine that will be deployed. |
+| `applicationType` | `dedicatedCloud.sap.applicationTypeEnum` | ✅ | ❌ | ❌ | Selects the type of SAP application that will be installed, such as NetWeaver 7.50 or S/4HANA. |
+| `applicationVersion` | `dedicatedCloud.sap.applicationVersionEnum` | ✅ | ❌ | ❌ | Selects the specific version of the SAP application that will be deployed. |
+| `bucketBackint` | `dedicatedCloud.sap.bucket` | ❌ | ❌ | ❌ | Configuration settings for the storage bucket used by the OVHcloud Backint Agent to store SAP HANA backup files. |
+| `bucketSources` | `dedicatedCloud.sap.bucket` | ✅ | ❌ | ❌ | Configuration settings for the storage bucket that contains the necessary SAP installation sources. |
+| `clusterName` | `string` | ✅ | ❌ | ❌ | A user-defined name for the cluster that will host the SAP environment, usually 'Cluster1'. |
+| `datacenterId` | `long` | ✅ | ❌ | ❌ | The unique identifier for the datacenter where the SAP environment will be deployed. |
+| `deploymentType` | `dedicatedCloud.sap.deploymentTypeEnum` | ✅ | ❌ | ❌ | Selects the type of SAP deployment, such as Standard, Distributed or High-Availability. |
+| `domainName` | `string` | ✅ | ❌ | ❌ | The fully qualified domain name (FQDN) that will be used for the SAP environment. |
+| `firewall` | `dedicatedCloud.sap.firewall` | ✅ | ❌ | ❌ | Configuration settings for the firewall to protect the SAP environment. |
+| `hanaServers` | `dedicatedCloud.sap.hanaServers[]` | ✅ | ❌ | ❌ | An array containing the configuration details for each SAP HANA virtual machine that will be deployed. |
+| `logsDataPlatform` | `dedicatedCloud.sap.ldp` | ❌ | ❌ | ❌ | Configuration settings for the Logs Data Platform that will be used to collect and externalize operating system and SAP logs. |
+| `osLicense` | `string` | ❌ | ❌ | ❌ | The license key or identifier for the operating system that will be used for the SAP environment. |
+| `osUpdate` | `boolean` | ✅ | ❌ | ❌ | A boolean value indicating whether the operating system should be updated during the pre-installation process. |
+| `passwords` | `dedicatedCloud.sap.passwords` | ✅ | ❌ | ❌ | Configuration settings for the various passwords required for the SAP environment, including database, administrator, and service accounts. |
+| `serviceName` | `string` | ❌ | ❌ | ❌ | The name of the Hosted Private Cloud service. This field is primarily used by the OVHcloud Manager during the import process. |
+| `sids` | `dedicatedCloud.sap.sids` | ✅ | ❌ | ❌ | Configuration settings for the System IDs (SIDs) that will be used for the SAP environment. |
+| `systemUsage` | `dedicatedCloud.sap.systemUsageEnum` | ✅ | ❌ | ❌ | Selects the intended usage of the SAP system, such as custom, development, production or test. |
+
+### `dedicatedCloud.sap.passwords`
+
+_This schema defines the required passwords for various SAP accounts._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `masterSap` | `password` | ✅ | ❌ | ❌ | The password for the SAP master account, which is used for installation tasks related to the SAP system. |
+| `masterSapHana` | `password` | ✅ | ❌ | ❌ | The password for the SAP HANA master account, which is used for installation tasks related to the SAP HANA database. |
+| `sidadm` | `password` | ✅ | ❌ | ❌ | The password for the sidadm account, which is the system administrator account for the SAP installation. |
+| `system` | `password` | ✅ | ❌ | ❌ | The password for the SAP HANA SYSTEM account, which is a privileged user account used for managing the SAP HANA database. |
+
+### `dedicatedCloud.sap.rolesEnum`
+
+_This enumeration defines the possible roles that can be assigned to SAP servers._
+
+**Enum** (`enumType: string`):
+
+- `CI`
+- `DI`
+- `ERS`
+- `SCS`
+
+### `dedicatedCloud.sap.sids`
+
+_This schema defines the System Identifiers (SIDs) used for SAP and SAP HANA systems._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `sapHanaSid` | `string` | ✅ | ❌ | ❌ | A unique alphanumeric identifier assigned to the SAP HANA system. |
+| `sapSid` | `string` | ✅ | ❌ | ❌ | A unique alphanumeric identifier assigned to the SAP system. |
+
+### `dedicatedCloud.sap.statusEnum`
+
+_This enumeration represents the possible statuses of a step._
+
+**Enum** (`enumType: string`):
+
+- `FAILURE`
+- `PENDING`
+- `RETRY`
+- `REVOKED`
+- `STARTED`
+- `SUCCESS`
+
+### `dedicatedCloud.sap.systemUsageEnum`
+
+_This enumeration specifies the intended usage of the SAP system._
+
+**Enum** (`enumType: string`):
+
+- `custom`
+- `development`
+- `production`
+- `test`
+
+### `dedicatedCloud.sapWithIAM`
+
+_This schema provides detailed information about the pre-installation tasks related to SAP deployments._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `applicationType` | `dedicatedCloud.sap.applicationTypeEnum` | ❌ | ❌ | ✅ | Describes the type of SAP application that is being installed as part of the pre-installation tasks. |
+| `applicationVersion` | `string` | ❌ | ❌ | ✅ | Describes the specific version of the SAP application that is being installed during the pre-installation process. |
+| `cleanStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current status of the clean-up operations performed as part of the pre-installation tasks. |
+| `deploymentType` | `dedicatedCloud.sap.deploymentTypeEnum` | ❌ | ❌ | ✅ | Describes the type of deployment strategy being used for the SAP installation during the pre-installation process. |
+| `endTime` | `string` | ❌ | ✅ | ✅ | Records the date and time when the pre-installation tasks were finished. |
+| `errorMessage` | `text` | ❌ | ✅ | ✅ | Contains a detailed error message if any issues or failures occurred during the execution of the pre-installation tasks. |
+| `gatewayStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of the Gateway component during the pre-installation process. |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `sapHanaInstallationStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of the SAP HANA installation during the pre-installation process. |
+| `sapHanaSid` | `string` | ❌ | ❌ | ✅ | Describes the System ID (SID) assigned to the SAP HANA instance being installed as part of the pre-installation tasks. |
+| `sapSid` | `string` | ❌ | ❌ | ✅ | Describes the System ID (SID) assigned to the SAP system being installed as part of the pre-installation tasks. |
+| `sapSystemInstallationStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of the SAP system installation during the pre-installation process. |
+| `startTime` | `string` | ❌ | ❌ | ✅ | Records the date and time when the pre-installation tasks were initiated. |
+| `status` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides an overview of the current overall status of the pre-installation tasks. |
+| `taskId` | `uuid` | ❌ | ❌ | ✅ | Uniquely identifies each set of pre-installation tasks. |
+| `vmDeploymentStatus` | `dedicatedCloud.sap.statusEnum` | ❌ | ❌ | ✅ | Provides the current operational state of virtual machines deployment during the pre-installation process. |
+
+### `dedicatedCloud.securityOption.CompatibilityMatrixEntry`
+
+_Representation of a security option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `compatible` | `boolean` | ❌ | ❌ | ❌ | Indicates if option is compatible and can be enabled on your Dedicated Cloud |
+| `description` | `string` | ❌ | ❌ | ❌ | Security option description |
+| `enabled` | `boolean` | ❌ | ❌ | ❌ | Indicates if option is enabled on your Dedicated Cloud |
+| `name` | `dedicatedCloud.securityOption.SecurityOptionEnum` | ❌ | ❌ | ❌ | Security option name |
+| `reason` | `dedicatedCloud.securityOption.ErrorMessage` | ❌ | ✅ | ❌ | If your Dedicated Cloud is not compatible with this option, indicates the reason |
+| `state` | `dedicatedCloud.securityOption.StateEnum` | ❌ | ❌ | ❌ | Detailed security option state |
+
+### `dedicatedCloud.securityOption.DependenciesTree`
+
+_Display requirements, conflicts and dependencies of a security option_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `conflicts` | `dedicatedCloud.securityOption.SecurityOptionEnum[]` | ❌ | ❌ | ❌ | List of conflicting security options which prevents installing given security option |
+| `depends` | `dedicatedCloud.securityOption.SecurityOptionEnum[]` | ❌ | ❌ | ❌ | List of dependencies that will also be enabled during an install of given security option |
+| `requires` | `dedicatedCloud.securityOption.SecurityOptionEnum[]` | ❌ | ❌ | ❌ | List of required security options which must be enabled to install given security option |
+
+### `dedicatedCloud.securityOption.ErrorEnum`
+
+_Security option management errors_
+
+**Enum** (`enumType: string`):
+
+- `ACTION_IMPOSSIBLE`
+- `ALREADY_DISABLED`
+- `ALREADY_ENABLED`
+- `BAD_ZONE`
+- `BREAKING_REQUIREMENTS`
+- `CONFLICTING_OPTIONS`
+- `DEFINITIVE_OPTION`
+- `GENERIC_ERROR`
+- `HAS_UNSUPPORTED_DEPENDENCIES`
+- `MISSING_REQUIREMENTS_OPTIONS`
+- `NOT_ENABLED`
+- `NOT_MANAGEABLE_DIRECTLY`
+- `SERVICE_SUSPENDED`
+
+### `dedicatedCloud.securityOption.ErrorMessage`
+
+_Security option code_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `dedicatedCloud.securityOption.ErrorEnum` | ❌ | ❌ | ❌ | Error code |
+| `message` | `string` | ❌ | ❌ | ❌ | Error message |
+
+### `dedicatedCloud.securityOption.SecurityOptionEnum`
+
+_Security option identifiers_
+
+**Enum** (`enumType: string`):
+
+- `accessNetworkFiltered`
+- `advancedSecurity`
+- `base`
+- `contentLibrary`
+- `grsecKernel`
+- `hds`
+- `hids`
+- `hipaa`
+- `logForwarder`
+- `nids`
+- `pcidss`
+- `privateCustomerVlan`
+- `privateGw`
+- `sendLogToCustomer`
+- `sessionTimeout`
+- `sftp`
+- `snc`
+- `spla`
+- `sslV3`
+- `tls1.2`
+- `tokenValidation`
+- `twoFa`
+- `twoFaFail2ban`
+- `vrliForwarder`
+- `waf`
+
+### `dedicatedCloud.securityOption.StateEnum`
+
+_Security option detailed states_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleted`
+- `deleting`
+- `delivered`
+- `disabled`
+- `pending`
+- `toCreate`
+- `updating`
+
+### `dedicatedCloud.servicePackEnum`
+
+_List of possible service pack_
+
+**Enum** (`enumType: string`):
+
+- `default`
+- `default-nsxt`
+- `hds`
+- `hds-nsxt`
+- `hipaa`
+- `legacy`
+- `nsx`
+- `nsx-and-vrops`
+- `nsxt`
+- `pcidss`
+- `pcidss-nsxt`
+- `vrops`
+- `vrops-nsxt`
+
+### `dedicatedCloud.servicePackStateEnum`
+
+_List of possible state of the service pack_
+
+**Enum** (`enumType: string`):
+
+- `activating`
+- `active`
+- `error`
+- `waitingForCustomer`
+
+### `dedicatedCloud.servicePackStatus`
+
+_Service pack informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `dedicatedCloud.servicePackEnum` | ❌ | ❌ | ❌ | Name of the service pack |
+| `state` | `dedicatedCloud.servicePackStateEnum` | ❌ | ❌ | ❌ | State of the service pack |
+
+### `dedicatedCloud.spla.KmsLicenseEnum`
+
+_Managed license identifiers_
+
+**Enum** (`enumType: string`):
+
+- `windows 2016 Datacenter`
+- `windows 2016 Standard`
+- `windows 2016 Standard SQL2016 Standard`
+- `windows 2016 Standard SQL2016 Web`
+- `windows 2019 Datacenter`
+- `windows 2019 Datacenter Core`
+- `windows 2019 Standard`
+- `windows 2019 Standard Core`
+- `windows 2019 Standard SQL2019 Standard`
+- `windows 2019 Standard SQL2019 Web`
+- `windows 2019 Standard SQL2022 Standard`
+- `windows 2019 Standard SQL2022 Web`
+- `windows 2022 Datacenter`
+- `windows 2022 Datacenter Core`
+- `windows 2022 Datacenter SQL2019 Standard`
+- `windows 2022 Datacenter SQL2019 Web`
+- `windows 2022 Datacenter SQL2022 Standard`
+- `windows 2022 Datacenter SQL2022 Web`
+- `windows 2022 Standard`
+- `windows 2022 Standard Core`
+- `windows 2022 Standard SQL2019 Standard`
+- `windows 2022 Standard SQL2019 Web`
+- `windows 2022 Standard SQL2022 Standard`
+- `windows 2022 Standard SQL2022 Web`
+- `windows 2025 Datacenter`
+- `windows 2025 Datacenter Core`
+- `windows 2025 Datacenter SQL2022 Enterprise`
+- `windows 2025 Datacenter SQL2022 Standard`
+- `windows 2025 Datacenter SQL2022 Web`
+- `windows 2025 Standard`
+- `windows 2025 Standard Core`
+- `windows 2025 Standard SQL2022 Standard`
+- `windows 2025 Standard SQL2022 Web`
+
+### `dedicatedCloud.spla.KmsLicenseIncludingLegacyEnum`
+
+_Managed license identifiers (including legacy ones)_
+
+**Enum** (`enumType: string`):
+
+- `OVHcloud managed`
+- `unknown or unsupported license`
+- `unlicensed windows guestos`
+- `windows 2008 R2 Datacenter`
+- `windows 2008 R2 Enterprise`
+- `windows 2008 R2 Standard`
+- `windows 2008 R2 Web`
+- `windows 2012 Datacenter`
+- `windows 2012 R2 Datacenter`
+- `windows 2012 R2 Standard`
+- `windows 2012 R2 Standard SQL2016 Standard`
+- `windows 2012 R2 Standard SQL2016 Web`
+- `windows 2012 Standard`
+- `windows 2016 Datacenter`
+- `windows 2016 Standard`
+- `windows 2016 Standard SQL2016 Standard`
+- `windows 2016 Standard SQL2016 Web`
+- `windows 2019 Datacenter`
+- `windows 2019 Datacenter Core`
+- `windows 2019 Standard`
+- `windows 2019 Standard Core`
+- `windows 2019 Standard SQL2019 Standard`
+- `windows 2019 Standard SQL2019 Web`
+- `windows 2019 Standard SQL2022 Standard`
+- `windows 2019 Standard SQL2022 Web`
+- `windows 2022 Datacenter`
+- `windows 2022 Datacenter Core`
+- `windows 2022 Datacenter SQL2019 Standard`
+- `windows 2022 Datacenter SQL2019 Web`
+- `windows 2022 Datacenter SQL2022 Standard`
+- `windows 2022 Datacenter SQL2022 Web`
+- `windows 2022 Standard`
+- `windows 2022 Standard Core`
+- `windows 2022 Standard SQL2019 Standard`
+- `windows 2022 Standard SQL2019 Web`
+- `windows 2022 Standard SQL2022 Standard`
+- `windows 2022 Standard SQL2022 Web`
+- `windows 2025 Datacenter`
+- `windows 2025 Datacenter Core`
+- `windows 2025 Datacenter SQL2022 Enterprise`
+- `windows 2025 Datacenter SQL2022 Standard`
+- `windows 2025 Datacenter SQL2022 Web`
+- `windows 2025 Standard`
+- `windows 2025 Standard Core`
+- `windows 2025 Standard SQL2022 Standard`
+- `windows 2025 Standard SQL2022 Web`
+
+### `dedicatedCloud.syslogForward.LogLevelEnum`
+
+_All possible log levels_
+
+**Enum** (`enumType: string`):
+
+- `alert`
+- `critical`
+- `emergency`
+- `error`
+- `info`
+- `notice`
+- `warning`
+
+### `dedicatedCloud.syslogForward.SourceTypeEnum`
+
+_Log possible sources_
+
+**Enum** (`enumType: string`):
+
+- `esxi`
+- `nsxtEdge`
+- `nsxtManager`
+- `nsxv`
+- `vcsa`
+
+### `dedicatedCloud.twoFAWhitelist`
+
+_Two factor authentication whitelisted network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cidrNetmask` | `long` | ❌ | ❌ | ✅ | IP netmask (CIDR notation) of the remote service |
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the trusted IP |
+| `id` | `long` | ❌ | ❌ | ✅ | Id of the trusted IP |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | IP address of the remote service |
+| `state` | `dedicatedCloud.TwoFAWhitelistStateEnum` | ❌ | ❌ | ✅ | State of the whitelist |
+
+### `dedicatedCloud.user.ActivationStateEnum`
+
+_All activation states a Dedicated Cloud User can have_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `disabling`
+- `enabled`
+- `enabling`
+- `toDisable`
+- `toEnable`
+
+### `dedicatedCloud.user.IdentityProviderTypeEnum`
+
+_The type of the identity provider_
+
+**Enum** (`enumType: string`):
+
+- `federation`
+- `iam`
+
+### `dedicatedCloud.user.StateEnum`
+
+_All states a Dedicated Cloud User can be in_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleting`
+- `delivered`
+- `error`
+
+### `dedicatedCloud.user.TypeEnum`
+
+_The type of the user_
+
+**Enum** (`enumType: string`):
+
+- `group`
+- `user`
+
+### `dedicatedCloud.vcenter`
+
+_A structure describing the vCenter available upgrade for your Dedicated Cloud_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currentVersion` | `dedicatedCloud.Version` | ❌ | ❌ | ❌ | Current vCenter version |
+| `lastMajor` | `dedicatedCloud.Version` | ❌ | ❌ | ❌ | Last major vCenter version |
+| `lastMinor` | `dedicatedCloud.Version` | ❌ | ❌ | ❌ | Last minor vCenter version |
+
+### `dedicatedCloud.vendor.OvhId`
+
+_Representation of a Vendor object in OVH API_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenterId` | `long` | ❌ | ✅ | ❌ | Datacenter id |
+| `filerId` | `long` | ❌ | ✅ | ❌ | Filer id |
+| `hostId` | `long` | ❌ | ✅ | ❌ | Host id |
+| `vmId` | `long` | ❌ | ✅ | ❌ | Vm id |
+
+### `dedicatedCloud.virtualDeviceConnectInfoStatus`
+
+_The connectable virtual device status_
+
+**Enum** (`enumType: string`):
+
+- `ok`
+- `recoverableError`
+- `unrecoverableError`
+- `untried`
+
+### `dedicatedCloud.virtualMachineCdrom`
+
+_A structure describing the cdrom configuration of a virtual machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `connected` | `boolean` | ❌ | ✅ | ❌ |  |
+| `iso` | `string` | ❌ | ✅ | ❌ |  |
+
+### `dedicatedCloud.virtualMachineFaultToleranceState`
+
+_The fault tolerance state of the virtual machine_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+- `needSecondary`
+- `notConfigured`
+- `running`
+- `starting`
+
+### `dedicatedCloud.virtualMachineLicensingSummary`
+
+_A structure describing the licensing of a virtual machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `guestOsFamily` | `string` | ❌ | ✅ | ❌ | Guest Operating System reported by VMware tools |
+| `license` | `dedicatedCloud.spla.KmsLicenseIncludingLegacyEnum` | ❌ | ❌ | ❌ | Attached SPLA licensing |
+| `moRef` | `string` | ❌ | ❌ | ❌ | VMware Managed object Reference identifier |
+| `name` | `string` | ❌ | ❌ | ❌ | Virtual machine name |
+| `vmId` | `long` | ❌ | ❌ | ❌ | Virtual machine identifier |
+
+### `dedicatedCloud.virtualMachinePowerState`
+
+_The power state of the virtual machine_
+
+**Enum** (`enumType: string`):
+
+- `deleted`
+- `poweredOff`
+- `poweredOn`
+- `suspended`
+
+### `dedicatedCloud.vlan.StateEnum`
+
+_All states a Dedicated Cloud Vlan can be in_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `delivered`
+- `disabled`
+- `error`
+- `removing`
+- `reserved`
+
+### `dedicatedCloud.vlan.TypeEnum`
+
+_This Dedicated Cloud vlan type_
+
+**Enum** (`enumType: string`):
+
+- `admin`
+- `free`
+- `paid`
+
+### `dedicatedCloud.vmFiler`
+
+_A structure describing filers of a the virtual machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `committed` | `double` | ❌ | ❌ | ❌ |  |
+| `disks` | `dedicatedCloud.vmFilerDisk[]` | ❌ | ❌ | ❌ |  |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.vmFilerDisk`
+
+_A structure describing filer disks of a the virtual machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `capacity` | `double` | ❌ | ❌ | ❌ |  |
+| `id` | `string` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.vmNetwork`
+
+_A structure describing the network of a the virtual machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowGuestControl` | `boolean` | ❌ | ❌ | ❌ |  |
+| `backing` | `dedicatedCloud.vmNetworkBacking` | ❌ | ❌ | ❌ |  |
+| `connected` | `boolean` | ❌ | ❌ | ❌ |  |
+| `controler` | `string` | ❌ | ❌ | ❌ |  |
+| `label` | `string` | ❌ | ❌ | ❌ |  |
+| `macAddress` | `string` | ❌ | ❌ | ❌ |  |
+| `startConnected` | `boolean` | ❌ | ❌ | ❌ |  |
+| `status` | `dedicatedCloud.virtualDeviceConnectInfoStatus` | ❌ | ❌ | ❌ |  |
+
+### `dedicatedCloud.vmNetworkBacking`
+
+_A structure describing the backing network of a the virtual machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `carpState` | `string` | ❌ | ✅ | ❌ |  |
+| `deviceName` | `string` | ❌ | ✅ | ❌ |  |
+| `portGroupKey` | `string` | ❌ | ✅ | ❌ |  |
+| `portGroupName` | `string` | ❌ | ✅ | ❌ |  |
+| `portKey` | `string` | ❌ | ✅ | ❌ |  |
+| `portKeySecurityPolicy` | `dedicatedCloud.DvsSecurityPolicy` | ❌ | ✅ | ❌ |  |
+| `switchUuid` | `string` | ❌ | ✅ | ❌ |  |
+| `type` | `dedicatedCloud.vmNetworkBackingTypeEnum` | ❌ | ❌ | ❌ |  |
+| `useAutoDetect` | `boolean` | ❌ | ✅ | ❌ |  |
+| `valueMoref` | `string` | ❌ | ✅ | ❌ |  |
+
+### `dedicatedCloud.vmNetworkBackingTypeEnum`
+
+_The type of the network backing_
+
+**Enum** (`enumType: string`):
+
+- `DVS`
+- `VSS`
+
+### `dedicatedCloud.vmwareBoolPolicy`
+
+_A structure describing the vmware bool policy data object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `inherited` | `boolean` | ❌ | ❌ | ❌ |  |
+| `value` | `boolean` | ❌ | ❌ | ❌ |  |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `nichandle.CountryEnum`
+
+_Countries a nichandle can choose_
+
+**Enum** (`enumType: string`):
+
+- `AC`
+- `AD`
+- `AE`
+- `AF`
+- `AG`
+- `AI`
+- `AL`
+- `AM`
+- `AO`
+- `AQ`
+- `AR`
+- `AS`
+- `AT`
+- `AU`
+- `AW`
+- `AX`
+- `AZ`
+- `BA`
+- `BB`
+- `BD`
+- `BE`
+- `BF`
+- `BG`
+- `BH`
+- `BI`
+- `BJ`
+- `BL`
+- `BM`
+- `BN`
+- `BO`
+- `BQ`
+- `BR`
+- `BS`
+- `BT`
+- `BW`
+- `BY`
+- `BZ`
+- `CA`
+- `CC`
+- `CD`
+- `CF`
+- `CG`
+- `CH`
+- `CI`
+- `CK`
+- `CL`
+- `CM`
+- `CN`
+- `CO`
+- `CR`
+- `CU`
+- `CV`
+- `CW`
+- `CX`
+- `CY`
+- `CZ`
+- `DE`
+- `DG`
+- `DJ`
+- `DK`
+- `DM`
+- `DO`
+- `DZ`
+- `EA`
+- `EC`
+- `EE`
+- `EG`
+- `EH`
+- `ER`
+- `ES`
+- `ET`
+- `FI`
+- `FJ`
+- `FK`
+- `FM`
+- `FO`
+- `FR`
+- `GA`
+- `GB`
+- `GD`
+- `GE`
+- `GF`
+- `GG`
+- `GH`
+- `GI`
+- `GL`
+- `GM`
+- `GN`
+- `GP`
+- `GQ`
+- `GR`
+- `GS`
+- `GT`
+- `GU`
+- `GW`
+- `GY`
+- `HK`
+- `HN`
+- `HR`
+- `HT`
+- `HU`
+- `IC`
+- `ID`
+- `IE`
+- `IL`
+- `IM`
+- `IN`
+- `IO`
+- `IQ`
+- `IR`
+- `IS`
+- `IT`
+- `JE`
+- `JM`
+- `JO`
+- `JP`
+- `KE`
+- `KG`
+- `KH`
+- `KI`
+- `KM`
+- `KN`
+- `KP`
+- `KR`
+- `KW`
+- `KY`
+- `KZ`
+- `LA`
+- `LB`
+- `LC`
+- `LI`
+- `LK`
+- `LR`
+- `LS`
+- `LT`
+- `LU`
+- `LV`
+- `LY`
+- `MA`
+- `MC`
+- `MD`
+- `ME`
+- `MF`
+- `MG`
+- `MH`
+- `MK`
+- `ML`
+- `MM`
+- `MN`
+- `MO`
+- `MP`
+- `MQ`
+- `MR`
+- `MS`
+- `MT`
+- `MU`
+- `MV`
+- `MW`
+- `MX`
+- `MY`
+- `MZ`
+- `NA`
+- `NC`
+- `NE`
+- `NF`
+- `NG`
+- `NI`
+- `NL`
+- `NO`
+- `NP`
+- `NR`
+- `NU`
+- `NZ`
+- `OM`
+- `PA`
+- `PE`
+- `PF`
+- `PG`
+- `PH`
+- `PK`
+- `PL`
+- `PM`
+- `PN`
+- `PR`
+- `PS`
+- `PT`
+- `PW`
+- `PY`
+- `QA`
+- `RE`
+- `RO`
+- `RS`
+- `RU`
+- `RW`
+- `SA`
+- `SB`
+- `SC`
+- `SD`
+- `SE`
+- `SG`
+- `SH`
+- `SI`
+- `SJ`
+- `SK`
+- `SL`
+- `SM`
+- `SN`
+- `SO`
+- `SR`
+- `SS`
+- `ST`
+- `SV`
+- `SX`
+- `SY`
+- `SZ`
+- `TA`
+- `TC`
+- `TD`
+- `TF`
+- `TG`
+- `TH`
+- `TJ`
+- `TK`
+- `TL`
+- `TM`
+- `TN`
+- `TO`
+- `TR`
+- `TT`
+- `TV`
+- `TW`
+- `TZ`
+- `UA`
+- `UG`
+- `UM`
+- `UNKNOWN`
+- `US`
+- `UY`
+- `UZ`
+- `VA`
+- `VC`
+- `VE`
+- `VG`
+- `VI`
+- `VN`
+- `VU`
+- `WF`
+- `WS`
+- `XK`
+- `YE`
+- `YT`
+- `ZA`
+- `ZM`
+- `ZW`
+
+### `order.CurrencyCodeEnum`
+
+**Enum** (`enumType: string`):
+
+- `AUD`
+- `CAD`
+- `CZK`
+- `EUR`
+- `GBP`
+- `INR`
+- `LTL`
+- `MAD`
+- `N/A`
+- `PLN`
+- `SGD`
+- `TND`
+- `USD`
+- `XOF`
+- `points`
+
+### `order.Price`
+
+_Price with it's currency and textual representation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currencyCode` | `order.CurrencyCodeEnum` | ❌ | ❌ | ❌ |  |
+| `text` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `double` | ❌ | ❌ | ❌ |  |
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `vrack.Task`
+
+_vrack tasks_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `function` | `string` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ |  |
+| `orderId` | `long` | ❌ | ✅ | ✅ |  |
+| `serviceName` | `string` | ❌ | ✅ | ✅ |  |
+| `status` | `vrack.TaskStatusEnum` | ❌ | ❌ | ✅ | Task status |
+| `targetDomain` | `string` | ❌ | ✅ | ✅ |  |
+| `todoDate` | `datetime` | ❌ | ✅ | ✅ |  |
+
+### `vrack.TaskStatusEnum`
+
+_All states a vRack Task can be in_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `init`
+- `todo`
+
+### `vrack.dedicatedCloud`
+
+_VMware on OVHcloud vRack link_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dedicatedCloud` | `string` | ❌ | ❌ | ✅ | your dedicated cloud service |
+| `vlanId` | `long` | ❌ | ✅ | ✅ | Dedicated cloud vlanId used |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
 
 

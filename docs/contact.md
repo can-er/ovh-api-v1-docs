@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **2** — Operations: **2**
+> Routes: **2** — Operations: **2**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `2d6269e8c93c3385`
 
 ---
 
@@ -19,7 +21,7 @@
 
 _Get form characteristics_
 
-### 🟢 GET `GET` — Get form characteristics
+### 🟢 GET — Get form characteristics
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -34,7 +36,7 @@ _Get form characteristics_
 
 _Send form following characteristics of /contact/form_
 
-### 🟡 POST `POST` — Send form following characteristics of /contact/form
+### 🟡 POST — Send form following characteristics of /contact/form
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -48,5 +50,42 @@ _Send form following characteristics of /contact/form_
 | `form` | `complexType.SafeKeyValue<string>[]` | body | ✅ | Form informations |
 | `type` | `string` | body | ✅ | Form type |
 
+
+---
+
+## Models
+
+### `complexType.SafeKeyValue<T>`
+
+_Key and value, with proper key strings_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `contact.FormCharacteristic`
+
+_Form characteristics_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `keys` | `contact.KeyFormCharacteristic[]` | ❌ | ❌ | ❌ | Form keys to send |
+| `type` | `string` | ❌ | ❌ | ❌ | Form type |
+
+### `contact.KeyFormCharacteristic`
+
+_Form key description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ❌ | ❌ | ❌ | Key name |
+| `required` | `boolean` | ❌ | ❌ | ❌ | Key required or not |
 
 

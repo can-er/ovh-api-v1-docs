@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **33** — Operations: **43**
+> Routes: **33** — Operations: **43**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `cba891298e1271e9`
 
 ---
 
@@ -50,7 +52,7 @@
 
 _Operations about the HORIZONVIEW service_
 
-### 🟢 GET `GET` — Horizon View as a Service
+### 🟢 GET — Horizon View as a Service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -73,7 +75,7 @@ _Operations about the HORIZONVIEW service_
 
 _Cloud Desktop Infrastructure Datacenter_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -96,7 +98,7 @@ _Cloud Desktop Infrastructure Datacenter_
 
 _List the horizonView.Pool objects_
 
-### 🟢 GET `GET` — Pool associated with this Datacenter
+### 🟢 GET — Pool associated with this Datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -114,7 +116,7 @@ _List the horizonView.Pool objects_
 
 ---
 
-### 🟡 POST `POST` — Add new access point to create a new network
+### 🟡 POST — Add new access point to create a new network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -141,7 +143,7 @@ _List the horizonView.Pool objects_
 
 _All informations about access point_
 
-### 🔴 DELETE `DELETE` — Delete this access point 
+### 🔴 DELETE — Delete this access point 
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -160,7 +162,7 @@ _All informations about access point_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -184,7 +186,7 @@ _All informations about access point_
 
 _changeSessionTimeout operations_
 
-### 🟡 POST `POST` — Manage your session Timeout on Unified Access Gateway
+### 🟡 POST — Manage your session Timeout on Unified Access Gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -210,7 +212,7 @@ _changeSessionTimeout operations_
 
 _List the horizonView.CustomerNetworkPool objects_
 
-### 🟢 GET `GET` — You can reach from the Desktops your private network
+### 🟢 GET — You can reach from the Desktops your private network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -229,7 +231,7 @@ _List the horizonView.CustomerNetworkPool objects_
 
 ---
 
-### 🟡 POST `POST` — Add a new network 
+### 🟡 POST — Add a new network 
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -254,7 +256,7 @@ _List the horizonView.CustomerNetworkPool objects_
 
 _You can reach from your virtual desktops, your customer network _
 
-### 🔴 DELETE `DELETE` — Delete this Customer Network
+### 🔴 DELETE — Delete this Customer Network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -274,7 +276,7 @@ _You can reach from your virtual desktops, your customer network _
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -299,7 +301,7 @@ _You can reach from your virtual desktops, your customer network _
 
 _disableTwoFA operations_
 
-### 🟡 POST `POST` — Disable two factor authentication on your pool
+### 🟡 POST — Disable two factor authentication on your pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -323,7 +325,7 @@ _disableTwoFA operations_
 
 _disableWindowsUsernameOption operations_
 
-### 🟡 POST `POST` — Disable windows Username option on Unified Access Gateway
+### 🟡 POST — Disable windows Username option on Unified Access Gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -348,7 +350,7 @@ _disableWindowsUsernameOption operations_
 
 _enableTwoFA operations_
 
-### 🟡 POST `POST` — Enable two factor authentication on your pool
+### 🟡 POST — Enable two factor authentication on your pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -375,7 +377,7 @@ _enableTwoFA operations_
 
 _enableWindowsUsernameOption operations_
 
-### 🟡 POST `POST` — Enable windows Username option on Unified Access Gateway
+### 🟡 POST — Enable windows Username option on Unified Access Gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -400,7 +402,7 @@ _enableWindowsUsernameOption operations_
 
 _Confirm service termination_
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -427,7 +429,7 @@ _Confirm service termination_
 
 _List the horizonView.CustomerNetwork objects_
 
-### 🟢 GET `GET` — You can reach from the Desktops your private network
+### 🟢 GET — You can reach from the Desktops your private network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -445,7 +447,7 @@ _List the horizonView.CustomerNetwork objects_
 
 ---
 
-### 🟡 POST `POST` — Add a new network 
+### 🟡 POST — Add a new network 
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -470,7 +472,7 @@ _List the horizonView.CustomerNetwork objects_
 
 _You can reach from your virtual desktops, your customer network _
 
-### 🔴 DELETE `DELETE` — Delete this Customer Network
+### 🔴 DELETE — Delete this Customer Network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -489,7 +491,7 @@ _You can reach from your virtual desktops, your customer network _
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -513,7 +515,7 @@ _You can reach from your virtual desktops, your customer network _
 
 _Horizon View as a Service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -536,7 +538,7 @@ _Horizon View as a Service_
 
 _List the horizonView.CustomerUser objects_
 
-### 🟢 GET `GET` — Account to access to your pool
+### 🟢 GET — Account to access to your pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -554,7 +556,7 @@ _List the horizonView.CustomerUser objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new customer user 
+### 🟡 POST — Create a new customer user 
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -580,7 +582,7 @@ _List the horizonView.CustomerUser objects_
 
 _Horizon As A Service Customer  User_
 
-### 🔴 DELETE `DELETE` — Delete this Customer User
+### 🔴 DELETE — Delete this Customer User
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -599,7 +601,7 @@ _Horizon As A Service Customer  User_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -623,7 +625,7 @@ _Horizon As A Service Customer  User_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change Horizon View Customer  user password
+### 🟡 POST — Change Horizon View Customer  user password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -648,7 +650,7 @@ _changePassword operations_
 
 _disableStorageAccelerator operations_
 
-### 🟡 POST `POST` — Disable the View Storage Accelerator option on VCenter
+### 🟡 POST — Disable the View Storage Accelerator option on VCenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -671,7 +673,7 @@ _disableStorageAccelerator operations_
 
 _enableStorageAccelerator operations_
 
-### 🟡 POST `POST` — Enable the View Storage Accelerator option on VCenter
+### 🟡 POST — Enable the View Storage Accelerator option on VCenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -694,7 +696,7 @@ _enableStorageAccelerator operations_
 
 _List the horizonView.Task objects_
 
-### 🟢 GET `GET` — Tasks associated with this Dedicated Horizon
+### 🟢 GET — Tasks associated with this Dedicated Horizon
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -718,7 +720,7 @@ _List the horizonView.Task objects_
 
 _Operation on a Horizon View component_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -742,7 +744,7 @@ _Operation on a Horizon View component_
 
 _Horizon As A Service User_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -765,7 +767,7 @@ _Horizon As A Service User_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change Horizon View user password
+### 🟡 POST — Change Horizon View user password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -789,7 +791,7 @@ _changePassword operations_
 
 _changeProperties operations_
 
-### 🟡 POST `POST` — Change horizon view user properties
+### 🟡 POST — Change horizon view user properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -813,7 +815,7 @@ _changeProperties operations_
 
 _List the horizonView.DomainTrust objects_
 
-### 🟢 GET `GET` — List all Active Directories linked to your CDI Active Directory
+### 🟢 GET — List all Active Directories linked to your CDI Active Directory
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -831,7 +833,7 @@ _List the horizonView.DomainTrust objects_
 
 ---
 
-### 🟡 POST `POST` — Link your Active Directory to your CDI Active Directory
+### 🟡 POST — Link your Active Directory to your CDI Active Directory
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -858,7 +860,7 @@ _List the horizonView.DomainTrust objects_
 
 _List all Active Directories linked to your CDI Active Directory_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -882,7 +884,7 @@ _List all Active Directories linked to your CDI Active Directory_
 
 _addChildDomain operations_
 
-### 🟡 POST `POST` — Add a child domain for this domain.
+### 🟡 POST — Add a child domain for this domain.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -910,7 +912,7 @@ _addChildDomain operations_
 
 _addDomainController operations_
 
-### 🟡 POST `POST` — Add a Domain Controller for this domain.
+### 🟡 POST — Add a Domain Controller for this domain.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -936,7 +938,7 @@ _addDomainController operations_
 
 _addDomainUserOnComposer operations_
 
-### 🟡 POST `POST` — Add a domain user to add your desktop in your Active Directory
+### 🟡 POST — Add a domain user to add your desktop in your Active Directory
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -963,7 +965,7 @@ _addDomainUserOnComposer operations_
 
 _createTrust operations_
 
-### 🟡 POST `POST` — Change Horizon View user password
+### 🟡 POST — Change Horizon View user password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -989,7 +991,7 @@ _createTrust operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1007,7 +1009,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1031,7 +1033,7 @@ _Details about a Service_
 
 _Ask for the termination of your service. Admin contact of this service will receive a termination token in order to confirm its termination with /confirmTermination endpoint._
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1046,5 +1048,362 @@ _Ask for the termination of your service. Admin contact of this service will rec
 
 **IAM actions:** `horizonView:apiovh:terminate` (required)
 
+
+---
+
+## Models
+
+### `horizonView.AccessPointTypeEnum`
+
+_Access Point type the customer can deploy_
+
+**Enum** (`enumType: string`):
+
+- `privateAccessPoint`
+- `publicAccessPoint`
+
+### `horizonView.CustomerNetwork`
+
+_You can reach from your virtual desktops, your customer network _
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `customerNetworkId` | `long` | ❌ | ❌ | ✅ | Customer Network id |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of your network |
+| `network` | `string` | ❌ | ❌ | ✅ | Customer network |
+
+### `horizonView.CustomerNetworkPool`
+
+_You can reach from your virtual desktops, your customer network _
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `customerNetworkId` | `long` | ❌ | ❌ | ✅ | Customer Network id |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of your network |
+| `network` | `string` | ❌ | ❌ | ✅ | Customer network |
+
+### `horizonView.CustomerUser`
+
+_Horizon As A Service Customer  User_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `email` | `string` | ❌ | ✅ | ✅ | Email of your HaaS User |
+| `id` | `long` | ❌ | ❌ | ✅ | Customer id |
+| `username` | `string` | ❌ | ❌ | ✅ | Customer username of your HaaS User |
+
+### `horizonView.Datacenter`
+
+_Cloud Desktop Infrastructure Datacenter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeDirectoryIP` | `ip` | ❌ | ❌ | ✅ | IP of the VDI Active Directory |
+| `adminDomain` | `string` | ❌ | ❌ | ✅ | Domain of the admin infrastructure |
+| `adminNetworkNextHop` | `string` | ❌ | ❌ | ✅ | Next hop to contact the private admin network |
+| `adminPrivateNetwork` | `ipBlock` | ❌ | ❌ | ✅ | Private network of the admin infrastructure |
+| `customerIntercoIP` | `ip` | ❌ | ❌ | ✅ | Customer interco IP allows you to communicate between your private infrastructure and your CDI infrastructure throw the vrack. |
+| `customerIntercoMask` | `ip` | ❌ | ❌ | ✅ | Customer interco netmask allows you to communicate between your private infrastructure and your CDI infrastructure throw the vrack. |
+| `customerIntercoVlanId` | `long` | ❌ | ❌ | ✅ | Customer interco vlan allows you to communicate between your private infrastructure and your CDI infrastructure throw the vrack. |
+| `datacenterId` | `long` | ❌ | ❌ | ✅ | Datacenter ids |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the datacenter |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Domain of your Horizon |
+
+### `horizonView.DatacenterWithIAM`
+
+_Cloud Desktop Infrastructure Datacenter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeDirectoryIP` | `ip` | ❌ | ❌ | ✅ | IP of the VDI Active Directory |
+| `adminDomain` | `string` | ❌ | ❌ | ✅ | Domain of the admin infrastructure |
+| `adminNetworkNextHop` | `string` | ❌ | ❌ | ✅ | Next hop to contact the private admin network |
+| `adminPrivateNetwork` | `ipBlock` | ❌ | ❌ | ✅ | Private network of the admin infrastructure |
+| `customerIntercoIP` | `ip` | ❌ | ❌ | ✅ | Customer interco IP allows you to communicate between your private infrastructure and your CDI infrastructure throw the vrack. |
+| `customerIntercoMask` | `ip` | ❌ | ❌ | ✅ | Customer interco netmask allows you to communicate between your private infrastructure and your CDI infrastructure throw the vrack. |
+| `customerIntercoVlanId` | `long` | ❌ | ❌ | ✅ | Customer interco vlan allows you to communicate between your private infrastructure and your CDI infrastructure throw the vrack. |
+| `datacenterId` | `long` | ❌ | ❌ | ✅ | Datacenter ids |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the datacenter |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Domain of your Horizon |
+
+### `horizonView.DedicatedHorizon`
+
+_Horizon View as a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `masterZone` | `horizonView.Zone` | ❌ | ❌ | ✅ | The location of your administration servers in our datacenter |
+| `privateCloudName` | `string` | ❌ | ❌ | ✅ | Your Horizon Dedicated Cloud  |
+| `privateCloudZone` | `horizonView.Zone` | ❌ | ❌ | ✅ | The location of your datacenter |
+| `publicUrl` | `string` | ❌ | ❌ | ✅ | Url of your Dedicated Horizon |
+| `state` | `horizonView.StateEnum` | ❌ | ❌ | ✅ | Current state of your Dedicated Horizon |
+| `storageAccelerator` | `boolean` | ❌ | ❌ | ✅ | View Storage Accelerator for Vcenter |
+| `version` | `string` | ❌ | ❌ | ✅ | Version of your Dedicated Horizon |
+
+### `horizonView.DomainTrust`
+
+_List all Active Directories linked to your CDI Active Directory_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeDirectoryIP` | `ip` | ❌ | ❌ | ✅ | IP of your Active Directory |
+| `dns1` | `ip` | ❌ | ✅ | ✅ | IP of your first DNS |
+| `dns2` | `ip` | ❌ | ✅ | ✅ | IP of your second DNS |
+| `domain` | `string` | ❌ | ❌ | ✅ | Name of your private domain |
+| `domainTrustId` | `long` | ❌ | ❌ | ✅ | Domain trust id |
+
+### `horizonView.Pool`
+
+_All informations about access point_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessPointId` | `long` | ❌ | ❌ | ✅ | Pool id |
+| `dhcpNetmask` | `ip` | ❌ | ❌ | ✅ | DHCP netmask in this port group |
+| `dhcpNetwork` | `ip` | ❌ | ❌ | ✅ | DHCP network in this port group |
+| `externalUrl` | `string` | ❌ | ❌ | ✅ | External url of your access point |
+| `intercoNextHop` | `ip` | ❌ | ✅ | ✅ | Next hop IP to reach virtual desktops network for public Access Point |
+| `intercoPrivateNextHop` | `ip` | ❌ | ✅ | ✅ | Next hop IP to reach virtual desktops network for private Access Point |
+| `portGroupId` | `string` | ❌ | ❌ | ✅ | Port group id |
+| `state` | `horizonView.StateEnum` | ❌ | ❌ | ✅ | Network state |
+| `twoFA` | `boolean` | ❌ | ❌ | ✅ | Two factor authentication |
+| `type` | `horizonView.PoolType` | ❌ | ❌ | ✅ | Pool type |
+
+### `horizonView.PoolType`
+
+_Pool type the customer can deploy_
+
+**Enum** (`enumType: string`):
+
+- `hybridPool`
+- `privatePool`
+- `publicPool`
+
+### `horizonView.StateEnum`
+
+_All states a dedicated horizon  can be in_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `creating`
+- `delivered`
+- `disabled`
+- `error`
+- `reserved`
+
+### `horizonView.Task`
+
+_Operation on a Horizon View component_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ✅ | Current progress description |
+| `lastModificationDate` | `datetime` | ❌ | ✅ | ✅ | Task last modification date |
+| `name` | `string` | ❌ | ❌ | ✅ | Task name |
+| `progress` | `long` | ❌ | ❌ | ✅ | Current progress |
+| `state` | `horizonView.TaskStateEnum` | ❌ | ❌ | ✅ | Current Task state |
+| `taskId` | `long` | ❌ | ❌ | ✅ | Task id |
+
+### `horizonView.TaskStateEnum`
+
+_All states a Horizon View  Task can be in_
+
+**Enum** (`enumType: string`):
+
+- `canceled`
+- `doing`
+- `done`
+- `error`
+- `fixing`
+- `toCancel`
+- `toCreate`
+- `todo`
+- `unknown`
+- `waitingForChilds`
+- `waitingTodo`
+
+### `horizonView.User`
+
+_Horizon As A Service User_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `username` | `string` | ❌ | ❌ | ✅ | Username of your HaaS User |
+
+### `horizonView.Zone`
+
+_All zones a Cloud Desktop Infrastructure can be in_
+
+**Enum** (`enumType: string`):
+
+- `Beauharnois`
+- `Roubaix`
+- `Strasbourg`
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

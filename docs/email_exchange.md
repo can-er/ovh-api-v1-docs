@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **106** — Operations: **193**
+> Routes: **106** — Operations: **193**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `bbd7c6194aefc424`
 
 ---
 
@@ -123,7 +125,7 @@
 
 _Operations about the MSSERVICES service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -140,7 +142,7 @@ _Operations about the MSSERVICES service_
 
 _Operations about the EXCHANGE service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -164,7 +166,7 @@ _Operations about the EXCHANGE service_
 
 _Exchange service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -183,7 +185,7 @@ _Exchange service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -208,7 +210,7 @@ _Exchange service_
 
 _List the email.exchange.Account objects_
 
-### 🟢 GET `GET` — Accounts associated to this exchange service
+### 🟢 GET — Accounts associated to this exchange service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -231,7 +233,7 @@ _List the email.exchange.Account objects_
 
 ---
 
-### 🟡 POST `POST` — Create new mailbox in exchange server
+### 🟡 POST — Create new mailbox in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -290,7 +292,7 @@ _List the email.exchange.Account objects_
 
 _Exchange mailbox_
 
-### 🔴 DELETE `DELETE` — Delete existing mailbox in exchange server
+### 🔴 DELETE — Delete existing mailbox in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -310,7 +312,7 @@ _Exchange mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -330,7 +332,7 @@ _Exchange mailbox_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -356,7 +358,7 @@ _Exchange mailbox_
 
 _List the email.exchange.exchangeAccountAlias objects_
 
-### 🟢 GET `GET` — Aliases associated to this mailbox
+### 🟢 GET — Aliases associated to this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -376,7 +378,7 @@ _List the email.exchange.exchangeAccountAlias objects_
 
 ---
 
-### 🟡 POST `POST` — Create new alias
+### 🟡 POST — Create new alias
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -402,7 +404,7 @@ _List the email.exchange.exchangeAccountAlias objects_
 
 _Aliases on this mailbox_
 
-### 🔴 DELETE `DELETE` — Delete existing alias
+### 🔴 DELETE — Delete existing alias
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -423,7 +425,7 @@ _Aliases on this mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -449,7 +451,7 @@ _Aliases on this mailbox_
 
 _Exchange Account Archive_
 
-### 🔴 DELETE `DELETE` — Delete existing archive mailbox
+### 🔴 DELETE — Delete existing archive mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -469,7 +471,7 @@ _Exchange Account Archive_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -489,7 +491,7 @@ _Exchange Account Archive_
 
 ---
 
-### 🟡 POST `POST` — Create new archive mailbox
+### 🟡 POST — Create new archive mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -510,7 +512,7 @@ _Exchange Account Archive_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -536,7 +538,7 @@ _Exchange Account Archive_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change mailbox password
+### 🟡 POST — Change mailbox password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -563,7 +565,7 @@ _changePassword operations_
 
 _Exchange Account Diagnosis_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -583,7 +585,7 @@ _Exchange Account Diagnosis_
 
 ---
 
-### 🟡 POST `POST` — Create new diagnosis request
+### 🟡 POST — Create new diagnosis request
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -609,7 +611,7 @@ _Exchange Account Diagnosis_
 
 _Export PST file request_
 
-### 🔴 DELETE `DELETE` — Remove request of PST file
+### 🔴 DELETE — Remove request of PST file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -629,7 +631,7 @@ _Export PST file request_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -649,7 +651,7 @@ _Export PST file request_
 
 ---
 
-### 🟡 POST `POST` — Request PST file for the account
+### 🟡 POST — Request PST file for the account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -674,7 +676,7 @@ _Export PST file request_
 
 _Export PST file url_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -694,7 +696,7 @@ _Export PST file url_
 
 ---
 
-### 🟡 POST `POST` — Generate temporary url to PST file
+### 🟡 POST — Generate temporary url to PST file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -719,7 +721,7 @@ _Export PST file url_
 
 _List the email.exchange.exchangeAccountFullAccess objects_
 
-### 🟢 GET `GET` — Full access granted users for this mailbox
+### 🟢 GET — Full access granted users for this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -739,7 +741,7 @@ _List the email.exchange.exchangeAccountFullAccess objects_
 
 ---
 
-### 🟡 POST `POST` — Allow full access to a user
+### 🟡 POST — Allow full access to a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -765,7 +767,7 @@ _List the email.exchange.exchangeAccountFullAccess objects_
 
 _Users having full access on this mailbox_
 
-### 🔴 DELETE `DELETE` — Revoke full access
+### 🔴 DELETE — Revoke full access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -786,7 +788,7 @@ _Users having full access on this mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -812,7 +814,7 @@ _Users having full access on this mailbox_
 
 _Outlook url_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -832,7 +834,7 @@ _Outlook url_
 
 ---
 
-### 🟡 POST `POST` — Generate outlook url
+### 🟡 POST — Generate outlook url
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -859,7 +861,7 @@ _Outlook url_
 
 _Get protocol status on that mailbox_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -879,7 +881,7 @@ _Get protocol status on that mailbox_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -905,7 +907,7 @@ _Get protocol status on that mailbox_
 
 _List the email.exchange.exchangeAccountSendAs objects_
 
-### 🟢 GET `GET` — Send as granted users for this mailbox
+### 🟢 GET — Send as granted users for this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -925,7 +927,7 @@ _List the email.exchange.exchangeAccountSendAs objects_
 
 ---
 
-### 🟡 POST `POST` — Allow another user to send mails from this mailbox
+### 🟡 POST — Allow another user to send mails from this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -951,7 +953,7 @@ _List the email.exchange.exchangeAccountSendAs objects_
 
 _Users authorized to send mails from this mailbox_
 
-### 🔴 DELETE `DELETE` — Delete allowed user for sendAs
+### 🔴 DELETE — Delete allowed user for sendAs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -972,7 +974,7 @@ _Users authorized to send mails from this mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -998,7 +1000,7 @@ _Users authorized to send mails from this mailbox_
 
 _List the email.exchange.exchangeAccountSendOnBehalfTo objects_
 
-### 🟢 GET `GET` — SendOnBehalfTo granted users for this mailbox
+### 🟢 GET — SendOnBehalfTo granted users for this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1018,7 +1020,7 @@ _List the email.exchange.exchangeAccountSendOnBehalfTo objects_
 
 ---
 
-### 🟡 POST `POST` — Allow another user to Send On Behalf To mails from this mailbox
+### 🟡 POST — Allow another user to Send On Behalf To mails from this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1044,7 +1046,7 @@ _List the email.exchange.exchangeAccountSendOnBehalfTo objects_
 
 _Get users authorized to Send On Behalf To mails from this mailbox_
 
-### 🔴 DELETE `DELETE` — Delete allowed user for SendOnBehalfTo
+### 🔴 DELETE — Delete allowed user for SendOnBehalfTo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1065,7 +1067,7 @@ _Get users authorized to Send On Behalf To mails from this mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1091,7 +1093,7 @@ _Get users authorized to Send On Behalf To mails from this mailbox_
 
 _List the email.exchange.Task objects_
 
-### 🟢 GET `GET` — Pending task for this mailbox
+### 🟢 GET — Pending task for this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1116,7 +1118,7 @@ _List the email.exchange.Task objects_
 
 _Exchange task details_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1142,7 +1144,7 @@ _Exchange task details_
 
 _terminate operations_
 
-### 🟡 POST `POST` — Terminate account at expiration date
+### 🟡 POST — Terminate account at expiration date
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1167,7 +1169,7 @@ _terminate operations_
 
 _activateSharepoint operations_
 
-### 🟡 POST `POST` — Activate Sharepoint infra connected to this exchange service
+### 🟡 POST — Activate Sharepoint infra connected to this exchange service
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1193,7 +1195,7 @@ _activateSharepoint operations_
 
 _List the email.exchange.exchangeServiceAuthenticationPolicy objects_
 
-### 🟢 GET `GET` — Authentication policy for protocols
+### 🟢 GET — Authentication policy for protocols
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1231,7 +1233,7 @@ _List the email.exchange.exchangeServiceAuthenticationPolicy objects_
 
 _Get authentication policy for protocols_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1256,7 +1258,7 @@ _Get authentication policy for protocols_
 
 _List the email.exchange.exchangeServiceAuthorizedIp objects_
 
-### 🟢 GET `GET` — Authorized IPs for POP(s),IMAP(s), SMTP(s) and HTTP(s)
+### 🟢 GET — Authorized IPs for POP(s),IMAP(s), SMTP(s) and HTTP(s)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1275,7 +1277,7 @@ _List the email.exchange.exchangeServiceAuthorizedIp objects_
 
 ---
 
-### 🟡 POST `POST` — Authorize new IP to access the service
+### 🟡 POST — Authorize new IP to access the service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1308,7 +1310,7 @@ _List the email.exchange.exchangeServiceAuthorizedIp objects_
 
 _Get authorized IPs for POP(s),IMAP(s), SMTP(s) and HTTP(s)_
 
-### 🔴 DELETE `DELETE` — Delete authorized IP
+### 🔴 DELETE — Delete authorized IP
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1328,7 +1330,7 @@ _Get authorized IPs for POP(s),IMAP(s), SMTP(s) and HTTP(s)_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1348,7 +1350,7 @@ _Get authorized IPs for POP(s),IMAP(s), SMTP(s) and HTTP(s)_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1374,7 +1376,7 @@ _Get authorized IPs for POP(s),IMAP(s), SMTP(s) and HTTP(s)_
 
 _changeHostname operations_
 
-### 🟡 POST `POST` — Setting SSL hostname for Exchange private offer
+### 🟡 POST — Setting SSL hostname for Exchange private offer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1402,7 +1404,7 @@ _changeHostname operations_
 
 _List the email.exchange.exchangeCustomIsolation objects_
 
-### 🟢 GET `GET` — custom isolation for mailbox
+### 🟢 GET — custom isolation for mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1424,7 +1426,7 @@ _List the email.exchange.exchangeCustomIsolation objects_
 
 ---
 
-### 🟡 POST `POST` — Create new custom isolation for mailbox
+### 🟡 POST — Create new custom isolation for mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1451,7 +1453,7 @@ _List the email.exchange.exchangeCustomIsolation objects_
 
 _custom exchange isolation_
 
-### 🔴 DELETE `DELETE` — Delete existing custom isolation for mailbox
+### 🔴 DELETE — Delete existing custom isolation for mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1471,7 +1473,7 @@ _custom exchange isolation_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1496,7 +1498,7 @@ _custom exchange isolation_
 
 _dcvEmails operations_
 
-### 🟢 GET `GET` — Get DCV emails if your ssl will expire in next 30 days
+### 🟢 GET — Get DCV emails if your ssl will expire in next 30 days
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1520,7 +1522,7 @@ _dcvEmails operations_
 
 _List the email.exchange.exchangeServiceDevice objects_
 
-### 🟢 GET `GET` — List of your ActiveSync devices registered on this Exchange service
+### 🟢 GET — List of your ActiveSync devices registered on this Exchange service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1547,7 +1549,7 @@ _List the email.exchange.exchangeServiceDevice objects_
 
 _Get the list of your ActiveSync devices registered on this Exchange service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1567,7 +1569,7 @@ _Get the list of your ActiveSync devices registered on this Exchange service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1593,7 +1595,7 @@ _Get the list of your ActiveSync devices registered on this Exchange service_
 
 _clearDevice operations_
 
-### 🟡 POST `POST` — Executes a factory reset on the device
+### 🟡 POST — Executes a factory reset on the device
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1618,7 +1620,7 @@ _clearDevice operations_
 
 _List the email.exchange.Domain objects_
 
-### 🟢 GET `GET` — Domains associated to this service
+### 🟢 GET — Domains associated to this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1639,7 +1641,7 @@ _List the email.exchange.Domain objects_
 
 ---
 
-### 🟡 POST `POST` — Create new domain in exchange services
+### 🟡 POST — Create new domain in exchange services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1675,7 +1677,7 @@ _List the email.exchange.Domain objects_
 
 _Exchange domain_
 
-### 🔴 DELETE `DELETE` — Delete existing domain in exchange services
+### 🔴 DELETE — Delete existing domain in exchange services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1695,7 +1697,7 @@ _Exchange domain_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1715,7 +1717,7 @@ _Exchange domain_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1741,7 +1743,7 @@ _Exchange domain_
 
 _changeDefaultSBR operations_
 
-### 🟠 PUT `PUT` — Change default values of SBR used for all new created account on this domain
+### 🟠 PUT — Change default values of SBR used for all new created account on this domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1768,7 +1770,7 @@ _changeDefaultSBR operations_
 
 _Exchange organization disclaimer_
 
-### 🔴 DELETE `DELETE` — Delete existing organization disclaimer
+### 🔴 DELETE — Delete existing organization disclaimer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1788,7 +1790,7 @@ _Exchange organization disclaimer_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1808,7 +1810,7 @@ _Exchange organization disclaimer_
 
 ---
 
-### 🟡 POST `POST` — Create organization disclaimer of each email
+### 🟡 POST — Create organization disclaimer of each email
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1830,7 +1832,7 @@ _Exchange organization disclaimer_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1856,7 +1858,7 @@ _Exchange organization disclaimer_
 
 _disclaimerAttribute operations_
 
-### 🟢 GET `GET` — Get diclaimer attributes to substitute with Active Directory properties
+### 🟢 GET — Get diclaimer attributes to substitute with Active Directory properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1881,7 +1883,7 @@ _disclaimerAttribute operations_
 
 _List the email.exchange.dkim objects_
 
-### 🟢 GET `GET` — dkim associated to this domain
+### 🟢 GET — dkim associated to this domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1901,7 +1903,7 @@ _List the email.exchange.dkim objects_
 
 ---
 
-### 🟡 POST `POST` — Create DKIM selector on this domain
+### 🟡 POST — Create DKIM selector on this domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1929,7 +1931,7 @@ _List the email.exchange.dkim objects_
 
 _DKIM for a domain_
 
-### 🔴 DELETE `DELETE` — Delete DKIM selector on this domain
+### 🔴 DELETE — Delete DKIM selector on this domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1950,7 +1952,7 @@ _DKIM for a domain_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1976,7 +1978,7 @@ _DKIM for a domain_
 
 _disable operations_
 
-### 🟡 POST `POST` — disable dkim signing
+### 🟡 POST — disable dkim signing
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2002,7 +2004,7 @@ _disable operations_
 
 _enable operations_
 
-### 🟡 POST `POST` — enable dkim signing or switch selector used
+### 🟡 POST — enable dkim signing or switch selector used
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2028,7 +2030,7 @@ _enable operations_
 
 _dkimSelector operations_
 
-### 🟢 GET `GET` — Get dkim selector list
+### 🟢 GET — Get dkim selector list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2053,7 +2055,7 @@ _dkimSelector operations_
 
 _List the email.exchange.exchangeExternalContact objects_
 
-### 🟢 GET `GET` — External contacts for this service
+### 🟢 GET — External contacts for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2077,7 +2079,7 @@ _List the email.exchange.exchangeExternalContact objects_
 
 ---
 
-### 🟡 POST `POST` — create new external contact
+### 🟡 POST — create new external contact
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2108,7 +2110,7 @@ _List the email.exchange.exchangeExternalContact objects_
 
 _External contact for this exchange service_
 
-### 🔴 DELETE `DELETE` — delete external contact
+### 🔴 DELETE — delete external contact
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2128,7 +2130,7 @@ _External contact for this exchange service_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2148,7 +2150,7 @@ _External contact for this exchange service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2174,7 +2176,7 @@ _External contact for this exchange service_
 
 _Get user that has an impersonation right on all that mailboxes_
 
-### 🔴 DELETE `DELETE` — Delete user with impersonation right on all mailboxes
+### 🔴 DELETE — Delete user with impersonation right on all mailboxes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2193,7 +2195,7 @@ _Get user that has an impersonation right on all that mailboxes_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2212,7 +2214,7 @@ _Get user that has an impersonation right on all that mailboxes_
 
 ---
 
-### 🟡 POST `POST` — Create user with impersonation right on all mailboxes
+### 🟡 POST — Create user with impersonation right on all mailboxes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2237,7 +2239,7 @@ _Get user that has an impersonation right on all that mailboxes_
 
 _changePassword operations_
 
-### 🟡 POST `POST` — Change user password
+### 🟡 POST — Change user password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2262,7 +2264,7 @@ _changePassword operations_
 
 _impersonationPasswordPolicy operations_
 
-### 🟢 GET `GET` — Get configuration of password policy linked to impersonated account
+### 🟢 GET — Get configuration of password policy linked to impersonated account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2286,7 +2288,7 @@ _impersonationPasswordPolicy operations_
 
 _license operations_
 
-### 🟢 GET `GET` — Get active licenses for specific period of time
+### 🟢 GET — Get active licenses for specific period of time
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2313,7 +2315,7 @@ _license operations_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2337,7 +2339,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2362,7 +2364,7 @@ _Access to available log kind_
 
 _Create a subscription from Email Exchange logs to a pre-existing LDP stream_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2382,7 +2384,7 @@ _Create a subscription from Email Exchange logs to a pre-existing LDP stream_
 
 ---
 
-### 🟡 POST `POST` — Create a subscription from logs to a pre-existing LDP stream
+### 🟡 POST — Create a subscription from logs to a pre-existing LDP stream
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2407,7 +2409,7 @@ _Create a subscription from Email Exchange logs to a pre-existing LDP stream_
 
 _Create a subscription from Email Exchange logs to a pre-existing LDP stream_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2427,7 +2429,7 @@ _Create a subscription from Email Exchange logs to a pre-existing LDP stream_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2452,7 +2454,7 @@ _Create a subscription from Email Exchange logs to a pre-existing LDP stream_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -2477,7 +2479,7 @@ _Generate a temporary URL to retrieve logs_
 
 _List the email.exchange.mailingList objects_
 
-### 🟢 GET `GET` — Mailing list for this service
+### 🟢 GET — Mailing list for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2498,7 +2500,7 @@ _List the email.exchange.mailingList objects_
 
 ---
 
-### 🟡 POST `POST` — Add mailing list
+### 🟡 POST — Add mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2531,7 +2533,7 @@ _List the email.exchange.mailingList objects_
 
 _Mailing list_
 
-### 🔴 DELETE `DELETE` — Delete mailing list
+### 🔴 DELETE — Delete mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2551,7 +2553,7 @@ _Mailing list_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2571,7 +2573,7 @@ _Mailing list_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2597,7 +2599,7 @@ _Mailing list_
 
 _List the email.exchange.exchangeMailingListAlias objects_
 
-### 🟢 GET `GET` — Aliases associated to this mailingList
+### 🟢 GET — Aliases associated to this mailingList
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2617,7 +2619,7 @@ _List the email.exchange.exchangeMailingListAlias objects_
 
 ---
 
-### 🟡 POST `POST` — Create new alias
+### 🟡 POST — Create new alias
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2643,7 +2645,7 @@ _List the email.exchange.exchangeMailingListAlias objects_
 
 _Get aliases on this mailingList_
 
-### 🔴 DELETE `DELETE` — Delete existing alias
+### 🔴 DELETE — Delete existing alias
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2664,7 +2666,7 @@ _Get aliases on this mailingList_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2690,7 +2692,7 @@ _Get aliases on this mailingList_
 
 _List the email.exchange.exchangeDistributionGroupManager objects_
 
-### 🟢 GET `GET` — Mailing list account manager
+### 🟢 GET — Mailing list account manager
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2710,7 +2712,7 @@ _List the email.exchange.exchangeDistributionGroupManager objects_
 
 ---
 
-### 🟡 POST `POST` — Add new mailing list manager
+### 🟡 POST — Add new mailing list manager
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2736,7 +2738,7 @@ _List the email.exchange.exchangeDistributionGroupManager objects_
 
 _Mailing list managers_
 
-### 🔴 DELETE `DELETE` — Delete mailing list manager
+### 🔴 DELETE — Delete mailing list manager
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2757,7 +2759,7 @@ _Mailing list managers_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2783,7 +2785,7 @@ _Mailing list managers_
 
 _List the email.exchange.exchangeDistributionGroupMember objects_
 
-### 🟢 GET `GET` — Mailing list account member
+### 🟢 GET — Mailing list account member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2803,7 +2805,7 @@ _List the email.exchange.exchangeDistributionGroupMember objects_
 
 ---
 
-### 🟡 POST `POST` — Add new mailing list member
+### 🟡 POST — Add new mailing list member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2830,7 +2832,7 @@ _List the email.exchange.exchangeDistributionGroupMember objects_
 
 _Mailing list members_
 
-### 🔴 DELETE `DELETE` — Delete mailing list member
+### 🔴 DELETE — Delete mailing list member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2851,7 +2853,7 @@ _Mailing list members_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2877,7 +2879,7 @@ _Mailing list members_
 
 _List the email.exchange.exchangeDistributionGroupMember objects_
 
-### 🟢 GET `GET` — Mailing list contact member
+### 🟢 GET — Mailing list contact member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2897,7 +2899,7 @@ _List the email.exchange.exchangeDistributionGroupMember objects_
 
 ---
 
-### 🟡 POST `POST` — Add new mailing list member
+### 🟡 POST — Add new mailing list member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2924,7 +2926,7 @@ _List the email.exchange.exchangeDistributionGroupMember objects_
 
 _Mailing list members_
 
-### 🔴 DELETE `DELETE` — Delete mailing list member
+### 🔴 DELETE — Delete mailing list member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2945,7 +2947,7 @@ _Mailing list members_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2971,7 +2973,7 @@ _Mailing list members_
 
 _List the email.exchange.exchangeDistributionGroupSendAs objects_
 
-### 🟢 GET `GET` — sendAs
+### 🟢 GET — sendAs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2991,7 +2993,7 @@ _List the email.exchange.exchangeDistributionGroupSendAs objects_
 
 ---
 
-### 🟡 POST `POST` — Allow another user to Send aso mails from this mailing list
+### 🟡 POST — Allow another user to Send aso mails from this mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3017,7 +3019,7 @@ _List the email.exchange.exchangeDistributionGroupSendAs objects_
 
 _Get users authorized to Send On Behalf To mails from this mailbox_
 
-### 🔴 DELETE `DELETE` — Delete allowed user for SendAs
+### 🔴 DELETE — Delete allowed user for SendAs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3038,7 +3040,7 @@ _Get users authorized to Send On Behalf To mails from this mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3064,7 +3066,7 @@ _Get users authorized to Send On Behalf To mails from this mailbox_
 
 _List the email.exchange.exchangeDistributionGroupSendOnBehalfTo objects_
 
-### 🟢 GET `GET` — sendOnBehalfTo
+### 🟢 GET — sendOnBehalfTo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3084,7 +3086,7 @@ _List the email.exchange.exchangeDistributionGroupSendOnBehalfTo objects_
 
 ---
 
-### 🟡 POST `POST` — Allow another user to Send aso mails from this mailing list
+### 🟡 POST — Allow another user to Send aso mails from this mailing list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3110,7 +3112,7 @@ _List the email.exchange.exchangeDistributionGroupSendOnBehalfTo objects_
 
 _Get users authorized to Send On Behalf To mails from this mailing list_
 
-### 🔴 DELETE `DELETE` — Delete allowed user for SendOnBehalfTo
+### 🔴 DELETE — Delete allowed user for SendOnBehalfTo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3131,7 +3133,7 @@ _Get users authorized to Send On Behalf To mails from this mailing list_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3157,7 +3159,7 @@ _Get users authorized to Send On Behalf To mails from this mailing list_
 
 _outlookAvailability operations_
 
-### 🟢 GET `GET` — Show available outlooks
+### 🟢 GET — Show available outlooks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3183,7 +3185,7 @@ _outlookAvailability operations_
 
 _Protocol access policy for this Exchange service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3202,7 +3204,7 @@ _Protocol access policy for this Exchange service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3227,7 +3229,7 @@ _Protocol access policy for this Exchange service_
 
 _List the email.exchange.exchangeServiceActiveSyncNotification objects_
 
-### 🟢 GET `GET` — Exchange account id subscribed to ActiveSync quarantine notifications
+### 🟢 GET — Exchange account id subscribed to ActiveSync quarantine notifications
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3246,7 +3248,7 @@ _List the email.exchange.exchangeServiceActiveSyncNotification objects_
 
 ---
 
-### 🟡 POST `POST` — Subscribe new address to ActiveSync quarantine notifications
+### 🟡 POST — Subscribe new address to ActiveSync quarantine notifications
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3271,7 +3273,7 @@ _List the email.exchange.exchangeServiceActiveSyncNotification objects_
 
 _Get email addresses subscribed to ActiveSync quarantine notifications_
 
-### 🔴 DELETE `DELETE` — Unubscribe address from ActiveSync quarantine notifications
+### 🔴 DELETE — Unubscribe address from ActiveSync quarantine notifications
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3291,7 +3293,7 @@ _Get email addresses subscribed to ActiveSync quarantine notifications_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3316,7 +3318,7 @@ _Get email addresses subscribed to ActiveSync quarantine notifications_
 
 _List the email.exchange.publicFolder objects_
 
-### 🟢 GET `GET` — Public folders associated to this service
+### 🟢 GET — Public folders associated to this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3336,7 +3338,7 @@ _List the email.exchange.publicFolder objects_
 
 ---
 
-### 🟡 POST `POST` — Create organization public folder
+### 🟡 POST — Create organization public folder
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3365,7 +3367,7 @@ _List the email.exchange.publicFolder objects_
 
 _Exchange organization public folder_
 
-### 🔴 DELETE `DELETE` — Delete existing organization public folder
+### 🔴 DELETE — Delete existing organization public folder
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3385,7 +3387,7 @@ _Exchange organization public folder_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3405,7 +3407,7 @@ _Exchange organization public folder_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3431,7 +3433,7 @@ _Exchange organization public folder_
 
 _List the email.exchange.exchangePublicFolderPermission objects_
 
-### 🟢 GET `GET` — Public folder permission
+### 🟢 GET — Public folder permission
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3451,7 +3453,7 @@ _List the email.exchange.exchangePublicFolderPermission objects_
 
 ---
 
-### 🟡 POST `POST` — Create public folder permission
+### 🟡 POST — Create public folder permission
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3478,7 +3480,7 @@ _List the email.exchange.exchangePublicFolderPermission objects_
 
 _Exchange organization public folder permission_
 
-### 🔴 DELETE `DELETE` — Delete existing permission from public folder
+### 🔴 DELETE — Delete existing permission from public folder
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3499,7 +3501,7 @@ _Exchange organization public folder permission_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3520,7 +3522,7 @@ _Exchange organization public folder permission_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3547,7 +3549,7 @@ _Exchange organization public folder permission_
 
 _publicFolderQuota operations_
 
-### 🟢 GET `GET` — Get public folder quota usage in total available space
+### 🟢 GET — Get public folder quota usage in total available space
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3571,7 +3573,7 @@ _publicFolderQuota operations_
 
 _renewSSL operations_
 
-### 🟡 POST `POST` — Renew SSL if it will expire in next 30 days
+### 🟡 POST — Renew SSL if it will expire in next 30 days
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3598,7 +3600,7 @@ _renewSSL operations_
 
 _List the email.exchange.resourceAccount objects_
 
-### 🟢 GET `GET` — Resource account associated to this service
+### 🟢 GET — Resource account associated to this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3619,7 +3621,7 @@ _List the email.exchange.resourceAccount objects_
 
 ---
 
-### 🟡 POST `POST` — create new resource account in exchange server
+### 🟡 POST — create new resource account in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3656,7 +3658,7 @@ _List the email.exchange.resourceAccount objects_
 
 _Exchange resource account_
 
-### 🔴 DELETE `DELETE` — delete existing resource account in exchange server
+### 🔴 DELETE — delete existing resource account in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3676,7 +3678,7 @@ _Exchange resource account_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3696,7 +3698,7 @@ _Exchange resource account_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3722,7 +3724,7 @@ _Exchange resource account_
 
 _List the email.exchange.exchangeResourceAccountDelegate objects_
 
-### 🟢 GET `GET` — Resource account manager
+### 🟢 GET — Resource account manager
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3742,7 +3744,7 @@ _List the email.exchange.exchangeResourceAccountDelegate objects_
 
 ---
 
-### 🟡 POST `POST` — add new resource account delegate in exchange server
+### 🟡 POST — add new resource account delegate in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3768,7 +3770,7 @@ _List the email.exchange.exchangeResourceAccountDelegate objects_
 
 _Resource accounts delegates_
 
-### 🔴 DELETE `DELETE` — delete existing resource account delegate in exchange server
+### 🔴 DELETE — delete existing resource account delegate in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3789,7 +3791,7 @@ _Resource accounts delegates_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3815,7 +3817,7 @@ _Resource accounts delegates_
 
 _List the email.exchange.sendConnector objects_
 
-### 🟢 GET `GET` — List of your send connectors on this Exchange service
+### 🟢 GET — List of your send connectors on this Exchange service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3834,7 +3836,7 @@ _List the email.exchange.sendConnector objects_
 
 ---
 
-### 🟡 POST `POST` — Create new send connector
+### 🟡 POST — Create new send connector
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3866,7 +3868,7 @@ _List the email.exchange.sendConnector objects_
 
 _Exchange Send Connector_
 
-### 🔴 DELETE `DELETE` — Delete existing send connector
+### 🔴 DELETE — Delete existing send connector
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3886,7 +3888,7 @@ _Exchange Send Connector_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3906,7 +3908,7 @@ _Exchange Send Connector_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3932,7 +3934,7 @@ _Exchange Send Connector_
 
 _changeAuthentication operations_
 
-### 🟡 POST `POST` — Change authentication on send connector
+### 🟡 POST — Change authentication on send connector
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3960,7 +3962,7 @@ _changeAuthentication operations_
 
 _Exchange server_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3979,7 +3981,7 @@ _Exchange server_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4004,7 +4006,7 @@ _Exchange server_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4023,7 +4025,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4048,7 +4050,7 @@ _Details about a Service_
 
 _List the email.exchange.sharedAccount objects_
 
-### 🟢 GET `GET` — Shared accounts associated to this exchange service
+### 🟢 GET — Shared accounts associated to this exchange service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4068,7 +4070,7 @@ _List the email.exchange.sharedAccount objects_
 
 ---
 
-### 🟡 POST `POST` — Create new shared mailbox in exchange server
+### 🟡 POST — Create new shared mailbox in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4100,7 +4102,7 @@ _List the email.exchange.sharedAccount objects_
 
 _Exchange shared mailbox_
 
-### 🔴 DELETE `DELETE` — Delete existing shared mailbox in exchange server
+### 🔴 DELETE — Delete existing shared mailbox in exchange server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4120,7 +4122,7 @@ _Exchange shared mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4140,7 +4142,7 @@ _Exchange shared mailbox_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4166,7 +4168,7 @@ _Exchange shared mailbox_
 
 _List the email.exchange.exchangeSharedAccountAlias objects_
 
-### 🟢 GET `GET` — Aliases associated to this mailbox
+### 🟢 GET — Aliases associated to this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4186,7 +4188,7 @@ _List the email.exchange.exchangeSharedAccountAlias objects_
 
 ---
 
-### 🟡 POST `POST` — Create new alias
+### 🟡 POST — Create new alias
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4212,7 +4214,7 @@ _List the email.exchange.exchangeSharedAccountAlias objects_
 
 _Aliases on this shared mailbox_
 
-### 🔴 DELETE `DELETE` — Delete existing alias
+### 🔴 DELETE — Delete existing alias
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4233,7 +4235,7 @@ _Aliases on this shared mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4259,7 +4261,7 @@ _Aliases on this shared mailbox_
 
 _List the email.exchange.exchangeSharedAccountFullAccess objects_
 
-### 🟢 GET `GET` — Full access granted users for this shared mailbox
+### 🟢 GET — Full access granted users for this shared mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4279,7 +4281,7 @@ _List the email.exchange.exchangeSharedAccountFullAccess objects_
 
 ---
 
-### 🟡 POST `POST` — Allow full access to a user
+### 🟡 POST — Allow full access to a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4305,7 +4307,7 @@ _List the email.exchange.exchangeSharedAccountFullAccess objects_
 
 _Users having full access on this shared mailbox_
 
-### 🔴 DELETE `DELETE` — Revoke full access
+### 🔴 DELETE — Revoke full access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4326,7 +4328,7 @@ _Users having full access on this shared mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4352,7 +4354,7 @@ _Users having full access on this shared mailbox_
 
 _List the email.exchange.exchangeSharedAccountSendAs objects_
 
-### 🟢 GET `GET` — Send as granted users for this shared mailbox
+### 🟢 GET — Send as granted users for this shared mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4372,7 +4374,7 @@ _List the email.exchange.exchangeSharedAccountSendAs objects_
 
 ---
 
-### 🟡 POST `POST` — Allow another user to send mails from this shared mailbox
+### 🟡 POST — Allow another user to send mails from this shared mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4398,7 +4400,7 @@ _List the email.exchange.exchangeSharedAccountSendAs objects_
 
 _Users authorized to send mails from this shared mailbox_
 
-### 🔴 DELETE `DELETE` — Delete allowed user for sendAs
+### 🔴 DELETE — Delete allowed user for sendAs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4419,7 +4421,7 @@ _Users authorized to send mails from this shared mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4445,7 +4447,7 @@ _Users authorized to send mails from this shared mailbox_
 
 _List the email.exchange.exchangeSharedAccountSendOnBehalfTo objects_
 
-### 🟢 GET `GET` — SendOnBehalfTo granted users for this shared mailbox
+### 🟢 GET — SendOnBehalfTo granted users for this shared mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4465,7 +4467,7 @@ _List the email.exchange.exchangeSharedAccountSendOnBehalfTo objects_
 
 ---
 
-### 🟡 POST `POST` — Allow another user to Send On Behalf To mails from this shared mailbox
+### 🟡 POST — Allow another user to Send On Behalf To mails from this shared mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4491,7 +4493,7 @@ _List the email.exchange.exchangeSharedAccountSendOnBehalfTo objects_
 
 _Get users authorized to Send On Behalf To mails from this shared mailbox_
 
-### 🔴 DELETE `DELETE` — Delete allowed user for SendOnBehalfTo
+### 🔴 DELETE — Delete allowed user for SendOnBehalfTo
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4512,7 +4514,7 @@ _Get users authorized to Send On Behalf To mails from this shared mailbox_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4538,7 +4540,7 @@ _Get users authorized to Send On Behalf To mails from this shared mailbox_
 
 _List the email.exchange.Task objects_
 
-### 🟢 GET `GET` — Pending task for this mailbox
+### 🟢 GET — Pending task for this mailbox
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4563,7 +4565,7 @@ _List the email.exchange.Task objects_
 
 _Exchange task details_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4589,7 +4591,7 @@ _Exchange task details_
 
 _sharedAccountQuota operations_
 
-### 🟢 GET `GET` — Get shared account quota usage in total available space
+### 🟢 GET — Get shared account quota usage in total available space
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4613,7 +4615,7 @@ _sharedAccountQuota operations_
 
 _List the email.exchange.Task objects_
 
-### 🟢 GET `GET` — Pending actions
+### 🟢 GET — Pending actions
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4637,7 +4639,7 @@ _List the email.exchange.Task objects_
 
 _Exchange task details_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4662,7 +4664,7 @@ _Exchange task details_
 
 _updateDeviceList operations_
 
-### 🟡 POST `POST` — Update device list
+### 🟡 POST — Update device list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4686,7 +4688,7 @@ _updateDeviceList operations_
 
 _updateFlagsOnAllAccounts operations_
 
-### 🟡 POST `POST` — Update spam and virus flags on all active accounts
+### 🟡 POST — Update spam and virus flags on all active accounts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4702,5 +4704,1804 @@ _updateFlagsOnAllAccounts operations_
 
 **IAM actions:** `emailExchange:apiovh:service/updateFlagsOnAllAccounts` (required)
 
+
+---
+
+## Models
+
+### `dbaas.logs.LogKind`
+
+_Log kind_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalReturnedFields` | `string[]` | ❌ | ❌ | ✅ | List of additional log fields managed in this log kind |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the log kind |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Log kind display name |
+| `kindId` | `uuid` | ❌ | ❌ | ✅ | Log kind ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Log kind name |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the log kind |
+
+### `dbaas.logs.LogSubscription`
+
+_Log subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the subscription |
+| `kind` | `string` | ❌ | ❌ | ✅ | Log kind name of this subscription |
+| `resource` | `dbaas.logs.SubscriptionResource` | ❌ | ❌ | ✅ | Subscribed resource, where the logs come from |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the destination log service |
+| `streamId` | `string` | ❌ | ❌ | ✅ | Id of the destination log stream |
+| `subscriptionId` | `uuid` | ❌ | ❌ | ✅ | Subscription ID |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the subscription |
+
+### `dbaas.logs.LogSubscriptionCreation`
+
+_Log subscription creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name to subscribe to |
+| `streamId` | `uuid` | ✅ | ❌ | ❌ | Customer log stream ID |
+
+### `dbaas.logs.LogSubscriptionResponse`
+
+_Asynchronous operation after subscribing or unsubscribing to a resource logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operationId` | `uuid` | ❌ | ❌ | ✅ | Identifier of the operation |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Operation owner's service name |
+
+### `dbaas.logs.LogUrlCreation`
+
+_Log temporary URL creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name |
+
+### `dbaas.logs.SubscriptionResource`
+
+_Log subscription resource_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of subscribed resource |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of subscribed resource |
+
+### `dbaas.logs.TemporaryLogsLink`
+
+_Temporary url information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ✅ | Temporary url |
+
+### `email.exchange.Account`
+
+_Exchange mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `SAMAccountName` | `string` | ❌ | ✅ | ✅ | SAM account name |
+| `accountLicense` | `email.exchange.OvhLicenceEnum` | ❌ | ❌ | ❌ | Exchange account type |
+| `authenticationPolicyId` | `long` | ❌ | ✅ | ❌ | ID of the authentication policy to apply on this account |
+| `city` | `string` | ❌ | ✅ | ❌ | city |
+| `company` | `string` | ❌ | ✅ | ❌ | Company name |
+| `configured` | `boolean` | ❌ | ❌ | ✅ | Indicates if the account is configured |
+| `countryCode` | `email.exchange.CountryCodeEnum` | ❌ | ✅ | ❌ | Country code |
+| `creationDate` | `datetime` | ❌ | ✅ | ✅ | Creation date |
+| `currentUsage` | `long` | ❌ | ✅ | ✅ | Mailbox usage |
+| `customIsolationId` | `long` | ❌ | ✅ | ✅ | custom isolation apply on this account |
+| `deleteAtExpiration` | `boolean` | ❌ | ✅ | ❌ | delete at expiration |
+| `deleteOutlookAtExpiration` | `boolean` | ❌ | ✅ | ❌ | delete outlook at expiration |
+| `description` | `string` | ❌ | ✅ | ❌ | Description |
+| `displayName` | `string` | ❌ | ✅ | ❌ | Account display name |
+| `domain` | `string` | ❌ | ❌ | ❌ | Email domain |
+| `exchangeGuid` | `string` | ❌ | ✅ | ✅ | exchangeGuid for manual configuration |
+| `expirationDate` | `datetime` | ❌ | ✅ | ✅ | expiration date |
+| `expirationOutlookDate` | `datetime` | ❌ | ✅ | ✅ | expiration date |
+| `fax` | `phoneNumber` | ❌ | ✅ | ❌ | Fax number |
+| `firstName` | `string` | ❌ | ✅ | ❌ | Account first name |
+| `forwardingEmail` | `string` | ❌ | ✅ | ❌ | Email address to forward email |
+| `guid` | `string` | ❌ | ✅ | ✅ | GUID for user in active directory |
+| `hiddenFromGAL` | `boolean` | ❌ | ❌ | ❌ | Hide account in Global Address List |
+| `id` | `long` | ❌ | ❌ | ✅ | Account id |
+| `initial` | `string` | ❌ | ✅ | ❌ | Account initials |
+| `jobDepartment` | `string` | ❌ | ✅ | ❌ | Job Department |
+| `jobTitle` | `string` | ❌ | ✅ | ❌ | Job title |
+| `lastLogoffDate` | `datetime` | ❌ | ✅ | ✅ | Last logoff |
+| `lastLogonDate` | `datetime` | ❌ | ✅ | ✅ | Last logon |
+| `lastName` | `string` | ❌ | ✅ | ❌ | Account last name |
+| `lastUpdateDate` | `datetime` | ❌ | ✅ | ✅ | Last update |
+| `litigation` | `boolean` | ❌ | ❌ | ❌ | Litigation hold feature enabled on this mailbox |
+| `litigationPeriod` | `long` | ❌ | ✅ | ❌ | Litigation hold period in days (0 means unlimited). This setting covers all items in the mailbox. |
+| `login` | `string` | ❌ | ❌ | ❌ | Account login |
+| `mailSenderDisplay` | `string` | ❌ | ✅ | ❌ | Email display as sender |
+| `mailingFilter` | `email.exchange.MailingFilterEnum[]` | ❌ | ✅ | ❌ | Enable or disable anti-virus and anti-spam |
+| `mobile` | `phoneNumber` | ❌ | ✅ | ❌ | Mobile phone |
+| `numberOfAliases` | `long` | ❌ | ❌ | ✅ | Count the number of related aliases attached to this account |
+| `office` | `string` | ❌ | ✅ | ❌ | Job office |
+| `outlookLicense` | `boolean` | ❌ | ❌ | ❌ | Outlook licence |
+| `owaLimited` | `boolean` | ❌ | ❌ | ✅ | OWA policy restriction is applied |
+| `passwordLastUpdate` | `datetime` | ❌ | ✅ | ✅ | Time of account's password last update |
+| `phone` | `phoneNumber` | ❌ | ✅ | ❌ | Phone number |
+| `postalCode` | `string` | ❌ | ✅ | ❌ | Postal code |
+| `primaryEmailAddress` | `string` | ❌ | ❌ | ✅ | Default email for this mailbox |
+| `quota` | `long` | ❌ | ❌ | ❌ | Account maximum size |
+| `region` | `string` | ❌ | ✅ | ❌ | region |
+| `renewOutlookPeriod` | `email.exchange.renewPeriodEnum` | ❌ | ✅ | ❌ | change the renew period for outlook |
+| `renewPeriod` | `email.exchange.renewPeriodEnum` | ❌ | ✅ | ❌ | change the renew period |
+| `sbrDestination` | `string` | ❌ | ✅ | ❌ | Relay domain address that will be used to all e-mails send from this account |
+| `sendConnectorId` | `long` | ❌ | ✅ | ❌ | Custom sendConnectorId used to send mails when SBR is configured |
+| `spamAndVirusConfiguration` | `email.exchange.spamAndVirusConfiguration` | ❌ | ❌ | ❌ | Spam and Antivirus configuration |
+| `spamDetected` | `boolean` | ❌ | ❌ | ✅ | Account was sending spam |
+| `spamTicketNumber` | `long` | ❌ | ✅ | ✅ | Ticket number of spam detection |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Account state |
+| `storeCopyOfEmail` | `boolean` | ❌ | ❌ | ❌ | Store copy of email when forward is enable |
+| `streetAddress` | `string` | ❌ | ✅ | ❌ | Street address |
+| `taskPendingId` | `long` | ❌ | ✅ | ✅ | Pending task for this account |
+
+### `email.exchange.AccountLicense`
+
+_Exchange account license_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `license` | `email.exchange.OvhLicenceEnum` | ❌ | ❌ | ❌ |  |
+| `licenseQuantity` | `long` | ❌ | ❌ | ❌ |  |
+
+### `email.exchange.ActiveSyncPolicyEnum`
+
+_Activesync action_
+
+**Enum** (`enumType: string`):
+
+- `allow`
+- `block`
+- `quarantine`
+
+### `email.exchange.CountryCodeEnum`
+
+_Country Code iso_
+
+**Enum** (`enumType: string`):
+
+- `AC`
+- `AD`
+- `AE`
+- `AF`
+- `AG`
+- `AI`
+- `AL`
+- `AM`
+- `AO`
+- `AQ`
+- `AR`
+- `AS`
+- `AT`
+- `AU`
+- `AW`
+- `AX`
+- `AZ`
+- `BA`
+- `BB`
+- `BD`
+- `BE`
+- `BF`
+- `BG`
+- `BH`
+- `BI`
+- `BJ`
+- `BL`
+- `BM`
+- `BN`
+- `BO`
+- `BQ`
+- `BR`
+- `BS`
+- `BT`
+- `BW`
+- `BY`
+- `BZ`
+- `CA`
+- `CC`
+- `CD`
+- `CF`
+- `CG`
+- `CH`
+- `CI`
+- `CK`
+- `CL`
+- `CM`
+- `CN`
+- `CO`
+- `CR`
+- `CU`
+- `CV`
+- `CW`
+- `CX`
+- `CY`
+- `CZ`
+- `DE`
+- `DG`
+- `DJ`
+- `DK`
+- `DM`
+- `DO`
+- `DZ`
+- `EA`
+- `EC`
+- `EE`
+- `EG`
+- `EH`
+- `ER`
+- `ES`
+- `ET`
+- `FI`
+- `FJ`
+- `FK`
+- `FM`
+- `FO`
+- `FR`
+- `GA`
+- `GB`
+- `GD`
+- `GE`
+- `GF`
+- `GG`
+- `GH`
+- `GI`
+- `GL`
+- `GM`
+- `GN`
+- `GP`
+- `GQ`
+- `GR`
+- `GS`
+- `GT`
+- `GU`
+- `GW`
+- `GY`
+- `HK`
+- `HN`
+- `HR`
+- `HT`
+- `HU`
+- `IC`
+- `ID`
+- `IE`
+- `IL`
+- `IM`
+- `IN`
+- `IO`
+- `IQ`
+- `IR`
+- `IS`
+- `IT`
+- `JE`
+- `JM`
+- `JO`
+- `JP`
+- `KE`
+- `KG`
+- `KH`
+- `KI`
+- `KM`
+- `KN`
+- `KP`
+- `KR`
+- `KW`
+- `KY`
+- `KZ`
+- `LA`
+- `LB`
+- `LC`
+- `LI`
+- `LK`
+- `LR`
+- `LS`
+- `LT`
+- `LU`
+- `LV`
+- `LY`
+- `MA`
+- `MC`
+- `MD`
+- `ME`
+- `MF`
+- `MG`
+- `MH`
+- `MK`
+- `ML`
+- `MM`
+- `MN`
+- `MO`
+- `MP`
+- `MQ`
+- `MR`
+- `MS`
+- `MT`
+- `MU`
+- `MV`
+- `MW`
+- `MX`
+- `MY`
+- `MZ`
+- `NA`
+- `NC`
+- `NE`
+- `NF`
+- `NG`
+- `NI`
+- `NL`
+- `NO`
+- `NP`
+- `NR`
+- `NU`
+- `NZ`
+- `OM`
+- `PA`
+- `PE`
+- `PF`
+- `PG`
+- `PH`
+- `PK`
+- `PL`
+- `PM`
+- `PN`
+- `PR`
+- `PS`
+- `PT`
+- `PW`
+- `PY`
+- `QA`
+- `RE`
+- `RO`
+- `RS`
+- `RU`
+- `RW`
+- `SA`
+- `SB`
+- `SC`
+- `SD`
+- `SE`
+- `SG`
+- `SH`
+- `SI`
+- `SJ`
+- `SK`
+- `SL`
+- `SM`
+- `SN`
+- `SO`
+- `SR`
+- `SS`
+- `ST`
+- `SV`
+- `SX`
+- `SY`
+- `SZ`
+- `TA`
+- `TC`
+- `TD`
+- `TF`
+- `TG`
+- `TH`
+- `TJ`
+- `TK`
+- `TL`
+- `TM`
+- `TN`
+- `TO`
+- `TR`
+- `TT`
+- `TV`
+- `TW`
+- `TZ`
+- `UA`
+- `UG`
+- `UM`
+- `US`
+- `UY`
+- `UZ`
+- `VA`
+- `VC`
+- `VE`
+- `VG`
+- `VI`
+- `VN`
+- `VU`
+- `WF`
+- `WS`
+- `XK`
+- `YE`
+- `YT`
+- `ZA`
+- `ZM`
+- `ZW`
+
+### `email.exchange.DailyLicense`
+
+_Exchange account license per day_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountLicense` | `email.exchange.AccountLicense[]` | ❌ | ❌ | ❌ |  |
+| `date` | `date` | ❌ | ❌ | ❌ |  |
+| `outlookQuantity` | `long` | ❌ | ❌ | ❌ |  |
+
+### `email.exchange.DeviceActiveSyncStateEnum`
+
+_Device ActiveSync state_
+
+**Enum** (`enumType: string`):
+
+- `allowed`
+- `blocked`
+- `deviceDiscovery`
+- `quarantined`
+
+### `email.exchange.DisclaimerAttributeEnum`
+
+_Disclaimer attributes list_
+
+**Enum** (`enumType: string`):
+
+- `City`
+- `Company`
+- `Country`
+- `Department`
+- `DisplayName`
+- `Email`
+- `FaxNumber`
+- `FirstName`
+- `HomePhoneNumber`
+- `Initials`
+- `LastName`
+- `Manager`
+- `MobileNumber`
+- `Notes`
+- `Office`
+- `OtherFaxNumber`
+- `OtherHomePhoneNumber`
+- `OtherPhoneNumber`
+- `PagerNumber`
+- `PhoneNumber`
+- `State`
+- `Street`
+- `Title`
+- `UserLogonName`
+- `ZipCode`
+
+### `email.exchange.Domain`
+
+_Exchange domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cnameToCheck` | `string` | ❌ | ✅ | ✅ | Cname that will be checked to prove the domain ownership |
+| `dkimDiagnostics` | `email.exchange.DomainDkimDiagnostics` | ❌ | ❌ | ✅ | DKIM diagnostics on this domain |
+| `domainAliases` | `string[]` | ❌ | ❌ | ✅ | List of aliases for this domain |
+| `domainValidated` | `boolean` | ❌ | ❌ | ✅ | Domain validation status |
+| `expectedAutodiscoverSRV` | `string` | ❌ | ❌ | ✅ | Expected SRV record on this domain |
+| `expectedMX` | `string[]` | ❌ | ❌ | ✅ | Expected MX record(s) on this domain |
+| `expectedSPF` | `string` | ❌ | ❌ | ✅ | Expected SPF record on this domain |
+| `isAliasDomain` | `boolean` | ❌ | ❌ | ✅ | Indicate if this domain is an alias for another domain |
+| `main` | `boolean` | ❌ | ✅ | ✅ | If true this is an organization (Exchange 2010 only) |
+| `mxIsValid` | `boolean` | ❌ | ❌ | ✅ | If true your dns mx configuration is valid |
+| `mxRecord` | `string[]` | ❌ | ✅ | ✅ | Domain MX record configured in DNS |
+| `mxRelay` | `string` | ❌ | ✅ | ❌ | If specified, emails to not existing address will be redirected to that domain |
+| `name` | `string` | ❌ | ❌ | ✅ | Domain name |
+| `organization2010` | `string` | ❌ | ✅ | ✅ | If specified, indicates to which organization this domain belongs (Exchange 2010 only) |
+| `sbrDefault` | `string` | ❌ | ✅ | ✅ | Relay domain address that will be used to all newly created accounts |
+| `sendConnectorIdDefault` | `long` | ❌ | ✅ | ✅ | Send connector id that will be used to all newly created accounts |
+| `spfIsValid` | `boolean` | ❌ | ❌ | ✅ | Wether your SPF record is valid |
+| `spfRecord` | `string[]` | ❌ | ✅ | ✅ | Domain's SPF record configured in the DNS |
+| `srvIsValid` | `boolean` | ❌ | ❌ | ✅ | If true your dns srv record is valid |
+| `srvRecord` | `string[]` | ❌ | ✅ | ✅ | Domain SRV record configured in DNS |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Domain state |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending taks id |
+| `type` | `email.exchange.DomainTypeEnum` | ❌ | ❌ | ❌ | Domain type |
+
+### `email.exchange.DomainDkimDiagnostics`
+
+_DKIM diagnostics information for domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `errorCode` | `long` | ❌ | ✅ | ❌ |  |
+| `message` | `string` | ❌ | ✅ | ❌ |  |
+| `state` | `email.exchange.DomainDkimDiagnosticsStateEnum` | ❌ | ❌ | ❌ |  |
+
+### `email.exchange.DomainDkimDiagnosticsStateEnum`
+
+_Domain DKIM state_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `disabled`
+- `error`
+- `inProgress`
+- `toConfigure`
+
+### `email.exchange.DomainTypeEnum`
+
+_Domain type_
+
+**Enum** (`enumType: string`):
+
+- `authoritative`
+- `nonAuthoritative`
+
+### `email.exchange.ExchangeService`
+
+_Exchange service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `adfsChangePassword` | `boolean` | ❌ | ❌ | ❌ | Enable or disable password change via ADFS |
+| `cnameDcvRecord` | `string` | ❌ | ✅ | ✅ | DNS Domain Control Validation record, require for order ssl varification process |
+| `complexityEnabled` | `boolean` | ❌ | ❌ | ❌ | enable policy for strong and secure passwords |
+| `defaultAuthenticationPolicyId` | `long` | ❌ | ✅ | ❌ | ID of the authentication policy to apply on a new Exchange account |
+| `defaultSmartHost` | `string` | ❌ | ✅ | ✅ | Relay domain address that can be used to send all e-mails via default send connector |
+| `displayName` | `string` | ❌ | ✅ | ❌ | service displayName |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `hostname` | `string` | ❌ | ✅ | ✅ |  |
+| `lastUpdateDate` | `datetime` | ❌ | ✅ | ✅ | Update date |
+| `lockoutDuration` | `long` | ❌ | ❌ | ❌ | number of minutes account will remain locked if it occurs |
+| `lockoutObservationWindow` | `long` | ❌ | ❌ | ❌ | number of minutes that must elapse after a failed logon to reset lockout trigger |
+| `lockoutThreshold` | `long` | ❌ | ✅ | ❌ | number of attempts before account to be locked |
+| `maxPasswordAge` | `long` | ❌ | ✅ | ❌ | maximum number of days that account's password is valid before expiration |
+| `maxReceiveSize` | `long` | ❌ | ❌ | ❌ | Maximum message size that You can receive in MB |
+| `maxSendSize` | `long` | ❌ | ❌ | ❌ | Maximum message size that You can send in MB |
+| `minPasswordAge` | `long` | ❌ | ✅ | ❌ | minimum number of days before able to change account's password |
+| `minPasswordLength` | `long` | ❌ | ✅ | ❌ | minimum number of characters password must contain |
+| `offer` | `email.exchange.ServiceOfferEnum` | ❌ | ❌ | ✅ |  |
+| `passwordHistoryCount` | `long` | ❌ | ✅ | ❌ | number of historical password that cannot be reused |
+| `spamAndVirusConfiguration` | `email.exchange.spamAndVirusConfiguration` | ❌ | ❌ | ❌ | Spam and Antivirus configuration |
+| `sslExpirationDate` | `date` | ❌ | ✅ | ✅ |  |
+| `state` | `email.exchange.ServiceStateEnum` | ❌ | ❌ | ✅ |  |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Task pending id |
+| `webUrl` | `string` | ❌ | ✅ | ✅ | URL for web interface |
+
+### `email.exchange.ExchangeServiceWithIAM`
+
+_Exchange service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `adfsChangePassword` | `boolean` | ❌ | ❌ | ❌ | Enable or disable password change via ADFS |
+| `cnameDcvRecord` | `string` | ❌ | ✅ | ✅ | DNS Domain Control Validation record, require for order ssl varification process |
+| `complexityEnabled` | `boolean` | ❌ | ❌ | ❌ | enable policy for strong and secure passwords |
+| `defaultAuthenticationPolicyId` | `long` | ❌ | ✅ | ❌ | ID of the authentication policy to apply on a new Exchange account |
+| `defaultSmartHost` | `string` | ❌ | ✅ | ✅ | Relay domain address that can be used to send all e-mails via default send connector |
+| `displayName` | `string` | ❌ | ✅ | ❌ | service displayName |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `hostname` | `string` | ❌ | ✅ | ✅ |  |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `lastUpdateDate` | `datetime` | ❌ | ✅ | ✅ | Update date |
+| `lockoutDuration` | `long` | ❌ | ❌ | ❌ | number of minutes account will remain locked if it occurs |
+| `lockoutObservationWindow` | `long` | ❌ | ❌ | ❌ | number of minutes that must elapse after a failed logon to reset lockout trigger |
+| `lockoutThreshold` | `long` | ❌ | ✅ | ❌ | number of attempts before account to be locked |
+| `maxPasswordAge` | `long` | ❌ | ✅ | ❌ | maximum number of days that account's password is valid before expiration |
+| `maxReceiveSize` | `long` | ❌ | ❌ | ❌ | Maximum message size that You can receive in MB |
+| `maxSendSize` | `long` | ❌ | ❌ | ❌ | Maximum message size that You can send in MB |
+| `minPasswordAge` | `long` | ❌ | ✅ | ❌ | minimum number of days before able to change account's password |
+| `minPasswordLength` | `long` | ❌ | ✅ | ❌ | minimum number of characters password must contain |
+| `offer` | `email.exchange.ServiceOfferEnum` | ❌ | ❌ | ✅ |  |
+| `passwordHistoryCount` | `long` | ❌ | ✅ | ❌ | number of historical password that cannot be reused |
+| `spamAndVirusConfiguration` | `email.exchange.spamAndVirusConfiguration` | ❌ | ❌ | ❌ | Spam and Antivirus configuration |
+| `sslExpirationDate` | `date` | ❌ | ✅ | ✅ |  |
+| `state` | `email.exchange.ServiceStateEnum` | ❌ | ❌ | ✅ |  |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Task pending id |
+| `webUrl` | `string` | ❌ | ✅ | ✅ | URL for web interface |
+
+### `email.exchange.Export`
+
+_Export PST file request_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `percentComplete` | `long` | ❌ | ❌ | ✅ | Percentage of export PST request completion |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Task pending id |
+
+### `email.exchange.ExportUrl`
+
+_Export PST file url_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expiration` | `datetime` | ❌ | ❌ | ✅ | Url expiration date |
+| `url` | `string` | ❌ | ❌ | ✅ | Export url |
+
+### `email.exchange.LanguageEnum`
+
+_Outlook language_
+
+**Enum** (`enumType: string`):
+
+- `ar`
+- `bg`
+- `cz`
+- `da`
+- `de`
+- `el`
+- `en`
+- `es`
+- `et`
+- `fi`
+- `fr`
+- `he`
+- `hr`
+- `hu`
+- `id`
+- `in`
+- `it`
+- `ja`
+- `ko`
+- `kz`
+- `lt`
+- `lv`
+- `ms`
+- `nb`
+- `nl`
+- `pl`
+- `pt`
+- `pt-BR`
+- `ro`
+- `rs`
+- `ru`
+- `sk`
+- `sl`
+- `sv`
+- `th`
+- `tr`
+- `uk`
+- `vi`
+- `zh-CN`
+
+### `email.exchange.MailingFilterEnum`
+
+_Mailing filter options availlable_
+
+**Enum** (`enumType: string`):
+
+- `vaderetro`
+
+### `email.exchange.MailingListDepartRestrictionEnum`
+
+_Depart distribution group restriction status_
+
+**Enum** (`enumType: string`):
+
+- `closed`
+- `open`
+
+### `email.exchange.MailingListJoinRestrictionEnum`
+
+_Join distribution group restriction status_
+
+**Enum** (`enumType: string`):
+
+- `approvalRequired`
+- `closed`
+- `open`
+
+### `email.exchange.ObjectStateEnum`
+
+_Current object state_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleting`
+- `internalMigration`
+- `ok`
+- `reopening`
+- `suspended`
+- `suspending`
+
+### `email.exchange.OutlookUrl`
+
+_Outlook url_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expiration` | `datetime` | ❌ | ❌ | ✅ | Url expiration date |
+| `serial` | `string` | ❌ | ❌ | ✅ | Serial number |
+| `url` | `string` | ❌ | ❌ | ✅ | Outlook url |
+
+### `email.exchange.OutlookVersionEnum`
+
+_Outlook version_
+
+**Enum** (`enumType: string`):
+
+- `mac_x86_2016`
+- `mac_x86_2019`
+- `mac_x86_2021`
+- `windows_x64_2016`
+- `windows_x64_2019`
+- `windows_x64_2021`
+- `windows_x86_2016`
+- `windows_x86_2019`
+- `windows_x86_2021`
+
+### `email.exchange.OutlookVersions`
+
+_Availability of outlook version_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `outlookLanguage` | `email.exchange.LanguageEnum` | ❌ | ❌ | ❌ |  |
+| `outlookVersion` | `email.exchange.OutlookVersionEnum` | ❌ | ❌ | ❌ |  |
+| `status` | `boolean` | ❌ | ❌ | ❌ |  |
+
+### `email.exchange.OvhCustomIsolationFieldEnum`
+
+_custom exchange isolation field_
+
+**Enum** (`enumType: string`):
+
+- `company`
+- `country`
+
+### `email.exchange.OvhLicenceEnum`
+
+_OVH licence account_
+
+**Enum** (`enumType: string`):
+
+- `basic`
+- `enterprise`
+- `standard`
+
+### `email.exchange.PublicFolderQuota`
+
+_Get public folder quota usage in total available space_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quotaLimit` | `long` | ❌ | ❌ | ❌ | total amount of space in MB for public folders within organization |
+| `quotaReserved` | `long` | ❌ | ❌ | ❌ | space in MB already reserved from the quota limit |
+| `quotaUsed` | `long` | ❌ | ❌ | ❌ | currently used space in MB within all public folders |
+
+### `email.exchange.PublicFolderRightTypeEnum`
+
+_Public folder right type_
+
+**Enum** (`enumType: string`):
+
+- `editor`
+- `none`
+- `reviewer`
+
+### `email.exchange.PublicFolderTypeEnum`
+
+_Public folder type_
+
+**Enum** (`enumType: string`):
+
+- `calendar`
+- `contacts`
+- `plain`
+- `tasks`
+
+### `email.exchange.ResourceTypeEnum`
+
+_Resource Type_
+
+**Enum** (`enumType: string`):
+
+- `equipment`
+- `room`
+
+### `email.exchange.Server`
+
+_Exchange server_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `commercialVersion` | `email.exchange.exchangeCommercialVersionEnum` | ❌ | ❌ | ✅ | Exchange commercial version |
+| `currentDiskUsage` | `long` | ❌ | ✅ | ✅ | Current disk usage in MB |
+| `diskSize` | `long` | ❌ | ✅ | ✅ | Total disk size in MB |
+| `individual2010` | `boolean` | ❌ | ❌ | ✅ | If true server is 2010 individual offer |
+| `ip` | `string` | ❌ | ❌ | ✅ | ipV4 |
+| `ipV6` | `string` | ❌ | ✅ | ✅ | ipV6 |
+| `isAValid` | `boolean` | ❌ | ❌ | ✅ | If true your dns A record is valid |
+| `isAaaaValid` | `boolean` | ❌ | ❌ | ✅ | If true your dns AAAA record is valid |
+| `isPtrV6Valid` | `boolean` | ❌ | ❌ | ✅ | If true your dns ptrV6 record is valid |
+| `isPtrValid` | `boolean` | ❌ | ❌ | ✅ | If true your dns ptr record is valid |
+| `owaMfa` | `boolean` | ❌ | ❌ | ❌ | Indicates if Multi Factor Authentication is activated on Outlook Web Access interface |
+| `state` | `email.exchange.ServerStateEnum` | ❌ | ❌ | ✅ | Server state |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Task pending id |
+| `version` | `long` | ❌ | ✅ | ✅ | ExchangeServer version |
+
+### `email.exchange.ServerStateEnum`
+
+_Server State_
+
+**Enum** (`enumType: string`):
+
+- `configurationError`
+- `configurationPending`
+- `notConfigured`
+- `ok`
+
+### `email.exchange.ServiceOfferEnum`
+
+_Service Offer name_
+
+**Enum** (`enumType: string`):
+
+- `dedicated`
+- `dedicatedCluster`
+- `hosted`
+- `provider`
+
+### `email.exchange.ServiceStateEnum`
+
+_Exchange Service State_
+
+**Enum** (`enumType: string`):
+
+- `inMaintenance`
+- `ok`
+- `suspended`
+
+### `email.exchange.SharedAccountQuota`
+
+_Get shared account quota usage in total available space_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quotaLimit` | `long` | ❌ | ❌ | ❌ | total amount of space in MB for shared accounts within organization |
+| `quotaReserved` | `long` | ❌ | ❌ | ❌ | space in MB already reserved from the quota limit |
+| `quotaUsed` | `long` | ❌ | ❌ | ❌ | currently used space in KB within all shared accounts |
+| `singleMailboxQuotaLimit` | `long` | ❌ | ❌ | ❌ | amount of space in MB available for single shared account |
+
+### `email.exchange.ShowMeetingDetailsEnum`
+
+_Level of access to calendar of Resource Mailbox_
+
+**Enum** (`enumType: string`):
+
+- `availabilityOnly`
+- `limitedDetails`
+- `reviewer`
+
+### `email.exchange.Task`
+
+_Exchange task details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `finishDate` | `datetime` | ❌ | ✅ | ✅ | Completion date |
+| `function` | `email.exchange.TaskFunctionEnum` | ❌ | ❌ | ✅ | Function name |
+| `id` | `long` | ❌ | ❌ | ✅ | Task id |
+| `status` | `email.exchange.TaskStatusEnum` | ❌ | ❌ | ✅ | Task status |
+| `todoDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+
+### `email.exchange.TaskFunctionEnum`
+
+_function enumeration for exchange task_
+
+**Enum** (`enumType: string`):
+
+- `activateSharepoint`
+- `addAccount`
+- `addAccountArchive`
+- `addAccountImpersonation`
+- `addActiveSyncMailNotification`
+- `addAlias`
+- `addDistributionGroup`
+- `addDistributionGroupManager`
+- `addDistributionGroupMember`
+- `addDistributionGroupSendAs`
+- `addDistributionGroupSendOnBehalfTo`
+- `addDomain`
+- `addDomainDisclaimer`
+- `addExchangeCustomIsolation`
+- `addExchangeDomainDKIM`
+- `addExchangeServiceAuthorizedIp`
+- `addExportPstRequest`
+- `addExternalContact`
+- `addFullAccess`
+- `addOutlookLicense`
+- `addPublicFolder`
+- `addPublicFolderPermission`
+- `addResourceAccount`
+- `addResourceDelegate`
+- `addSendAs`
+- `addSendConnector`
+- `addSendOnBehalfTo`
+- `addSharedAccount`
+- `addSharedAccountFullAccess`
+- `addSharedAccountSendAs`
+- `addSharedAccountSendOnBehalfTo`
+- `changeHostname`
+- `changePassword`
+- `clearDataOnDevice`
+- `cloneTemplateExchangePrivate`
+- `configureExchangeCustomer`
+- `configureExchangeOwaMfa`
+- `deleteAccount`
+- `deleteAccountArchive`
+- `deleteAccountImpersonation`
+- `deleteActiveSyncMailNotification`
+- `deleteAlias`
+- `deleteDistributionGroup`
+- `deleteDistributionGroupManager`
+- `deleteDistributionGroupMember`
+- `deleteDistributionGroupSendAs`
+- `deleteDistributionGroupSendOnBehalfTo`
+- `deleteDomain`
+- `deleteDomainDisclaimer`
+- `deleteExchangeCustomIsolation`
+- `deleteExchangeDomainDKIM`
+- `deleteExchangeService`
+- `deleteExchangeServiceAuthorizedIp`
+- `deleteExportPstRequest`
+- `deleteExternalContact`
+- `deleteFullAccess`
+- `deleteOutlookLicense`
+- `deletePublicFolder`
+- `deletePublicFolderPermission`
+- `deleteResourceAccount`
+- `deleteResourceDelegate`
+- `deleteSendAs`
+- `deleteSendConnector`
+- `deleteSendOnBehalfTo`
+- `deleteSharedAccount`
+- `deleteSharedAccountFullAccess`
+- `deleteSharedAccountSendAs`
+- `deleteSharedAccountSendOnBehalfTo`
+- `destroyPrivateVm`
+- `diagnoseAccount`
+- `disableExchangeDKIM`
+- `enableExchangeDKIM`
+- `expandDrive`
+- `generateOutlookUrl`
+- `generatePstUrl`
+- `installExchange`
+- `installSSL`
+- `maintenance`
+- `migrationAccount`
+- `migrationDisclaimer`
+- `migrationExternalContact`
+- `migrationHistory`
+- `migrationMailingList`
+- `migrationResourceAccount`
+- `migrationService`
+- `reOpenHostedAccount`
+- `reOpenOutlookLicense`
+- `reOpenPrivateAccount`
+- `reOpenPrivateVm`
+- `setAccount`
+- `setAccountArchive`
+- `setAlias`
+- `setDistributionGroup`
+- `setDns`
+- `setDomain`
+- `setDomainDisclaimer`
+- `setExchangeAccountProtocol`
+- `setExchangeServiceDevice`
+- `setExternalContact`
+- `setPublicFolder`
+- `setPublicFolderPermission`
+- `setResourceAccount`
+- `setSendConnector`
+- `setService`
+- `setSharedAccount`
+- `suspendAccount`
+- `suspendExchangeService`
+- `suspendHostedAccount`
+- `suspendOutlookLicense`
+- `suspendPrivateAccount`
+- `suspendPrivateVm`
+- `unsuspendAccount`
+- `unsuspendExchangeService`
+- `unsuspendHostedAccount`
+- `updateExchangeServiceDevice`
+- `upgrade2016`
+
+### `email.exchange.TaskStatusEnum`
+
+_Exchange task status_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `email.exchange.activeSyncNotificationStateEnum`
+
+_Subscription state_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleting`
+- `ok`
+
+### `email.exchange.authorizedIpStatusEnum`
+
+_Authorized IP State_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleting`
+- `ok`
+
+### `email.exchange.disclaimer`
+
+_Exchange organization disclaimer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `content` | `text` | ❌ | ❌ | ❌ | Signature, added at the bottom of your organization emails |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `name` | `string` | ❌ | ❌ | ✅ | Disclaimer name |
+| `outsideOnly` | `boolean` | ❌ | ❌ | ❌ | Activate the disclaimer only for external emails |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | task pending id |
+
+### `email.exchange.dkim`
+
+_DKIM for a domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cnameIsValid` | `boolean` | ❌ | ❌ | ✅ | If true your dns cname configuration is valid |
+| `customerRecord` | `string` | ❌ | ❌ | ✅ | customer dns record |
+| `header` | `string` | ❌ | ❌ | ✅ | header used for dkim signature |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | Last update date |
+| `recordType` | `string` | ❌ | ❌ | ✅ | Record type of the customer record |
+| `selectorName` | `string` | ❌ | ❌ | ✅ | selectorName |
+| `status` | `email.exchange.dkimStatusEnum` | ❌ | ❌ | ✅ | dkim status |
+| `targetRecord` | `string` | ❌ | ✅ | ✅ | Target of the customer record |
+| `taskPendingId` | `long` | ❌ | ✅ | ✅ | Pending task for this DKIM |
+
+### `email.exchange.dkimStatusEnum`
+
+_dkim status_
+
+**Enum** (`enumType: string`):
+
+- `deleting`
+- `disabling`
+- `enabling`
+- `inProduction`
+- `ready`
+- `todo`
+- `waitingRecord`
+
+### `email.exchange.exchangeAccountAlias`
+
+_Aliases on this mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alias` | `string` | ❌ | ❌ | ✅ | Alias |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeAccountArchive`
+
+_Exchange Account Archive_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `currentUsage` | `long` | ❌ | ✅ | ✅ | Archive mailbox usage |
+| `guid` | `string` | ❌ | ✅ | ✅ | GUID of archive mailbox |
+| `quota` | `long` | ❌ | ❌ | ❌ | Archive mailbox maximum size in GB |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Archive mailbox state |
+| `taskPendingId` | `long` | ❌ | ✅ | ✅ | Pending task for this archive mailbox |
+
+### `email.exchange.exchangeAccountDiagnosis`
+
+_Exchange Account Diagnosis_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canReceiveEmail` | `boolean` | ❌ | ❌ | ✅ | Determines if ingoing message has been received |
+| `canSendEmail` | `boolean` | ❌ | ❌ | ✅ | Determines if outgoing message has been delivered |
+| `connectiveOWA` | `boolean` | ❌ | ❌ | ✅ | Determines if possible to authenticate with credentials |
+| `isLocked` | `boolean` | ❌ | ❌ | ✅ | Determines if account is locked |
+| `isMxValid` | `boolean` | ❌ | ❌ | ✅ | Determines if MX record for account's domain is properly set |
+| `isSpammer` | `boolean` | ❌ | ❌ | ✅ | Determines if account is flagged as spammer |
+| `isSrvValid` | `boolean` | ❌ | ❌ | ✅ | Determines if SRV (autodiscovery) record for account's domain is properly set |
+| `isSuspended` | `boolean` | ❌ | ❌ | ✅ | Determines if account is suspended |
+| `lastCheck` | `datetime` | ❌ | ❌ | ✅ | Last performed diagnostics date |
+
+### `email.exchange.exchangeAccountFullAccess`
+
+_Users having full access on this mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give full access |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeAccountImpersonation`
+
+_Get user that has an impersonation right on all that mailboxes_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `lastPasswordChange` | `datetime` | ❌ | ✅ | ✅ | Last password update date |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | User state |
+| `taskPendingId` | `long` | ❌ | ✅ | ✅ | Pending task id |
+| `upn` | `string` | ❌ | ❌ | ✅ | User Principal Name |
+
+### `email.exchange.exchangeAccountProtocol`
+
+_Get protocol status on that mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `IMAP` | `boolean` | ❌ | ❌ | ❌ | IMAP protocol enabled on that mailbox |
+| `POP` | `boolean` | ❌ | ❌ | ❌ | POP protocol enabled on that mailbox |
+| `activeSync` | `boolean` | ❌ | ❌ | ❌ | Mobile access enabled on that mailbox |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | Last update date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+| `webMail` | `boolean` | ❌ | ❌ | ❌ | Web mail enabled on that mailbox |
+
+### `email.exchange.exchangeAccountSendAs`
+
+_Users authorized to send mails from this mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give send as |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeAccountSendOnBehalfTo`
+
+_Get users authorized to Send On Behalf To mails from this mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give send on behalf to |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeCommercialVersionEnum`
+
+_Exchange commercial version_
+
+**Enum** (`enumType: string`):
+
+- `2010`
+- `2013`
+- `2016`
+- `2019`
+- `SE`
+
+### `email.exchange.exchangeCustomIsolation`
+
+_custom exchange isolation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `isolationField` | `email.exchange.OvhCustomIsolationFieldEnum` | ❌ | ❌ | ✅ | Field used for isolation |
+| `isolationValue` | `string` | ❌ | ❌ | ✅ | Isolation field value |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the custom isolation |
+| `status` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Custom isolation status |
+
+### `email.exchange.exchangeDistributionGroupManager`
+
+_Mailing list managers_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `managerAccountId` | `long` | ❌ | ❌ | ✅ | Manager account id |
+| `managerEmailAddress` | `string` | ❌ | ❌ | ✅ | Member account primaryEmailAddress |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeDistributionGroupMember`
+
+_Mailing list members_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `memberAccountId` | `long` | ❌ | ✅ | ✅ | Member account id |
+| `memberContactId` | `long` | ❌ | ✅ | ✅ | Member account id |
+| `memberEmailAddress` | `string` | ❌ | ❌ | ✅ | Member account primaryEmailAddress |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeDistributionGroupSendAs`
+
+_Get users authorized to Send On Behalf To mails from this mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give send on behalf to |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeDistributionGroupSendOnBehalfTo`
+
+_Get users authorized to Send On Behalf To mails from this mailing list_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give send on behalf to |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeExternalContact`
+
+_External contact for this exchange service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `displayName` | `string` | ❌ | ❌ | ❌ | Contact display name |
+| `externalEmailAddress` | `string` | ❌ | ❌ | ❌ | Contact email |
+| `firstName` | `string` | ❌ | ✅ | ❌ | Contact first name |
+| `hiddenFromGAL` | `boolean` | ❌ | ❌ | ❌ | Hide the contact in Global Address List |
+| `id` | `long` | ❌ | ❌ | ✅ | Contact id |
+| `initials` | `string` | ❌ | ✅ | ❌ | Contact initals |
+| `lastName` | `string` | ❌ | ✅ | ❌ | Contact last name |
+| `organization2010` | `string` | ❌ | ✅ | ✅ | If specified, indicates to which organization this external contact belongs (Exchange 2010 only) |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Contact state |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Task pending id |
+
+### `email.exchange.exchangeMailingListAlias`
+
+_Get aliases on this mailingList_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alias` | `string` | ❌ | ❌ | ✅ | Alias |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangePublicFolderPermission`
+
+_Exchange organization public folder permission_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessRights` | `email.exchange.PublicFolderRightTypeEnum` | ❌ | ❌ | ❌ | Access right set for the account |
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ |  |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | task pending id |
+
+### `email.exchange.exchangeResourceAccountDelegate`
+
+_Resource accounts delegates_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | delegate's account id |
+| `creationDate` | `datetime` | ❌ | ✅ | ✅ | Creation date |
+| `delegateEmailAddress` | `string` | ❌ | ❌ | ✅ | Delegate account primaryEmailAddress |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | task pending id |
+
+### `email.exchange.exchangeServiceActiveSyncNotification`
+
+_Get email addresses subscribed to ActiveSync quarantine notifications_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `notifiedAccountId` | `long` | ❌ | ❌ | ✅ | Notified Account Id |
+| `primaryEmailAddress` | `string` | ❌ | ❌ | ✅ | Primary email address for notified account |
+| `state` | `email.exchange.activeSyncNotificationStateEnum` | ❌ | ❌ | ✅ | Email state |
+
+### `email.exchange.exchangeServiceAuthenticationPolicy`
+
+_Get authentication policy for protocols_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `blockLegacyAuthActiveSync` | `boolean` | ❌ | ❌ | ✅ | Block legacy authentication on ActiveSync |
+| `blockLegacyAuthAutodiscover` | `boolean` | ❌ | ❌ | ✅ | Block legacy authentication on Autodiscover |
+| `blockLegacyAuthImap` | `boolean` | ❌ | ❌ | ✅ | Block legacy authentication on Imap |
+| `blockLegacyAuthMapi` | `boolean` | ❌ | ❌ | ✅ | Block legacy authentication on Mapi |
+| `blockLegacyAuthOfflineAddressBook` | `boolean` | ❌ | ❌ | ✅ | Block legacy authentication on Offline Address Book |
+| `blockLegacyAuthPop` | `boolean` | ❌ | ❌ | ✅ | Block legacy authentication on Pop |
+| `blockLegacyAuthWebServices` | `boolean` | ❌ | ❌ | ✅ | Block legacy authentication on Web Services |
+| `blockModernAuthActiveSync` | `boolean` | ❌ | ❌ | ✅ | Block modern authentication on ActiveSync |
+| `blockModernAuthAutodiscover` | `boolean` | ❌ | ❌ | ✅ | Block modern authentication on Autodiscover |
+| `blockModernAuthImap` | `boolean` | ❌ | ❌ | ✅ | Block modern authentication on Imap |
+| `blockModernAuthMapi` | `boolean` | ❌ | ❌ | ✅ | Block modern authentication on Mapi |
+| `blockModernAuthOfflineAddressBook` | `boolean` | ❌ | ❌ | ✅ | Block modern authentication on Offline Address Book |
+| `blockModernAuthPop` | `boolean` | ❌ | ❌ | ✅ | Block modern authentication on Pop |
+| `blockModernAuthWebServices` | `boolean` | ❌ | ❌ | ✅ | Block modern authentication on Web Services |
+| `id` | `long` | ❌ | ❌ | ✅ | Authentication policy id |
+
+### `email.exchange.exchangeServiceAuthorizedIp`
+
+_Get authorized IPs for POP(s),IMAP(s), SMTP(s) and HTTP(s)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `HTTPS` | `boolean` | ❌ | ❌ | ❌ | Webmail,outlook,web Service(EWS) and active sync access (port 443) |
+| `IMAP` | `boolean` | ❌ | ❌ | ❌ | IMAP access (port 143) |
+| `IMAPS` | `boolean` | ❌ | ❌ | ❌ | IMAPS access (port 993) |
+| `POP` | `boolean` | ❌ | ❌ | ❌ | POP access (port 110) |
+| `POPS` | `boolean` | ❌ | ❌ | ❌ | POPS access (port 995) |
+| `SMTP` | `boolean` | ❌ | ❌ | ❌ | SMTP access (port 25) |
+| `SMTPS` | `boolean` | ❌ | ❌ | ❌ | SMTPS access (port 587) |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `displayName` | `string` | ❌ | ❌ | ❌ | display name |
+| `ip` | `ipv4Block` | ❌ | ❌ | ✅ | Allowed IP |
+| `status` | `email.exchange.authorizedIpStatusEnum` | ❌ | ❌ | ✅ | Authorized IP status |
+| `updateDate` | `datetime` | ❌ | ✅ | ✅ | Last update date |
+
+### `email.exchange.exchangeServiceDevice`
+
+_Get the list of your ActiveSync devices registered on this Exchange service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `IMEI` | `string` | ❌ | ❌ | ✅ | International Mobile Equipment Identity |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `deviceId` | `string` | ❌ | ❌ | ✅ | Device Id |
+| `deviceModel` | `string` | ❌ | ❌ | ✅ | Model device |
+| `deviceState` | `email.exchange.DeviceActiveSyncStateEnum` | ❌ | ❌ | ❌ | Device State |
+| `guid` | `string` | ❌ | ❌ | ✅ | user guid |
+| `identity` | `string` | ❌ | ❌ | ✅ | Exchange identity |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | Last update date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeServiceProtocol`
+
+_Protocol access policy for this Exchange service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `IMAP` | `boolean` | ❌ | ❌ | ❌ | IMAP protocol enabled on this Exchange service |
+| `POP` | `boolean` | ❌ | ❌ | ❌ | POP protocol enabled on this Exchange service |
+| `activeSync` | `boolean` | ❌ | ❌ | ❌ | ActiveSync protocol enabled on this Exchange service |
+| `activeSyncPolicy` | `email.exchange.ActiveSyncPolicyEnum` | ❌ | ❌ | ❌ | ActiveSync policy to apply at device's first connection |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | Last update date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+| `webMail` | `boolean` | ❌ | ❌ | ❌ | Web mail protocol enabled on this Exchange service |
+
+### `email.exchange.exchangeSharedAccountAlias`
+
+_Aliases on this shared mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alias` | `string` | ❌ | ❌ | ✅ | Alias |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeSharedAccountFullAccess`
+
+_Users having full access on this shared mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give full access |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeSharedAccountSendAs`
+
+_Users authorized to send mails from this shared mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give send as |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.exchangeSharedAccountSendOnBehalfTo`
+
+_Get users authorized to Send On Behalf To mails from this shared mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedAccountId` | `long` | ❌ | ❌ | ✅ | Account id to give send on behalf to |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task id |
+
+### `email.exchange.mailingList`
+
+_Mailing list_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `company` | `string` | ❌ | ✅ | ❌ | Company name |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `departRestriction` | `email.exchange.MailingListDepartRestrictionEnum` | ❌ | ❌ | ❌ | Depart restriction policy |
+| `displayName` | `string` | ❌ | ✅ | ❌ | Name displayed in Global Access List |
+| `hiddenFromGAL` | `boolean` | ❌ | ❌ | ❌ | If true mailing list is hiddend in Global Address List |
+| `joinRestriction` | `email.exchange.MailingListJoinRestrictionEnum` | ❌ | ❌ | ❌ | Join restriction policy |
+| `lastUpdateDate` | `datetime` | ❌ | ✅ | ✅ | Update date |
+| `mailingListAddress` | `string` | ❌ | ❌ | ❌ | The mailing list address |
+| `maxReceiveSize` | `long` | ❌ | ✅ | ❌ | Maximum receive email size in MB |
+| `maxSendSize` | `long` | ❌ | ✅ | ❌ | Maximum send email size in MB |
+| `senderAuthentification` | `boolean` | ❌ | ❌ | ❌ | If true sender has to authenticate |
+| `spamDetected` | `boolean` | ❌ | ❌ | ✅ | Account was sending spam |
+| `spamTicketNumber` | `long` | ❌ | ✅ | ✅ | Ticket number of spam detection |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Mailing list state |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Task pending id |
+
+### `email.exchange.passwordPolicy`
+
+_Password policy used for impersonated account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `complexityEnabled` | `boolean` | ❌ | ❌ | ❌ | enable policy for strong and secure passwords |
+| `lockoutDuration` | `long` | ❌ | ❌ | ❌ | number of minutes account will remain locked if it occurs |
+| `lockoutThreshold` | `long` | ❌ | ❌ | ❌ | number of attempts before account is locked |
+| `maxPasswordAge` | `long` | ❌ | ❌ | ❌ | maximum number of days that account's password is valid before expiration |
+| `minPasswordAge` | `long` | ❌ | ❌ | ❌ | minimum number of days before being able to change account's password |
+| `minPasswordLength` | `long` | ❌ | ❌ | ❌ | minimum number of characters password must contain |
+| `passwordHistoryCount` | `long` | ❌ | ❌ | ❌ | number of historical passwords that cannot be reused |
+
+### `email.exchange.publicFolder`
+
+_Exchange organization public folder_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `anonymousPermission` | `email.exchange.PublicFolderRightTypeEnum` | ❌ | ❌ | ❌ | Access right for the guest users |
+| `creationDate` | `datetime` | ❌ | ✅ | ✅ | Creation date |
+| `defaultPermission` | `email.exchange.PublicFolderRightTypeEnum` | ❌ | ❌ | ❌ | Default access right |
+| `hasSubFolders` | `boolean` | ❌ | ✅ | ✅ | If true, this public folder has subfolders |
+| `itemCount` | `long` | ❌ | ✅ | ✅ | Number of items in public folder |
+| `lastAccessTime` | `datetime` | ❌ | ✅ | ✅ | Time for which public folder was accessed for the last time |
+| `lastModificationTime` | `datetime` | ❌ | ✅ | ✅ | Time for which public folder was modified for the last time  |
+| `lastUserAccessTime` | `datetime` | ❌ | ✅ | ✅ | Time for which public folder was accessed for the last time by the user |
+| `lastUserModificationTime` | `datetime` | ❌ | ✅ | ✅ | Time for which public folder was modified for the last time by the user |
+| `path` | `string` | ❌ | ❌ | ✅ | Path for public folder |
+| `quota` | `long` | ❌ | ❌ | ❌ | Quota for public folder in MB |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ |  |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | task pending id |
+| `totalItemSize` | `long` | ❌ | ✅ | ✅ | Sum of all items in public folder in MB |
+| `type` | `email.exchange.PublicFolderTypeEnum` | ❌ | ❌ | ✅ | Type for public folder |
+
+### `email.exchange.renewPeriodEnum`
+
+_Renew period_
+
+**Enum** (`enumType: string`):
+
+- `monthly`
+- `yearly`
+
+### `email.exchange.resourceAccount`
+
+_Exchange resource account_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `addOrganizerToSubject` | `boolean` | ❌ | ❌ | ❌ | meeting organizer's name is used as the subject of the meeting request |
+| `allowConflict` | `boolean` | ❌ | ❌ | ❌ | resource can be scheduled by more than one person during the same time period |
+| `bookingWindow` | `long` | ❌ | ❌ | ❌ | maximum number of days in advance that the resource can be reserved |
+| `capacity` | `long` | ❌ | ❌ | ❌ | number of the same equipment or capacity of a room |
+| `company` | `string` | ❌ | ✅ | ❌ | Company name |
+| `creationDate` | `datetime` | ❌ | ✅ | ✅ | Creation date |
+| `deleteComments` | `boolean` | ❌ | ❌ | ❌ | remove any text in the message body of incoming meeting requests on resourceAccount |
+| `deleteSubject` | `boolean` | ❌ | ❌ | ❌ | remove email subject of incoming meeting requests on resourceAccount |
+| `displayName` | `string` | ❌ | ❌ | ❌ | name of resource |
+| `location` | `string` | ❌ | ❌ | ❌ | resource location name |
+| `maximumDuration` | `long` | ❌ | ❌ | ❌ | maximum duration in minutes for meeting requests |
+| `resourceEmailAddress` | `string` | ❌ | ❌ | ❌ | resource as email |
+| `showMeetingDetails` | `email.exchange.ShowMeetingDetailsEnum` | ❌ | ❌ | ❌ | granted right on a calendar of that resourceAccount |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | account state |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | task pending id |
+| `type` | `email.exchange.ResourceTypeEnum` | ❌ | ❌ | ✅ | resource type |
+
+### `email.exchange.sendConnector`
+
+_Exchange Send Connector_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `default` | `boolean` | ❌ | ❌ | ✅ | Default send connector, which is used to send all e-mails that are not handled by other send connectors that have been custom-created |
+| `displayName` | `string` | ❌ | ❌ | ❌ | Name of your send connector |
+| `dnsRouting` | `boolean` | ❌ | ❌ | ❌ | Use dns MX record to route emails via this send connector |
+| `id` | `long` | ❌ | ✅ | ✅ | Id of this send connector |
+| `lastUpdateDate` | `datetime` | ❌ | ✅ | ✅ | Last update date |
+| `maxSendSize` | `long` | ❌ | ❌ | ❌ | Maximum send size in MB |
+| `port` | `long` | ❌ | ❌ | ❌ | Port adress that will be used to all e-mails send via this send connector |
+| `requireTLS` | `boolean` | ❌ | ❌ | ❌ | All messages sent through this connector will be transmitted using TLS |
+| `smartHost` | `string` | ❌ | ✅ | ❌ | Relay domain address that will be used to all e-mails send via this send connector |
+| `smartHostAuthMechanism` | `email.exchange.smartHostAuthMechanismEnum` | ❌ | ❌ | ✅ | Authentication mechanism to use for authentication with a smart host |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Send connector state |
+| `taskPendingId` | `long` | ❌ | ✅ | ✅ | Pending task for this send connector |
+
+### `email.exchange.sharedAccount`
+
+_Exchange shared mailbox_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ✅ | ✅ | Creation date |
+| `currentUsage` | `long` | ❌ | ✅ | ✅ | Shared mailbox usage |
+| `displayName` | `string` | ❌ | ✅ | ❌ | Shared account display name |
+| `firstName` | `string` | ❌ | ✅ | ❌ | Shared account first name |
+| `hiddenFromGAL` | `boolean` | ❌ | ❌ | ❌ | Hide shared account in Global Address List |
+| `id` | `long` | ❌ | ❌ | ✅ | Shared account id |
+| `initials` | `string` | ❌ | ✅ | ❌ | Shared account initials |
+| `lastLogoffDate` | `datetime` | ❌ | ✅ | ✅ | Last logoff |
+| `lastLogonDate` | `datetime` | ❌ | ✅ | ✅ | Last logon |
+| `lastName` | `string` | ❌ | ✅ | ❌ | Shared account last name |
+| `mailingFilter` | `email.exchange.MailingFilterEnum[]` | ❌ | ✅ | ❌ | Enable or disable anti-virus and anti-spam |
+| `quota` | `long` | ❌ | ❌ | ❌ | Shared account maximum size |
+| `sharedEmailAddress` | `string` | ❌ | ❌ | ❌ | Default email for this shared mailbox |
+| `spamDetected` | `boolean` | ❌ | ❌ | ✅ | Account was sending spam |
+| `spamTicketNumber` | `long` | ❌ | ✅ | ✅ | Ticket number of spam detection |
+| `state` | `email.exchange.ObjectStateEnum` | ❌ | ❌ | ✅ | Shared account state |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task for this shared account |
+
+### `email.exchange.smartHostAuthMechanismEnum`
+
+_Smart host authentication mechanism_
+
+**Enum** (`enumType: string`):
+
+- `basicAuth`
+- `basicAuthRequireTLS`
+- `none`
+
+### `email.exchange.spamAndVirusConfiguration`
+
+_Spam and Antyvirus configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `checkDKIM` | `boolean` | ❌ | ❌ | ❌ | Check DKIM of message |
+| `checkSPF` | `boolean` | ❌ | ❌ | ❌ | Check SPF of message |
+| `deleteSpam` | `boolean` | ❌ | ❌ | ❌ | If message is a spam delete it |
+| `deleteVirus` | `boolean` | ❌ | ❌ | ❌ | If message is a virus delete it |
+| `putInJunk` | `boolean` | ❌ | ❌ | ❌ | If message is a spam or virus put in junk. Overridden by deleteSpam or deleteVirus |
+| `tagSpam` | `boolean` | ❌ | ❌ | ❌ | If message is a spam change its subject |
+| `tagVirus` | `boolean` | ❌ | ❌ | ❌ | If message is a virus change its subject |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

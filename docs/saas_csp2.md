@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **15** — Operations: **19**
+> Routes: **15** — Operations: **19**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `d31e280e23383310`
 
 ---
 
@@ -32,7 +34,7 @@
 
 _Operations about the CSP2 service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -55,7 +57,7 @@ _Operations about the CSP2 service_
 
 _Operations about the CSP2 service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -73,7 +75,7 @@ _Operations about the CSP2 service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -97,7 +99,7 @@ _Operations about the CSP2 service_
 
 _billingPeriodPeaks operations_
 
-### 🟢 GET `GET` — Get the current billing period's usage peak for each subscription
+### 🟢 GET — Get the current billing period's usage peak for each subscription
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -120,7 +122,7 @@ _billingPeriodPeaks operations_
 
 _List the saas.csp2.OfficeLicence objects_
 
-### 🟢 GET `GET` — Licenses available for order
+### 🟢 GET — Licenses available for order
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -143,7 +145,7 @@ _List the saas.csp2.OfficeLicence objects_
 
 _List the saas.csp2.OfficeLicence objects_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -167,7 +169,7 @@ _List the saas.csp2.OfficeLicence objects_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -185,7 +187,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -209,7 +211,7 @@ _Details about a Service_
 
 _List the saas.csp2.OfficeSubscription objects_
 
-### 🟢 GET `GET` — Subscriptions associated to this office tenant
+### 🟢 GET — Subscriptions associated to this office tenant
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -227,7 +229,7 @@ _List the saas.csp2.OfficeSubscription objects_
 
 ---
 
-### 🟡 POST `POST` — Add a subscription to this tenant
+### 🟡 POST — Add a subscription to this tenant
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -251,7 +253,7 @@ _List the saas.csp2.OfficeSubscription objects_
 
 _List the saas.csp2.OfficeSubscription objects_
 
-### 🔴 DELETE `DELETE` — Delete a subscription from this tenant
+### 🔴 DELETE — Delete a subscription from this tenant
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -270,7 +272,7 @@ _List the saas.csp2.OfficeSubscription objects_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -294,7 +296,7 @@ _List the saas.csp2.OfficeSubscription objects_
 
 _addonsSubscriptionIds operations_
 
-### 🟢 GET `GET` — Addon subscriptions associated to this office subscription
+### 🟢 GET — Addon subscriptions associated to this office subscription
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -318,7 +320,7 @@ _addonsSubscriptionIds operations_
 
 _availableAddonLicenses operations_
 
-### 🟢 GET `GET` — Gives a list of licenses ids that can be ordered as an addon for this subscription
+### 🟢 GET — Gives a list of licenses ids that can be ordered as an addon for this subscription
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -342,7 +344,7 @@ _availableAddonLicenses operations_
 
 _changeQuantity operations_
 
-### 🟡 POST `POST` — Change the quantity of seats in the subscription
+### 🟡 POST — Change the quantity of seats in the subscription
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -367,7 +369,7 @@ _changeQuantity operations_
 
 _orderAddon operations_
 
-### 🟡 POST `POST` — Creates a new subscription as an addon for this subscription
+### 🟡 POST — Creates a new subscription as an addon for this subscription
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -392,7 +394,7 @@ _orderAddon operations_
 
 _List the saas.csp2.OfficeTask objects_
 
-### 🟢 GET `GET` — Pending tasks of this tenant
+### 🟢 GET — Pending tasks of this tenant
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -415,7 +417,7 @@ _List the saas.csp2.OfficeTask objects_
 
 _List the saas.csp2.OfficeTask objects_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -439,7 +441,7 @@ _List the saas.csp2.OfficeTask objects_
 
 _usageStatistics operations_
 
-### 🟢 GET `GET` — Get the usage statistics over the chosen period
+### 🟢 GET — Get the usage statistics over the chosen period
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -455,5 +457,337 @@ _usageStatistics operations_
 
 **IAM actions:** `cspReseller:apiovh:usageStatistics/get` (required)
 
+
+---
+
+## Models
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `msServices.LicensePeriodEnum`
+
+_Period of time used to determine license statistics_
+
+**Enum** (`enumType: string`):
+
+- `lastMonth`
+- `lastQuarter`
+- `lastWeek`
+- `lastYear`
+
+### `saas.csp2.BillingStatistics`
+
+_Billing statistics for the current period_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endDate` | `date` | ❌ | ❌ | ✅ | End of the billing period |
+| `lines` | `saas.csp2.BillingStatisticsLine[]` | ❌ | ❌ | ✅ | List of lines associated to this statistics entity. |
+| `startDate` | `date` | ❌ | ❌ | ✅ | Start of the billing period |
+
+### `saas.csp2.BillingStatisticsLine`
+
+_Billing statistics line._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `licenceId` | `long` | ❌ | ❌ | ✅ | Id of the Office license. |
+| `licenceName` | `string` | ❌ | ❌ | ✅ | Name of the Office license. |
+| `peakCount` | `long` | ❌ | ❌ | ✅ | Maximum count of simultaneous activated licences. |
+
+### `saas.csp2.LicenseTypeEnum`
+
+_Office license's type_
+
+**Enum** (`enumType: string`):
+
+- `ADDON`
+- `NON-SPECIFIC`
+
+### `saas.csp2.OfficeLicence`
+
+_Office licence_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ | License unique identifier |
+| `licenceType` | `saas.csp2.LicenseTypeEnum` | ❌ | ❌ | ✅ | License's type, indicates if the licence is standalone or an addon |
+| `limit` | `long` | ❌ | ✅ | ✅ | Maximum purchasable license |
+| `name` | `string` | ❌ | ❌ | ✅ | License name |
+| `newSeatsAllowed` | `boolean` | ❌ | ❌ | ✅ | Whether or not it is possible to add new seats on subscriptions of this licence type |
+| `newSubscriptionsAllowed` | `boolean` | ❌ | ❌ | ✅ | Whether or not this licence type is allowed for new subscriptions |
+
+### `saas.csp2.OfficeSubscription`
+
+_Office subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `id` | `long` | ❌ | ❌ | ✅ | Subscription's unique identifier |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | Last update date |
+| `licenseId` | `long` | ❌ | ❌ | ✅ | License's type id |
+| `quantity` | `long` | ❌ | ❌ | ✅ | Number of available licenses |
+| `status` | `string` | ❌ | ❌ | ✅ | Subscription's status |
+| `taskPendingId` | `long` | ❌ | ❌ | ✅ | Pending task's unique identifier |
+
+### `saas.csp2.OfficeTask`
+
+_Office task_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `finishDate` | `datetime` | ❌ | ✅ | ✅ | Completion date |
+| `function` | `string` | ❌ | ❌ | ✅ | Function name |
+| `id` | `long` | ❌ | ❌ | ✅ | Unique identifier of the task |
+| `status` | `saas.csp2.TaskStatusEnum` | ❌ | ❌ | ✅ | Task state |
+| `todoDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+
+### `saas.csp2.OfficeTenant`
+
+_Office tenant_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `string` | ❌ | ❌ | ❌ | Contact's address line |
+| `city` | `string` | ❌ | ❌ | ❌ | Contact's city |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `displayName` | `string` | ❌ | ❌ | ❌ | Tenant's display name |
+| `email` | `string` | ❌ | ❌ | ❌ | Contact's email address |
+| `firstName` | `string` | ❌ | ❌ | ❌ | Contact's first name |
+| `hasAcceptedNewMCA` | `boolean` | ❌ | ❌ | ✅ | Whether or not the 2025 Microsoft Customer Agreement was properly accepted |
+| `lastName` | `string` | ❌ | ❌ | ❌ | Contact's last name |
+| `mpnId` | `string` | ❌ | ✅ | ❌ | Microsoft Partner Network identifier linked to this tenant |
+| `mpnIssueFlag` | `string` | ❌ | ✅ | ✅ | Code of any detected issue regarding the MPN Id |
+| `phone` | `phoneNumber` | ❌ | ❌ | ❌ | Primary phone number |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Internal service name |
+| `status` | `saas.csp2.ServiceStateEnum` | ❌ | ❌ | ✅ | Tenant's status |
+| `zipCode` | `string` | ❌ | ❌ | ❌ | Contact's zip code |
+
+### `saas.csp2.OfficeTenantWithIAM`
+
+_Office tenant_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `string` | ❌ | ❌ | ❌ | Contact's address line |
+| `city` | `string` | ❌ | ❌ | ❌ | Contact's city |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `displayName` | `string` | ❌ | ❌ | ❌ | Tenant's display name |
+| `email` | `string` | ❌ | ❌ | ❌ | Contact's email address |
+| `firstName` | `string` | ❌ | ❌ | ❌ | Contact's first name |
+| `hasAcceptedNewMCA` | `boolean` | ❌ | ❌ | ✅ | Whether or not the 2025 Microsoft Customer Agreement was properly accepted |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `lastName` | `string` | ❌ | ❌ | ❌ | Contact's last name |
+| `mpnId` | `string` | ❌ | ✅ | ❌ | Microsoft Partner Network identifier linked to this tenant |
+| `mpnIssueFlag` | `string` | ❌ | ✅ | ✅ | Code of any detected issue regarding the MPN Id |
+| `phone` | `phoneNumber` | ❌ | ❌ | ❌ | Primary phone number |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Internal service name |
+| `status` | `saas.csp2.ServiceStateEnum` | ❌ | ❌ | ✅ | Tenant's status |
+| `zipCode` | `string` | ❌ | ❌ | ❌ | Contact's zip code |
+
+### `saas.csp2.ServiceStateEnum`
+
+_Office tenant state_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `inMaintenance`
+- `ok`
+- `reopening`
+- `suspended`
+- `suspending`
+
+### `saas.csp2.Statistics`
+
+_License usage statistics._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `date` | ❌ | ❌ | ✅ | Date of the statistics. |
+| `lines` | `saas.csp2.StatisticsLine[]` | ❌ | ❌ | ✅ | List of lines associated to this statistics entity. |
+
+### `saas.csp2.StatisticsLine`
+
+_License usage statistics line._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endOfDayCount` | `long` | ❌ | ❌ | ✅ | Count of activated licenses at the end of the day. |
+| `licenceId` | `long` | ❌ | ❌ | ✅ | Id of the Office license. |
+| `licenceName` | `string` | ❌ | ❌ | ✅ | Name of the Office license. |
+| `peakCount` | `long` | ❌ | ❌ | ✅ | Maximum count of simultaneous activated licences. |
+
+### `saas.csp2.SubscriptionChangeQuantityCreation`
+
+_Change subscription quantity_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `long` | ✅ | ❌ | ❌ | New seat quantity |
+
+### `saas.csp2.SubscriptionCreation`
+
+_Create subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `licenseId` | `long` | ✅ | ❌ | ❌ | License's type unique identifier |
+| `quantity` | `long` | ✅ | ❌ | ❌ | Quantity of licenses to order |
+
+### `saas.csp2.SubscriptionOrderAddonCreation`
+
+_Create subscription order addon_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `licenseId` | `long` | ✅ | ❌ | ❌ | License id associated to this addon subscription (see subscription/<id>/availableAddonLicenses) |
+| `quantity` | `long` | ✅ | ❌ | ❌ | Seat quantity of the new subscription |
+
+### `saas.csp2.TaskStatusEnum`
+
+_Office CSP2 task status_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **40** — Operations: **50**
+> Routes: **40** — Operations: **50**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `bd38130eeebaa45d`
 
 ---
 
@@ -57,7 +59,7 @@
 
 _Operations about the OVERTHEBOX service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -80,7 +82,7 @@ _Operations about the OVERTHEBOX service_
 
 _List the available offers for the new call_
 
-### 🟢 GET `GET` — List the available offers for the new call
+### 🟢 GET — List the available offers for the new call
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -97,7 +99,7 @@ _List the available offers for the new call_
 
 _Get the list of devices connected from the same IP address_
 
-### 🟡 POST `POST` — Get the list of devices connected from the same IP address
+### 🟡 POST — Get the list of devices connected from the same IP address
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -114,7 +116,7 @@ _Get the list of devices connected from the same IP address_
 
 _Operations about the OVERTHEBOX service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -137,7 +139,7 @@ _Operations about the OVERTHEBOX service_
 
 _List hardware that can be linked to a service_
 
-### 🟢 GET `GET` — List hardware that can be linked to a service
+### 🟢 GET — List hardware that can be linked to a service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -154,7 +156,7 @@ _List hardware that can be linked to a service_
 
 _Hardware properties_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -177,7 +179,7 @@ _Hardware properties_
 
 _Service_
 
-### 🔴 DELETE `DELETE` — Resiliate a service
+### 🔴 DELETE — Resiliate a service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -195,7 +197,7 @@ _Service_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -213,7 +215,7 @@ _Service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -237,7 +239,7 @@ _Service_
 
 _autoMTU operations_
 
-### 🟠 PUT `PUT` — Change the value of autoMTU
+### 🟠 PUT — Change the value of autoMTU
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -261,7 +263,7 @@ _autoMTU operations_
 
 _availableReleaseChannels operations_
 
-### 🟢 GET `GET` — List available release channels for this service
+### 🟢 GET — List available release channels for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -284,7 +286,7 @@ _availableReleaseChannels operations_
 
 _List the overTheBox.Backup objects_
 
-### 🟢 GET `GET` — List of backups for this service
+### 🟢 GET — List of backups for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -307,7 +309,7 @@ _List the overTheBox.Backup objects_
 
 _Backup_
 
-### 🔴 DELETE `DELETE` — Delete a backup
+### 🔴 DELETE — Delete a backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -326,7 +328,7 @@ _Backup_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -350,7 +352,7 @@ _Backup_
 
 _cancelResiliation operations_
 
-### 🟡 POST `POST` — Cancel the resiliation of the Service
+### 🟡 POST — Cancel the resiliation of the Service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -373,7 +375,7 @@ _cancelResiliation operations_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -399,7 +401,7 @@ _Change the contacts of this service_
 
 _Device_
 
-### 🔴 DELETE `DELETE` — Unlink a device from a service
+### 🔴 DELETE — Unlink a device from a service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -417,7 +419,7 @@ _Device_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -440,7 +442,7 @@ _Device_
 
 _List the overTheBox.DeviceAction objects_
 
-### 🟢 GET `GET` — List of actions scheduled for this device
+### 🟢 GET — List of actions scheduled for this device
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -460,7 +462,7 @@ _List the overTheBox.DeviceAction objects_
 
 ---
 
-### 🟡 POST `POST` — Create a device action on the device
+### 🟡 POST — Create a device action on the device
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -484,7 +486,7 @@ _List the overTheBox.DeviceAction objects_
 
 _Device action_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -508,7 +510,7 @@ _Device action_
 
 _availableActions operations_
 
-### 🟢 GET `GET` — List the available device actions
+### 🟢 GET — List the available device actions
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -531,7 +533,7 @@ _availableActions operations_
 
 _backup operations_
 
-### 🟡 POST `POST` — Create an action to generate a backup
+### 🟡 POST — Create an action to generate a backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -554,7 +556,7 @@ _backup operations_
 
 _Hardware properties_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -577,7 +579,7 @@ _Hardware properties_
 
 _logs operations_
 
-### 🟡 POST `POST` — Generate a temporary url to retrieve device logs
+### 🟡 POST — Generate a temporary url to retrieve device logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -600,7 +602,7 @@ _logs operations_
 
 _restoreBackup operations_
 
-### 🟡 POST `POST` — Create a group of actions to restore a given backup
+### 🟡 POST — Create a group of actions to restore a given backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -622,7 +624,7 @@ _restoreBackup operations_
 
 ## `/overTheBox/{serviceName}/ips`
 
-### 🟢 GET `GET` — List IP assigned to an OverTheBox service
+### 🟢 GET — List IP assigned to an OverTheBox service
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -643,7 +645,7 @@ _restoreBackup operations_
 
 ## `/overTheBox/{serviceName}/ips/{ip}`
 
-### 🟢 GET `GET` — Get details IP assigned to an OverTheBox service
+### 🟢 GET — Get details IP assigned to an OverTheBox service
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -667,7 +669,7 @@ _restoreBackup operations_
 
 _ipv6 operations_
 
-### 🟠 PUT `PUT` — Change the status of IPv6 on this service
+### 🟠 PUT — Change the status of IPv6 on this service
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -691,7 +693,7 @@ _ipv6 operations_
 
 _linkDevice operations_
 
-### 🟡 POST `POST` — Link a device to this service
+### 🟡 POST — Link a device to this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -715,7 +717,7 @@ _linkDevice operations_
 
 _linkHardware operations_
 
-### 🟡 POST `POST` — Link an available hardware to this service
+### 🟡 POST — Link an available hardware to this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -739,7 +741,7 @@ _linkHardware operations_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -762,7 +764,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -786,7 +788,7 @@ _Access to available log kind_
 
 _Create a subscription from overthebox logs to a pre-existing LDP stream_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -805,7 +807,7 @@ _Create a subscription from overthebox logs to a pre-existing LDP stream_
 
 ---
 
-### 🟡 POST `POST` — Create a subscription from logs to a pre-existing LDP stream
+### 🟡 POST — Create a subscription from logs to a pre-existing LDP stream
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -829,7 +831,7 @@ _Create a subscription from overthebox logs to a pre-existing LDP stream_
 
 _Create a subscription from overthebox logs to a pre-existing LDP stream_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -848,7 +850,7 @@ _Create a subscription from overthebox logs to a pre-existing LDP stream_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -872,7 +874,7 @@ _Create a subscription from overthebox logs to a pre-existing LDP stream_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: alpha](https://img.shields.io/badge/status-alpha-lightgrey)
 
@@ -896,7 +898,7 @@ _Generate a temporary URL to retrieve logs_
 
 _changeOffers operations_
 
-### 🟡 POST `POST` — Migrate to the selected overTheBox offer
+### 🟡 POST — Migrate to the selected overTheBox offer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -922,7 +924,7 @@ _changeOffers operations_
 
 _offers operations_
 
-### 🟢 GET `GET` — List all available offers one can migrate to
+### 🟢 GET — List all available offers one can migrate to
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -945,7 +947,7 @@ _offers operations_
 
 _List the overTheBox.RemoteAccess objects_
 
-### 🟢 GET `GET` — List of remote accesses for the service
+### 🟢 GET — List of remote accesses for the service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -963,7 +965,7 @@ _List the overTheBox.RemoteAccess objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new remote access for the service
+### 🟡 POST — Create a new remote access for the service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -990,7 +992,7 @@ _List the overTheBox.RemoteAccess objects_
 
 _If authorized, a remote access will expose a port, allowing an access to the device remotely_
 
-### 🔴 DELETE `DELETE` — Delete a remote access
+### 🔴 DELETE — Delete a remote access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1009,7 +1011,7 @@ _If authorized, a remote access will expose a port, allowing an access to the de
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1033,7 +1035,7 @@ _If authorized, a remote access will expose a port, allowing an access to the de
 
 _authorize operations_
 
-### 🟡 POST `POST` — Authorize the remote access
+### 🟡 POST — Authorize the remote access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1057,7 +1059,7 @@ _authorize operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1075,7 +1077,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1099,7 +1101,7 @@ _Details about a Service_
 
 _Get statistics for an OTB device_
 
-### 🟢 GET `GET` — Get statistics for an OTB device
+### 🟢 GET — Get statistics for an OTB device
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1124,7 +1126,7 @@ _Get statistics for an OTB device_
 
 _List the overTheBox.Task objects_
 
-### 🟢 GET `GET` — List of tasks scheduled for this service
+### 🟢 GET — List of tasks scheduled for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1149,7 +1151,7 @@ _List the overTheBox.Task objects_
 
 _Task_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1165,5 +1167,746 @@ _Task_
 
 **IAM actions:** `overTheBox:apiovh:tasks/get` (required)
 
+
+---
+
+## Models
+
+### `dbaas.logs.LogKind`
+
+_Log kind_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalReturnedFields` | `string[]` | ❌ | ❌ | ✅ | List of additional log fields managed in this log kind |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the log kind |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Log kind display name |
+| `kindId` | `uuid` | ❌ | ❌ | ✅ | Log kind ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Log kind name |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the log kind |
+
+### `dbaas.logs.LogSubscription`
+
+_Log subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the subscription |
+| `kind` | `string` | ❌ | ❌ | ✅ | Log kind name of this subscription |
+| `resource` | `dbaas.logs.SubscriptionResource` | ❌ | ❌ | ✅ | Subscribed resource, where the logs come from |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the destination log service |
+| `streamId` | `string` | ❌ | ❌ | ✅ | Id of the destination log stream |
+| `subscriptionId` | `uuid` | ❌ | ❌ | ✅ | Subscription ID |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the subscription |
+
+### `dbaas.logs.LogSubscriptionCreation`
+
+_Log subscription creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name to subscribe to |
+| `streamId` | `uuid` | ✅ | ❌ | ❌ | Customer log stream ID |
+
+### `dbaas.logs.LogSubscriptionResponse`
+
+_Asynchronous operation after subscribing or unsubscribing to a resource logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operationId` | `uuid` | ❌ | ❌ | ✅ | Identifier of the operation |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Operation owner's service name |
+
+### `dbaas.logs.LogUrlCreation`
+
+_Log temporary URL creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name |
+
+### `dbaas.logs.SubscriptionResource`
+
+_Log subscription resource_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of subscribed resource |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of subscribed resource |
+
+### `dbaas.logs.TemporaryLogsLink`
+
+_Temporary url information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ✅ | Temporary url |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `order.CurrencyCodeEnum`
+
+**Enum** (`enumType: string`):
+
+- `AUD`
+- `CAD`
+- `CZK`
+- `EUR`
+- `GBP`
+- `INR`
+- `LTL`
+- `MAD`
+- `N/A`
+- `PLN`
+- `SGD`
+- `TND`
+- `USD`
+- `XOF`
+- `points`
+
+### `order.Price`
+
+_Price with it's currency and textual representation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currencyCode` | `order.CurrencyCodeEnum` | ❌ | ❌ | ❌ |  |
+| `text` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `double` | ❌ | ❌ | ❌ |  |
+
+### `otb.DeviceStatisticsPeriodEnum`
+
+_Statistics Period_
+
+**Enum** (`enumType: string`):
+
+- `daily`
+- `hourly`
+- `monthly`
+- `weekly`
+
+### `otb.DeviceStatisticsTypeEnum`
+
+_Serie Name_
+
+**Enum** (`enumType: string`):
+
+- `load`
+- `memory_free`
+- `traffic`
+
+### `otb.DeviceStatisticsUnitEnum`
+
+_Serie Unit_
+
+**Enum** (`enumType: string`):
+
+- `bps`
+- `byte`
+- `n/a`
+
+### `otb.device.statistics`
+
+_Device Statistics Datapoints_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the serie |
+| `points` | `otb.device.statistics.point[]` | ❌ | ❌ | ✅ | List of point |
+| `tags` | `otb.device.statistics.tag[]` | ❌ | ❌ | ✅ | List of tags |
+| `unit` | `otb.DeviceStatisticsUnitEnum` | ❌ | ❌ | ✅ | Unit of the serie |
+
+### `otb.device.statistics.point`
+
+_Statistics Datapoint_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `timestamp` | `long` | ❌ | ❌ | ✅ | Timestamp |
+| `value` | `double` | ❌ | ✅ | ✅ | Datapoint value |
+
+### `otb.device.statistics.tag`
+
+_Tags for the metrics_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of tag |
+| `value` | `string` | ❌ | ✅ | ✅ | Value of tag |
+
+### `otb.service.ip`
+
+_Service IP details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `geolocation` | `otb.service.ip.geolocationEnum` | ❌ | ❌ | ✅ | IP geolocation |
+| `ip` | `ip` | ❌ | ❌ | ✅ | IP address |
+| `range` | `long` | ❌ | ❌ | ✅ | IP cidr prefix |
+| `status` | `otb.service.ip.statusEnum` | ❌ | ❌ | ✅ | IP status |
+| `version` | `otb.service.ip.versionEnum` | ❌ | ❌ | ✅ | IP version |
+
+### `otb.service.ip.geolocationEnum`
+
+_IP geolocation_
+
+**Enum** (`enumType: string`):
+
+- `fr`
+
+### `otb.service.ip.statusEnum`
+
+_IP status_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `free`
+- `pendingRelease`
+- `released`
+- `reserved`
+
+### `otb.service.ip.versionEnum`
+
+_IP version_
+
+**Enum** (`enumType: string`):
+
+- `v4`
+- `v6`
+
+### `overTheBox.ActionStatusEnum`
+
+_Status of a task._
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `overTheBox.AvailableDeviceAction`
+
+_Device action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the action |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the action |
+
+### `overTheBox.AvailableMigrationOffer`
+
+_Migration offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currentOfferPrice` | `order.Price` | ❌ | ❌ | ❌ | Monthly price of the current offer |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the offer |
+| `engagementMonths` | `long` | ❌ | ❌ | ❌ | Number of months of engagement |
+| `hardwareAvailable` | `boolean` | ❌ | ❌ | ❌ | Specify if a hardware is available |
+| `hardwareName` | `string` | ❌ | ✅ | ❌ | Name of the hardware |
+| `hardwarePrice` | `order.Price` | ❌ | ✅ | ❌ | Hardware purchase price |
+| `hardwares` | `overTheBox.HardwareDetails[]` | ❌ | ❌ | ❌ | Details of available hardwares |
+| `offer` | `string` | ❌ | ❌ | ❌ | Name of the offer |
+| `price` | `order.Price` | ❌ | ❌ | ❌ | Monthly price of the new offer |
+
+### `overTheBox.AvailableStatusEnum`
+
+_Status of the service_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `overTheBox.Backup`
+
+_Backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupId` | `string` | ❌ | ❌ | ✅ | The id of the backup |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the backup |
+| `deviceActionId` | `string` | ❌ | ✅ | ✅ | The id of the device action that triggered the backup |
+
+### `overTheBox.Device`
+
+_Device_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activated` | `boolean` | ❌ | ❌ | ✅ | Whether or not this device is associated to a service |
+| `availableUpdate` | `boolean` | ❌ | ❌ | ✅ | Whether or not an upate is available for this device |
+| `deviceId` | `string` | ❌ | ❌ | ✅ | The id of the device |
+| `lastSeen` | `datetime` | ❌ | ❌ | ✅ | Last time the device has been seen on the provisionning servers |
+| `networkInterfaces` | `overTheBox.DeviceInterface[]` | ❌ | ❌ | ✅ | Network interfaces of the device |
+| `publicIp` | `ip` | ❌ | ❌ | ✅ | The public IP of the device |
+| `system` | `overTheBox.DeviceSystem` | ❌ | ✅ | ✅ | Device system information |
+| `systemVersion` | `string` | ❌ | ❌ | ✅ | System version of the device |
+| `version` | `string` | ❌ | ❌ | ✅ | Version of the device |
+
+### `overTheBox.DeviceAction`
+
+_Device action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actionId` | `string` | ❌ | ❌ | ✅ | The id of the action |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of creation of the action |
+| `details` | `string` | ❌ | ❌ | ✅ | The details of the action |
+| `name` | `string` | ❌ | ❌ | ✅ | The name of the action |
+| `status` | `overTheBox.ActionStatusEnum` | ❌ | ❌ | ✅ | The status of the action |
+| `todoDate` | `datetime` | ❌ | ❌ | ✅ | Date of execution of the action |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last time the action was updated |
+
+### `overTheBox.DeviceForRegistration`
+
+_A device for registration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activated` | `boolean` | ❌ | ❌ | ❌ | Whether or not this device is actived |
+| `deviceId` | `string` | ❌ | ❌ | ❌ |  |
+| `lastSeen` | `datetime` | ❌ | ❌ | ❌ | The last time this device was seen on the provisionning servers |
+
+### `overTheBox.DeviceInterface`
+
+_Infos about a network interface_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `device` | `string` | ❌ | ✅ | ❌ | Device of the interface |
+| `dnsServers` | `ip[]` | ❌ | ✅ | ❌ | The DNS servers of this interface |
+| `gateway` | `ip` | ❌ | ✅ | ❌ | Gateway of the interface |
+| `ip` | `ip` | ❌ | ✅ | ❌ | IP of the interface |
+| `multipathStatus` | `overTheBox.MultipathStatusEnum` | ❌ | ❌ | ❌ | Status of MPTCP on this interface |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the interface |
+| `netmask` | `ip` | ❌ | ✅ | ❌ | Netmask of the interface |
+| `publicIp` | `ip` | ❌ | ✅ | ❌ | Public IP of the interface |
+
+### `overTheBox.DeviceSystem`
+
+_Infos about a device system_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpu` | `string` | ❌ | ✅ | ❌ | Device CPU |
+| `hostname` | `string` | ❌ | ✅ | ❌ | Device hostname |
+| `kernel` | `string` | ❌ | ✅ | ❌ | Device linux kernel version |
+| `mac` | `string` | ❌ | ✅ | ❌ | Device mac address (first interface mac) |
+| `model` | `string` | ❌ | ✅ | ❌ | Device model |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the device board |
+| `offerName` | `string` | ❌ | ✅ | ❌ | OVH offer name of the device board |
+| `ovhName` | `string` | ❌ | ✅ | ❌ | OVH name of the device board |
+
+### `overTheBox.GraphEndpoint`
+
+_Parameters required to query metrics from OpenTSDB_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `host` | `string` | ❌ | ❌ | ❌ | The OpenTSDB host |
+| `readToken` | `string` | ❌ | ❌ | ❌ | A read-only token |
+| `readTokenID` | `string` | ❌ | ❌ | ❌ | The read-only token ID |
+
+### `overTheBox.Hardware`
+
+_Hardware properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canBeLinkedToService` | `boolean` | ❌ | ❌ | ✅ | True if hardware can be linked to a service without deviceID |
+| `mac` | `macAddress` | ❌ | ✅ | ✅ | Hardware MAC address |
+| `model` | `string` | ❌ | ❌ | ✅ | Hardware model |
+| `name` | `string` | ❌ | ❌ | ✅ | Hardware name |
+| `prettyModelName` | `string` | ❌ | ❌ | ✅ | The hardware pretty model name |
+| `serial` | `string` | ❌ | ❌ | ✅ | Hardware serial |
+
+### `overTheBox.HardwareDetails`
+
+_Details of available hardwares_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hardwareDisplayName` | `string` | ❌ | ✅ | ❌ | Pretty hardware model name |
+| `hardwareName` | `string` | ❌ | ✅ | ❌ | Name of the hardware |
+| `hardwarePrice` | `order.Price` | ❌ | ✅ | ❌ | Hardware purchase price |
+
+### `overTheBox.HardwareWithIAM`
+
+_Hardware properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canBeLinkedToService` | `boolean` | ❌ | ❌ | ✅ | True if hardware can be linked to a service without deviceID |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `mac` | `macAddress` | ❌ | ✅ | ✅ | Hardware MAC address |
+| `model` | `string` | ❌ | ❌ | ✅ | Hardware model |
+| `name` | `string` | ❌ | ❌ | ✅ | Hardware name |
+| `prettyModelName` | `string` | ❌ | ❌ | ✅ | The hardware pretty model name |
+| `serial` | `string` | ❌ | ❌ | ✅ | Hardware serial |
+
+### `overTheBox.MultipathStatusEnum`
+
+_Status of a MPTCP Interface._
+
+**Enum** (`enumType: string`):
+
+- `backup`
+- `handover`
+- `master`
+- `off`
+- `on`
+
+### `overTheBox.OrderMigration`
+
+_Migration order_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `orderId` | `string` | ❌ | ❌ | ❌ | Id of the migration order |
+| `orderUrl` | `string` | ❌ | ❌ | ❌ | URL of the migration order |
+
+### `overTheBox.RemoteAccess`
+
+_If authorized, a remote access will expose a port, allowing an access to the device remotely_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accepted` | `boolean` | ❌ | ❌ | ✅ | If the remote access was accepted by the remote user |
+| `askDate` | `datetime` | ❌ | ❌ | ✅ | The date of the remote access demand |
+| `authorizedBy` | `string` | ❌ | ✅ | ✅ | The user that authorized the remote access |
+| `connectionInfos` | `overTheBox.RemoteAccessConnectionInfos` | ❌ | ❌ | ✅ | All the infos needed to connect yourself to your OTB |
+| `deletedAt` | `datetime` | ❌ | ✅ | ✅ | When the remote access was deleted |
+| `dockerVersion` | `string` | ❌ | ❌ | ✅ | Info about the docker version |
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | When the remote access will be automatically deleted |
+| `exposedPort` | `long` | ❌ | ❌ | ✅ | The device's port which will be exposed |
+| `remoteAccessId` | `string` | ❌ | ❌ | ✅ | The id of the remote access |
+| `remoteUserInfos` | `overTheBox.RemoteAccessUserInfos` | ❌ | ❌ | ✅ | Infos about the remote user |
+| `status` | `overTheBox.RemoteAccessStatusEnum` | ❌ | ❌ | ✅ | Status of the remote access |
+
+### `overTheBox.RemoteAccessConnectionInfos`
+
+_All the infos needed to connect yourself to your OTB_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ip` | ❌ | ✅ | ❌ | IP to connect to when accessing the device remotely |
+| `port` | `long` | ❌ | ✅ | ❌ | Port to connect to when accessing the device remotely |
+
+### `overTheBox.RemoteAccessStatusEnum`
+
+_Status of the remote access._
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `creating`
+- `deleted`
+- `deleting`
+- `pendingValidation`
+- `recreating`
+- `toDelete`
+- `toRecreate`
+
+### `overTheBox.RemoteAccessUserInfos`
+
+_Infos about the remote user_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ipBlock` | ❌ | ❌ | ❌ | IP from which the remote access will be allowed |
+| `publicKey` | `string` | ❌ | ✅ | ❌ | The public key authorized on the device (for SSH purpose) |
+| `user` | `string` | ❌ | ❌ | ❌ | The user that will access the device remotely |
+
+### `overTheBox.Service`
+
+_Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `SOCKSProxyEnabled` | `boolean` | ❌ | ❌ | ✅ | If the socks proxy is enabled |
+| `autoMTU` | `overTheBox.AvailableStatusEnum` | ❌ | ❌ | ✅ | The status of the autoMTU |
+| `autoUpgrade` | `boolean` | ❌ | ❌ | ❌ | Enable device auto upgrade |
+| `bandwidth` | `long` | ❌ | ❌ | ✅ | The service maximum bandwidth in bits |
+| `configurationMode` | `overTheBox.ServiceConfigurationModeEnum` | ❌ | ❌ | ✅ | Configuration mode of the service |
+| `customerDescription` | `string` | ❌ | ✅ | ❌ | Editable field for customer |
+| `graphEndpoint` | `overTheBox.GraphEndpoint` | ❌ | ✅ | ✅ | Parameters needed to fetch metrics |
+| `ipv6Enabled` | `boolean` | ❌ | ❌ | ✅ | Indicates if IPv6 is enabled |
+| `offer` | `string` | ❌ | ❌ | ✅ | The service offer |
+| `prettyOfferName` | `string` | ❌ | ❌ | ✅ | The service pretty offer name |
+| `releaseChannel` | `string` | ❌ | ❌ | ❌ | Release channel of the service |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | The name of the service |
+| `status` | `overTheBox.ServiceStatusEnum` | ❌ | ❌ | ✅ | The status of the service |
+| `tunnelMode` | `overTheBox.TunnelModeEnum` | ❌ | ❌ | ✅ | The tunnel mode of the service |
+
+### `overTheBox.ServiceConfigurationModeEnum`
+
+_Configuration mode of the service_
+
+**Enum** (`enumType: string`):
+
+- `autoconfigure`
+- `local`
+
+### `overTheBox.ServiceStatusEnum`
+
+_Status of the service._
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `creating`
+- `deleted`
+- `suspended`
+- `toCreate`
+- `toDelete`
+
+### `overTheBox.ServiceWithIAM`
+
+_Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `SOCKSProxyEnabled` | `boolean` | ❌ | ❌ | ✅ | If the socks proxy is enabled |
+| `autoMTU` | `overTheBox.AvailableStatusEnum` | ❌ | ❌ | ✅ | The status of the autoMTU |
+| `autoUpgrade` | `boolean` | ❌ | ❌ | ❌ | Enable device auto upgrade |
+| `bandwidth` | `long` | ❌ | ❌ | ✅ | The service maximum bandwidth in bits |
+| `configurationMode` | `overTheBox.ServiceConfigurationModeEnum` | ❌ | ❌ | ✅ | Configuration mode of the service |
+| `customerDescription` | `string` | ❌ | ✅ | ❌ | Editable field for customer |
+| `graphEndpoint` | `overTheBox.GraphEndpoint` | ❌ | ✅ | ✅ | Parameters needed to fetch metrics |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `ipv6Enabled` | `boolean` | ❌ | ❌ | ✅ | Indicates if IPv6 is enabled |
+| `offer` | `string` | ❌ | ❌ | ✅ | The service offer |
+| `prettyOfferName` | `string` | ❌ | ❌ | ✅ | The service pretty offer name |
+| `releaseChannel` | `string` | ❌ | ❌ | ❌ | Release channel of the service |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | The name of the service |
+| `status` | `overTheBox.ServiceStatusEnum` | ❌ | ❌ | ✅ | The status of the service |
+| `tunnelMode` | `overTheBox.TunnelModeEnum` | ❌ | ❌ | ✅ | The tunnel mode of the service |
+
+### `overTheBox.Task`
+
+_Task_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | The name of the task |
+| `status` | `overTheBox.TaskStatusEnum` | ❌ | ❌ | ✅ | The status of the task |
+| `taskId` | `string` | ❌ | ❌ | ✅ | The id of the task |
+
+### `overTheBox.TaskStatusEnum`
+
+_Status of a task._
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `overTheBox.TemporaryLogsLink`
+
+_Temporary url informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ❌ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ❌ | Temporary url |
+
+### `overTheBox.TunnelModeEnum`
+
+_Tunnel mode of the service._
+
+**Enum** (`enumType: string`):
+
+- `glorytun`
+- `glorytun_hybrid`
+- `glorytun_mud`
+
+### `price.OverTheBox.OfferEnum`
+
+_Enum of Offers_
+
+**Enum** (`enumType: string`):
+
+- `business.v1`
+- `plus.v1`
+- `starter.v1`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

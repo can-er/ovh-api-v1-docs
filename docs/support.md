@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **9** — Operations: **9**
+> Routes: **9** — Operations: **9**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `465b5428221dbf61`
 
 ---
 
@@ -26,7 +28,7 @@
 
 _List support tickets identifiers for this service_
 
-### 🟢 GET `GET` — List support tickets identifiers for this service
+### 🟢 GET — List support tickets identifiers for this service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -61,7 +63,7 @@ _List support tickets identifiers for this service_
 
 _Create a new ticket_
 
-### 🟡 POST `POST` — Create a new ticket
+### 🟡 POST — Create a new ticket
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -93,7 +95,7 @@ _Create a new ticket_
 
 _Get ticket_
 
-### 🟢 GET `GET` — Get ticket
+### 🟢 GET — Get ticket
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -116,7 +118,7 @@ _Get ticket_
 
 _Check whether ticket can be scored_
 
-### 🟢 GET `GET` — Checks whether ticket can be scored
+### 🟢 GET — Checks whether ticket can be scored
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -139,7 +141,7 @@ _Check whether ticket can be scored_
 
 _Close ticket_
 
-### 🟡 POST `POST` — Close ticket
+### 🟡 POST — Close ticket
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -162,7 +164,7 @@ _Close ticket_
 
 _Get ticket messages_
 
-### 🟢 GET `GET` — Get ticket messages
+### 🟢 GET — Get ticket messages
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -185,7 +187,7 @@ _Get ticket messages_
 
 _Reopen a ticket_
 
-### 🟡 POST `POST` — Reopen a ticket
+### 🟡 POST — Reopen a ticket
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -209,7 +211,7 @@ _Reopen a ticket_
 
 _Reply to ticket_
 
-### 🟡 POST `POST` — Reply to ticket
+### 🟡 POST — Reply to ticket
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -233,7 +235,7 @@ _Reply to ticket_
 
 _Set ticket score_
 
-### 🟡 POST `POST` — Set ticket score
+### 🟡 POST — Set ticket score
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -250,5 +252,157 @@ _Set ticket score_
 
 **IAM actions:** `account:apiovh:support/tickets/score` (required)
 
+
+---
+
+## Models
+
+### `support.Message`
+
+_Support ticket message_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `body` | `text` | ❌ | ❌ | ❌ | Message body |
+| `creationDate` | `datetime` | ❌ | ❌ | ❌ | Message creation date |
+| `from` | `support.MessageSenderEnum` | ❌ | ❌ | ❌ | Message sender type |
+| `messageId` | `long` | ❌ | ❌ | ❌ | Message identifier |
+| `ticketId` | `long` | ❌ | ❌ | ❌ | Ticket identifier |
+| `updateDate` | `datetime` | ❌ | ❌ | ❌ | Message last update date |
+
+### `support.MessageSenderEnum`
+
+_Message sender type_
+
+**Enum** (`enumType: string`):
+
+- `customer`
+- `support`
+
+### `support.NewMessageInfo`
+
+_Newly created support identifiers_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalNotice` | `string` | ❌ | ✅ | ❌ | Notice or warning |
+| `messageId` | `long` | ❌ | ❌ | ❌ | Message identifier |
+| `ticketId` | `long` | ❌ | ❌ | ❌ | Ticket identifier |
+| `ticketNumber` | `long` | ❌ | ❌ | ❌ | Ticket external number |
+
+### `support.Ticket`
+
+_Support Ticket_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountId` | `coreTypes.AccountId:string` | ❌ | ❌ | ❌ | Customer account identifier |
+| `canBeClosed` | `boolean` | ❌ | ❌ | ❌ | Can this ticket be closed or not |
+| `category` | `support.TicketCategoryEnum` | ❌ | ✅ | ❌ | Ticket request category |
+| `creationDate` | `datetime` | ❌ | ❌ | ❌ | Ticket creation date |
+| `lastMessageFrom` | `support.MessageSenderEnum` | ❌ | ❌ | ❌ | Sender type of last message |
+| `product` | `support.TicketProductEnum` | ❌ | ✅ | ❌ | Product service concerned by ticket |
+| `score` | `string` | ❌ | ❌ | ❌ | Ticket score |
+| `serviceName` | `string` | ❌ | ✅ | ❌ | Name of service concerned by ticket |
+| `state` | `support.TicketStatusEnum` | ❌ | ❌ | ❌ | State of ticket |
+| `subject` | `string` | ❌ | ❌ | ❌ | Ticket subject |
+| `ticketId` | `long` | ❌ | ❌ | ❌ | Ticket identifier |
+| `ticketNumber` | `long` | ❌ | ❌ | ❌ | Ticket external number |
+| `type` | `support.TicketTypeEnum` | ❌ | ❌ | ❌ | Ticket type |
+| `updateDate` | `datetime` | ❌ | ❌ | ❌ | Ticket last update date |
+
+### `support.TicketCategoryEnum`
+
+_Ticket request category_
+
+**Enum** (`enumType: string`):
+
+- `assistance`
+- `billing`
+- `incident`
+
+### `support.TicketImpactUrgencyEnum`
+
+_Ticket level of impact or urgency (reserved for Business or Enterprise support level accounts)_
+
+**Enum** (`enumType: string`):
+
+- `high`
+- `low`
+- `medium`
+
+### `support.TicketProductEnum`
+
+_Ticket product_
+
+**Enum** (`enumType: string`):
+
+- `adsl`
+- `cdn`
+- `dedicated`
+- `dedicated-billing`
+- `dedicated-other`
+- `dedicatedcloud`
+- `domain`
+- `exchange`
+- `fax`
+- `hosting`
+- `housing`
+- `iaas`
+- `mail`
+- `network`
+- `publiccloud`
+- `sms`
+- `ssl`
+- `storage`
+- `telecom-billing`
+- `telecom-other`
+- `vac`
+- `voip`
+- `vps`
+- `web-billing`
+- `web-other`
+
+### `support.TicketStatusEnum`
+
+_Support ticket statuses_
+
+**Enum** (`enumType: string`):
+
+- `closed`
+- `open`
+- `unknown`
+
+### `support.TicketSubCategoryEnum`
+
+_Ticket request subcategory_
+
+**Enum** (`enumType: string`):
+
+- `alerts`
+- `autorenew`
+- `bill`
+- `down`
+- `inProgress`
+- `new`
+- `other`
+- `perfs`
+- `start`
+- `usage`
+
+### `support.TicketTypeEnum`
+
+_DEPRECATED - Ticket type (criticalIntervention requires VIP support level)_
+
+**Enum** (`enumType: string`):
+
+- `criticalIntervention`
+- `genericRequest`
 
 

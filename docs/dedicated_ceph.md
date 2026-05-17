@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **24** — Operations: **35**
+> Routes: **24** — Operations: **35**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `875a3ae7647f2c32`
 
 ---
 
@@ -39,7 +41,7 @@
 
 ## `/dedicated/ceph`
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -60,7 +62,7 @@
 
 ## `/dedicated/ceph/{serviceName}`
 
-### 🟢 GET `GET` — Get cluster details
+### 🟢 GET — Get cluster details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -78,7 +80,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update cluster details
+### 🟠 PUT — Update cluster details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -100,7 +102,7 @@
 
 ## `/dedicated/ceph/{serviceName}/acl`
 
-### 🟢 GET `GET` — Get list of all IP ACLs in a cluster
+### 🟢 GET — Get list of all IP ACLs in a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -118,7 +120,7 @@
 
 ---
 
-### 🟡 POST `POST` — Create one or more new IP ACLs
+### 🟡 POST — Create one or more new IP ACLs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -140,7 +142,7 @@
 
 ## `/dedicated/ceph/{serviceName}/acl/{aclId}`
 
-### 🔴 DELETE `DELETE` — Delete single IP ACL
+### 🔴 DELETE — Delete single IP ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -159,7 +161,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get details about IP ACL
+### 🟢 GET — Get details about IP ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -181,7 +183,7 @@
 
 ## `/dedicated/ceph/{serviceName}/cephfs`
 
-### 🟢 GET `GET` — List CephFS filesystems
+### 🟢 GET — List CephFS filesystems
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -202,7 +204,7 @@
 
 ## `/dedicated/ceph/{serviceName}/cephfs/{fsName}`
 
-### 🔴 DELETE `DELETE` — Purge CephFS filesystem
+### 🔴 DELETE — Purge CephFS filesystem
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -221,7 +223,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get CephFS filesystem information
+### 🟢 GET — Get CephFS filesystem information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -243,7 +245,7 @@
 
 ## `/dedicated/ceph/{serviceName}/cephfs/{fsName}/disable`
 
-### 🟡 POST `POST` — Disable CephFS filesystem
+### 🟡 POST — Disable CephFS filesystem
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -265,7 +267,7 @@
 
 ## `/dedicated/ceph/{serviceName}/cephfs/{fsName}/enable`
 
-### 🟡 POST `POST` — Enable CephFS filesystem
+### 🟡 POST — Enable CephFS filesystem
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -287,7 +289,7 @@
 
 ## `/dedicated/ceph/{serviceName}/changeContact`
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -309,7 +311,7 @@
 
 ## `/dedicated/ceph/{serviceName}/confirmTermination`
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -331,7 +333,7 @@
 
 ## `/dedicated/ceph/{serviceName}/health`
 
-### 🟢 GET `GET` — Get cluster health
+### 🟢 GET — Get cluster health
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -352,7 +354,7 @@
 
 ## `/dedicated/ceph/{serviceName}/osd/blocklist`
 
-### 🟢 GET `GET` — Retrieve Ceph OSD blocklist
+### 🟢 GET — Retrieve Ceph OSD blocklist
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -373,7 +375,7 @@
 
 ## `/dedicated/ceph/{serviceName}/osd/blocklist/{address}`
 
-### 🔴 DELETE `DELETE` — Delete a Ceph OSD blocklist entry. DANGEROUS
+### 🔴 DELETE — Delete a Ceph OSD blocklist entry. DANGEROUS
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -395,7 +397,7 @@
 
 ## `/dedicated/ceph/{serviceName}/pool`
 
-### 🟢 GET `GET` — Get list of all pools in a cluster
+### 🟢 GET — Get list of all pools in a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -413,7 +415,7 @@
 
 ---
 
-### 🟡 POST `POST` — Create a new ceph pool
+### 🟡 POST — Create a new ceph pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -435,7 +437,7 @@
 
 ## `/dedicated/ceph/{serviceName}/pool/{poolName}`
 
-### 🔴 DELETE `DELETE` — Delete a single ceph pool
+### 🔴 DELETE — Delete a single ceph pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -454,7 +456,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get details about an existing ceph pool
+### 🟢 GET — Get details about an existing ceph pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -476,7 +478,7 @@
 
 ## `/dedicated/ceph/{serviceName}/pool/{poolName}/allowDeletion`
 
-### 🟠 PUT `PUT` — Open 5 minutes window for deleting single ceph pool
+### 🟠 PUT — Open 5 minutes window for deleting single ceph pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -498,7 +500,7 @@
 
 ## `/dedicated/ceph/{serviceName}/serviceInfos`
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -516,7 +518,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -538,7 +540,7 @@
 
 ## `/dedicated/ceph/{serviceName}/task`
 
-### 🟢 GET `GET` — List tasks in progress
+### 🟢 GET — List tasks in progress
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -559,7 +561,7 @@
 
 ## `/dedicated/ceph/{serviceName}/task/{taskId}`
 
-### 🟢 GET `GET` — Get task details
+### 🟢 GET — Get task details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -581,7 +583,7 @@
 
 ## `/dedicated/ceph/{serviceName}/terminate`
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -602,7 +604,7 @@
 
 ## `/dedicated/ceph/{serviceName}/user`
 
-### 🟢 GET `GET` — Get list of all users in a cluster
+### 🟢 GET — Get list of all users in a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -620,7 +622,7 @@
 
 ---
 
-### 🟡 POST `POST` — Create a new ceph user
+### 🟡 POST — Create a new ceph user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -642,7 +644,7 @@
 
 ## `/dedicated/ceph/{serviceName}/user/{userName}`
 
-### 🔴 DELETE `DELETE` — Delete an existing single ceph user
+### 🔴 DELETE — Delete an existing single ceph user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -661,7 +663,7 @@
 
 ---
 
-### 🟢 GET `GET` — Get details about a ceph user
+### 🟢 GET — Get details about a ceph user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -683,7 +685,7 @@
 
 ## `/dedicated/ceph/{serviceName}/user/{userName}/pool`
 
-### 🟢 GET `GET` — List user-pool permissions
+### 🟢 GET — List user-pool permissions
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -702,7 +704,7 @@
 
 ---
 
-### 🟡 POST `POST` — Create new user-pool permissions. All old permissions will be cleared
+### 🟡 POST — Create new user-pool permissions. All old permissions will be cleared
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -722,7 +724,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update user-pool permission for single pool
+### 🟠 PUT — Update user-pool permission for single pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -745,7 +747,7 @@
 
 ## `/dedicated/ceph/{serviceName}/user/{userName}/pool/{poolName}`
 
-### 🔴 DELETE `DELETE` — Clear user-pool permission for single pool
+### 🔴 DELETE — Clear user-pool permission for single pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -762,5 +764,590 @@
 
 **IAM actions:** `dedicatedCeph:apiovh:user/pool/delete` (required)
 
+
+---
+
+## Models
+
+### `dedicated.ceph.UpdateClusterDetails`
+
+_Update cluster details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `crushTunables` | `dedicated.ceph.clusterUpdate.crushTunablesEnum` | ✅ | ❌ | ❌ | Tunables of cluster |
+| `label` | `string` | ✅ | ❌ | ❌ | Name of the cluster |
+
+### `dedicated.ceph.acl.Create`
+
+_Create one or more new IP ACLs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `aclList` | `string[]` | ✅ | ❌ | ❌ | List of new ACLs |
+
+### `dedicated.ceph.aclGet.response`
+
+_IP ACL_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `family` | `dedicated.ceph.aclGet.response.familyEnum` | ❌ | ❌ | ✅ | Family of IP ACL |
+| `id` | `long` | ❌ | ❌ | ✅ | ID of IP ACL |
+| `netmask` | `ip` | ❌ | ❌ | ✅ | IP address (e.g., 192.0.2.0) |
+| `network` | `ip` | ❌ | ❌ | ✅ | IP address (e.g., 192.0.2.0) |
+
+### `dedicated.ceph.aclGet.response.familyEnum`
+
+_Family of IP ACL_
+
+**Enum** (`enumType: string`):
+
+- `IPV4`
+- `IPV6`
+
+### `dedicated.ceph.cephfsGet.response`
+
+_CephFS filesystem data_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ✅ | Filesystem state |
+| `fsName` | `string` | ❌ | ❌ | ✅ | Filesystem name |
+
+### `dedicated.ceph.clusterGet.response`
+
+_Details about ceph cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cephMons` | `string[]` | ❌ | ❌ | ✅ | List of CEPH monitor IPs |
+| `cephVersion` | `string` | ❌ | ❌ | ✅ | Used version of ceph |
+| `createDate` | `string` | ❌ | ❌ | ✅ | Creation date |
+| `crushTunables` | `dedicated.ceph.clusterGet.response.crushTunablesEnum` | ❌ | ❌ | ✅ | Tunables of cluster |
+| `label` | `string` | ❌ | ❌ | ✅ | Name of cluster |
+| `region` | `string` | ❌ | ❌ | ✅ | Name of region where cluster is located |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | ID of cluster |
+| `size` | `long` | ❌ | ❌ | ✅ | Size of cluster in TB |
+| `state` | `dedicated.ceph.clusterGet.response.stateEnum` | ❌ | ❌ | ✅ | State of cluster |
+| `status` | `dedicated.ceph.clusterGet.response.statusEnum` | ❌ | ❌ | ✅ | Status of cluster |
+| `updateDate` | `string` | ❌ | ❌ | ✅ | Last update date |
+
+### `dedicated.ceph.clusterGet.response.crushTunablesEnum`
+
+_Tunables of cluster_
+
+**Enum** (`enumType: string`):
+
+- `ARGONAUT`
+- `BOBTAIL`
+- `DEFAULT`
+- `FIREFLY`
+- `HAMMER`
+- `JEWEL`
+- `LEGACY`
+- `OPTIMAL`
+
+### `dedicated.ceph.clusterGet.response.stateEnum`
+
+_State of cluster_
+
+**Enum** (`enumType: string`):
+
+- `ACTIVE`
+- `SUSPENDED`
+
+### `dedicated.ceph.clusterGet.response.statusEnum`
+
+_Status of cluster_
+
+**Enum** (`enumType: string`):
+
+- `CREATING`
+- `DELETED`
+- `DELETING`
+- `INSTALLED`
+- `TASK_IN_PROGRESS`
+
+### `dedicated.ceph.clusterGet.responseWithIAM`
+
+_Details about ceph cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cephMons` | `string[]` | ❌ | ❌ | ✅ | List of CEPH monitor IPs |
+| `cephVersion` | `string` | ❌ | ❌ | ✅ | Used version of ceph |
+| `createDate` | `string` | ❌ | ❌ | ✅ | Creation date |
+| `crushTunables` | `dedicated.ceph.clusterGet.response.crushTunablesEnum` | ❌ | ❌ | ✅ | Tunables of cluster |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `label` | `string` | ❌ | ❌ | ✅ | Name of cluster |
+| `region` | `string` | ❌ | ❌ | ✅ | Name of region where cluster is located |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | ID of cluster |
+| `size` | `long` | ❌ | ❌ | ✅ | Size of cluster in TB |
+| `state` | `dedicated.ceph.clusterGet.response.stateEnum` | ❌ | ❌ | ✅ | State of cluster |
+| `status` | `dedicated.ceph.clusterGet.response.statusEnum` | ❌ | ❌ | ✅ | Status of cluster |
+| `updateDate` | `string` | ❌ | ❌ | ✅ | Last update date |
+
+### `dedicated.ceph.clusterHealth.response`
+
+_Health of ceph cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availableBytes` | `long` | ❌ | ❌ | ✅ | All available space in bytes |
+| `healthy` | `boolean` | ❌ | ❌ | ✅ | True or False |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | ID of cluster |
+| `status` | `string` | ❌ | ❌ | ✅ | Status of ceph cluster |
+| `totalBytes` | `long` | ❌ | ❌ | ✅ | Total cluster space in bytes |
+| `usedBytes` | `long` | ❌ | ❌ | ✅ | Used cluster space in bytes |
+
+### `dedicated.ceph.clusterUpdate.crushTunablesEnum`
+
+_Tunables of cluster_
+
+**Enum** (`enumType: string`):
+
+- `ARGONAUT`
+- `BOBTAIL`
+- `DEFAULT`
+- `FIREFLY`
+- `HAMMER`
+- `JEWEL`
+- `LEGACY`
+- `OPTIMAL`
+
+### `dedicated.ceph.osd.blocklist`
+
+_List of blocked ceph clients_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `entries` | `dedicated.ceph.osd.blocklist.entry[]` | ❌ | ❌ | ✅ | List of blocklisted entities |
+
+### `dedicated.ceph.osd.blocklist.entry`
+
+_Representation of Ceph OSD blocklist entry_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `string` | ❌ | ❌ | ✅ | Ceph address of the blocked client |
+| `expiration` | `datetime` | ❌ | ❌ | ✅ | Ceph blocklist entry expiration date time |
+
+### `dedicated.ceph.pool.Create`
+
+_Create a new ceph pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `poolName` | `string` | ✅ | ❌ | ❌ | Name of the new pool |
+
+### `dedicated.ceph.poolErasure.Create`
+
+_Create a new ceph erasure pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `poolName` | `string` | ✅ | ❌ | ❌ | Name of the new pool erasure |
+
+### `dedicated.ceph.poolGet.response`
+
+_Ceph pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backup` | `boolean` | ❌ | ❌ | ✅ | Determine if pool should be backuped |
+| `minActiveReplicas` | `long` | ❌ | ❌ | ✅ | Minimum active replicas |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the pool |
+| `poolType` | `dedicated.ceph.poolGet.response.poolTypeEnum` | ❌ | ❌ | ✅ | Type of pool |
+| `replicaCount` | `long` | ❌ | ❌ | ✅ | Number of replica |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | ID of cluster |
+
+### `dedicated.ceph.poolGet.response.poolTypeEnum`
+
+_Type of pool_
+
+**Enum** (`enumType: string`):
+
+- `ERASURE_CODED`
+- `REPLICATED`
+
+### `dedicated.ceph.rgw.acl`
+
+_Rados Gateway IP ACL entries_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `networks` | `ipv4Block[]` | ✅ | ❌ | ❌ | List of IP networks |
+
+### `dedicated.ceph.rgw.response`
+
+_Ceph Rados Gateway data_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ✅ | Determines whether RGW instance is enabled or disabled. Only disabled instance can be deleted |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of RGW instance |
+
+### `dedicated.ceph.rgw.user`
+
+_Representation of Ceph Rados Gateway user_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ❌ | ✅ | Display Name of Ceph Rados Gateway user |
+| `keys` | `dedicated.ceph.rgw.user.key[]` | ❌ | ❌ | ✅ | Keys of Ceph Rados Gateway user |
+| `maxBuckets` | `long` | ❌ | ❌ | ✅ | Max buckets per user: -1 (not allowed), 0 (unlimited), or a positive integer (limited) |
+| `userId` | `string` | ❌ | ❌ | ✅ | Identifier of Ceph Rados Gateway user |
+
+### `dedicated.ceph.rgw.user.create`
+
+_Ceph Rados Gateway user creation data_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ✅ | ❌ | ❌ | Display Name of Ceph Rados Gateway user |
+| `maxBuckets` | `long` | ❌ | ✅ | ❌ | Sets max buckets per user: -1 (not allowed), 0 (unlimited), or a positive integer (limited) |
+| `userId` | `string` | ✅ | ❌ | ❌ | Identifier of Ceph Rados Gateway user |
+
+### `dedicated.ceph.rgw.user.key`
+
+_Ceph Rados Gateway user key_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessKey` | `password` | ❌ | ❌ | ✅ | Access Key Ceph Rados Gateway user |
+| `secretKey` | `password` | ❌ | ❌ | ✅ | Secret Key of Ceph Rados Gateway user |
+| `user` | `string` | ❌ | ❌ | ✅ | User of Ceph Rados Gateway key |
+
+### `dedicated.ceph.rgw.user.modify`
+
+_Ceph Rados Gateway user modification data_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxBuckets` | `long` | ❌ | ✅ | ❌ | Sets max buckets per user: -1 (not allowed), 0 (unlimited), or a positive integer (limited) |
+
+### `dedicated.ceph.taskGet.response`
+
+_List of task subtasks_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createDate` | `string` | ❌ | ❌ | ✅ | Creation date of the task |
+| `finishDate` | `string` | ❌ | ✅ | ✅ | Finish date of the task |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the task |
+| `state` | `dedicated.ceph.taskGet.response.stateEnum` | ❌ | ❌ | ✅ | State of the task |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of the task |
+
+### `dedicated.ceph.taskGet.response.stateEnum`
+
+_State of task_
+
+**Enum** (`enumType: string`):
+
+- `DONE`
+- `FAILED`
+- `IN PROGRESS`
+
+### `dedicated.ceph.taskList.response`
+
+_List of active tasks_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | ID of task |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of task |
+
+### `dedicated.ceph.user.Create`
+
+_Create a new ceph user_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `userName` | `string` | ✅ | ❌ | ❌ | Name of the new user |
+
+### `dedicated.ceph.user.pool.CreatePermissions`
+
+_Create new user-pool permissions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `permissions` | `dedicated.ceph.userPoolPermSetAll.permissions[]` | ❌ | ❌ | ❌ | Permissions |
+
+### `dedicated.ceph.user.pool.UpdatePermission`
+
+_Update user-pool permission for single pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `classRead` | `boolean` | ✅ | ❌ | ❌ | Class read permission |
+| `classWrite` | `boolean` | ✅ | ❌ | ❌ | Class write permission |
+| `execute` | `boolean` | ✅ | ❌ | ❌ | Execute permission |
+| `poolName` | `string` | ✅ | ❌ | ❌ | Name of Ceph pool |
+| `read` | `boolean` | ✅ | ❌ | ❌ | Read permission |
+| `write` | `boolean` | ✅ | ❌ | ❌ | Write permission |
+
+### `dedicated.ceph.userGet.response`
+
+_Ceph user_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ❌ | ❌ | ✅ | Key of user to connect into cluster |
+| `mdsCaps` | `string` | ❌ | ✅ | ✅ | Capabilities of user on MDS |
+| `monCaps` | `string` | ❌ | ❌ | ✅ | Capabilities of user on MON |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of ceph user |
+| `osdCaps` | `string` | ❌ | ❌ | ✅ | Capabilities of user on OSD |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | ID of cluster |
+
+### `dedicated.ceph.userPoolPermList.response`
+
+_List of permissions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `classRead` | `boolean` | ❌ | ❌ | ✅ | Class read permission |
+| `classWrite` | `boolean` | ❌ | ❌ | ✅ | Class write permission |
+| `execute` | `boolean` | ❌ | ❌ | ✅ | Execute permission |
+| `poolName` | `string` | ❌ | ❌ | ✅ | Name of Ceph pool |
+| `read` | `boolean` | ❌ | ❌ | ✅ | Read permission |
+| `write` | `boolean` | ❌ | ❌ | ✅ | Write permission |
+
+### `dedicated.ceph.userPoolPermSetAll.permissions`
+
+_List of permissions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `classRead` | `boolean` | ❌ | ❌ | ❌ | Class read permission |
+| `classWrite` | `boolean` | ❌ | ❌ | ❌ | Class write permission |
+| `execute` | `boolean` | ❌ | ❌ | ❌ | Execute permission |
+| `poolName` | `string` | ❌ | ❌ | ❌ | Name of Ceph pool |
+| `read` | `boolean` | ❌ | ❌ | ❌ | Read permission |
+| `write` | `boolean` | ❌ | ❌ | ❌ | Write permission |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+_service.StateEnum_
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `services.changeContact`
+
+_Service change contact payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contactAdmin` | `string` | ❌ | ❌ | ❌ | The contact to set as admin contact |
+| `contactBilling` | `string` | ❌ | ❌ | ❌ | The contact to set as billing contact |
+| `contactTech` | `string` | ❌ | ❌ | ❌ | The contact to set as tech contact |
+
+### `services.confirmTermination`
+
+_Service confirm termination payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `commentary` | `string` | ❌ | ❌ | ❌ | Commentary about your termination request |
+| `commentaryFutureUse` | `string` | ❌ | ❌ | ❌ | Commentary about your future use |
+| `commentaryReason` | `string` | ❌ | ❌ | ❌ | Commentary about your reason for termination request |
+| `futureUse` | `service.TerminationFutureUseEnum` | ❌ | ❌ | ❌ | All future uses you can provide for a service termination |
+| `reason` | `service.TerminationReasonEnum` | ❌ | ❌ | ❌ | All reasons you can provide for a service termination |
+| `token` | `string` | ✅ | ❌ | ❌ | The termination token sent by email to the admin contact |
 
 

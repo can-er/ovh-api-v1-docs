@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **31** — Operations: **44**
+> Routes: **31** — Operations: **44**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `e0eac6bbf108b9e3`
 
 ---
 
@@ -48,7 +50,7 @@
 
 _Operations about the CDNANYCAST service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -71,7 +73,7 @@ _Operations about the CDNANYCAST service_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -86,7 +88,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -107,7 +109,7 @@ _Access to available log kind_
 
 _List the cdnanycast.Pop objects_
 
-### 🟢 GET `GET` — List of CDN Pops
+### 🟢 GET — List of CDN Pops
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -122,7 +124,7 @@ _List the cdnanycast.Pop objects_
 
 _CDN Pop_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -143,7 +145,7 @@ _CDN Pop_
 
 _Anycast IP of a CDN customer_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -166,7 +168,7 @@ _Anycast IP of a CDN customer_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -192,7 +194,7 @@ _Change the contacts of this service_
 
 _List the cdnanycast.Domain objects_
 
-### 🟢 GET `GET` — Domains associated to this anycast
+### 🟢 GET — Domains associated to this anycast
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -210,7 +212,7 @@ _List the cdnanycast.Domain objects_
 
 ---
 
-### 🟡 POST `POST` — Add a domain on CDN
+### 🟡 POST — Add a domain on CDN
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -234,7 +236,7 @@ _List the cdnanycast.Domain objects_
 
 _Domain on CDN_
 
-### 🔴 DELETE `DELETE` — Remove a domain from the CDN
+### 🔴 DELETE — Remove a domain from the CDN
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -253,7 +255,7 @@ _Domain on CDN_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -272,7 +274,7 @@ _Domain on CDN_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -297,7 +299,7 @@ _Domain on CDN_
 
 _List the cdnanycast.Backend objects_
 
-### 🟢 GET `GET` — Backend associated to the domain
+### 🟢 GET — Backend associated to the domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -316,7 +318,7 @@ _List the cdnanycast.Backend objects_
 
 ---
 
-### 🟡 POST `POST` — Add a backend IP
+### 🟡 POST — Add a backend IP
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -341,7 +343,7 @@ _List the cdnanycast.Backend objects_
 
 _Backend for a domain_
 
-### 🔴 DELETE `DELETE` — Remove a backend IP
+### 🔴 DELETE — Remove a backend IP
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -361,7 +363,7 @@ _Backend for a domain_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -386,7 +388,7 @@ _Backend for a domain_
 
 _List the cdnanycast.CacheRule objects_
 
-### 🟢 GET `GET` — Cache rules associated to the domain
+### 🟢 GET — Cache rules associated to the domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -406,7 +408,7 @@ _List the cdnanycast.CacheRule objects_
 
 ---
 
-### 🟡 POST `POST` — Add a cache rule to a domain
+### 🟡 POST — Add a cache rule to a domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -434,7 +436,7 @@ _List the cdnanycast.CacheRule objects_
 
 _CacheRules for a domain_
 
-### 🔴 DELETE `DELETE` — Remove cache rule
+### 🔴 DELETE — Remove cache rule
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -454,7 +456,7 @@ _CacheRules for a domain_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -474,7 +476,7 @@ _CacheRules for a domain_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -500,7 +502,7 @@ _CacheRules for a domain_
 
 _flush operations_
 
-### 🟡 POST `POST` — Flush the cache
+### 🟡 POST — Flush the cache
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -525,7 +527,7 @@ _flush operations_
 
 _List the cdnanycast.Task objects_
 
-### 🟢 GET `GET` — Task associated to the cache rule
+### 🟢 GET — Task associated to the cache rule
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -550,7 +552,7 @@ _List the cdnanycast.Task objects_
 
 _Task on a CDN_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -576,7 +578,7 @@ _Task on a CDN_
 
 _flush operations_
 
-### 🟡 POST `POST` — Flush all cache
+### 🟡 POST — Flush all cache
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -600,7 +602,7 @@ _flush operations_
 
 _logs operations_
 
-### 🟡 POST `POST` — Generate URL to real time logs
+### 🟡 POST — Generate URL to real time logs
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -624,7 +626,7 @@ _logs operations_
 
 _statistics operations_
 
-### 🟢 GET `GET` — Return stats about a domain
+### 🟢 GET — Return stats about a domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -651,7 +653,7 @@ _statistics operations_
 
 _List the cdnanycast.Task objects_
 
-### 🟢 GET `GET` — Task associated to the domain
+### 🟢 GET — Task associated to the domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -675,7 +677,7 @@ _List the cdnanycast.Task objects_
 
 _Task on a CDN_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -700,7 +702,7 @@ _Task on a CDN_
 
 _Create a subscription from CDN dedicated logs to a pre-existing LDP stream_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -719,7 +721,7 @@ _Create a subscription from CDN dedicated logs to a pre-existing LDP stream_
 
 ---
 
-### 🟡 POST `POST` — Create a subscription from logs to a pre-existing LDP stream
+### 🟡 POST — Create a subscription from logs to a pre-existing LDP stream
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -743,7 +745,7 @@ _Create a subscription from CDN dedicated logs to a pre-existing LDP stream_
 
 _Create a subscription from CDN dedicated logs to a pre-existing LDP stream_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -762,7 +764,7 @@ _Create a subscription from CDN dedicated logs to a pre-existing LDP stream_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -786,7 +788,7 @@ _Create a subscription from CDN dedicated logs to a pre-existing LDP stream_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -810,7 +812,7 @@ _Generate a temporary URL to retrieve logs_
 
 _logs operations_
 
-### 🟡 POST `POST` — Generate URL to real time logs
+### 🟡 POST — Generate URL to real time logs
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -833,7 +835,7 @@ _logs operations_
 
 _quota operations_
 
-### 🟢 GET `GET` — Return quota history
+### 🟢 GET — Return quota history
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -857,7 +859,7 @@ _quota operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -875,7 +877,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -899,7 +901,7 @@ _Details about a Service_
 
 _CDN Ssl_
 
-### 🔴 DELETE `DELETE` — Remove SSL of the CDN
+### 🔴 DELETE — Remove SSL of the CDN
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -917,7 +919,7 @@ _CDN Ssl_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -935,7 +937,7 @@ _CDN Ssl_
 
 ---
 
-### 🟡 POST `POST` — Add a SSL on CDN or Generate a Lets Encrypt certificate
+### 🟡 POST — Add a SSL on CDN or Generate a Lets Encrypt certificate
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -962,7 +964,7 @@ _CDN Ssl_
 
 _List the cdnanycast.Task objects_
 
-### 🟢 GET `GET` — Task associated to the ssl
+### 🟢 GET — Task associated to the ssl
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -987,7 +989,7 @@ _List the cdnanycast.Task objects_
 
 _Task on a CDN_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1011,7 +1013,7 @@ _Task on a CDN_
 
 _update operations_
 
-### 🟡 POST `POST` — Update an existing SSL with a custom certificate
+### 🟡 POST — Update an existing SSL with a custom certificate
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1029,5 +1031,479 @@ _update operations_
 
 **IAM actions:** `cdn:apiovh:ssl/update` (required)
 
+
+---
+
+## Models
+
+### `cdnanycast.Anycast`
+
+_Anycast IP of a CDN customer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `anycast` | `ipv4` | ❌ | ❌ | ✅ |  |
+| `backendLimit` | `long` | ❌ | ❌ | ✅ |  |
+| `backendUse` | `long` | ❌ | ❌ | ✅ |  |
+| `cacheRuleLimitPerDomain` | `long` | ❌ | ❌ | ✅ |  |
+| `lastQuotaOrder` | `datetime` | ❌ | ✅ | ✅ |  |
+| `logUrl` | `string` | ❌ | ❌ | ✅ | URL for downloading daily log of your CDN |
+| `offer` | `string` | ❌ | ✅ | ✅ |  |
+| `quota` | `long` | ❌ | ❌ | ✅ |  |
+| `service` | `string` | ❌ | ❌ | ✅ | The internal name of your CDN offer |
+
+### `cdnanycast.AnycastWithIAM`
+
+_Anycast IP of a CDN customer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `anycast` | `ipv4` | ❌ | ❌ | ✅ |  |
+| `backendLimit` | `long` | ❌ | ❌ | ✅ |  |
+| `backendUse` | `long` | ❌ | ❌ | ✅ |  |
+| `cacheRuleLimitPerDomain` | `long` | ❌ | ❌ | ✅ |  |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `lastQuotaOrder` | `datetime` | ❌ | ✅ | ✅ |  |
+| `logUrl` | `string` | ❌ | ❌ | ✅ | URL for downloading daily log of your CDN |
+| `offer` | `string` | ❌ | ✅ | ✅ |  |
+| `quota` | `long` | ❌ | ❌ | ✅ |  |
+| `service` | `string` | ❌ | ❌ | ✅ | The internal name of your CDN offer |
+
+### `cdnanycast.Backend`
+
+_Backend for a domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ipv4` | ❌ | ❌ | ✅ |  |
+
+### `cdnanycast.CacheRule`
+
+_CacheRules for a domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cacheRuleId` | `long` | ❌ | ❌ | ✅ | Id for this cache rule |
+| `cacheType` | `cdnanycast.CacheRuleCacheTypeEnum` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `fileMatch` | `string` | ❌ | ❌ | ✅ |  |
+| `fileType` | `cdnanycast.CacheRuleFileTypeEnum` | ❌ | ❌ | ✅ |  |
+| `status` | `cdnanycast.CacheRuleStatusEnum` | ❌ | ❌ | ❌ |  |
+| `ttl` | `long` | ❌ | ❌ | ❌ |  |
+
+### `cdnanycast.CacheRuleCacheTypeEnum`
+
+_All type a cache can be in_
+
+**Enum** (`enumType: string`):
+
+- `forceCache`
+- `noCache`
+
+### `cdnanycast.CacheRuleFileTypeEnum`
+
+_All states an anycast pool can be in_
+
+**Enum** (`enumType: string`):
+
+- `extension`
+- `file`
+- `folder`
+
+### `cdnanycast.CacheRuleStatusEnum`
+
+_All states a status can be in_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleting`
+- `error`
+- `off`
+- `on`
+- `updating`
+
+### `cdnanycast.Domain`
+
+_Domain on CDN_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cacheRuleUse` | `long` | ❌ | ❌ | ✅ |  |
+| `cname` | `string` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ | Domain of this object |
+| `status` | `cdnanycast.DomainStatusEnum` | ❌ | ❌ | ❌ |  |
+| `type` | `cdnanycast.DomainTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `cdnanycast.DomainStatusEnum`
+
+_All states a status can be in_
+
+**Enum** (`enumType: string`):
+
+- `error`
+- `off`
+- `on`
+- `removing`
+
+### `cdnanycast.DomainTypeEnum`
+
+_All type of Domain_
+
+**Enum** (`enumType: string`):
+
+- `plain`
+- `ssl`
+
+### `cdnanycast.LogsURL`
+
+_URL to real time logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ❌ | URL expiration date |
+| `url` | `string` | ❌ | ❌ | ❌ | URL to logs |
+
+### `cdnanycast.Pop`
+
+_CDN Pop_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `city` | `string` | ❌ | ❌ | ✅ |  |
+| `comment` | `string` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the pop |
+| `status` | `cdnanycast.PopStatusEnum` | ❌ | ❌ | ✅ |  |
+
+### `cdnanycast.PopStatusEnum`
+
+_All Pop status_
+
+**Enum** (`enumType: string`):
+
+- `down`
+- `ok`
+- `rerouted`
+- `unknown`
+
+### `cdnanycast.Ssl`
+
+_CDN Ssl_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `certificateProvider` | `string` | ❌ | ❌ | ✅ | Provider of the certificate installed on CDN |
+| `certificateValidFrom` | `datetime` | ❌ | ✅ | ✅ |  |
+| `certificateValidTo` | `datetime` | ❌ | ✅ | ✅ |  |
+| `cn` | `string` | ❌ | ✅ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `status` | `cdnanycast.SslStateEnum` | ❌ | ❌ | ✅ |  |
+
+### `cdnanycast.SslStateEnum`
+
+_All states a CDN SSL can be in_
+
+**Enum** (`enumType: string`):
+
+- `checking`
+- `creating`
+- `error`
+- `off`
+- `on`
+- `removing`
+- `updating`
+- `uploading`
+
+### `cdnanycast.StatsDataType`
+
+_A structure describing type of a stats hash_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ❌ |  |
+| `value` | `long` | ❌ | ✅ | ❌ |  |
+
+### `cdnanycast.StatsPeriodEnum`
+
+_Period of the statistics_
+
+**Enum** (`enumType: string`):
+
+- `day`
+- `month`
+- `week`
+
+### `cdnanycast.StatsTypeEnum`
+
+_Type of statistics related to cache_
+
+**Enum** (`enumType: string`):
+
+- `backend`
+- `cdn`
+- `threat`
+
+### `cdnanycast.StatsValueEnum`
+
+_Value bandwidth or request_
+
+**Enum** (`enumType: string`):
+
+- `bandwidth`
+- `request`
+
+### `cdnanycast.Task`
+
+_Task on a CDN_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `comment` | `string` | ❌ | ✅ | ✅ |  |
+| `function` | `cdnanycast.TaskFunctionEnum` | ❌ | ❌ | ✅ |  |
+| `status` | `cdnanycast.TaskStateEnum` | ❌ | ❌ | ✅ |  |
+| `taskId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `cdnanycast.TaskFunctionEnum`
+
+_All function CDN task can be_
+
+**Enum** (`enumType: string`):
+
+- `flush`
+- `flushAll`
+- `generateSsl`
+- `installSsl`
+- `reinstallSsl`
+- `removeDomain`
+- `uninstallSsl`
+- `updateCacheRule`
+
+### `cdnanycast.TaskStateEnum`
+
+_All states a CDN task can be in_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `dbaas.logs.LogKind`
+
+_Log kind_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalReturnedFields` | `string[]` | ❌ | ❌ | ✅ | List of additional log fields managed in this log kind |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the log kind |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Log kind display name |
+| `kindId` | `uuid` | ❌ | ❌ | ✅ | Log kind ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Log kind name |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the log kind |
+
+### `dbaas.logs.LogSubscription`
+
+_Log subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the subscription |
+| `kind` | `string` | ❌ | ❌ | ✅ | Log kind name of this subscription |
+| `resource` | `dbaas.logs.SubscriptionResource` | ❌ | ❌ | ✅ | Subscribed resource, where the logs come from |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the destination log service |
+| `streamId` | `string` | ❌ | ❌ | ✅ | Id of the destination log stream |
+| `subscriptionId` | `uuid` | ❌ | ❌ | ✅ | Subscription ID |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the subscription |
+
+### `dbaas.logs.LogSubscriptionCreation`
+
+_Log subscription creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name to subscribe to |
+| `streamId` | `uuid` | ✅ | ❌ | ❌ | Customer log stream ID |
+
+### `dbaas.logs.LogSubscriptionResponse`
+
+_Asynchronous operation after subscribing or unsubscribing to a resource logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operationId` | `uuid` | ❌ | ❌ | ✅ | Identifier of the operation |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Operation owner's service name |
+
+### `dbaas.logs.LogUrlCreation`
+
+_Log temporary URL creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name |
+
+### `dbaas.logs.SubscriptionResource`
+
+_Log subscription resource_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of subscribed resource |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of subscribed resource |
+
+### `dbaas.logs.TemporaryLogsLink`
+
+_Temporary url information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ✅ | Temporary url |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 
