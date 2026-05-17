@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **25** — Operations: **39**
+> Routes: **25** — Operations: **39**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `929e4a7c7a1ebecb`
 
 ---
 
@@ -42,7 +44,7 @@
 
 _Operations about the STORAGE service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -65,7 +67,7 @@ _Operations about the STORAGE service_
 
 _Storage nas HA_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -83,7 +85,7 @@ _Storage nas HA_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -107,7 +109,7 @@ _Storage nas HA_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -133,7 +135,7 @@ _Change the contacts of this service_
 
 _Confirm service termination_
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -160,7 +162,7 @@ _Confirm service termination_
 
 _metricsToken operations_
 
-### 🟢 GET `GET` — Return a read token for manager mimir metrics
+### 🟢 GET — Return a read token for manager mimir metrics
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -183,7 +185,7 @@ _metricsToken operations_
 
 _List the dedicated.nasha.Partition objects_
 
-### 🟢 GET `GET` — Get partition list
+### 🟢 GET — Get partition list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -201,7 +203,7 @@ _List the dedicated.nasha.Partition objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new partition
+### 🟡 POST — Create a new partition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -228,7 +230,7 @@ _List the dedicated.nasha.Partition objects_
 
 _Storage zpool partition_
 
-### 🔴 DELETE `DELETE` — Delete this partition
+### 🔴 DELETE — Delete this partition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -247,7 +249,7 @@ _Storage zpool partition_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -266,7 +268,7 @@ _Storage zpool partition_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -291,7 +293,7 @@ _Storage zpool partition_
 
 _List the dedicated.nasha.Access objects_
 
-### 🟢 GET `GET` — get ACL for this partition
+### 🟢 GET — get ACL for this partition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -310,7 +312,7 @@ _List the dedicated.nasha.Access objects_
 
 ---
 
-### 🟡 POST `POST` — Add a new ACL entry
+### 🟡 POST — Add a new ACL entry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -337,7 +339,7 @@ _List the dedicated.nasha.Access objects_
 
 _Define Acl for partition_
 
-### 🔴 DELETE `DELETE` — Delete an ACL entry
+### 🔴 DELETE — Delete an ACL entry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -357,7 +359,7 @@ _Define Acl for partition_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -382,7 +384,7 @@ _Define Acl for partition_
 
 _authorizableBlocks operations_
 
-### 🟢 GET `GET` — Get all RIPE/ARIN blocks that can be used in the ACL
+### 🟢 GET — Get all RIPE/ARIN blocks that can be used in the ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -406,7 +408,7 @@ _authorizableBlocks operations_
 
 _authorizableIps operations_
 
-### 🟢 GET `GET` — Get all IPs that can be used in the ACL
+### 🟢 GET — Get all IPs that can be used in the ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -430,7 +432,7 @@ _authorizableIps operations_
 
 _List the dedicated.nasha.customSnap objects_
 
-### 🟢 GET `GET` — Get custom snapshots for this partition
+### 🟢 GET — Get custom snapshots for this partition
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -449,7 +451,7 @@ _List the dedicated.nasha.customSnap objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new snapshot
+### 🟡 POST — Create a new snapshot
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -475,7 +477,7 @@ _List the dedicated.nasha.customSnap objects_
 
 _Custom Snapshot_
 
-### 🔴 DELETE `DELETE` — Delete a given snapshot
+### 🔴 DELETE — Delete a given snapshot
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -495,7 +497,7 @@ _Custom Snapshot_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -520,7 +522,7 @@ _Custom Snapshot_
 
 _Partition options_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -539,7 +541,7 @@ _Partition options_
 
 ---
 
-### 🟡 POST `POST` — Setup options
+### 🟡 POST — Setup options
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -567,7 +569,7 @@ _Partition options_
 
 _List the dedicated.nasha.Quota objects_
 
-### 🟢 GET `GET` — Get quota for this partition
+### 🟢 GET — Get quota for this partition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -586,7 +588,7 @@ _List the dedicated.nasha.Quota objects_
 
 ---
 
-### 🟡 POST `POST` — Set a new quota
+### 🟡 POST — Set a new quota
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -612,7 +614,7 @@ _List the dedicated.nasha.Quota objects_
 
 _Partition Quota_
 
-### 🔴 DELETE `DELETE` — Delete a given quota
+### 🔴 DELETE — Delete a given quota
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -632,7 +634,7 @@ _Partition Quota_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -657,7 +659,7 @@ _Partition Quota_
 
 _List the dedicated.nasha.Snapshot objects_
 
-### 🟢 GET `GET` — Get scheduled snapshot types for this partition
+### 🟢 GET — Get scheduled snapshot types for this partition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -676,7 +678,7 @@ _List the dedicated.nasha.Snapshot objects_
 
 ---
 
-### 🟡 POST `POST` — Schedule a new snapshot type
+### 🟡 POST — Schedule a new snapshot type
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -701,7 +703,7 @@ _List the dedicated.nasha.Snapshot objects_
 
 _Partition Snapshot_
 
-### 🔴 DELETE `DELETE` — Delete a given snapshot
+### 🔴 DELETE — Delete a given snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -721,7 +723,7 @@ _Partition Snapshot_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -746,7 +748,7 @@ _Partition Snapshot_
 
 _templateUsage operations_
 
-### 🟢 GET `GET` — Get all the template usages options applicable to this partition.
+### 🟢 GET — Get all the template usages options applicable to this partition.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -770,7 +772,7 @@ _templateUsage operations_
 
 _use operations_
 
-### 🟢 GET `GET` — Return statistics about the partition
+### 🟢 GET — Return statistics about the partition
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -795,7 +797,7 @@ _use operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -813,7 +815,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -837,7 +839,7 @@ _Details about a Service_
 
 _List the dedicated.nasTask.Task objects_
 
-### 🟢 GET `GET` — View task list
+### 🟢 GET — View task list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -862,7 +864,7 @@ _List the dedicated.nasTask.Task objects_
 
 _Storage task_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -886,7 +888,7 @@ _Storage task_
 
 _Ask for the termination of your service. Admin contact of this service will receive a termination token in order to confirm its termination with /confirmTermination endpoint._
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -909,7 +911,7 @@ _Ask for the termination of your service. Admin contact of this service will rec
 
 _use operations_
 
-### 🟢 GET `GET` — Return statistics about the nas
+### 🟢 GET — Return statistics about the nas
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -925,5 +927,463 @@ _use operations_
 
 **IAM actions:** `nasHA:apiovh:use/get` (required)
 
+
+---
+
+## Models
+
+### `complexType.UnitAndValue<T>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `dedicated.TaskStatusEnum`
+
+_different task status_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `customerError`
+- `doing`
+- `done`
+- `init`
+- `ovhError`
+- `todo`
+
+### `dedicated.nasTask.Task`
+
+_Storage task_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `details` | `string` | ❌ | ✅ | ✅ | information about operation |
+| `doneDate` | `datetime` | ❌ | ✅ | ✅ | the date when the task finished |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | last modification of task |
+| `operation` | `dedicated.storage.TaskFunctionEnum` | ❌ | ❌ | ✅ | Task type of operation |
+| `partitionName` | `string` | ❌ | ✅ | ✅ | name of the partition |
+| `status` | `dedicated.TaskStatusEnum` | ❌ | ❌ | ✅ | The actual state of the task |
+| `storageName` | `string` | ❌ | ✅ | ✅ | the name of your service |
+| `taskId` | `long` | ❌ | ❌ | ✅ | id of the task |
+| `todoDate` | `datetime` | ❌ | ✅ | ✅ | Insertion of task in the todo |
+
+### `dedicated.nasha.Access`
+
+_Define Acl for partition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessId` | `long` | ❌ | ❌ | ✅ | the id of the access |
+| `aclDescription` | `string` | ❌ | ✅ | ✅ | a brief description of the acl |
+| `ip` | `ipBlock` | ❌ | ❌ | ✅ | the ip in root on storage |
+| `type` | `dedicated.storage.AclTypeEnum` | ❌ | ❌ | ✅ | ACL type |
+
+### `dedicated.nasha.Partition`
+
+_Storage zpool partition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `partitionCapacity` | `long` | ❌ | ✅ | ✅ | percentage of partition space used in % |
+| `partitionDescription` | `string` | ❌ | ✅ | ❌ | a brief description of the partition |
+| `partitionName` | `string` | ❌ | ❌ | ✅ | the given name of partition |
+| `protocol` | `dedicated.storage.ProtocolEnum` | ❌ | ❌ | ✅ | must be nfs cifs or both |
+| `size` | `long` | ❌ | ❌ | ❌ | Partition size |
+| `usedBySnapshots` | `long` | ❌ | ✅ | ✅ | percentage of partition space used by snapshots, in % |
+
+### `dedicated.nasha.Quota`
+
+_Partition Quota_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `size` | `long` | ❌ | ❌ | ✅ | the size to set in MB |
+| `uid` | `long` | ❌ | ❌ | ✅ | the uid to set quota on |
+
+### `dedicated.nasha.Snapshot`
+
+_Partition Snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `snapshotType` | `dedicated.storage.SnapshotEnum` | ❌ | ❌ | ✅ | the interval of snapshot |
+
+### `dedicated.nasha.Storage`
+
+_Storage nas HA_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canCreatePartition` | `boolean` | ❌ | ❌ | ✅ | True, if partition creation is allowed on this nas HA |
+| `customName` | `string` | ❌ | ✅ | ❌ | The name you give to the nas |
+| `datacenter` | `string` | ❌ | ✅ | ✅ | area of nas |
+| `diskType` | `dedicated.storage.DiskTypeEnum` | ❌ | ❌ | ✅ | the disk type of the nasHa |
+| `ip` | `ip` | ❌ | ✅ | ✅ | Access ip of nas |
+| `monitored` | `boolean` | ❌ | ❌ | ❌ | Send an email to customer if any issue is detected |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | The storage service name |
+| `zpoolCapacity` | `long` | ❌ | ❌ | ✅ | percentage of nas space used in % |
+| `zpoolSize` | `long` | ❌ | ❌ | ✅ | the size of the nas |
+
+### `dedicated.nasha.StorageWithIAM`
+
+_Storage nas HA_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canCreatePartition` | `boolean` | ❌ | ❌ | ✅ | True, if partition creation is allowed on this nas HA |
+| `customName` | `string` | ❌ | ✅ | ❌ | The name you give to the nas |
+| `datacenter` | `string` | ❌ | ✅ | ✅ | area of nas |
+| `diskType` | `dedicated.storage.DiskTypeEnum` | ❌ | ❌ | ✅ | the disk type of the nasHa |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `ip` | `ip` | ❌ | ✅ | ✅ | Access ip of nas |
+| `monitored` | `boolean` | ❌ | ❌ | ❌ | Send an email to customer if any issue is detected |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | The storage service name |
+| `zpoolCapacity` | `long` | ❌ | ❌ | ✅ | percentage of nas space used in % |
+| `zpoolSize` | `long` | ❌ | ❌ | ✅ | the size of the nas |
+
+### `dedicated.nasha.customSnap`
+
+_Custom Snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expiration` | `string` | ❌ | ✅ | ✅ | date and time at which snapshot will be automatically destroyed |
+| `name` | `string` | ❌ | ❌ | ✅ | name of the snapshot |
+
+### `dedicated.nasha.options`
+
+_Partition options_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `atime` | `string` | ❌ | ❌ | ✅ | atime setting |
+| `id` | `long` | ❌ | ❌ | ✅ | ID |
+| `recordsize` | `string` | ❌ | ❌ | ✅ | ZFS recordsize |
+| `sync` | `string` | ❌ | ❌ | ✅ | sync setting |
+| `templateName` | `dedicated.storage.TemplateUsageOptionsEnum` | ❌ | ✅ | ✅ | the template name |
+
+### `dedicated.storage.AclTypeEnum`
+
+_Acl Type_
+
+**Enum** (`enumType: string`):
+
+- `readonly`
+- `readwrite`
+
+### `dedicated.storage.AtimeEnum`
+
+_Atime values_
+
+**Enum** (`enumType: string`):
+
+- `off`
+- `on`
+
+### `dedicated.storage.DiskTypeEnum`
+
+_the disk type of the nasHa_
+
+**Enum** (`enumType: string`):
+
+- `hdd`
+- `nvme`
+- `ssd`
+
+### `dedicated.storage.MetricsTokenResult`
+
+_A structure describing the metrics token result_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpoint` | `string` | ❌ | ❌ | ❌ | The url of the endpoint |
+| `token` | `password` | ❌ | ❌ | ❌ | The token value |
+
+### `dedicated.storage.NasUsageTypeEnum`
+
+_Available types for NAS usage_
+
+**Enum** (`enumType: string`):
+
+- `size`
+- `used`
+- `usedbysnapshots`
+
+### `dedicated.storage.PartitionUsageTypeEnum`
+
+_Available types for NAS partition usage_
+
+**Enum** (`enumType: string`):
+
+- `size`
+- `used`
+- `usedbysnapshots`
+
+### `dedicated.storage.ProtocolEnum`
+
+_Partition Protocol_
+
+**Enum** (`enumType: string`):
+
+- `CIFS`
+- `NFS`
+- `NFS_CIFS`
+
+### `dedicated.storage.RecordSizeEnum`
+
+_Recordsize values_
+
+**Enum** (`enumType: string`):
+
+- `1048576`
+- `131072`
+- `16384`
+- `32768`
+- `4096`
+- `65536`
+- `8192`
+
+### `dedicated.storage.SnapshotEnum`
+
+_Partition snapshot allowed _
+
+**Enum** (`enumType: string`):
+
+- `day-1`
+- `day-2`
+- `day-3`
+- `day-7`
+- `hour-1`
+- `hour-6`
+
+### `dedicated.storage.SyncEnum`
+
+_Sync values_
+
+**Enum** (`enumType: string`):
+
+- `always`
+- `disabled`
+- `standard`
+
+### `dedicated.storage.TaskFunctionEnum`
+
+_Distincts task_
+
+**Enum** (`enumType: string`):
+
+- `backupRecursiveDestroy`
+- `clusterLeclercAclUpdate`
+- `clusterLeclercChangeServiceIp`
+- `clusterLeclercCustomSnapCreate`
+- `clusterLeclercCustomSnapDelete`
+- `clusterLeclercDeleteSnapshotDirectory`
+- `clusterLeclercDestroyNasContainer`
+- `clusterLeclercPartitionAdd`
+- `clusterLeclercPartitionDelete`
+- `clusterLeclercPartitionUpdate`
+- `clusterLeclercQuotaUpdate`
+- `clusterLeclercSetupNasContainer`
+- `clusterLeclercSnapshotUpdate`
+- `clusterLeclercZfsOptions`
+- `nasAclUpdate`
+- `nasDeleteSnapshotDirectory`
+- `nasPartitionAdd`
+- `nasPartitionDelete`
+- `nasPartitionUpdate`
+- `nasQuotaUpdate`
+- `remoteBackupRecursiveDestroy`
+
+### `dedicated.storage.TemplateUsageOptionsDetails`
+
+_A structure describing the template usage result_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | The description of the template. |
+| `name` | `string` | ❌ | ❌ | ❌ | The name of the template |
+
+### `dedicated.storage.TemplateUsageOptionsEnum`
+
+_The template enumeration available for your partition._
+
+**Enum** (`enumType: string`):
+
+- `Databases`
+- `Default`
+- `File Systems (big files)`
+- `Virtual machines`
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

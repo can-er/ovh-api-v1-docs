@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **33** — Operations: **43**
+> Routes: **33** — Operations: **43**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `5451578bd8713e9c`
 
 ---
 
@@ -50,7 +52,7 @@
 
 _Operations about the HADOOPCLUSTER service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -73,7 +75,7 @@ _Operations about the HADOOPCLUSTER service_
 
 _Get informations about the order of one cluster_
 
-### 🟢 GET `GET` — Get informations about the order of one cluster
+### 🟢 GET — Get informations about the order of one cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -90,7 +92,7 @@ _Get informations about the order of one cluster_
 
 _Get the orderable node profiles and their characteristics_
 
-### 🟢 GET `GET` — Get the orderable node profiles and their characteristics
+### 🟢 GET — Get the orderable node profiles and their characteristics
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -107,7 +109,7 @@ _Get the orderable node profiles and their characteristics_
 
 _Managed Hadoop Cluster_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -130,7 +132,7 @@ _Managed Hadoop Cluster_
 
 _consumptions operations_
 
-### 🟢 GET `GET` — Get the current consumptions that you will billed for on the next bill
+### 🟢 GET — Get the current consumptions that you will billed for on the next bill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -153,7 +155,7 @@ _consumptions operations_
 
 _List the cluster.hadoop.NetworkAcl objects_
 
-### 🟢 GET `GET` — Network ACL associated with this Hadoop Cluster
+### 🟢 GET — Network ACL associated with this Hadoop Cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -171,7 +173,7 @@ _List the cluster.hadoop.NetworkAcl objects_
 
 ---
 
-### 🟡 POST `POST` — Add an ACL to your cluster
+### 🟡 POST — Add an ACL to your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -196,7 +198,7 @@ _List the cluster.hadoop.NetworkAcl objects_
 
 _ACL for allowing ip blocks to access to your cluster_
 
-### 🔴 DELETE `DELETE` — Remove this ACL
+### 🔴 DELETE — Remove this ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -215,7 +217,7 @@ _ACL for allowing ip blocks to access to your cluster_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -234,7 +236,7 @@ _ACL for allowing ip blocks to access to your cluster_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -259,7 +261,7 @@ _ACL for allowing ip blocks to access to your cluster_
 
 _List the cluster.hadoop.Node objects_
 
-### 🟢 GET `GET` — Nodes of the Cluster
+### 🟢 GET — Nodes of the Cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -283,7 +285,7 @@ _List the cluster.hadoop.Node objects_
 
 _Physical or Virtual Node_
 
-### 🔴 DELETE `DELETE` — Remove this Node from the Cluster
+### 🔴 DELETE — Remove this Node from the Cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -302,7 +304,7 @@ _Physical or Virtual Node_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -326,7 +328,7 @@ _Physical or Virtual Node_
 
 _decommission operations_
 
-### 🟡 POST `POST` — Decommission the node and all the services on it
+### 🟡 POST — Decommission the node and all the services on it
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -350,7 +352,7 @@ _decommission operations_
 
 _recommission operations_
 
-### 🟡 POST `POST` — Recommission the node and all the services on it
+### 🟡 POST — Recommission the node and all the services on it
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -374,7 +376,7 @@ _recommission operations_
 
 _List the cluster.hadoop.Role objects_
 
-### 🟢 GET `GET` — Roles (ie set of Hadoop services) of the Node
+### 🟢 GET — Roles (ie set of Hadoop services) of the Node
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -393,7 +395,7 @@ _List the cluster.hadoop.Role objects_
 
 ---
 
-### 🟡 POST `POST` — Add the Role to the Node
+### 🟡 POST — Add the Role to the Node
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -418,7 +420,7 @@ _List the cluster.hadoop.Role objects_
 
 _Role (ie set of Hadoop services) of the Node_
 
-### 🔴 DELETE `DELETE` — Remove this Role from the Node
+### 🔴 DELETE — Remove this Role from the Node
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -438,7 +440,7 @@ _Role (ie set of Hadoop services) of the Node_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -463,7 +465,7 @@ _Role (ie set of Hadoop services) of the Node_
 
 _restart operations_
 
-### 🟡 POST `POST` — Restart the role on the node (THIS ACTION WILL RESTART OTHER DEPENDANT ROLES)
+### 🟡 POST — Restart the role on the node (THIS ACTION WILL RESTART OTHER DEPENDANT ROLES)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -488,7 +490,7 @@ _restart operations_
 
 _start operations_
 
-### 🟡 POST `POST` — Start the role on the node
+### 🟡 POST — Start the role on the node
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -513,7 +515,7 @@ _start operations_
 
 _stop operations_
 
-### 🟡 POST `POST` — Stop the role on the node (THIS ACTION WILL STOP OTHER DEPENDANT ROLES)
+### 🟡 POST — Stop the role on the node (THIS ACTION WILL STOP OTHER DEPENDANT ROLES)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -538,7 +540,7 @@ _stop operations_
 
 _nodeBillingProfiles operations_
 
-### 🟢 GET `GET` — Detailed description for each Node profile
+### 🟢 GET — Detailed description for each Node profile
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -561,7 +563,7 @@ _nodeBillingProfiles operations_
 
 _nodeConsumptions operations_
 
-### 🟢 GET `GET` — Get the current node consumptions that you will billed for on the next bill
+### 🟢 GET — Get the current node consumptions that you will billed for on the next bill
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -584,7 +586,7 @@ _nodeConsumptions operations_
 
 _orderNewNodeHourly operations_
 
-### 🟡 POST `POST` — Order a new node in the cluster
+### 🟡 POST — Order a new node in the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -608,7 +610,7 @@ _orderNewNodeHourly operations_
 
 _orderableNodeProfiles operations_
 
-### 🟢 GET `GET` — List of orderable Node profiles
+### 🟢 GET — List of orderable Node profiles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -631,7 +633,7 @@ _orderableNodeProfiles operations_
 
 _restart operations_
 
-### 🟡 POST `POST` — Restart the Cloudera Manager Hadoop Cluster (THIS ACTION WILL RESTART EVERY SERVICE)
+### 🟡 POST — Restart the Cloudera Manager Hadoop Cluster (THIS ACTION WILL RESTART EVERY SERVICE)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -654,7 +656,7 @@ _restart operations_
 
 _restart operations_
 
-### 🟡 POST `POST` — Restart a Cloudera Manager service (THIS ACTION WILL RESTART OTHER DEPENDANT SERVICES)
+### 🟡 POST — Restart a Cloudera Manager service (THIS ACTION WILL RESTART OTHER DEPENDANT SERVICES)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -678,7 +680,7 @@ _restart operations_
 
 _start operations_
 
-### 🟡 POST `POST` — Start a Cloudera Manager service
+### 🟡 POST — Start a Cloudera Manager service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -702,7 +704,7 @@ _start operations_
 
 _stop operations_
 
-### 🟡 POST `POST` — Stop a Cloudera Manager service (THIS ACTION WILL STOP OTHER DEPENDANT SERVICES)
+### 🟡 POST — Stop a Cloudera Manager service (THIS ACTION WILL STOP OTHER DEPENDANT SERVICES)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -726,7 +728,7 @@ _stop operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -744,7 +746,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -768,7 +770,7 @@ _Details about a Service_
 
 _start operations_
 
-### 🟡 POST `POST` — Start the Cloudera Manager Hadoop Cluster
+### 🟡 POST — Start the Cloudera Manager Hadoop Cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -791,7 +793,7 @@ _start operations_
 
 _stop operations_
 
-### 🟡 POST `POST` — Stop a Cloudera Manager Hadoop Cluster (THIS ACTION WILL STOP EVERY SERVICE)
+### 🟡 POST — Stop a Cloudera Manager Hadoop Cluster (THIS ACTION WILL STOP EVERY SERVICE)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -814,7 +816,7 @@ _stop operations_
 
 _List the cluster.hadoop.Task objects_
 
-### 🟢 GET `GET` — Tasks associated with this Hadoop Cluster
+### 🟢 GET — Tasks associated with this Hadoop Cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -838,7 +840,7 @@ _List the cluster.hadoop.Task objects_
 
 _Operation on a Hadoop Cluster component_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -862,7 +864,7 @@ _Operation on a Hadoop Cluster component_
 
 _terminate operations_
 
-### 🟡 POST `POST` — Terminate your service. THE CLUSTER WILL BE DELETED. ALL YOUR DATA WILL BE LOST
+### 🟡 POST — Terminate your service. THE CLUSTER WILL BE DELETED. ALL YOUR DATA WILL BE LOST
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -885,7 +887,7 @@ _terminate operations_
 
 _List the cluster.hadoop.User objects_
 
-### 🟢 GET `GET` — Users associated with this Hadoop Cluster
+### 🟢 GET — Users associated with this Hadoop Cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -903,7 +905,7 @@ _List the cluster.hadoop.User objects_
 
 ---
 
-### 🟡 POST `POST` — Add an User to your cluster
+### 🟡 POST — Add an User to your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -931,7 +933,7 @@ _List the cluster.hadoop.User objects_
 
 _User allowed to access interfaces on your cluster_
 
-### 🔴 DELETE `DELETE` — Remove this User
+### 🔴 DELETE — Remove this User
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -950,7 +952,7 @@ _User allowed to access interfaces on your cluster_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -969,7 +971,7 @@ _User allowed to access interfaces on your cluster_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -994,7 +996,7 @@ _User allowed to access interfaces on your cluster_
 
 _resetPassword operations_
 
-### 🟡 POST `POST` — Reset the password for a given Hadoop Cluster User
+### 🟡 POST — Reset the password for a given Hadoop Cluster User
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1011,5 +1013,409 @@ _resetPassword operations_
 
 **IAM actions:** `clusterHadoop:apiovh:user/resetPassword` (required)
 
+
+---
+
+## Models
+
+### `cluster.hadoop.BillingNameEnum`
+
+_All billing profile names_
+
+**Enum** (`enumType: string`):
+
+- `100-small`
+- `200-cpu-1`
+- `220-cpu-3`
+- `300-disk-1`
+- `310-disk-3`
+- `900-vm-1`
+
+### `cluster.hadoop.ClusterConsumption`
+
+_Detailed information on a Hadoop Cluster consumption_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ❌ | Number of hours consummed |
+
+### `cluster.hadoop.ClusterServiceNameEnum`
+
+_All services names in a Hadoop Cluster_
+
+**Enum** (`enumType: string`):
+
+- `HBase`
+- `HDFS`
+- `HUE`
+- `Hive`
+- `Oozie`
+- `Solr`
+- `Spark`
+- `Sqoop`
+- `YARN`
+- `ZooKeeper`
+
+### `cluster.hadoop.ClusterStateEnum`
+
+_All states a Hadoop Cluster can be in_
+
+**Enum** (`enumType: string`):
+
+- `created`
+- `creating`
+- `deleted`
+- `deleting`
+- `delivered`
+- `delivering`
+- `toDeliver`
+
+### `cluster.hadoop.NetworkAcl`
+
+_ACL for allowing ip blocks to access to your cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `block` | `ipBlock` | ❌ | ❌ | ✅ | IP Block to allow |
+| `description` | `string` | ❌ | ✅ | ❌ | description of this ACL |
+| `state` | `cluster.hadoop.NetworkAclStateEnum` | ❌ | ❌ | ✅ | State of the NetworkAcl. |
+
+### `cluster.hadoop.NetworkAclStateEnum`
+
+_All states a Hadoop Cluster NetworkAcl can be in_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+- `pending`
+
+### `cluster.hadoop.Node`
+
+_Physical or Virtual Node_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `billingProfileName` | `cluster.hadoop.BillingNameEnum` | ❌ | ❌ | ✅ | Name of the billing profile attached to the node |
+| `hostname` | `string` | ❌ | ❌ | ✅ | Hostname of the node |
+| `ip` | `ip` | ❌ | ❌ | ✅ | IP of the Node |
+| `isRemovable` | `boolean` | ❌ | ❌ | ✅ | Whether or not the Node is removable |
+| `softwareProfile` | `cluster.hadoop.NodeProfileEnum` | ❌ | ❌ | ✅ | Profile of the Node |
+| `state` | `cluster.hadoop.NodeStateEnum` | ❌ | ❌ | ✅ | State of the Node |
+
+### `cluster.hadoop.NodeBillingProfile`
+
+_Detailed information on a node billing profile_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `CPUFrequency` | `complexType.UnitAndValue<double>` | ❌ | ❌ | ❌ | Frequency of one CPU core |
+| `diskCapacity` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ❌ | Total capacity available for HDFS |
+| `nbCPUCores` | `long` | ❌ | ❌ | ❌ | Total number of the CPU cores |
+| `nbCPUThreads` | `long` | ❌ | ❌ | ❌ | Total number of the CPU threads |
+| `networkBandwidth` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ❌ | Network speed of the link used for the Hadoop process |
+| `nodeProfile` | `string` | ❌ | ❌ | ❌ | Name of the Node billing profile |
+| `ramQuantity` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ❌ | Total amount of RAM |
+
+### `cluster.hadoop.NodeConsumption`
+
+_Detailed information on a node consumption of a Hadoop Cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hostname` | `string` | ❌ | ❌ | ❌ | Hostname of the consumed resource |
+| `nodeProfile` | `cluster.hadoop.BillingNameEnum` | ❌ | ❌ | ❌ | Name of the node profile for the consumptions |
+| `quantity` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ❌ | Number of hours consummed |
+
+### `cluster.hadoop.NodeProfileEnum`
+
+_All profiles a Hadoop Cluster Node can be_
+
+**Enum** (`enumType: string`):
+
+- `ApplicationServer`
+- `BasicNode`
+- `ClouderaManager`
+- `MasterServer`
+- `SecondaryServer`
+
+### `cluster.hadoop.NodeStateEnum`
+
+_All states a Hadoop Cluster Node can be in_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `delivered`
+- `toDeploy`
+- `unavailable`
+
+### `cluster.hadoop.OperationStateEnum`
+
+_All states a Hadoop Cluster Cloud Task can be in_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `cluster.hadoop.OrderInformations`
+
+_Detailed information on the order of one Hadoop Cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maximumOrderableNodes` | `long` | ❌ | ❌ | ❌ | Maximal number of Node allowed in one order |
+| `minimumOrderableNodes` | `long` | ❌ | ❌ | ❌ | Minimum number of Node allowed in one order |
+
+### `cluster.hadoop.Role`
+
+_Role (ie set of Hadoop services) of the Node_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ | ID of the Role |
+| `type` | `cluster.hadoop.RoleTypeEnum` | ❌ | ❌ | ✅ | Role name |
+
+### `cluster.hadoop.RoleTypeEnum`
+
+_All roles a Hadoop Cluster Node can be_
+
+**Enum** (`enumType: string`):
+
+- `cloudera_manager`
+- `data_node`
+- `elasticsearch_server`
+- `hbase_master`
+- `hbase_region_server`
+- `hive_server2`
+- `hue`
+- `impala_daemon`
+- `impala_server`
+- `map_reduce_history_server`
+- `name_node`
+- `oozie_server`
+- `open_tsdb`
+- `secondary_name_node`
+- `solr_server`
+- `spark_master`
+- `spark_worker`
+- `sqoop_server`
+- `yarn_node_manager`
+- `yarn_resource_manager`
+- `zoo_keeper`
+
+### `cluster.hadoop.Task`
+
+_Operation on a Hadoop Cluster component_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Operation name |
+| `status` | `cluster.hadoop.OperationStateEnum` | ❌ | ❌ | ✅ | Current Task state |
+| `taskId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `cluster.hadoop.User`
+
+_User allowed to access interfaces on your cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `clouderaManager` | `boolean` | ❌ | ❌ | ❌ | Whether or not the User is allowed to access to the Cloudera Manager interface |
+| `httpFrontend` | `boolean` | ❌ | ❌ | ❌ | Whether or not the User is allowed to access to the WebUI interfaces |
+| `hue` | `boolean` | ❌ | ❌ | ❌ | Whether or not the User is allowed to access to the Hue interface |
+| `username` | `string` | ❌ | ❌ | ✅ | The username of the User |
+
+### `cluster.hadoop.hadoop`
+
+_Managed Hadoop Cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `clouderaVersion` | `string` | ❌ | ❌ | ✅ | CDH and Cloudera Manager version |
+| `maxOrderableNodes` | `long` | ❌ | ❌ | ✅ | Maximum quantity of nodes allowed to be ordered in the cluster |
+| `name` | `string` | ❌ | ❌ | ✅ | Service name of your Cluster |
+| `state` | `cluster.hadoop.ClusterStateEnum` | ❌ | ❌ | ✅ | State of the Hadoop Cluster |
+
+### `cluster.hadoop.hadoopWithIAM`
+
+_Managed Hadoop Cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `clouderaVersion` | `string` | ❌ | ❌ | ✅ | CDH and Cloudera Manager version |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `maxOrderableNodes` | `long` | ❌ | ❌ | ✅ | Maximum quantity of nodes allowed to be ordered in the cluster |
+| `name` | `string` | ❌ | ❌ | ✅ | Service name of your Cluster |
+| `state` | `cluster.hadoop.ClusterStateEnum` | ❌ | ❌ | ✅ | State of the Hadoop Cluster |
+
+### `complexType.UnitAndValue<T>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `complexType.UnitAndValue<double>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `complexType.UnitAndValue<long>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

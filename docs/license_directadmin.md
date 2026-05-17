@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **12** — Operations: **14**
+> Routes: **12** — Operations: **14**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `4d2ce1362a98289c`
 
 ---
 
@@ -29,7 +31,7 @@
 
 _Operations about the LICENSE service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -52,7 +54,7 @@ _Operations about the LICENSE service_
 
 _Get the orderable DirectAdmin versions_
 
-### 🟢 GET `GET` — Get the orderable DirectAdmin versions
+### 🟢 GET — Get the orderable DirectAdmin versions
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -75,7 +77,7 @@ _Get the orderable DirectAdmin versions_
 
 _Your DirectAdmin license_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -93,7 +95,7 @@ _Your DirectAdmin license_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -117,7 +119,7 @@ _Your DirectAdmin license_
 
 _allowedDestinationIp operations_
 
-### 🟢 GET `GET` — Returns an array of ips where the license can be moved to
+### 🟢 GET — Returns an array of ips where the license can be moved to
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -140,7 +142,7 @@ _allowedDestinationIp operations_
 
 _canLicenseBeMovedTo operations_
 
-### 🟢 GET `GET` — Will tell if the ip can accept the license
+### 🟢 GET — Will tell if the ip can accept the license
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -164,7 +166,7 @@ _canLicenseBeMovedTo operations_
 
 _changeIp operations_
 
-### 🟡 POST `POST` — Move this license to another Ip
+### 🟡 POST — Move this license to another Ip
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -188,7 +190,7 @@ _changeIp operations_
 
 _changeOs operations_
 
-### 🟡 POST `POST` — Change the Operating System for a license
+### 🟡 POST — Change the Operating System for a license
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -212,7 +214,7 @@ _changeOs operations_
 
 _Confirm service termination_
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -239,7 +241,7 @@ _Confirm service termination_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -257,7 +259,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -281,7 +283,7 @@ _Details about a Service_
 
 _List the license.Task objects_
 
-### 🟢 GET `GET` — tasks linked to this license
+### 🟢 GET — tasks linked to this license
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -306,7 +308,7 @@ _List the license.Task objects_
 
 _licenses Todos_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -330,7 +332,7 @@ _licenses Todos_
 
 _Ask for the termination of your service. Admin contact of this service will receive a termination token in order to confirm its termination with /confirmTermination endpoint._
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -345,5 +347,353 @@ _Ask for the termination of your service. Admin contact of this service will rec
 
 **IAM actions:** `licenseDirectAdmin:apiovh:terminate` (required)
 
+
+---
+
+## Models
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `license.ActionType`
+
+_A short description of what does the Task on your license_
+
+**Enum** (`enumType: string`):
+
+- `addWindowFromExistingSerial`
+- `changeIp`
+- `changeOs`
+- `installLicense`
+- `optionUpgrade`
+- `releaseOption`
+- `versionUpgrade`
+
+### `license.ChangeIpMessageEnum`
+
+_Messages from change IP_
+
+**Enum** (`enumType: string`):
+
+- `OK`
+- `destinationNotAllowed`
+- `licenseAlreadyExists`
+- `notAllowedToHandleThis`
+- `notSameType`
+- `sameIp`
+- `versionNotAllowed`
+
+### `license.ChangeIpStatus`
+
+_License change ip status return_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `message` | `license.ChangeIpMessageEnum` | ❌ | ❌ | ❌ |  |
+| `success` | `boolean` | ❌ | ❌ | ❌ |  |
+
+### `license.DirectAdminOrderConfiguration`
+
+_The serviceTypes allowed to Order a DirectAdmin version_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `orderableVersions` | `license.OrderableDirectAdminCompatibilityInfos[]` | ❌ | ❌ | ❌ |  |
+| `serviceType` | `license.LicenseTypeEnum` | ❌ | ❌ | ❌ |  |
+
+### `license.DirectAdminOsEnum`
+
+_All operating systems available for DirectAdmin products_
+
+**Enum** (`enumType: string`):
+
+- `CentOs_5.0_32`
+- `CentOs_5.0_64`
+- `CentOs_6_32`
+- `CentOs_6_64`
+- `CentOs_7_64`
+- `CentOs_8_64`
+- `Debian_10.0_64`
+- `Debian_11.0_64`
+- `Debian_5.0_32`
+- `Debian_5.0_64`
+- `Debian_6.0_32`
+- `Debian_6.0_64`
+- `Debian_7.0_64`
+- `Debian_8.0_64`
+- `Debian_9.0_64`
+- `FreeBSD_11.x_64`
+- `FreeBSD_12.x_64`
+- `FreeBSD_7.x_32`
+- `FreeBSD_7.x_64`
+- `FreeBSD_8.x_64`
+- `FreeBSD_9.x_64`
+
+### `license.DirectAdminVersionEnum`
+
+_All versions for DirectAdmin products_
+
+**Enum** (`enumType: string`):
+
+- `DIRECTADMIN_1`
+- `directadmin-license`
+
+### `license.LicenseTypeEnum`
+
+_Possible values for license type_
+
+**Enum** (`enumType: string`):
+
+- `dedicated`
+- `dedicatedCloud`
+- `dedicatedFailover`
+- `failover`
+- `vm`
+- `vps`
+- `vps_ceph`
+- `vps_classic`
+- `vps_cloud`
+- `vps_cloud_2016`
+- `vps_ssd`
+
+### `license.OrderableDirectAdminCompatibilityInfos`
+
+_All versions available for DirectAdmin products_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `version` | `license.OrderableDirectAdminVersionEnum` | ❌ | ❌ | ❌ |  |
+
+### `license.OrderableDirectAdminVersionEnum`
+
+_All versions available for DirectAdmin products_
+
+**Enum** (`enumType: string`):
+
+- `DIRECTADMIN_1`
+- `directadmin-license`
+
+### `license.StateEnum`
+
+_All states a license can be in_
+
+**Enum** (`enumType: string`):
+
+- `ok`
+- `released`
+- `terminated`
+- `toDeliver`
+
+### `license.Task`
+
+_licenses Todos_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `license.ActionType` | ❌ | ❌ | ✅ | This Task description |
+| `doneDate` | `datetime` | ❌ | ✅ | ✅ | When was this Task done |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | The last time this Task was updated |
+| `name` | `string` | ❌ | ❌ | ✅ | This Task name |
+| `status` | `license.TaskStateEnum` | ❌ | ❌ | ✅ | Current Taks status |
+| `taskId` | `long` | ❌ | ❌ | ✅ | This Task id |
+| `todoDate` | `datetime` | ❌ | ❌ | ✅ | When was this Task created |
+
+### `license.TaskStateEnum`
+
+_All states a license Task can be in_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `license.directadmin.DirectAdmin`
+
+_Your DirectAdmin license_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `clientId` | `long` | ❌ | ❌ | ✅ | The client id on license provider side |
+| `creation` | `datetime` | ❌ | ❌ | ✅ | This license creation date |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | Shall we delete this on expiration ? |
+| `domain` | `string` | ❌ | ❌ | ✅ | The internal name of your license |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | The ip on which this license is attached |
+| `licenseId` | `string` | ❌ | ❌ | ✅ | The license id on license provider side |
+| `os` | `license.DirectAdminOsEnum` | ❌ | ❌ | ❌ | This license operating system |
+| `status` | `license.StateEnum` | ❌ | ❌ | ✅ | This license state |
+| `version` | `license.DirectAdminVersionEnum` | ❌ | ❌ | ✅ | This license version |
+
+### `license.directadmin.DirectAdminWithIAM`
+
+_Your DirectAdmin license_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `clientId` | `long` | ❌ | ❌ | ✅ | The client id on license provider side |
+| `creation` | `datetime` | ❌ | ❌ | ✅ | This license creation date |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | Shall we delete this on expiration ? |
+| `domain` | `string` | ❌ | ❌ | ✅ | The internal name of your license |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | The ip on which this license is attached |
+| `licenseId` | `string` | ❌ | ❌ | ✅ | The license id on license provider side |
+| `os` | `license.DirectAdminOsEnum` | ❌ | ❌ | ❌ | This license operating system |
+| `status` | `license.StateEnum` | ❌ | ❌ | ✅ | This license state |
+| `version` | `license.DirectAdminVersionEnum` | ❌ | ❌ | ✅ | This license version |
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 

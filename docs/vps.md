@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **74** — Operations: **94**
+> Routes: **74** — Operations: **94**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `a1ca9d17b13518fc`
 
 ---
 
@@ -89,7 +91,7 @@
 
 ## `/vps`
 
-### 🟢 GET `GET` — List your VPS
+### 🟢 GET — List your VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -111,7 +113,7 @@
 
 ## `/vps/{serviceName}`
 
-### 🟢 GET `GET` — Get information about a specific VPS
+### 🟢 GET — Get information about a specific VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -130,7 +132,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Edit properties of the given VPS
+### 🟠 PUT — Edit properties of the given VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -153,7 +155,7 @@
 
 ## `/vps/{serviceName}/abortSnapshot`
 
-### 🟡 POST `POST` — Abort an ongoing snapshot or automated backup operation for this VPS
+### 🟡 POST — Abort an ongoing snapshot or automated backup operation for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -175,7 +177,7 @@
 
 ## `/vps/{serviceName}/activeOptions`
 
-### 🟢 GET `GET` — List all active options enabled on this VPS
+### 🟢 GET — List all active options enabled on this VPS
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -197,7 +199,7 @@
 
 ## `/vps/{serviceName}/automatedBackup`
 
-### 🟢 GET `GET` — Retrieve automated backup settings for this VPS
+### 🟢 GET — Retrieve automated backup settings for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -219,7 +221,7 @@
 
 ## `/vps/{serviceName}/automatedBackup/attachedBackup`
 
-### 🟢 GET `GET` — List backups currently attached to this VPS
+### 🟢 GET — List backups currently attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -241,7 +243,7 @@
 
 ## `/vps/{serviceName}/automatedBackup/detachBackup`
 
-### 🟡 POST `POST` — Unmount a restored backup from this VPS and return an asynchronous task
+### 🟡 POST — Unmount a restored backup from this VPS and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -264,7 +266,7 @@
 
 ## `/vps/{serviceName}/automatedBackup/reschedule`
 
-### 🟡 POST `POST` — Change the scheduled time of the daily automated backup and return an asynchronous task
+### 🟡 POST — Change the scheduled time of the daily automated backup and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -287,7 +289,7 @@
 
 ## `/vps/{serviceName}/automatedBackup/restore`
 
-### 🟡 POST `POST` — Restore this VPS from a given restore point and return an asynchronous task
+### 🟡 POST — Restore this VPS from a given restore point and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -310,7 +312,7 @@
 
 ## `/vps/{serviceName}/automatedBackup/restorePoints`
 
-### 🟢 GET `GET` — List available restore points for the automated backup
+### 🟢 GET — List available restore points for the automated backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -333,7 +335,7 @@
 
 ## `/vps/{serviceName}/availableUpgrade`
 
-### 🟢 GET `GET` — List models this VPS can be upgraded to
+### 🟢 GET — List models this VPS can be upgraded to
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -355,7 +357,7 @@
 
 ## `/vps/{serviceName}/backupftp`
 
-### 🟢 GET `GET` — Retrieve Backup FTP configuration for this VPS
+### 🟢 GET — Retrieve Backup FTP configuration for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -377,7 +379,7 @@
 
 ## `/vps/{serviceName}/backupftp/access`
 
-### 🟢 GET `GET` — List Backup FTP ACL entries for this VPS
+### 🟢 GET — List Backup FTP ACL entries for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -396,7 +398,7 @@
 
 ---
 
-### 🟡 POST `POST` — Create a new Backup FTP ACL entry and return an asynchronous task
+### 🟡 POST — Create a new Backup FTP ACL entry and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -419,7 +421,7 @@
 
 ## `/vps/{serviceName}/backupftp/access/{ipBlock}`
 
-### 🔴 DELETE `DELETE` — Revoke a Backup FTP ACL entry and return an asynchronous task
+### 🔴 DELETE — Revoke a Backup FTP ACL entry and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -439,7 +441,7 @@
 
 ---
 
-### 🟢 GET `GET` — Retrieve a specific Backup FTP ACL entry
+### 🟢 GET — Retrieve a specific Backup FTP ACL entry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -459,7 +461,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update a Backup FTP ACL entry
+### 🟠 PUT — Update a Backup FTP ACL entry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -483,7 +485,7 @@
 
 ## `/vps/{serviceName}/backupftp/authorizableBlocks`
 
-### 🟢 GET `GET` — List IP blocks that can be used in the Backup FTP ACL
+### 🟢 GET — List IP blocks that can be used in the Backup FTP ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -505,7 +507,7 @@
 
 ## `/vps/{serviceName}/backupftp/password`
 
-### 🟡 POST `POST` — Change the Backup FTP password for this VPS and return an asynchronous task
+### 🟡 POST — Change the Backup FTP password for this VPS and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -527,7 +529,7 @@
 
 ## `/vps/{serviceName}/changeContact`
 
-### 🟡 POST `POST` — Initiate a contact change procedure for this VPS service
+### 🟡 POST — Initiate a contact change procedure for this VPS service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -550,7 +552,7 @@
 
 ## `/vps/{serviceName}/confirmTermination`
 
-### 🟡 POST `POST` — Confirm the termination of this VPS service
+### 🟡 POST — Confirm the termination of this VPS service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -573,7 +575,7 @@
 
 ## `/vps/{serviceName}/createSnapshot`
 
-### 🟡 POST `POST` — Create a snapshot of this VPS (requires the snapshot option and no existing snapshot); returns an asynchronous task
+### 🟡 POST — Create a snapshot of this VPS (requires the snapshot option and no existing snapshot); returns an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -596,7 +598,7 @@
 
 ## `/vps/{serviceName}/datacenter`
 
-### 🟢 GET `GET` — Retrieve the datacenter information for this VPS
+### 🟢 GET — Retrieve the datacenter information for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -618,7 +620,7 @@
 
 ## `/vps/datacenter`
 
-### 🟢 GET `GET` — List all VPS datacenters available for the given country
+### 🟢 GET — List all VPS datacenters available for the given country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -638,7 +640,7 @@
 
 ## `/vps/{serviceName}/disks`
 
-### 🟢 GET `GET` — List disks attached to this VPS
+### 🟢 GET — List disks attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -660,7 +662,7 @@
 
 ## `/vps/{serviceName}/disks/{id}`
 
-### 🟢 GET `GET` — Retrieve details about a specific disk attached to this VPS
+### 🟢 GET — Retrieve details about a specific disk attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -680,7 +682,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update disk properties for this VPS
+### 🟠 PUT — Update disk properties for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -704,7 +706,7 @@
 
 ## `/vps/{serviceName}/disks/{id}/monitoring`
 
-### 🟢 GET `GET` — Retrieve disk monitoring statistics for this VPS over a given period
+### 🟢 GET — Retrieve disk monitoring statistics for this VPS over a given period
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -729,7 +731,7 @@
 
 ## `/vps/{serviceName}/disks/{id}/use`
 
-### 🟢 GET `GET` — Retrieve current disk usage metrics for this VPS
+### 🟢 GET — Retrieve current disk usage metrics for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -753,7 +755,7 @@
 
 ## `/vps/{serviceName}/distribution`
 
-### 🟢 GET `GET` — Retrieve information about the distribution (template) currently set for this VPS
+### 🟢 GET — Retrieve information about the distribution (template) currently set for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -775,7 +777,7 @@
 
 ## `/vps/{serviceName}/distribution/software`
 
-### 🟢 GET `GET` — List software available for the VPS distribution
+### 🟢 GET — List software available for the VPS distribution
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -797,7 +799,7 @@
 
 ## `/vps/{serviceName}/distribution/software/{softwareId}`
 
-### 🟢 GET `GET` — Retrieve details about a specific software available for the VPS distribution
+### 🟢 GET — Retrieve details about a specific software available for the VPS distribution
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -820,7 +822,7 @@
 
 ## `/vps/{serviceName}/getConsoleUrl`
 
-### 🟡 POST `POST` — Generate and return a console access URL for this VPS
+### 🟡 POST — Generate and return a console access URL for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -842,7 +844,7 @@
 
 ## `/vps/{serviceName}/images/available`
 
-### 🟢 GET `GET` — List images available for this VPS
+### 🟢 GET — List images available for this VPS
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -864,7 +866,7 @@
 
 ## `/vps/{serviceName}/images/available/{id}`
 
-### 🟢 GET `GET` — Retrieve details about a specific image available for this VPS
+### 🟢 GET — Retrieve details about a specific image available for this VPS
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -887,7 +889,7 @@
 
 ## `/vps/{serviceName}/images/current`
 
-### 🟢 GET `GET` — Retrieve the currently installed image on this VPS
+### 🟢 GET — Retrieve the currently installed image on this VPS
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -909,7 +911,7 @@
 
 ## `/vps/{serviceName}/ipCountryAvailable`
 
-### 🟢 GET `GET` — List the available countries for IP geolocation (GeoIP) on this VPS
+### 🟢 GET — List the available countries for IP geolocation (GeoIP) on this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -931,7 +933,7 @@
 
 ## `/vps/{serviceName}/ips`
 
-### 🟢 GET `GET` — List IPs attached to this VPS
+### 🟢 GET — List IPs attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -953,7 +955,7 @@
 
 ## `/vps/{serviceName}/ips/{ipAddress}`
 
-### 🔴 DELETE `DELETE` — Release an additional IP attached to this VPS
+### 🔴 DELETE — Release an additional IP attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -973,7 +975,7 @@
 
 ---
 
-### 🟢 GET `GET` — Retrieve details about a specific IP attached to this VPS
+### 🟢 GET — Retrieve details about a specific IP attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -993,7 +995,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update IP properties for this VPS
+### 🟠 PUT — Update IP properties for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1017,7 +1019,7 @@
 
 ## `/vps/{serviceName}/migration2016`
 
-### 🟢 GET `GET` — Retrieve information about the possible/ongoing migration from VPS 2016 to VPS 2020
+### 🟢 GET — Retrieve information about the possible/ongoing migration from VPS 2016 to VPS 2020
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1036,7 +1038,7 @@
 
 ---
 
-### 🟡 POST `POST` — Schedule the migration from VPS 2016 to VPS 2020 and return an asynchronous task
+### 🟡 POST — Schedule the migration from VPS 2016 to VPS 2020 and return an asynchronous task
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1058,7 +1060,7 @@
 
 ## `/vps/{serviceName}/migration2018`
 
-### 🟢 GET `GET` — Retrieve information about the possible/ongoing migration from VPS 2016/2018 to VPS 2020
+### 🟢 GET — Retrieve information about the possible/ongoing migration from VPS 2016/2018 to VPS 2020
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1077,7 +1079,7 @@
 
 ---
 
-### 🟡 POST `POST` — Schedule the migration from VPS 2016/2018 to VPS 2020 and return an asynchronous task
+### 🟡 POST — Schedule the migration from VPS 2016/2018 to VPS 2020 and return an asynchronous task
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1100,7 +1102,7 @@
 
 ## `/vps/{serviceName}/migration2020`
 
-### 🔴 DELETE `DELETE` — Cancel the migration request from VPS 2020 to VPS 2025
+### 🔴 DELETE — Cancel the migration request from VPS 2020 to VPS 2025
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1119,7 +1121,7 @@
 
 ---
 
-### 🟢 GET `GET` — Retrieve information about the possible/ongoing migration from VPS 2020 to VPS 2025
+### 🟢 GET — Retrieve information about the possible/ongoing migration from VPS 2020 to VPS 2025
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1138,7 +1140,7 @@
 
 ---
 
-### 🟡 POST `POST` — Request to be queued for migration from VPS 2020 to VPS 2025
+### 🟡 POST — Request to be queued for migration from VPS 2020 to VPS 2025
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1158,7 +1160,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update migration parameters for the VPS 2020 to VPS 2025 migration
+### 🟠 PUT — Update migration parameters for the VPS 2020 to VPS 2025 migration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1181,7 +1183,7 @@
 
 ## `/vps/{serviceName}/models`
 
-### 🟢 GET `GET` — List available models for this VPS range
+### 🟢 GET — List available models for this VPS range
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1203,7 +1205,7 @@
 
 ## `/vps/{serviceName}/monitoring`
 
-### 🟢 GET `GET` — Retrieve monitoring statistics for this VPS over a given period
+### 🟢 GET — Retrieve monitoring statistics for this VPS over a given period
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1227,7 +1229,7 @@
 
 ## `/vps/{serviceName}/openConsoleAccess`
 
-### 🟡 POST `POST` — Generate the information required to open a VNC connection to this VPS
+### 🟡 POST — Generate the information required to open a VNC connection to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1250,7 +1252,7 @@
 
 ## `/vps/{serviceName}/option`
 
-### 🟢 GET `GET` — List options attached to this VPS
+### 🟢 GET — List options attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1272,7 +1274,7 @@
 
 ## `/vps/{serviceName}/option/{option}`
 
-### 🔴 DELETE `DELETE` — Release an option attached to this VPS (deprecated)
+### 🔴 DELETE — Release an option attached to this VPS (deprecated)
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1293,7 +1295,7 @@
 
 ---
 
-### 🟢 GET `GET` — Retrieve details about a specific option attached to this VPS
+### 🟢 GET — Retrieve details about a specific option attached to this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1316,7 +1318,7 @@
 
 ## `/vps/order/rule/datacenter`
 
-### 🟢 GET `GET` — List datacenters with priority and stock status for a VPS order
+### 🟢 GET — List datacenters with priority and stock status for a VPS order
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1338,7 +1340,7 @@
 
 ## `/vps/order/rule/osChoices`
 
-### 🟢 GET `GET` — List OS choices and availability status for a VPS order
+### 🟢 GET — List OS choices and availability status for a VPS order
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1359,7 +1361,7 @@
 
 ## `/vps/{serviceName}/reboot`
 
-### 🟡 POST `POST` — Request a reboot of the VPS
+### 🟡 POST — Request a reboot of the VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1381,7 +1383,7 @@
 
 ## `/vps/{serviceName}/rebuild`
 
-### 🟡 POST `POST` — Rebuild (reinstall) this VPS and return an asynchronous task
+### 🟡 POST — Rebuild (reinstall) this VPS and return an asynchronous task
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1404,7 +1406,7 @@
 
 ## `/vps/{serviceName}/reinstall`
 
-### 🟡 POST `POST` — Reinstall the VPS
+### 🟡 POST — Reinstall the VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1427,7 +1429,7 @@
 
 ## `/vps/{serviceName}/secondaryDnsDomains`
 
-### 🟢 GET `GET` — List domains configured on secondary DNS for this VPS
+### 🟢 GET — List domains configured on secondary DNS for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1446,7 +1448,7 @@
 
 ---
 
-### 🟡 POST `POST` — Add a domain to the secondary DNS configuration
+### 🟡 POST — Add a domain to the secondary DNS configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1469,7 +1471,7 @@
 
 ## `/vps/{serviceName}/secondaryDnsDomains/{domain}`
 
-### 🔴 DELETE `DELETE` — Remove this domain from the secondary DNS configuration
+### 🔴 DELETE — Remove this domain from the secondary DNS configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1489,7 +1491,7 @@
 
 ---
 
-### 🟢 GET `GET` — Retrieve the secondary DNS configuration for a specific domain
+### 🟢 GET — Retrieve the secondary DNS configuration for a specific domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1509,7 +1511,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update the secondary DNS configuration for this domain (deprecated)
+### 🟠 PUT — Update the secondary DNS configuration for this domain (deprecated)
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1533,7 +1535,7 @@
 
 ## `/vps/{serviceName}/secondaryDnsDomains/{domain}/dnsServer`
 
-### 🟢 GET `GET` — Retrieve the authoritative name server information for this secondary DNS domain
+### 🟢 GET — Retrieve the authoritative name server information for this secondary DNS domain
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1556,7 +1558,7 @@
 
 ## `/vps/{serviceName}/secondaryDnsNameServerAvailable`
 
-### 🟢 GET `GET` — Retrieve the secondary DNS name server available for this VPS
+### 🟢 GET — Retrieve the secondary DNS name server available for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1578,7 +1580,7 @@
 
 ## `/vps/{serviceName}/serviceInfos`
 
-### 🟢 GET `GET` — Retrieve the service information for this VPS
+### 🟢 GET — Retrieve the service information for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1597,7 +1599,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update the service information for this VPS
+### 🟠 PUT — Update the service information for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1620,7 +1622,7 @@
 
 ## `/vps/{serviceName}/setPassword`
 
-### 🟡 POST `POST` — Trigger the process to reset/set the root password on this VPS and return an asynchronous task
+### 🟡 POST — Trigger the process to reset/set the root password on this VPS and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1642,7 +1644,7 @@
 
 ## `/vps/{serviceName}/snapshot`
 
-### 🔴 DELETE `DELETE` — Delete the VPS snapshot and return an asynchronous task
+### 🔴 DELETE — Delete the VPS snapshot and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1661,7 +1663,7 @@
 
 ---
 
-### 🟢 GET `GET` — Retrieve information about the current VPS snapshot
+### 🟢 GET — Retrieve information about the current VPS snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1680,7 +1682,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update the VPS snapshot properties
+### 🟠 PUT — Update the VPS snapshot properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1703,7 +1705,7 @@
 
 ## `/vps/{serviceName}/snapshot/download`
 
-### 🟢 GET `GET` — Generate a download URL for the VPS snapshot
+### 🟢 GET — Generate a download URL for the VPS snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1725,7 +1727,7 @@
 
 ## `/vps/{serviceName}/snapshot/revert`
 
-### 🟡 POST `POST` — Revert this VPS to the specified snapshot and return an asynchronous task
+### 🟡 POST — Revert this VPS to the specified snapshot and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1747,7 +1749,7 @@
 
 ## `/vps/{serviceName}/start`
 
-### 🟡 POST `POST` — Start the VPS (power on) and return an asynchronous task
+### 🟡 POST — Start the VPS (power on) and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1769,7 +1771,7 @@
 
 ## `/vps/{serviceName}/statistics`
 
-### 🟢 GET `GET` — Retrieve monitoring statistics for the VPS
+### 🟢 GET — Retrieve monitoring statistics for the VPS
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1791,7 +1793,7 @@
 
 ## `/vps/{serviceName}/status`
 
-### 🟢 GET `GET` — Retrieve the service status of the main IP for this VPS
+### 🟢 GET — Retrieve the service status of the main IP for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1813,7 +1815,7 @@
 
 ## `/vps/{serviceName}/stop`
 
-### 🟡 POST `POST` — Stop the VPS (power off) and return an asynchronous task
+### 🟡 POST — Stop the VPS (power off) and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1835,7 +1837,7 @@
 
 ## `/vps/{serviceName}/tasks`
 
-### 🟢 GET `GET` — List tasks associated with this VPS
+### 🟢 GET — List tasks associated with this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1859,7 +1861,7 @@
 
 ## `/vps/{serviceName}/tasks/{id}`
 
-### 🟢 GET `GET` — Retrieve details about a specific task for this VPS
+### 🟢 GET — Retrieve details about a specific task for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1882,7 +1884,7 @@
 
 ## `/vps/{serviceName}/templates`
 
-### 🟢 GET `GET` — List the templates available for this VPS
+### 🟢 GET — List the templates available for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1904,7 +1906,7 @@
 
 ## `/vps/{serviceName}/templates/{id}`
 
-### 🟢 GET `GET` — Retrieve details about a specific template available for this VPS
+### 🟢 GET — Retrieve details about a specific template available for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1927,7 +1929,7 @@
 
 ## `/vps/{serviceName}/templates/{id}/software`
 
-### 🟢 GET `GET` — List software available for the given VPS template
+### 🟢 GET — List software available for the given VPS template
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1950,7 +1952,7 @@
 
 ## `/vps/{serviceName}/templates/{id}/software/{softwareId}`
 
-### 🟢 GET `GET` — Retrieve details about a specific software available for a VPS template
+### 🟢 GET — Retrieve details about a specific software available for a VPS template
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1974,7 +1976,7 @@
 
 ## `/vps/{serviceName}/terminate`
 
-### 🟡 POST `POST` — Request termination of this VPS service
+### 🟡 POST — Request termination of this VPS service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1996,7 +1998,7 @@
 
 ## `/vps/{serviceName}/use`
 
-### 🟢 GET `GET` — Retrieve current usage metrics for this VPS
+### 🟢 GET — Retrieve current usage metrics for this VPS
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2019,7 +2021,7 @@
 
 ## `/vps/{serviceName}/veeam`
 
-### 🟢 GET `GET` — Retrieve Veeam backup configuration for this VPS
+### 🟢 GET — Retrieve Veeam backup configuration for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2041,7 +2043,7 @@
 
 ## `/vps/{serviceName}/veeam/restorePoints`
 
-### 🟢 GET `GET` — List Veeam restore points available for this VPS
+### 🟢 GET — List Veeam restore points available for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2064,7 +2066,7 @@
 
 ## `/vps/{serviceName}/veeam/restorePoints/{id}`
 
-### 🟢 GET `GET` — Retrieve details about a specific Veeam restore point for this VPS
+### 🟢 GET — Retrieve details about a specific Veeam restore point for this VPS
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2087,7 +2089,7 @@
 
 ## `/vps/{serviceName}/veeam/restorePoints/{id}/restore`
 
-### 🟡 POST `POST` — Restore this VPS from a Veeam restore point and return an asynchronous task
+### 🟡 POST — Restore this VPS from a Veeam restore point and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2111,7 +2113,7 @@
 
 ## `/vps/{serviceName}/veeam/restoredBackup`
 
-### 🔴 DELETE `DELETE` — Unmount the restored Veeam backup from this VPS and return an asynchronous task
+### 🔴 DELETE — Unmount the restored Veeam backup from this VPS and return an asynchronous task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2130,7 +2132,7 @@
 
 ---
 
-### 🟢 GET `GET` — Retrieve information about the currently restored Veeam backup
+### 🟢 GET — Retrieve information about the currently restored Veeam backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2146,5 +2148,1959 @@
 
 **IAM actions:** `vps:apiovh:veeam/restoredBackup/get` (required)
 
+
+---
+
+## Models
+
+### `complexType.SafeKeyValueCanBeNull_string`
+
+_complexType.SafeKeyValueCanBeNull_string_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ❌ | ✅ | ✅ |  |
+| `value` | `string` | ❌ | ❌ | ✅ |  |
+
+### `complexType.UnitAndValue_double`
+
+_complexType.UnitAndValue_double_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ |  |
+| `value` | `double` | ❌ | ❌ | ✅ |  |
+
+### `complexType.UnitAndValue_long`
+
+_complexType.UnitAndValue_long_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ |  |
+| `value` | `long` | ❌ | ❌ | ✅ |  |
+
+### `complexType.UnitAndValues_vps.VpsTimestampValue`
+
+_complexType.UnitAndValues_vps.VpsTimestampValue_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ |  |
+| `values` | `vps.VpsTimestampValue[]` | ❌ | ❌ | ✅ |  |
+
+### `coreTypes.CountryEnum`
+
+_ISO country codes_
+
+**Enum** (`enumType: string`):
+
+- `ac`
+- `ad`
+- `ae`
+- `af`
+- `ag`
+- `ai`
+- `al`
+- `am`
+- `an`
+- `ao`
+- `aq`
+- `ar`
+- `as`
+- `at`
+- `au`
+- `aw`
+- `ax`
+- `az`
+- `ba`
+- `bb`
+- `bd`
+- `be`
+- `bf`
+- `bg`
+- `bh`
+- `bi`
+- `bj`
+- `bl`
+- `bm`
+- `bn`
+- `bo`
+- `bq`
+- `br`
+- `bs`
+- `bt`
+- `bv`
+- `bw`
+- `by`
+- `bz`
+- `ca`
+- `cc`
+- `cd`
+- `cf`
+- `cg`
+- `ch`
+- `ci`
+- `ck`
+- `cl`
+- `cm`
+- `cn`
+- `co`
+- `cr`
+- `cs`
+- `cu`
+- `cv`
+- `cw`
+- `cx`
+- `cy`
+- `cz`
+- `de`
+- `dj`
+- `dk`
+- `dm`
+- `do`
+- `dz`
+- `ec`
+- `ee`
+- `eg`
+- `eh`
+- `er`
+- `es`
+- `et`
+- `fc`
+- `fd`
+- `fi`
+- `fj`
+- `fk`
+- `fm`
+- `fo`
+- `fr`
+- `fx`
+- `ga`
+- `gb`
+- `gd`
+- `ge`
+- `gf`
+- `gg`
+- `gh`
+- `gi`
+- `gl`
+- `gm`
+- `gn`
+- `gp`
+- `gq`
+- `gr`
+- `gs`
+- `gt`
+- `gu`
+- `gw`
+- `gy`
+- `hk`
+- `hm`
+- `hn`
+- `hr`
+- `ht`
+- `hu`
+- `id`
+- `ie`
+- `il`
+- `im`
+- `in`
+- `io`
+- `iq`
+- `ir`
+- `is`
+- `it`
+- `je`
+- `jm`
+- `jo`
+- `jp`
+- `ke`
+- `kg`
+- `kh`
+- `ki`
+- `km`
+- `kn`
+- `kp`
+- `kr`
+- `kw`
+- `ky`
+- `kz`
+- `la`
+- `lb`
+- `lc`
+- `li`
+- `lk`
+- `lr`
+- `ls`
+- `lt`
+- `lu`
+- `lv`
+- `ly`
+- `ma`
+- `mc`
+- `md`
+- `me`
+- `mf`
+- `mg`
+- `mh`
+- `mk`
+- `ml`
+- `mm`
+- `mn`
+- `mo`
+- `mp`
+- `mq`
+- `mr`
+- `ms`
+- `mt`
+- `mu`
+- `mv`
+- `mw`
+- `mx`
+- `my`
+- `mz`
+- `na`
+- `nc`
+- `ne`
+- `nf`
+- `ng`
+- `ni`
+- `nl`
+- `no`
+- `np`
+- `nr`
+- `nu`
+- `nz`
+- `om`
+- `pa`
+- `pe`
+- `pf`
+- `pg`
+- `ph`
+- `pk`
+- `pl`
+- `pm`
+- `pn`
+- `pr`
+- `ps`
+- `pt`
+- `pw`
+- `py`
+- `qa`
+- `qc`
+- `re`
+- `ro`
+- `rs`
+- `ru`
+- `rw`
+- `sa`
+- `sb`
+- `sc`
+- `sd`
+- `se`
+- `sg`
+- `sh`
+- `si`
+- `sj`
+- `sk`
+- `sl`
+- `sm`
+- `sn`
+- `so`
+- `sr`
+- `ss`
+- `st`
+- `sv`
+- `sx`
+- `sy`
+- `sz`
+- `tc`
+- `td`
+- `tf`
+- `tg`
+- `th`
+- `tj`
+- `tk`
+- `tl`
+- `tm`
+- `tn`
+- `to`
+- `tp`
+- `tr`
+- `tt`
+- `tv`
+- `tw`
+- `tz`
+- `ua`
+- `ug`
+- `uk`
+- `um`
+- `us`
+- `uy`
+- `uz`
+- `va`
+- `vc`
+- `ve`
+- `vg`
+- `vi`
+- `vn`
+- `vu`
+- `we`
+- `wf`
+- `ws`
+- `ye`
+- `yt`
+- `yu`
+- `za`
+- `zm`
+- `zw`
+
+### `coreTypes.IpVersionEnum`
+
+_Ip versions_
+
+**Enum** (`enumType: string`):
+
+- `v4`
+- `v6`
+
+### `dedicated.TaskFunctionEnum`
+
+_different task operation_
+
+**Enum** (`enumType: string`):
+
+- `INFRA_002_VirtualNetworkInterface`
+- `INFRA_002_VirtualNetworkInterface_group`
+- `INFRA_002_VirtualNetworkInterface_ungroup`
+- `INFRA_ONE_NETWORK_ONEAPI_VirtualNetworkInterface_group`
+- `INFRA_ONE_NETWORK_ONEAPI_VirtualNetworkInterface_ungroup`
+- `INFRA_ONE_NETWORK_VirtualNetworkInterface_group`
+- `INFRA_ONE_NETWORK_VirtualNetworkInterface_ungroup`
+- `addVirtualMac`
+- `addWindowSplaFromExistingSerial`
+- `applyBackupFtpAcls`
+- `applyBackupFtpQuota`
+- `bypassAntiDDosGame`
+- `changePasswordBackupFTP`
+- `changeRipeOrg`
+- `checkAndReleaseIp`
+- `createBackupFTP`
+- `createOrUpdateRipeOrg`
+- `createPrivateNetwork`
+- `disableFirewall`
+- `enableFirewall`
+- `genericMoveFloatingIp`
+- `hardReboot`
+- `hardware_update`
+- `ipmi/configureSGX`
+- `migrateBackupFTP`
+- `moveFloatingIp`
+- `moveVirtualMac`
+- `reagregateBlock`
+- `rebootPower8To`
+- `reinstallServer`
+- `releaseIp`
+- `removeBackupFTP`
+- `removeVirtualMac`
+- `requestAccessIPMI`
+- `resetIPMI`
+- `resetIPMISession`
+- `testIPMIhttp`
+- `testIPMIpassword`
+- `testIPMIping`
+- `virtualMacAdd`
+- `virtualMacDelete`
+
+### `dedicated.TaskStatusEnum`
+
+_different task status_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `customerError`
+- `doing`
+- `done`
+- `init`
+- `ovhError`
+- `todo`
+
+### `dedicated.server.BackupFtpAcl`
+
+_Backup Ftp ACL for this server and Backup Ftp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cifs` | `boolean` | ❌ | ❌ | ❌ | Whether to allow the CIFS (SMB) protocol for this ACL |
+| `ftp` | `boolean` | ❌ | ❌ | ❌ | Whether to allow the FTP protocol for this ACL |
+| `ipBlock` | `ipBlock` | ❌ | ❌ | ✅ | The IP Block specific to this ACL |
+| `isApplied` | `boolean` | ❌ | ❌ | ✅ | Whether the rule has been applied on the Backup Ftp |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Date of the last object modification |
+| `nfs` | `boolean` | ❌ | ❌ | ❌ | Whether to allow the NFS protocol for this ACL |
+
+### `dedicated.server.Task`
+
+_Server tasks_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `comment` | `string` | ❌ | ✅ | ✅ | Details of this task |
+| `doneDate` | `datetime` | ❌ | ✅ | ✅ | Completion date |
+| `function` | `dedicated.TaskFunctionEnum` | ❌ | ❌ | ✅ | Function name |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ | last update |
+| `needSchedule` | `boolean` | ❌ | ❌ | ✅ | Whether this task need to be scheduled or not |
+| `note` | `string` | ❌ | ✅ | ✅ | Extra information about this task |
+| `plannedInterventionId` | `long` | ❌ | ✅ | ✅ | ID of the planned intervention for this task |
+| `startDate` | `datetime` | ❌ | ❌ | ✅ | Task Creation date |
+| `status` | `dedicated.TaskStatusEnum` | ❌ | ❌ | ✅ | Task status |
+| `tags` | `complexType.SafeKeyValueCanBeNull_string[]` | ❌ | ✅ | ✅ | Task result tags output |
+| `taskId` | `long` | ❌ | ❌ | ✅ | the id of the task |
+| `ticketReference` | `string` | ❌ | ✅ | ✅ | Reference of the thread on the support tool |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `nichandle.CountryEnum`
+
+_Countries a nichandle can choose_
+
+**Enum** (`enumType: string`):
+
+- `AC`
+- `AD`
+- `AE`
+- `AF`
+- `AG`
+- `AI`
+- `AL`
+- `AM`
+- `AO`
+- `AQ`
+- `AR`
+- `AS`
+- `AT`
+- `AU`
+- `AW`
+- `AX`
+- `AZ`
+- `BA`
+- `BB`
+- `BD`
+- `BE`
+- `BF`
+- `BG`
+- `BH`
+- `BI`
+- `BJ`
+- `BL`
+- `BM`
+- `BN`
+- `BO`
+- `BQ`
+- `BR`
+- `BS`
+- `BT`
+- `BW`
+- `BY`
+- `BZ`
+- `CA`
+- `CC`
+- `CD`
+- `CF`
+- `CG`
+- `CH`
+- `CI`
+- `CK`
+- `CL`
+- `CM`
+- `CN`
+- `CO`
+- `CR`
+- `CU`
+- `CV`
+- `CW`
+- `CX`
+- `CY`
+- `CZ`
+- `DE`
+- `DG`
+- `DJ`
+- `DK`
+- `DM`
+- `DO`
+- `DZ`
+- `EA`
+- `EC`
+- `EE`
+- `EG`
+- `EH`
+- `ER`
+- `ES`
+- `ET`
+- `FI`
+- `FJ`
+- `FK`
+- `FM`
+- `FO`
+- `FR`
+- `GA`
+- `GB`
+- `GD`
+- `GE`
+- `GF`
+- `GG`
+- `GH`
+- `GI`
+- `GL`
+- `GM`
+- `GN`
+- `GP`
+- `GQ`
+- `GR`
+- `GS`
+- `GT`
+- `GU`
+- `GW`
+- `GY`
+- `HK`
+- `HN`
+- `HR`
+- `HT`
+- `HU`
+- `IC`
+- `ID`
+- `IE`
+- `IL`
+- `IM`
+- `IN`
+- `IO`
+- `IQ`
+- `IR`
+- `IS`
+- `IT`
+- `JE`
+- `JM`
+- `JO`
+- `JP`
+- `KE`
+- `KG`
+- `KH`
+- `KI`
+- `KM`
+- `KN`
+- `KP`
+- `KR`
+- `KW`
+- `KY`
+- `KZ`
+- `LA`
+- `LB`
+- `LC`
+- `LI`
+- `LK`
+- `LR`
+- `LS`
+- `LT`
+- `LU`
+- `LV`
+- `LY`
+- `MA`
+- `MC`
+- `MD`
+- `ME`
+- `MF`
+- `MG`
+- `MH`
+- `MK`
+- `ML`
+- `MM`
+- `MN`
+- `MO`
+- `MP`
+- `MQ`
+- `MR`
+- `MS`
+- `MT`
+- `MU`
+- `MV`
+- `MW`
+- `MX`
+- `MY`
+- `MZ`
+- `NA`
+- `NC`
+- `NE`
+- `NF`
+- `NG`
+- `NI`
+- `NL`
+- `NO`
+- `NP`
+- `NR`
+- `NU`
+- `NZ`
+- `OM`
+- `PA`
+- `PE`
+- `PF`
+- `PG`
+- `PH`
+- `PK`
+- `PL`
+- `PM`
+- `PN`
+- `PR`
+- `PS`
+- `PT`
+- `PW`
+- `PY`
+- `QA`
+- `RE`
+- `RO`
+- `RS`
+- `RU`
+- `RW`
+- `SA`
+- `SB`
+- `SC`
+- `SD`
+- `SE`
+- `SG`
+- `SH`
+- `SI`
+- `SJ`
+- `SK`
+- `SL`
+- `SM`
+- `SN`
+- `SO`
+- `SR`
+- `SS`
+- `ST`
+- `SV`
+- `SX`
+- `SY`
+- `SZ`
+- `TA`
+- `TC`
+- `TD`
+- `TF`
+- `TG`
+- `TH`
+- `TJ`
+- `TK`
+- `TL`
+- `TM`
+- `TN`
+- `TO`
+- `TR`
+- `TT`
+- `TV`
+- `TW`
+- `TZ`
+- `UA`
+- `UG`
+- `UM`
+- `UNKNOWN`
+- `US`
+- `UY`
+- `UZ`
+- `VA`
+- `VC`
+- `VE`
+- `VG`
+- `VI`
+- `VN`
+- `VU`
+- `WF`
+- `WS`
+- `XK`
+- `YE`
+- `YT`
+- `ZA`
+- `ZM`
+- `ZW`
+
+### `nichandle.OvhSubsidiaryEnum`
+
+_OVH subsidiaries_
+
+**Enum** (`enumType: string`):
+
+- `CZ`
+- `DE`
+- `ES`
+- `EU`
+- `FI`
+- `FR`
+- `GB`
+- `IE`
+- `IT`
+- `LT`
+- `MA`
+- `NL`
+- `PL`
+- `PT`
+- `SN`
+- `TN`
+
+### `secondaryDns.SecondaryDNS`
+
+_Secondary dns infos_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ |  |
+| `dns` | `string` | ❌ | ❌ | ✅ | secondary dns server |
+| `domain` | `string` | ❌ | ❌ | ✅ | domain on slave server |
+| `ipMaster` | `ipv4` | ❌ | ❌ | ❌ | IPv4 address (e.g., 192.0.2.0) |
+
+### `secondaryDns.SecondaryDNSNameServer`
+
+_A structure describing informations about available nameserver for secondary dns _
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hostname` | `string` | ❌ | ❌ | ✅ | the name server |
+| `ip` | `ipv4` | ❌ | ❌ | ✅ | IPv4 address (e.g., 192.0.2.0) |
+| `ipv6` | `ipv6` | ❌ | ✅ | ✅ |  |
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+_service.StateEnum_
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `services.changeContact`
+
+_Service change contact payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contactAdmin` | `string` | ❌ | ❌ | ❌ | The contact to set as admin contact |
+| `contactBilling` | `string` | ❌ | ❌ | ❌ | The contact to set as billing contact |
+| `contactTech` | `string` | ❌ | ❌ | ❌ | The contact to set as tech contact |
+
+### `services.confirmTermination`
+
+_Service confirm termination payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `commentary` | `string` | ❌ | ❌ | ❌ | Commentary about your termination request |
+| `commentaryFutureUse` | `string` | ❌ | ❌ | ❌ | Commentary about your future use |
+| `commentaryReason` | `string` | ❌ | ❌ | ❌ | Commentary about your reason for termination request |
+| `futureUse` | `service.TerminationFutureUseEnum` | ❌ | ❌ | ❌ | All future uses you can provide for a service termination |
+| `reason` | `service.TerminationReasonEnum` | ❌ | ❌ | ❌ | All reasons you can provide for a service termination |
+| `token` | `string` | ✅ | ❌ | ❌ | The termination token sent by email to the admin contact |
+
+### `vps.AutomatedBackup`
+
+_Backup your VPS_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `rotation` | `long` | ❌ | ✅ | ✅ | Number of rotation of your daily backup |
+| `schedule` | `time` | ❌ | ✅ | ✅ | Scheduled time of your daily backup |
+| `serviceResourceName` | `string` | ❌ | ❌ | ✅ | Resource name of the service of your automated backup |
+| `state` | `vps.BackupStateEnum` | ❌ | ❌ | ✅ | Backup state |
+
+### `vps.BackupFtp`
+
+_Backup Ftp assigned to this VPS_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ftpBackupName` | `string` | ❌ | ❌ | ✅ | The backup FTP server name |
+| `quota` | `complexType.UnitAndValue_long` | ❌ | ✅ | ✅ | The disk space available on your backup FTP |
+| `readOnlyDate` | `datetime` | ❌ | ✅ | ✅ | If not-null, gives the date since when your account was set in read-only mode because the quota was exceeded |
+| `type` | `string` | ❌ | ❌ | ✅ | The backup FTP type |
+| `usage` | `complexType.UnitAndValue_long` | ❌ | ✅ | ✅ | The disk space currently used on your backup FTP |
+
+### `vps.BackupStateEnum`
+
+_Available AutomatedBackup states_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `vps.Datacenter`
+
+_Information about a datacenter of a VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `country` | `coreTypes.CountryEnum` | ❌ | ❌ | ✅ | Datacenter ISO country code |
+| `longName` | `string` | ❌ | ❌ | ✅ | Datacenter display name |
+| `name` | `string` | ❌ | ❌ | ✅ | Datacenter name |
+
+### `vps.Disk`
+
+_Information about a disk of a VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bandwidthLimit` | `long` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `lowFreeSpaceThreshold` | `long` | ❌ | ✅ | ❌ | The low disk free space threshold in MiB |
+| `monitoring` | `boolean` | ❌ | ✅ | ❌ | The monitoring state of this disk |
+| `serviceName` | `string` | ❌ | ✅ | ✅ | Service name |
+| `size` | `long` | ❌ | ❌ | ✅ |  |
+| `state` | `vps.disk.StateEnum` | ❌ | ❌ | ✅ |  |
+| `type` | `vps.disk.TypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.DownloadSnapshotURL`
+
+_URL to download the VPS snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `size` | `long` | ❌ | ❌ | ✅ | Snapshot size (bytes) |
+| `url` | `string` | ❌ | ❌ | ✅ | URL to download the snapshot |
+
+### `vps.Image`
+
+_Installation image for a VPS_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+
+### `vps.Ip`
+
+_Information about an IP address for a VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gateway` | `ip` | ❌ | ✅ | ✅ |  |
+| `geolocation` | `vps.ip.GeolocationEnum` | ❌ | ❌ | ✅ |  |
+| `ipAddress` | `ip` | ❌ | ❌ | ✅ | The effective ip address of the Ip object |
+| `macAddress` | `string` | ❌ | ✅ | ✅ |  |
+| `reverse` | `string` | ❌ | ✅ | ❌ |  |
+| `type` | `vps.ip.TypeEnum` | ❌ | ❌ | ✅ |  |
+| `version` | `coreTypes.IpVersionEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.LockReasonEnum`
+
+_Reasons why a VPS might be locked_
+
+**Enum** (`enumType: string`):
+
+- `abuse`
+
+### `vps.LockStatus`
+
+_A structure describing the lock status of a VPS_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `locked` | `boolean` | ❌ | ❌ | ✅ | Indicates whether the VPS is locked |
+| `reason` | `vps.LockReasonEnum` | ❌ | ❌ | ✅ | The reason for the lock |
+
+### `vps.Model`
+
+_A structure describing characteristics of a VPS model_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availableOptions` | `vps.VpsOptionEnum[]` | ❌ | ❌ | ❌ |  |
+| `datacenter` | `string[]` | ❌ | ❌ | ❌ |  |
+| `disk` | `long` | ❌ | ❌ | ❌ |  |
+| `maximumAdditionnalIp` | `long` | ❌ | ❌ | ❌ |  |
+| `memory` | `long` | ❌ | ❌ | ❌ |  |
+| `name` | `string` | ❌ | ❌ | ❌ |  |
+| `offer` | `string` | ❌ | ❌ | ❌ |  |
+| `vcore` | `long` | ❌ | ❌ | ❌ |  |
+| `version` | `vps.VpsVersionEnum` | ❌ | ❌ | ❌ | All versions that VPS can have |
+
+### `vps.Option`
+
+_Information about the options of a VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `option` | `vps.VpsOptionEnum` | ❌ | ❌ | ✅ | The option name |
+| `state` | `vps.VpsOptionStateEnum` | ❌ | ❌ | ✅ | The state of the option |
+
+### `vps.RestoreStateEnum`
+
+_Available restore state_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `restored`
+- `restoring`
+
+### `vps.RestoreTypeEnum`
+
+_Available restore types_
+
+**Enum** (`enumType: string`):
+
+- `file`
+- `full`
+
+### `vps.Snapshot`
+
+_Information about the snapshot of a VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ |  |
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `id` | `string` | ❌ | ❌ | ✅ |  |
+| `region` | `string` | ❌ | ✅ | ✅ |  |
+
+### `vps.Software`
+
+_Available softwares on a Template_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `status` | `vps.SoftwareStatusEnum` | ❌ | ❌ | ✅ |  |
+| `type` | `vps.SoftwareTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.SoftwareStatusEnum`
+
+_Available Status for a vps Software_
+
+**Enum** (`enumType: string`):
+
+- `deprecated`
+- `stable`
+- `testing`
+
+### `vps.SoftwareTypeEnum`
+
+_Available Type for a vps Software_
+
+**Enum** (`enumType: string`):
+
+- `database`
+- `environment`
+- `webserver`
+
+### `vps.Task`
+
+_Operation on a VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `progress` | `long` | ❌ | ❌ | ✅ |  |
+| `state` | `vps.TaskStateEnum` | ❌ | ❌ | ✅ |  |
+| `type` | `vps.TaskTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.TaskStateEnum`
+
+_All states a VPS task can be in_
+
+**Enum** (`enumType: string`):
+
+- `blocked`
+- `cancelled`
+- `doing`
+- `done`
+- `error`
+- `paused`
+- `todo`
+- `waitingAck`
+
+### `vps.TaskTypeEnum`
+
+_All type a VPS task can be_
+
+**Enum** (`enumType: string`):
+
+- `addVeeamBackupJob`
+- `changeRootPassword`
+- `createSnapshot`
+- `deleteSnapshot`
+- `deliverVm`
+- `getConsoleUrl`
+- `internalTask`
+- `migrate`
+- `openConsoleAccess`
+- `provisioningAdditionalIp`
+- `reOpenVm`
+- `rebootVm`
+- `reinstallVm`
+- `removeVeeamBackup`
+- `rescheduleAutoBackup`
+- `restoreFullVeeamBackup`
+- `restoreVeeamBackup`
+- `restoreVm`
+- `revertSnapshot`
+- `setMonitoring`
+- `setNetboot`
+- `startVm`
+- `stopVm`
+- `upgradeVm`
+
+### `vps.Template`
+
+_Installation template for a VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availableLanguage` | `string[]` | ❌ | ❌ | ✅ |  |
+| `bitFormat` | `vps.TemplateBitFormatEnum` | ❌ | ❌ | ✅ |  |
+| `distribution` | `string` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `locale` | `string` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+
+### `vps.TemplateBitFormatEnum`
+
+_Bitness of a VPS template_
+
+**Enum** (`enumType: long`):
+
+- `32`
+- `64`
+
+### `vps.VPS`
+
+_VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cluster` | `string` | ❌ | ❌ | ✅ |  |
+| `displayName` | `string` | ❌ | ✅ | ❌ | Set the name displayed in ManagerV6 for your VPS (max 50 chars) |
+| `keymap` | `vps.VpsKeymapEnum` | ❌ | ✅ | ❌ | Set KVM keyboard layout on VPS Cloud. Reboot your VPS after change |
+| `lockStatus` | `vps.LockStatus` | ❌ | ❌ | ✅ | Lock status of the VPS |
+| `memoryLimit` | `long` | ❌ | ❌ | ✅ |  |
+| `model` | `vps.Model` | ❌ | ❌ | ✅ |  |
+| `monitoringIpBlocks` | `ipBlock[]` | ❌ | ❌ | ✅ | Ip blocks for OVH monitoring servers |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `netbootMode` | `vps.VpsNetbootEnum` | ❌ | ❌ | ❌ | All values a VPS netboot mode can be in |
+| `offerType` | `vps.VpsOfferEnum` | ❌ | ❌ | ✅ |  |
+| `slaMonitoring` | `boolean` | ❌ | ✅ | ❌ |  |
+| `state` | `vps.VpsStateEnum` | ❌ | ❌ | ✅ |  |
+| `vcore` | `long` | ❌ | ❌ | ✅ |  |
+| `zone` | `string` | ❌ | ❌ | ✅ |  |
+| `zoneType` | `vps.ZoneTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.VPSWithIAM`
+
+_VPS Virtual Machine_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cluster` | `string` | ❌ | ❌ | ✅ |  |
+| `displayName` | `string` | ❌ | ✅ | ❌ | Set the name displayed in ManagerV6 for your VPS (max 50 chars) |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `keymap` | `vps.VpsKeymapEnum` | ❌ | ✅ | ❌ | Set KVM keyboard layout on VPS Cloud. Reboot your VPS after change |
+| `lockStatus` | `vps.LockStatus` | ❌ | ❌ | ✅ | Lock status of the VPS |
+| `memoryLimit` | `long` | ❌ | ❌ | ✅ |  |
+| `model` | `vps.Model` | ❌ | ❌ | ✅ |  |
+| `monitoringIpBlocks` | `ipBlock[]` | ❌ | ❌ | ✅ | Ip blocks for OVH monitoring servers |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `netbootMode` | `vps.VpsNetbootEnum` | ❌ | ❌ | ❌ | All values a VPS netboot mode can be in |
+| `offerType` | `vps.VpsOfferEnum` | ❌ | ❌ | ✅ |  |
+| `slaMonitoring` | `boolean` | ❌ | ✅ | ❌ |  |
+| `state` | `vps.VpsStateEnum` | ❌ | ❌ | ✅ |  |
+| `vcore` | `long` | ❌ | ❌ | ✅ |  |
+| `zone` | `string` | ❌ | ❌ | ✅ |  |
+| `zoneType` | `vps.ZoneTypeEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.Veeam`
+
+_Informations about a VPS Veeam backups_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backup` | `boolean` | ❌ | ❌ | ✅ | Backup state |
+
+### `vps.Vnc`
+
+_A VNC connection informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `host` | `string` | ❌ | ❌ | ✅ |  |
+| `password` | `password` | ❌ | ❌ | ✅ |  |
+| `port` | `long` | ❌ | ❌ | ✅ |  |
+
+### `vps.VncProtocolEnum`
+
+_All supported VNC protocols by VPS_
+
+**Enum** (`enumType: string`):
+
+- `VNC`
+- `VNCOverWebSocket`
+
+### `vps.VpsBillingVersion`
+
+_VPS billing version_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `version` | `long` | ❌ | ❌ | ✅ |  |
+
+### `vps.VpsKeymapEnum`
+
+_All values keymap can be in_
+
+**Enum** (`enumType: string`):
+
+- `fr`
+- `us`
+
+### `vps.VpsMonitoringPeriodEnum`
+
+_Available periods for the VPS monitoring_
+
+**Enum** (`enumType: string`):
+
+- `lastday`
+- `lastmonth`
+- `lastweek`
+- `lastyear`
+- `today`
+
+### `vps.VpsMonitoringStatistics`
+
+_Statistics about resource usage_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpu` | `double` | ❌ | ❌ | ✅ | Average CPU usage in percentage over the last 24 hours |
+| `disk` | `double` | ❌ | ❌ | ✅ | Current disk usage in percentage |
+| `memory` | `double` | ❌ | ❌ | ✅ | Average memory usage in percentage over the last 24 hours |
+
+### `vps.VpsNetbootEnum`
+
+_All values a VPS netboot mode can be in_
+
+**Enum** (`enumType: string`):
+
+- `local`
+- `rescue`
+
+### `vps.VpsOfferEnum`
+
+_All offers a VPS can have_
+
+**Enum** (`enumType: string`):
+
+- `beta-classic`
+- `classic`
+- `cloud`
+- `cloudram`
+- `game-classic`
+- `lowlat`
+- `ssd`
+
+### `vps.VpsOptionEnum`
+
+_All options a VPS can have_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk`
+- `automatedBackup`
+- `cpanel`
+- `ftpbackup`
+- `plesk`
+- `snapshot`
+- `veeam`
+- `windows`
+
+### `vps.VpsOptionStateEnum`
+
+_All states a VPS Option can be in_
+
+**Enum** (`enumType: string`):
+
+- `released`
+- `subscribed`
+
+### `vps.VpsStateEnum`
+
+_All states a VPS can be in_
+
+**Enum** (`enumType: string`):
+
+- `backuping`
+- `installing`
+- `maintenance`
+- `rebooting`
+- `rescued`
+- `running`
+- `stopped`
+- `stopping`
+- `upgrading`
+
+### `vps.VpsStatisticTypeEnum`
+
+_Available types for the VPS monitoring and use_
+
+**Enum** (`enumType: string`):
+
+- `cpu:iowait`
+- `cpu:max`
+- `cpu:nice`
+- `cpu:sys`
+- `cpu:used`
+- `cpu:user`
+- `mem:max`
+- `mem:used`
+- `net:rx`
+- `net:tx`
+
+### `vps.VpsTimestampValue`
+
+_A timestamp associated to a value_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `timestamp` | `long` | ❌ | ❌ | ✅ |  |
+| `value` | `double` | ❌ | ✅ | ✅ |  |
+
+### `vps.VpsVersionEnum`
+
+_All versions that VPS can have_
+
+**Enum** (`enumType: string`):
+
+- `2013v1`
+- `2014v1`
+- `2015v1`
+- `2017v1`
+- `2017v2`
+- `2017v3`
+- `2018v1`
+- `2018v2`
+- `2019v1`
+- `2025v1`
+
+### `vps.ZoneTypeEnum`
+
+_Enum values for zone type_
+
+**Enum** (`enumType: string`):
+
+- `localzone`
+- `region`
+
+### `vps.automatedBackup.Attached`
+
+_A backup attached to your VPS_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `access` | `vps.automatedBackup.attached.Infos` | ❌ | ❌ | ✅ | A structure describing a backup's access informations |
+| `restorePoint` | `datetime` | ❌ | ❌ | ✅ |  |
+
+### `vps.automatedBackup.attached.Infos`
+
+_A structure describing a backup's access informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalDisk` | `string` | ❌ | ✅ | ✅ | Additional Disk details |
+| `nfs` | `string` | ❌ | ✅ | ✅ | NFS URL of the backup |
+| `smb` | `string` | ❌ | ✅ | ✅ | SMB URL of the backup |
+
+### `vps.automatedBackup.detachBackup.post`
+
+_vps.automatedBackup.detachBackup.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `restorePoint` | `datetime` | ✅ | ❌ | ❌ | restorePoint fetched in /vps/{serviceName}/automatedBackup/attachedBackup |
+
+### `vps.automatedBackup.reschedule.post`
+
+_vps.automatedBackup.reschedule.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `schedule` | `time` | ✅ | ❌ | ❌ | Time (e.g., 15:04:05) |
+
+### `vps.automatedBackup.restore.post`
+
+_vps.automatedBackup.restore.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `changePassword` | `boolean` | ❌ | ❌ | ❌ | Only with restore full on VPS Cloud 2014 |
+| `restorePoint` | `datetime` | ✅ | ❌ | ❌ | Restore Point fetched in /automatedBackup/restorePoints |
+| `type` | `vps.RestoreTypeEnum` | ✅ | ❌ | ❌ | Available restore types |
+
+### `vps.backupftp.access.post`
+
+_vps.backupftp.access.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cifs` | `boolean` | ✅ | ❌ | ❌ | Whether to allow the CIFS (SMB) protocol for this ACL |
+| `ftp` | `boolean` | ❌ | ❌ | ❌ | Whether to allow the FTP protocol for this ACL |
+| `ipBlock` | `ipBlock` | ✅ | ❌ | ❌ | IP CIDR notation (e.g., 192.0.2.0/24) |
+| `nfs` | `boolean` | ✅ | ❌ | ❌ | Whether to allow the NFS protocol for this ACL |
+
+### `vps.createSnapshot.post`
+
+_vps.createSnapshot.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | A textual description for your snapshot |
+
+### `vps.disk.StateEnum`
+
+_Possible states the disk can be in_
+
+**Enum** (`enumType: string`):
+
+- `connected`
+- `disconnected`
+- `pending`
+
+### `vps.disk.StatisticTypeEnum`
+
+_Available types for the Disk monitoring and use_
+
+**Enum** (`enumType: string`):
+
+- `max`
+- `used`
+
+### `vps.disk.TypeEnum`
+
+_Possible type a disk can be in_
+
+**Enum** (`enumType: string`):
+
+- `additional`
+- `primary`
+
+### `vps.ip.GeolocationEnum`
+
+_Geolocation of the IP Address_
+
+**Enum** (`enumType: string`):
+
+- `at`
+- `au`
+- `be`
+- `ca`
+- `ch`
+- `cz`
+- `de`
+- `es`
+- `fi`
+- `fr`
+- `gb`
+- `ie`
+- `in`
+- `it`
+- `lt`
+- `nl`
+- `pl`
+- `pt`
+- `sg`
+- `uk`
+- `us`
+
+### `vps.ip.ServiceStatus`
+
+_Service states for an Ip_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dns` | `vps.ip.ServiceStatusService` | ❌ | ❌ | ✅ | Port and state of a service on an IP |
+| `http` | `vps.ip.ServiceStatusService` | ❌ | ❌ | ✅ | Port and state of a service on an IP |
+| `https` | `vps.ip.ServiceStatusService` | ❌ | ❌ | ✅ | Port and state of a service on an IP |
+| `ping` | `vps.ip.ServiceStatusStateEnum` | ❌ | ❌ | ✅ | Possible states of a service (ping, port) |
+| `smtp` | `vps.ip.ServiceStatusService` | ❌ | ❌ | ✅ | Port and state of a service on an IP |
+| `ssh` | `vps.ip.ServiceStatusService` | ❌ | ❌ | ✅ | Port and state of a service on an IP |
+| `tools` | `vps.ip.ServiceStatusStateEnum` | ❌ | ✅ | ✅ |  |
+
+### `vps.ip.ServiceStatusService`
+
+_Port and state of a service on an IP_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `port` | `long` | ❌ | ❌ | ✅ |  |
+| `state` | `vps.ip.ServiceStatusStateEnum` | ❌ | ❌ | ✅ | Possible states of a service (ping, port) |
+
+### `vps.ip.ServiceStatusStateEnum`
+
+_Possible states of a service (ping, port)_
+
+**Enum** (`enumType: string`):
+
+- `down`
+- `up`
+
+### `vps.ip.TypeEnum`
+
+_Ip types on a VPS_
+
+**Enum** (`enumType: string`):
+
+- `additional`
+- `primary`
+
+### `vps.migration.DatacenterEnum`
+
+_All datacenter of vps migration_
+
+**Enum** (`enumType: string`):
+
+- `BHS`
+- `DE`
+- `GRA`
+- `SBG`
+- `SGP`
+- `SYD`
+- `UK`
+- `WAW`
+
+### `vps.migration.OptionMapping2016`
+
+_Mapping between a VPS 2016 option code and a VPS 2020 option code_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currentPlan` | `string` | ❌ | ❌ | ✅ | VPS option current plan code |
+| `newPlan` | `string` | ❌ | ❌ | ✅ | New VPS option plan code after migration |
+| `options` | `vps.migration.OptionOptionMapping2016[]` | ❌ | ❌ | ✅ | Mapping of VPS options of option from VPS 2016 to VPS 2020 |
+| `product` | `string` | ❌ | ❌ | ✅ | VPS option product |
+
+### `vps.migration.OptionOptionMapping2016`
+
+_Mapping between a VPS 2016 option code and a VPS 2020 option code_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currentPlan` | `string` | ❌ | ❌ | ✅ | VPS option current plan code |
+| `newPlan` | `string` | ❌ | ❌ | ✅ | New VPS option plan code after migration |
+| `product` | `string` | ❌ | ❌ | ✅ | VPS option product |
+
+### `vps.migration.StatusEnum`
+
+_All status a migration task can be in_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `done`
+- `notAvailable`
+- `ongoing`
+- `planned`
+- `toPlan`
+
+### `vps.migration.VPS2016to2020`
+
+_A structure describing a migration from VPS 2016 to VPS 2020_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currentPlan` | `string` | ❌ | ❌ | ✅ | VPS current plan code |
+| `datacenter` | `vps.migration.DatacenterEnum` | ❌ | ❌ | ✅ | All datacenter of vps migration |
+| `date` | `datetime` | ❌ | ✅ | ✅ | Migration start date |
+| `newPlan` | `string` | ❌ | ❌ | ✅ | New VPS plan code after migration |
+| `options` | `vps.migration.OptionMapping2016[]` | ❌ | ❌ | ✅ | Mapping of VPS options from VPS 2016 to VPS 2020 |
+| `product` | `string` | ❌ | ❌ | ✅ | VPS product |
+| `status` | `vps.migration.StatusEnum` | ❌ | ❌ | ✅ | All status a migration task can be in |
+
+### `vps.migration.VPS2018to2020`
+
+_A structure describing a migration from VPS 2016/2018 to VPS 2020_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenter` | `vps.migration.DatacenterEnum` | ❌ | ❌ | ✅ | All datacenter of vps migration |
+| `date` | `datetime` | ❌ | ✅ | ✅ | Migration start date |
+| `plans` | `vps.migration.VPS2018to2020Plan[]` | ❌ | ❌ | ✅ | List of available plans to migrate |
+| `status` | `vps.migration.StatusEnum` | ❌ | ❌ | ✅ | All status a migration task can be in |
+
+### `vps.migration.VPS2018to2020Plan`
+
+_A structure describing a migration plan from VPS 2016/2018 to VPS 2020_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currentPlan` | `string` | ❌ | ❌ | ✅ | VPS current plan code |
+| `newPlan` | `string` | ❌ | ❌ | ✅ | New VPS plan code after migration |
+| `options` | `vps.migration.OptionMapping2016[]` | ❌ | ❌ | ✅ | Mapping of VPS options from VPS 2016 to VPS 2020 |
+| `product` | `string` | ❌ | ❌ | ✅ | VPS product |
+
+### `vps.migration.VPS2020to2025`
+
+_A structure describing a migration from VPS 2020 to VPS 2025_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availablePlans` | `vps.migration.VPS2020to2025Plan[]` | ❌ | ❌ | ✅ | List of available plans to migrate |
+| `currentPlan` | `string` | ❌ | ❌ | ✅ | VPS current plan code |
+| `date` | `datetime` | ❌ | ✅ | ✅ | Date of planned migration, null if not scheduled |
+| `position` | `long` | ❌ | ✅ | ✅ | Position on the migration queue, null if not in queue |
+| `status` | `vps.migration.StatusEnum` | ❌ | ❌ | ✅ | All status a migration task can be in |
+| `targetPlan` | `string` | ❌ | ✅ | ✅ | VPS target plan code after migration |
+
+### `vps.migration.VPS2020to2025.Post`
+
+_A structure describing inputs to migrate from VPS 2020 to VPS 2025_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `plan` | `string` | ✅ | ❌ | ❌ | VPS target plan code |
+
+### `vps.migration.VPS2020to2025.Put`
+
+_A structure describing inputs to manage migration from VPS 2020 to VPS 2025_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ❌ | Date of migration. Use current date to trigger migration as soon as possible. |
+
+### `vps.migration.VPS2020to2025Plan`
+
+_A structure describing a migration plan from VPS 2020 to VPS 2025_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `planCode` | `string` | ❌ | ❌ | ✅ | VPS plan code available for migration |
+
+### `vps.migration2018.post`
+
+_vps.migration2018.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `newPlan` | `string` | ✅ | ❌ | ❌ | Choosen plan for migration |
+
+### `vps.openConsoleAccess.post`
+
+_vps.openConsoleAccess.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `protocol` | `vps.VncProtocolEnum` | ❌ | ❌ | ❌ | All supported VNC protocols by VPS |
+
+### `vps.order.rule.Datacenter`
+
+_Datacenter rules_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `string` | ❌ | ❌ | ✅ |  |
+| `datacenter` | `string` | ❌ | ❌ | ✅ |  |
+| `daysBeforeDelivery` | `long` | ❌ | ❌ | ✅ |  |
+| `linuxStatus` | `vps.order.rule.DatacenterStatusEnum` | ❌ | ❌ | ✅ |  |
+| `status` | `vps.order.rule.DatacenterStatusEnum` | ❌ | ❌ | ✅ |  |
+| `windowsStatus` | `vps.order.rule.DatacenterStatusEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.order.rule.DatacenterStatusEnum`
+
+_Possible values for datacenter status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `out-of-stock`
+- `out-of-stock-preorder-allowed`
+
+### `vps.order.rule.Datacenters`
+
+_Datacenters rules_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenters` | `vps.order.rule.Datacenter[]` | ❌ | ❌ | ✅ |  |
+
+### `vps.order.rule.OSChoice`
+
+_OS choice rules_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `status` | `vps.order.rule.OSChoiceStatusEnum` | ❌ | ❌ | ✅ |  |
+
+### `vps.order.rule.OSChoiceStatusEnum`
+
+_Possible values for OS choice status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `checked-by-default`
+- `unavailable`
+
+### `vps.order.rule.OSChoices`
+
+_OS choices rules_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `choices` | `vps.order.rule.OSChoice[]` | ❌ | ❌ | ✅ |  |
+
+### `vps.rebuild.post`
+
+_vps.rebuild.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `doNotSendPassword` | `boolean` | ❌ | ❌ | ❌ | If asked, the installation password will NOT be sent (only if sshKey defined) |
+| `imageId` | `string` | ✅ | ❌ | ❌ | Id of the vps.Image fetched in /images list |
+| `installRTM` | `boolean` | ❌ | ❌ | ❌ | If asked, RTM will be installed on your VPS |
+| `publicSshKey` | `string` | ❌ | ❌ | ❌ | Public SSH key to pre-install on your VPS |
+| `sshKey` | `string` | ❌ | ❌ | ❌ | SSH key name to pre-install on your VPS (name from /me/sshKey) |
+
+### `vps.reinstall.post`
+
+_vps.reinstall.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `doNotSendPassword` | `boolean` | ❌ | ❌ | ❌ | If asked, the installation password will NOT be sent (only if sshKey defined) |
+| `language` | `string` | ❌ | ❌ | ❌ | Distribution language. default : en |
+| `publicSshKey` | `string` | ❌ | ❌ | ❌ | Public SSH key to pre-install on your VPS |
+| `softwareId` | `long[]` | ❌ | ❌ | ❌ | Id of the vps.Software type fetched in /template/{id}/software |
+| `sshKey` | `string[]` | ❌ | ❌ | ❌ | SSH key names to pre-install on your VPS (name from /me/sshKey) |
+| `templateId` | `long` | ✅ | ❌ | ❌ | Id of the vps.Template fetched in /templates list |
+
+### `vps.secondaryDnsDomains.post`
+
+_vps.secondaryDnsDomains.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `domain` | `string` | ✅ | ❌ | ❌ | The domain to add |
+| `ip` | `ipv4` | ❌ | ❌ | ❌ | IPv4 address (e.g., 192.0.2.0) |
+
+### `vps.veeam.ExportTypeEnum`
+
+_A structure describing a Veeam backup's export options_
+
+**Enum** (`enumType: string`):
+
+- `nfs`
+- `smb`
+
+### `vps.veeam.Infos`
+
+_A structure describing a Veeam backup's access informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `nfs` | `string` | ❌ | ❌ | ✅ | NFS URL of the backup |
+| `smb` | `string` | ❌ | ❌ | ✅ | SMB URL of the backup |
+
+### `vps.veeam.RestorePoint`
+
+_Informations about a VPS Veeam restore points_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationTime` | `datetime` | ❌ | ❌ | ✅ | The restore point's creation time |
+| `id` | `long` | ❌ | ❌ | ✅ | The restore point's id |
+
+### `vps.veeam.RestoredBackup`
+
+_Currently restored backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessInfos` | `vps.veeam.Infos` | ❌ | ❌ | ✅ | Backup access informations |
+| `restorePointId` | `long` | ❌ | ❌ | ✅ | The restore point id |
+| `state` | `vps.veeam.StateEnum` | ❌ | ❌ | ✅ | The restored backup state |
+
+### `vps.veeam.StateEnum`
+
+_A structure describing a Veeam restored backup's state_
+
+**Enum** (`enumType: string`):
+
+- `mounted`
+- `restoring`
+- `unmounted`
+- `unmounting`
+
+### `vps.veeam.restorePoints.restore.post`
+
+_vps.veeam.restorePoints.restore.post_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `changePassword` | `boolean` | ❌ | ❌ | ❌ | (Full only) Change the restored VPS root password when done |
+| `export` | `vps.veeam.ExportTypeEnum` | ❌ | ❌ | ❌ | A structure describing a Veeam backup's export options |
+| `full` | `boolean` | ✅ | ❌ | ❌ | Replace your current VPS by the restorePoint |
 
 

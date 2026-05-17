@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **581** — Operations: **581**
+> Routes: **581** — Operations: **581**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `e9b18784025c9ff1`
 
 ---
 
@@ -598,7 +600,7 @@
 
 _Get price of anti-DDos Pro option_
 
-### 🟢 GET `GET` — Get price of anti-DDos Pro option
+### 🟢 GET — Get price of anti-DDos Pro option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -619,7 +621,7 @@ _Get price of anti-DDos Pro option_
 
 _Get price of backup storage offer_
 
-### 🟢 GET `GET` — Get price of backup storage offer
+### 🟢 GET — Get price of backup storage offer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -640,7 +642,7 @@ _Get price of backup storage offer_
 
 _Get price of available firewall models_
 
-### 🟢 GET `GET` — Get price of available firewall models
+### 🟢 GET — Get price of available firewall models
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -661,7 +663,7 @@ _Get price of available firewall models_
 
 _Get price of IPs_
 
-### 🟢 GET `GET` — Get price of IPs
+### 🟢 GET — Get price of IPs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -682,7 +684,7 @@ _Get price of IPs_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -703,7 +705,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -724,7 +726,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -745,7 +747,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -766,7 +768,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -787,7 +789,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -808,7 +810,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -829,7 +831,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -850,7 +852,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -871,7 +873,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -892,7 +894,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -913,7 +915,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -934,7 +936,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -955,7 +957,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -976,7 +978,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -997,7 +999,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1018,7 +1020,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1039,7 +1041,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1060,7 +1062,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1081,7 +1083,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1102,7 +1104,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1123,7 +1125,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1144,7 +1146,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1165,7 +1167,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1186,7 +1188,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1207,7 +1209,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1228,7 +1230,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1249,7 +1251,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1270,7 +1272,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1291,7 +1293,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1312,7 +1314,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1333,7 +1335,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1354,7 +1356,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1375,7 +1377,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1396,7 +1398,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1417,7 +1419,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1438,7 +1440,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1459,7 +1461,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1480,7 +1482,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1501,7 +1503,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1522,7 +1524,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1543,7 +1545,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1564,7 +1566,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1585,7 +1587,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1606,7 +1608,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1627,7 +1629,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1648,7 +1650,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1669,7 +1671,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1690,7 +1692,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1711,7 +1713,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1732,7 +1734,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1753,7 +1755,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1774,7 +1776,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1795,7 +1797,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1816,7 +1818,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1837,7 +1839,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1858,7 +1860,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1879,7 +1881,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1900,7 +1902,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1921,7 +1923,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1942,7 +1944,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1963,7 +1965,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -1984,7 +1986,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2005,7 +2007,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2026,7 +2028,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2047,7 +2049,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2068,7 +2070,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2089,7 +2091,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2110,7 +2112,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2131,7 +2133,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2152,7 +2154,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2173,7 +2175,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2194,7 +2196,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2215,7 +2217,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2236,7 +2238,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2257,7 +2259,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2278,7 +2280,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2299,7 +2301,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2320,7 +2322,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2341,7 +2343,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2362,7 +2364,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2383,7 +2385,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2404,7 +2406,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2425,7 +2427,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2446,7 +2448,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2467,7 +2469,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2488,7 +2490,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2509,7 +2511,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2530,7 +2532,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2551,7 +2553,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2572,7 +2574,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2593,7 +2595,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2614,7 +2616,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2635,7 +2637,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2656,7 +2658,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2677,7 +2679,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2698,7 +2700,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2719,7 +2721,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2740,7 +2742,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2761,7 +2763,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2782,7 +2784,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2803,7 +2805,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2824,7 +2826,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2845,7 +2847,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2866,7 +2868,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2887,7 +2889,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2908,7 +2910,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2929,7 +2931,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2950,7 +2952,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2971,7 +2973,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -2992,7 +2994,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3013,7 +3015,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3034,7 +3036,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3055,7 +3057,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3076,7 +3078,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3097,7 +3099,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3118,7 +3120,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3139,7 +3141,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3160,7 +3162,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3181,7 +3183,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3202,7 +3204,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3223,7 +3225,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3244,7 +3246,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3265,7 +3267,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3286,7 +3288,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3307,7 +3309,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3328,7 +3330,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3349,7 +3351,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3370,7 +3372,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3391,7 +3393,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3412,7 +3414,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3433,7 +3435,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3454,7 +3456,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3475,7 +3477,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3496,7 +3498,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3517,7 +3519,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3538,7 +3540,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3559,7 +3561,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3580,7 +3582,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3601,7 +3603,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3622,7 +3624,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3643,7 +3645,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3664,7 +3666,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3685,7 +3687,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3706,7 +3708,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3727,7 +3729,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3748,7 +3750,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3769,7 +3771,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3790,7 +3792,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3811,7 +3813,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3832,7 +3834,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3853,7 +3855,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3874,7 +3876,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3895,7 +3897,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3916,7 +3918,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3937,7 +3939,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3958,7 +3960,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -3979,7 +3981,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4000,7 +4002,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4021,7 +4023,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4042,7 +4044,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4063,7 +4065,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4084,7 +4086,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4105,7 +4107,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4126,7 +4128,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4147,7 +4149,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4168,7 +4170,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4189,7 +4191,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4210,7 +4212,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4231,7 +4233,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4252,7 +4254,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4273,7 +4275,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4294,7 +4296,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4315,7 +4317,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4336,7 +4338,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4357,7 +4359,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4378,7 +4380,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4399,7 +4401,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4420,7 +4422,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4441,7 +4443,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4462,7 +4464,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4483,7 +4485,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4504,7 +4506,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4525,7 +4527,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4546,7 +4548,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4567,7 +4569,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4588,7 +4590,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4609,7 +4611,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4630,7 +4632,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4651,7 +4653,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4672,7 +4674,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4693,7 +4695,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4714,7 +4716,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4735,7 +4737,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4756,7 +4758,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4777,7 +4779,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4798,7 +4800,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4819,7 +4821,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4840,7 +4842,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4861,7 +4863,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4882,7 +4884,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4903,7 +4905,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4924,7 +4926,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4945,7 +4947,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4966,7 +4968,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4987,7 +4989,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5008,7 +5010,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5029,7 +5031,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5050,7 +5052,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5071,7 +5073,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5092,7 +5094,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5113,7 +5115,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5134,7 +5136,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5155,7 +5157,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5176,7 +5178,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5197,7 +5199,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5218,7 +5220,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5239,7 +5241,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5260,7 +5262,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5281,7 +5283,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5302,7 +5304,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5323,7 +5325,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5344,7 +5346,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5365,7 +5367,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5386,7 +5388,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5407,7 +5409,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5428,7 +5430,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5449,7 +5451,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5470,7 +5472,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5491,7 +5493,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5512,7 +5514,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5533,7 +5535,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5554,7 +5556,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5575,7 +5577,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5596,7 +5598,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5617,7 +5619,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5638,7 +5640,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5659,7 +5661,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5680,7 +5682,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5701,7 +5703,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5722,7 +5724,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5743,7 +5745,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5764,7 +5766,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5785,7 +5787,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5806,7 +5808,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5827,7 +5829,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5848,7 +5850,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5869,7 +5871,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5890,7 +5892,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5911,7 +5913,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5932,7 +5934,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5953,7 +5955,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5974,7 +5976,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -5995,7 +5997,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6016,7 +6018,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6037,7 +6039,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6058,7 +6060,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6079,7 +6081,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6100,7 +6102,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6121,7 +6123,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6142,7 +6144,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6163,7 +6165,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6184,7 +6186,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6205,7 +6207,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6226,7 +6228,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6247,7 +6249,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6268,7 +6270,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6289,7 +6291,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6310,7 +6312,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6331,7 +6333,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6352,7 +6354,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6373,7 +6375,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6394,7 +6396,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6415,7 +6417,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6436,7 +6438,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6457,7 +6459,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6478,7 +6480,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6499,7 +6501,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6520,7 +6522,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6541,7 +6543,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6562,7 +6564,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6583,7 +6585,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6604,7 +6606,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6625,7 +6627,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6646,7 +6648,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6667,7 +6669,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6688,7 +6690,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6709,7 +6711,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6730,7 +6732,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6751,7 +6753,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6772,7 +6774,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6793,7 +6795,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6814,7 +6816,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6835,7 +6837,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6856,7 +6858,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6877,7 +6879,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6898,7 +6900,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6919,7 +6921,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6940,7 +6942,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6961,7 +6963,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6982,7 +6984,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7003,7 +7005,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7024,7 +7026,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7045,7 +7047,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7066,7 +7068,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7087,7 +7089,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7108,7 +7110,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7129,7 +7131,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7150,7 +7152,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7171,7 +7173,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7192,7 +7194,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7213,7 +7215,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7234,7 +7236,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7255,7 +7257,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7276,7 +7278,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7297,7 +7299,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7318,7 +7320,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7339,7 +7341,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7360,7 +7362,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7381,7 +7383,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7402,7 +7404,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7423,7 +7425,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7444,7 +7446,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7465,7 +7467,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7486,7 +7488,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7507,7 +7509,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7528,7 +7530,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7549,7 +7551,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7570,7 +7572,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7591,7 +7593,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7612,7 +7614,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7633,7 +7635,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7654,7 +7656,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7675,7 +7677,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7696,7 +7698,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7717,7 +7719,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7738,7 +7740,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7759,7 +7761,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7780,7 +7782,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7801,7 +7803,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7822,7 +7824,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7843,7 +7845,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7864,7 +7866,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7885,7 +7887,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7906,7 +7908,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7927,7 +7929,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7948,7 +7950,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7969,7 +7971,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7990,7 +7992,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8011,7 +8013,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8032,7 +8034,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8053,7 +8055,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8074,7 +8076,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8095,7 +8097,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8116,7 +8118,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8137,7 +8139,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8158,7 +8160,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8179,7 +8181,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8200,7 +8202,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8221,7 +8223,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8242,7 +8244,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8263,7 +8265,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8284,7 +8286,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8305,7 +8307,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8326,7 +8328,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8347,7 +8349,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8368,7 +8370,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8389,7 +8391,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8410,7 +8412,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8431,7 +8433,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8452,7 +8454,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8473,7 +8475,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8494,7 +8496,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8515,7 +8517,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8536,7 +8538,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8557,7 +8559,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8578,7 +8580,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8599,7 +8601,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8620,7 +8622,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8641,7 +8643,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8662,7 +8664,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8683,7 +8685,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8704,7 +8706,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8725,7 +8727,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8746,7 +8748,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8767,7 +8769,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8788,7 +8790,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8809,7 +8811,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8830,7 +8832,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8851,7 +8853,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8872,7 +8874,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8893,7 +8895,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8914,7 +8916,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8935,7 +8937,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8956,7 +8958,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8977,7 +8979,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -8998,7 +9000,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9019,7 +9021,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9040,7 +9042,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9061,7 +9063,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9082,7 +9084,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9103,7 +9105,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9124,7 +9126,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9145,7 +9147,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9166,7 +9168,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9187,7 +9189,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9208,7 +9210,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9229,7 +9231,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9250,7 +9252,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9271,7 +9273,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9292,7 +9294,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9313,7 +9315,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9334,7 +9336,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9355,7 +9357,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9376,7 +9378,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9397,7 +9399,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9418,7 +9420,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9439,7 +9441,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9460,7 +9462,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9481,7 +9483,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9502,7 +9504,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9523,7 +9525,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9544,7 +9546,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9565,7 +9567,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9586,7 +9588,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9607,7 +9609,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9628,7 +9630,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9649,7 +9651,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9670,7 +9672,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9691,7 +9693,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9712,7 +9714,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9733,7 +9735,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9754,7 +9756,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9775,7 +9777,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9796,7 +9798,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9817,7 +9819,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9838,7 +9840,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9859,7 +9861,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9880,7 +9882,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9901,7 +9903,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9922,7 +9924,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9943,7 +9945,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9964,7 +9966,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9985,7 +9987,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10006,7 +10008,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10027,7 +10029,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10048,7 +10050,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10069,7 +10071,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10090,7 +10092,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10111,7 +10113,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10132,7 +10134,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10153,7 +10155,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10174,7 +10176,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10195,7 +10197,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10216,7 +10218,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10237,7 +10239,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10258,7 +10260,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10279,7 +10281,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10300,7 +10302,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10321,7 +10323,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10342,7 +10344,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10363,7 +10365,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10384,7 +10386,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10405,7 +10407,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10426,7 +10428,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10447,7 +10449,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10468,7 +10470,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10489,7 +10491,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10510,7 +10512,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10531,7 +10533,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10552,7 +10554,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10573,7 +10575,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10594,7 +10596,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10615,7 +10617,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10636,7 +10638,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10657,7 +10659,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10678,7 +10680,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10699,7 +10701,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10720,7 +10722,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10741,7 +10743,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10762,7 +10764,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10783,7 +10785,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10804,7 +10806,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10825,7 +10827,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10846,7 +10848,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10867,7 +10869,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10888,7 +10890,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10909,7 +10911,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10930,7 +10932,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10951,7 +10953,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10972,7 +10974,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -10993,7 +10995,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11014,7 +11016,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11035,7 +11037,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11056,7 +11058,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11077,7 +11079,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11098,7 +11100,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11119,7 +11121,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11140,7 +11142,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11161,7 +11163,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11182,7 +11184,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11203,7 +11205,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11224,7 +11226,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11245,7 +11247,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11266,7 +11268,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11287,7 +11289,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11308,7 +11310,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11329,7 +11331,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11350,7 +11352,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11371,7 +11373,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11392,7 +11394,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11413,7 +11415,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11434,7 +11436,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11455,7 +11457,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11476,7 +11478,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11497,7 +11499,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11518,7 +11520,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11539,7 +11541,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11560,7 +11562,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11581,7 +11583,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11602,7 +11604,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of dedicated Cloud hourly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly filer ressources
+### 🟢 GET — Get price of dedicated Cloud hourly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11623,7 +11625,7 @@ _Get price of dedicated Cloud hourly filer ressources_
 
 _Get price of dedicated Cloud monthly filer ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly filer ressources
+### 🟢 GET — Get price of dedicated Cloud monthly filer ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11644,7 +11646,7 @@ _Get price of dedicated Cloud monthly filer ressources_
 
 _Get price of dedicated Cloud hourly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud hourly host ressources
+### 🟢 GET — Get price of dedicated Cloud hourly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11665,7 +11667,7 @@ _Get price of dedicated Cloud hourly host ressources_
 
 _Get price of dedicated Cloud monthly host ressources_
 
-### 🟢 GET `GET` — Get price of dedicated Cloud monthly host ressources
+### 🟢 GET — Get price of dedicated Cloud monthly host ressources
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11686,7 +11688,7 @@ _Get price of dedicated Cloud monthly host ressources_
 
 _Get price of zone options_
 
-### 🟢 GET `GET` — Get price of zone options
+### 🟢 GET — Get price of zone options
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11707,7 +11709,7 @@ _Get price of zone options_
 
 _Get the price for a private database_
 
-### 🟢 GET `GET` — Get the price for a private database
+### 🟢 GET — Get the price for a private database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11728,7 +11730,7 @@ _Get the price for a private database_
 
 _Get the price for cdn option_
 
-### 🟢 GET `GET` — Get the price for cdn option
+### 🟢 GET — Get the price for cdn option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11749,7 +11751,7 @@ _Get the price for cdn option_
 
 _Get the price for extra sql perso option_
 
-### 🟢 GET `GET` — Get the price for extra sql perso option
+### 🟢 GET — Get the price for extra sql perso option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11770,7 +11772,7 @@ _Get the price for extra sql perso option_
 
 _Get the price for hosted ssl option_
 
-### 🟢 GET `GET` — Get the price for hosted ssl option
+### 🟢 GET — Get the price for hosted ssl option
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11791,7 +11793,7 @@ _Get the price for hosted ssl option_
 
 _Get the monthly price for an office license_
 
-### 🟢 GET `GET` — Get the monthly price for an office license
+### 🟢 GET — Get the monthly price for an office license
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11812,7 +11814,7 @@ _Get the monthly price for an office license_
 
 _Get the price of overTheBox offers_
 
-### 🟢 GET `GET` — Get the price of overTheBox offers
+### 🟢 GET — Get the price of overTheBox offers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11833,7 +11835,7 @@ _Get the price of overTheBox offers_
 
 _Get the monthly price for an Office 365 license_
 
-### 🟢 GET `GET` — Get the monthly price for an Office 365 license
+### 🟢 GET — Get the monthly price for an Office 365 license
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11854,7 +11856,7 @@ _Get the monthly price for an Office 365 license_
 
 _Get price of VPS Cloud 2013_
 
-### 🟢 GET `GET` — Get price of VPS Cloud 2013
+### 🟢 GET — Get price of VPS Cloud 2013
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11875,7 +11877,7 @@ _Get price of VPS Cloud 2013_
 
 _Get price of VPS Classic 2013_
 
-### 🟢 GET `GET` — Get price of VPS Classic 2013
+### 🟢 GET — Get price of VPS Classic 2013
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11896,7 +11898,7 @@ _Get price of VPS Classic 2013_
 
 _Get price of VPS Cloud Options 2013_
 
-### 🟢 GET `GET` — Get price of VPS Cloud Options 2013
+### 🟢 GET — Get price of VPS Cloud Options 2013
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11917,7 +11919,7 @@ _Get price of VPS Cloud Options 2013_
 
 _Get price of VPS Low Latency 2013_
 
-### 🟢 GET `GET` — Get price of VPS Low Latency 2013
+### 🟢 GET — Get price of VPS Low Latency 2013
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11938,7 +11940,7 @@ _Get price of VPS Low Latency 2013_
 
 _Get price of VPS Classic 2014_
 
-### 🟢 GET `GET` — Get price of VPS Classic 2014
+### 🟢 GET — Get price of VPS Classic 2014
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11959,7 +11961,7 @@ _Get price of VPS Classic 2014_
 
 _Get price of VPS Cloud 2014_
 
-### 🟢 GET `GET` — Get price of VPS Cloud 2014
+### 🟢 GET — Get price of VPS Cloud 2014
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11980,7 +11982,7 @@ _Get price of VPS Cloud 2014_
 
 _Get price of VPS Cloud Options 2014_
 
-### 🟢 GET `GET` — Get price of VPS Cloud Options 2014
+### 🟢 GET — Get price of VPS Cloud Options 2014
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12001,7 +12003,7 @@ _Get price of VPS Cloud Options 2014_
 
 _Get price of VPS Cloud 2015_
 
-### 🟢 GET `GET` — Get price of VPS Cloud 2015
+### 🟢 GET — Get price of VPS Cloud 2015
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12022,7 +12024,7 @@ _Get price of VPS Cloud 2015_
 
 _Get price of VPS Cloud Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12043,7 +12045,7 @@ _Get price of VPS Cloud Options 2015/2016_
 
 _Get price of VPS Cloud RAM 2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM 2016
+### 🟢 GET — Get price of VPS Cloud RAM 2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12064,7 +12066,7 @@ _Get price of VPS Cloud RAM 2016_
 
 _Get price of VPS Cloud RAM Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud RAM Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12085,7 +12087,7 @@ _Get price of VPS Cloud RAM Options 2015/2016_
 
 _Get price of VPS SSD 2015_
 
-### 🟢 GET `GET` — Get price of VPS SSD 2015
+### 🟢 GET — Get price of VPS SSD 2015
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12106,7 +12108,7 @@ _Get price of VPS SSD 2015_
 
 _Get price of VPS SSD Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS SSD Options 2015/2016
+### 🟢 GET — Get price of VPS SSD Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12127,7 +12129,7 @@ _Get price of VPS SSD Options 2015/2016_
 
 _Get price of VPS SSD Discovery 2017_
 
-### 🟢 GET `GET` — Get price of VPS SSD Discovery 2017
+### 🟢 GET — Get price of VPS SSD Discovery 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12148,7 +12150,7 @@ _Get price of VPS SSD Discovery 2017_
 
 _Get price of VPS SSD Discovery Options 2017_
 
-### 🟢 GET `GET` — Get price of VPS SSD Discovery Options 2017
+### 🟢 GET — Get price of VPS SSD Discovery Options 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12169,7 +12171,7 @@ _Get price of VPS SSD Discovery Options 2017_
 
 _Get price of VPS Cloud 2017_
 
-### 🟢 GET `GET` — Get price of VPS Cloud 2017
+### 🟢 GET — Get price of VPS Cloud 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12190,7 +12192,7 @@ _Get price of VPS Cloud 2017_
 
 _Get price of VPS Cloud Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12211,7 +12213,7 @@ _Get price of VPS Cloud Options 2015/2016_
 
 _Get price of VPS Cloud RAM 2017_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM 2017
+### 🟢 GET — Get price of VPS Cloud RAM 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12232,7 +12234,7 @@ _Get price of VPS Cloud RAM 2017_
 
 _Get price of VPS Cloud RAM Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud RAM Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12253,7 +12255,7 @@ _Get price of VPS Cloud RAM Options 2015/2016_
 
 _Get price of VPS SSD 2017_
 
-### 🟢 GET `GET` — Get price of VPS SSD 2017
+### 🟢 GET — Get price of VPS SSD 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12274,7 +12276,7 @@ _Get price of VPS SSD 2017_
 
 _Get price of VPS SSD Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS SSD Options 2015/2016
+### 🟢 GET — Get price of VPS SSD Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12295,7 +12297,7 @@ _Get price of VPS SSD Options 2015/2016_
 
 _Get price of VPS Cloud 2017_
 
-### 🟢 GET `GET` — Get price of VPS Cloud 2017
+### 🟢 GET — Get price of VPS Cloud 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12316,7 +12318,7 @@ _Get price of VPS Cloud 2017_
 
 _Get price of VPS Cloud Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12337,7 +12339,7 @@ _Get price of VPS Cloud Options 2015/2016_
 
 _Get price of VPS Cloud RAM 2017_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM 2017
+### 🟢 GET — Get price of VPS Cloud RAM 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12358,7 +12360,7 @@ _Get price of VPS Cloud RAM 2017_
 
 _Get price of VPS Cloud RAM Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud RAM Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12379,7 +12381,7 @@ _Get price of VPS Cloud RAM Options 2015/2016_
 
 _Get price of VPS SSD 2017_
 
-### 🟢 GET `GET` — Get price of VPS SSD 2017
+### 🟢 GET — Get price of VPS SSD 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12400,7 +12402,7 @@ _Get price of VPS SSD 2017_
 
 _Get price of VPS SSD Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS SSD Options 2015/2016
+### 🟢 GET — Get price of VPS SSD Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12421,7 +12423,7 @@ _Get price of VPS SSD Options 2015/2016_
 
 _Get price of VPS Cloud 2017_
 
-### 🟢 GET `GET` — Get price of VPS Cloud 2017
+### 🟢 GET — Get price of VPS Cloud 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12442,7 +12444,7 @@ _Get price of VPS Cloud 2017_
 
 _Get price of VPS Cloud Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12463,7 +12465,7 @@ _Get price of VPS Cloud Options 2015/2016_
 
 _Get price of VPS Cloud RAM 2017_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM 2017
+### 🟢 GET — Get price of VPS Cloud RAM 2017
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12484,7 +12486,7 @@ _Get price of VPS Cloud RAM 2017_
 
 _Get price of VPS Cloud RAM Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS Cloud RAM Options 2015/2016
+### 🟢 GET — Get price of VPS Cloud RAM Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12505,7 +12507,7 @@ _Get price of VPS Cloud RAM Options 2015/2016_
 
 _Get price of VPS SSD 2018_
 
-### 🟢 GET `GET` — Get price of VPS SSD 2018
+### 🟢 GET — Get price of VPS SSD 2018
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12526,7 +12528,7 @@ _Get price of VPS SSD 2018_
 
 _Get price of VPS SSD Options 2015/2016_
 
-### 🟢 GET `GET` — Get price of VPS SSD Options 2015/2016
+### 🟢 GET — Get price of VPS SSD Options 2015/2016
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12547,7 +12549,7 @@ _Get price of VPS SSD Options 2015/2016_
 
 _Get price of VPS SSD APAC_
 
-### 🟢 GET `GET` — Get price of VPS SSD APAC
+### 🟢 GET — Get price of VPS SSD APAC
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12568,7 +12570,7 @@ _Get price of VPS SSD APAC_
 
 _Get price of VPS SSD APAC Options_
 
-### 🟢 GET `GET` — Get price of VPS SSD APAC Options
+### 🟢 GET — Get price of VPS SSD APAC Options
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12589,7 +12591,7 @@ _Get price of VPS SSD APAC Options_
 
 _Get price of VPS Classic_
 
-### 🟢 GET `GET` — Get price of VPS Classic
+### 🟢 GET — Get price of VPS Classic
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12610,7 +12612,7 @@ _Get price of VPS Classic_
 
 _Get price of VPS Cloud_
 
-### 🟢 GET `GET` — Get price of VPS Cloud
+### 🟢 GET — Get price of VPS Cloud
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12631,7 +12633,7 @@ _Get price of VPS Cloud_
 
 _Get price of VPS Cloud Options_
 
-### 🟢 GET `GET` — Get price of VPS Cloud Options
+### 🟢 GET — Get price of VPS Cloud Options
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12652,7 +12654,7 @@ _Get price of VPS Cloud Options_
 
 _Get price of VPS Low Latency_
 
-### 🟢 GET `GET` — Get price of VPS Low Latency
+### 🟢 GET — Get price of VPS Low Latency
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12673,7 +12675,7 @@ _Get price of VPS Low Latency_
 
 _Get the price of address move option fee_
 
-### 🟢 GET `GET` — Get the price of address move option fee
+### 🟢 GET — Get the price of address move option fee
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12694,7 +12696,7 @@ _Get the price of address move option fee_
 
 _Get the price of options installation fee_
 
-### 🟢 GET `GET` — Get the price of options installation fee
+### 🟢 GET — Get the price of options installation fee
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12715,7 +12717,7 @@ _Get the price of options installation fee_
 
 _Get the price of xdsl offers_
 
-### 🟢 GET `GET` — Get the price of xdsl offers
+### 🟢 GET — Get the price of xdsl offers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12736,7 +12738,7 @@ _Get the price of xdsl offers_
 
 _Get the price of options installation fee_
 
-### 🟢 GET `GET` — Get the price of options installation fee
+### 🟢 GET — Get the price of options installation fee
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12757,7 +12759,7 @@ _Get the price of options installation fee_
 
 _Get the price of IPv4 options_
 
-### 🟢 GET `GET` — Get the price of IPv4 options
+### 🟢 GET — Get the price of IPv4 options
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12778,7 +12780,7 @@ _Get the price of IPv4 options_
 
 _Get the price of line action_
 
-### 🟢 GET `GET` — Get the price of line action
+### 🟢 GET — Get the price of line action
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12791,5 +12793,10271 @@ _Get the price of line action_
 |------|------|----|----------|-------------|
 | `lineAction` | `price.Xdsl.Options.LineEnum` | path | ✅ | The type of line action |
 
+
+---
+
+## Models
+
+### `order.CurrencyCodeEnum`
+
+**Enum** (`enumType: string`):
+
+- `AUD`
+- `CAD`
+- `CZK`
+- `EUR`
+- `GBP`
+- `INR`
+- `LTL`
+- `MAD`
+- `N/A`
+- `PLN`
+- `SGD`
+- `TND`
+- `USD`
+- `XOF`
+- `points`
+
+### `order.Price`
+
+_Price with it's currency and textual representation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currencyCode` | `order.CurrencyCodeEnum` | ❌ | ❌ | ❌ |  |
+| `text` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `double` | ❌ | ❌ | ❌ |  |
+
+### `price.Dedicated.Server.AntiDDoSProEnum`
+
+_Enum of AntiDDoSPros_
+
+**Enum** (`enumType: string`):
+
+- `sk`
+
+### `price.Dedicated.Server.BackupStorageEnum`
+
+_Enum of BackupStorages_
+
+**Enum** (`enumType: string`):
+
+- `1000`
+- `10000`
+- `500`
+- `5000`
+
+### `price.Dedicated.Server.FirewallEnum`
+
+_Enum of Firewalls_
+
+**Enum** (`enumType: string`):
+
+- `asa5505`
+- `asa5510`
+- `asa5520`
+
+### `price.Dedicated.Server.IpEnum`
+
+_Enum of Ips_
+
+**Enum** (`enumType: string`):
+
+- `kimsufi`
+- `parking`
+
+### `price.Dedicated.Server.ProfessionalUseEnum`
+
+_Enum of ProfessionalUses_
+
+**Enum** (`enumType: string`):
+
+- `bhg`
+- `eg`
+- `hg`
+- `mg`
+- `sp`
+
+### `price.DedicatedCloud.2013v1.Bhs1a.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200g-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-3600-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2013v1.Bhs1a.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-3600-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2013v1.Bhs1a.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `L++`
+- `L2`
+- `L2+`
+- `M`
+- `S`
+- `S++`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2013v1.Bhs1a.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `L++`
+- `L2`
+- `L2+`
+- `M`
+- `S`
+- `S++`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2013v1.Rbx2a.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200g-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-3600-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2013v1.Rbx2a.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-3600-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2013v1.Rbx2a.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `L++`
+- `L2`
+- `L2+`
+- `M`
+- `S`
+- `S++`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2013v1.Rbx2a.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `L++`
+- `L2`
+- `L2+`
+- `M`
+- `S`
+- `S++`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2013v1.Sbg1a.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200g-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-3600-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2013v1.Sbg1a.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-3600-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2013v1.Sbg1a.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `L++`
+- `L2`
+- `L2+`
+- `M`
+- `S`
+- `S++`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2013v1.Sbg1a.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `L++`
+- `L2`
+- `L2+`
+- `M`
+- `S`
+- `S++`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v1.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2014v2.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v1.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v2.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v3.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v4.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v5.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v6.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Enterprise.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Enterprise.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Enterprise.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Enterprise.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200g-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `iscsi-1200-GB`
+- `iscsi-13200-GB`
+- `iscsi-3300-GB`
+- `iscsi-6600-GB`
+- `iscsi-800-GB`
+- `nfs-100-GB`
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2016v7.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `L+`
+- `M`
+- `XL`
+- `XL+`
+
+### `price.DedicatedCloud.2018v1.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Eri1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Eri1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Eri1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Eri1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Lim1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Lim1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Lim1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Lim1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Rbx2d.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Rbx2d.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Rbx2d.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Rbx2d.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Waw1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Waw1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v1.Waw1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v1.Waw1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Eri1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Eri1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Eri1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Eri1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Lim1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Lim1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Lim1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Lim1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Rbx2d.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Rbx2d.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Rbx2d.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Rbx2d.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Waw1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Waw1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v2.Waw1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v2.Waw1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Eri1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Eri1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Eri1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Eri1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Lim1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Lim1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Lim1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Lim1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Rbx2d.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Rbx2d.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Rbx2d.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Rbx2d.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Waw1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Waw1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v3.Waw1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v3.Waw1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Eri1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Eri1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Eri1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Eri1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Lim1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Lim1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Lim1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Lim1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Rbx2d.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Rbx2d.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Rbx2d.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Rbx2d.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Waw1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Waw1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v4.Waw1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v4.Waw1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Eri1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Eri1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Eri1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Eri1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Lim1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Lim1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Lim1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Lim1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Rbx2d.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Rbx2d.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Rbx2d.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Rbx2d.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Waw1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Waw1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v5.Waw1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v5.Waw1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Eri1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Eri1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Eri1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Eri1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Lim1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Lim1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Lim1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Lim1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Rbx2d.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Rbx2d.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Rbx2d.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Rbx2d.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Waw1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Waw1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v6.Waw1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v6.Waw1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Bhs1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Bhs1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Bhs1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Bhs1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Eri1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Eri1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Eri1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Eri1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Lim1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Lim1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Lim1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Lim1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Rbx2a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Rbx2a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Rbx2a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Rbx2a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Rbx2b.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Rbx2b.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Rbx2b.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Rbx2b.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Rbx2d.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Rbx2d.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Rbx2d.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Rbx2d.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Sbg1a.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Sbg1a.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Sbg1a.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Sbg1a.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Waw1c.Infrastructure.Filer.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Waw1c.Infrastructure.Filer.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `nfs-1200-GB`
+- `nfs-13200-GB`
+- `nfs-1600-GB`
+- `nfs-18000-GB`
+- `nfs-2000-GB`
+- `nfs-2400-GB`
+- `nfs-3000-GB`
+- `nfs-3300-GB`
+- `nfs-36000-GB`
+- `nfs-6000-GB`
+- `nfs-6600-GB`
+- `nfs-800-GB`
+- `nfs-9000-GB`
+
+### `price.DedicatedCloud.2018v7.Waw1c.Infrastructure.Host.HourlyEnum`
+
+_Enum of Hourlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.DedicatedCloud.2018v7.Waw1c.Infrastructure.Host.MonthlyEnum`
+
+_Enum of Monthlys_
+
+**Enum** (`enumType: string`):
+
+- `SDDC-128`
+- `SDDC-16`
+- `SDDC-256`
+- `SDDC-512`
+- `SDDC-64`
+- `SDDCVSAN-256`
+- `SDDCVSAN-512`
+
+### `price.Domain.Zone.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `dnsAnycast`
+
+### `price.Email.Exchange.OfferEnum`
+
+_Enum of Offers_
+
+**Enum** (`enumType: string`):
+
+- `hosted`
+
+### `price.Hosting.PrivateDatabaseEnum`
+
+_Enum of PrivateDatabases_
+
+**Enum** (`enumType: string`):
+
+- `mysql_4.1_1024`
+- `mysql_4.1_128`
+- `mysql_4.1_256`
+- `mysql_4.1_512`
+- `mysql_5.0_1024`
+- `mysql_5.0_128`
+- `mysql_5.0_256`
+- `mysql_5.0_512`
+- `mysql_5.1_1024`
+- `mysql_5.1_128`
+- `mysql_5.1_256`
+- `mysql_5.1_512`
+- `mysql_5.5_1024`
+- `mysql_5.5_128`
+- `mysql_5.5_256`
+- `mysql_5.5_512`
+
+### `price.Hosting.Web.CdnEnum`
+
+_Enum of Cdns_
+
+**Enum** (`enumType: string`):
+
+- `CDN_BUSINESS`
+
+### `price.Hosting.Web.ExtraSqlPersoEnum`
+
+_Enum of ExtraSqlPersos_
+
+**Enum** (`enumType: string`):
+
+- `SQLPERSO_1_BASES_400_MB`
+- `SQLPERSO_1_BASES_800_MB`
+- `SQLPERSO_20_BASES_100_MB`
+- `SQLPERSO_20_BASES_200_MB`
+- `SQLPERSO_2_BASES_400_MB`
+- `SQLPERSO_2_BASES_800_MB`
+- `SQLPERSO_50_BASES_100_MB`
+- `SQLPERSO_50_BASES_200_MB`
+- `SQLPERSO_5_BASES_100_MB`
+- `SQLPERSO_5_BASES_200_MB`
+- `SQLPERSO_5_BASES_400_MB`
+- `SQLPERSO_5_BASES_800_MB`
+
+### `price.Hosting.Web.SslEnum`
+
+_Enum of Ssls_
+
+**Enum** (`enumType: string`):
+
+- `HOSTEDSSL`
+
+### `price.License.OfficeEnum`
+
+_Enum of Offices_
+
+**Enum** (`enumType: string`):
+
+- `officeBusiness`
+- `officeProPlus`
+
+### `price.OverTheBox.OfferEnum`
+
+_Enum of Offers_
+
+**Enum** (`enumType: string`):
+
+- `business.v1`
+- `plus.v1`
+- `starter.v1`
+
+### `price.Pack.Xdsl.InstallationEnum`
+
+_Enum of Installations_
+
+**Enum** (`enumType: string`):
+
+- `enterprise`
+- `express`
+- `expressLite`
+
+### `price.Pack.Xdsl.OffersEnum`
+
+_Enum of Offerss_
+
+**Enum** (`enumType: string`):
+
+- `enterprise`
+- `express`
+- `expressLite`
+
+### `price.Pack.Xdsl.OptionsEnum`
+
+_Enum of Optionss_
+
+**Enum** (`enumType: string`):
+
+- `enterpriseGtr`
+- `vdslFt`
+
+### `price.Saas.Csp2.LicenseEnum`
+
+_Enum of Licenses_
+
+**Enum** (`enumType: string`):
+
+- `AzureActiveDirectoryBasic`
+- `AzureActiveDirectoryPremiumP1`
+- `Business`
+- `BusinessEssentials`
+- `BusinessPremium`
+- `EnterpriseE1`
+- `EnterpriseE3`
+- `EnterpriseK1`
+- `ExchangeOnlinePlan1`
+- `ProPlus`
+- `ProjectOnline`
+- `ProjectOnlineProfessional`
+- `VisioPro`
+
+### `price.Telephony.OfferEnum`
+
+_Enum of Offers_
+
+**Enum** (`enumType: string`):
+
+- `discovery`
+- `enterprise`
+- `enterpriseMobile`
+- `resellerEnterprise`
+- `resellerEnterpriseMobile`
+
+### `price.Vps.2013v1.Classic.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+- `model5`
+- `model6`
+
+### `price.Vps.2013v1.Cloud.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+- `model5`
+- `model6`
+
+### `price.Vps.2013v1.Cloud.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `ftpbackup`
+- `ip`
+- `snapshot`
+- `veeam`
+
+### `price.Vps.2013v1.Lowlat.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2014v1.Classic.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+
+### `price.Vps.2014v1.Cloud.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+
+### `price.Vps.2014v1.Cloud.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `ftpbackup`
+- `ip`
+- `snapshot`
+- `veeam`
+
+### `price.Vps.2015v1.Cloud.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2015v1.Cloud.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2015v1.Cloudram.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2015v1.Cloudram.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2015v1.Ssd.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2015v1.Ssd.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2017v1.Ssd.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+
+### `price.Vps.2017v1.Ssd.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `ip`
+
+### `price.Vps.2017v2.Cloud.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2017v2.Cloud.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2017v2.Cloudram.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2017v2.Cloudram.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2017v2.Ssd.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2017v2.Ssd.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2017v3.Cloud.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2017v3.Cloud.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2017v3.Cloudram.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2017v3.Cloudram.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2017v3.Ssd.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2017v3.Ssd.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2018v1.Cloud.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2018v1.Cloud.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2018v1.Cloudram.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2018v1.Cloudram.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `automatedBackup`
+- `ftpbackup`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2018v1.Ssd.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Vps.2018v1.Ssd.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `additionalDisk100`
+- `additionalDisk200`
+- `additionalDisk50`
+- `additionalDisk500`
+- `ip`
+- `snapshot`
+
+### `price.Vps.2018v2.Ssd.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+
+### `price.Vps.2018v2.Ssd.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `ip`
+
+### `price.Vps.Classic.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+- `model5`
+- `model6`
+
+### `price.Vps.Cloud.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+- `model4`
+- `model5`
+- `model6`
+
+### `price.Vps.Cloud.OptionEnum`
+
+_Enum of Options_
+
+**Enum** (`enumType: string`):
+
+- `ftpbackup`
+- `ip`
+- `snapshot`
+- `veeam`
+
+### `price.Vps.Lowlat.ModelEnum`
+
+_Enum of Models_
+
+**Enum** (`enumType: string`):
+
+- `model1`
+- `model2`
+- `model3`
+
+### `price.Xdsl.AddressMove.FeeEnum`
+
+_Enum of Fees_
+
+**Enum** (`enumType: string`):
+
+- `keepPortability`
+
+### `price.Xdsl.InstallationEnum`
+
+_Enum of Installations_
+
+**Enum** (`enumType: string`):
+
+- `backup`
+
+### `price.Xdsl.OffersEnum`
+
+_Enum of Offerss_
+
+**Enum** (`enumType: string`):
+
+- `backup`
+
+### `price.Xdsl.Options.InstallationEnum`
+
+_Enum of Installations_
+
+**Enum** (`enumType: string`):
+
+- `ipv4`
+
+### `price.Xdsl.Options.Ipv4Enum`
+
+_Enum of Ipv4s_
+
+**Enum** (`enumType: string`):
+
+- `29`
+
+### `price.Xdsl.Options.LineEnum`
+
+_Enum of Lines_
+
+**Enum** (`enumType: string`):
+
+- `creation`
+- `partialToTotal`
 
 

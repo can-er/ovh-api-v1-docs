@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **43** — Operations: **68**
+> Routes: **43** — Operations: **68**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `58d0b05f928a3dea`
 
 ---
 
@@ -60,7 +62,7 @@
 
 _Operations about the VRACK service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -83,7 +85,7 @@ _Operations about the VRACK service_
 
 _List Regions available to announce IP blocks_
 
-### 🟢 GET `GET` — List Regions available to announce IP blocks
+### 🟢 GET — List Regions available to announce IP blocks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -104,7 +106,7 @@ _List Regions available to announce IP blocks_
 
 _vrack_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -122,7 +124,7 @@ _vrack_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -146,7 +148,7 @@ _vrack_
 
 _allowedServices operations_
 
-### 🟢 GET `GET` — List all services allowed in this vrack
+### 🟢 GET — List all services allowed in this vrack
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -170,7 +172,7 @@ _allowedServices operations_
 
 _List the vrack.cloudProject objects_
 
-### 🟢 GET `GET` — vrack for publicCloud project
+### 🟢 GET — vrack for publicCloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -188,7 +190,7 @@ _List the vrack.cloudProject objects_
 
 ---
 
-### 🟡 POST `POST` — add a publicCloud project to this vrack
+### 🟡 POST — add a publicCloud project to this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -212,7 +214,7 @@ _List the vrack.cloudProject objects_
 
 _PublicCloud project in vrack_
 
-### 🔴 DELETE `DELETE` — remove this publicCloud project from this vrack
+### 🔴 DELETE — remove this publicCloud project from this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -231,7 +233,7 @@ _PublicCloud project in vrack_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -255,7 +257,7 @@ _PublicCloud project in vrack_
 
 _Confirm service termination_
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -282,7 +284,7 @@ _Confirm service termination_
 
 _List the vrack.dedicatedCloud objects_
 
-### 🟢 GET `GET` — vrack dedicated cloud (VmNetwork)
+### 🟢 GET — vrack dedicated cloud (VmNetwork)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -300,7 +302,7 @@ _List the vrack.dedicatedCloud objects_
 
 ---
 
-### 🟡 POST `POST` — Add VMware on OVHcloud to vRack
+### 🟡 POST — Add VMware on OVHcloud to vRack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -324,7 +326,7 @@ _List the vrack.dedicatedCloud objects_
 
 _VMware on OVHcloud vRack link_
 
-### 🔴 DELETE `DELETE` — Remove VMware on OVHcloud from vRack
+### 🔴 DELETE — Remove VMware on OVHcloud from vRack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -343,7 +345,7 @@ _VMware on OVHcloud vRack link_
 
 ---
 
-### 🟢 GET `GET` — Get vRack
+### 🟢 GET — Get vRack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -367,7 +369,7 @@ _VMware on OVHcloud vRack link_
 
 _List the vrack.pccDatacenter objects_
 
-### 🟢 GET `GET` — vrack dedicated cloud datacenter
+### 🟢 GET — vrack dedicated cloud datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -390,7 +392,7 @@ _List the vrack.pccDatacenter objects_
 
 _vrack datacenter interface_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -414,7 +416,7 @@ _vrack datacenter interface_
 
 _allowedVrack operations_
 
-### 🟢 GET `GET` — Vracks allowed for your dedicatedCloud datacenter
+### 🟢 GET — Vracks allowed for your dedicatedCloud datacenter
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -438,7 +440,7 @@ _allowedVrack operations_
 
 _move operations_
 
-### 🟡 POST `POST` — Move your dedicatedCloud datacenter from a Vrack to another
+### 🟡 POST — Move your dedicatedCloud datacenter from a Vrack to another
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -463,7 +465,7 @@ _move operations_
 
 _List the vrack.dedicatedConnect objects_
 
-### 🟢 GET `GET` — vrack dedicated connect
+### 🟢 GET — vrack dedicated connect
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -486,7 +488,7 @@ _List the vrack.dedicatedConnect objects_
 
 _vrack dedicated connect interface_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -505,7 +507,7 @@ _vrack dedicated connect interface_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -530,7 +532,7 @@ _vrack dedicated connect interface_
 
 _List the vrack.dedicatedServer objects_
 
-### 🟢 GET `GET` — vrack for dedicated server
+### 🟢 GET — vrack for dedicated server
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -548,7 +550,7 @@ _List the vrack.dedicatedServer objects_
 
 ---
 
-### 🟡 POST `POST` — add a dedicated server to this vrack (LEGACY)
+### 🟡 POST — add a dedicated server to this vrack (LEGACY)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -572,7 +574,7 @@ _List the vrack.dedicatedServer objects_
 
 _vrack dedicated server interfaces (LEGACY)_
 
-### 🔴 DELETE `DELETE` — remove this server from this vrack (LEGACY)
+### 🔴 DELETE — remove this server from this vrack (LEGACY)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -591,7 +593,7 @@ _vrack dedicated server interfaces (LEGACY)_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -615,7 +617,7 @@ _vrack dedicated server interfaces (LEGACY)_
 
 _mrtg operations_
 
-### 🟢 GET `GET` — Retrieve vrack traffic graph values (LEGACY)
+### 🟢 GET — Retrieve vrack traffic graph values (LEGACY)
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -641,7 +643,7 @@ _mrtg operations_
 
 _List the vrack.dedicatedServerInterface objects_
 
-### 🟢 GET `GET` — vrack for dedicated server interface
+### 🟢 GET — vrack for dedicated server interface
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -659,7 +661,7 @@ _List the vrack.dedicatedServerInterface objects_
 
 ---
 
-### 🟡 POST `POST` — add a dedicated server interface to this vrack
+### 🟡 POST — add a dedicated server interface to this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -683,7 +685,7 @@ _List the vrack.dedicatedServerInterface objects_
 
 _vrack dedicated server interfaces_
 
-### 🔴 DELETE `DELETE` — remove this server interface from this vrack
+### 🔴 DELETE — remove this server interface from this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -702,7 +704,7 @@ _vrack dedicated server interfaces_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -726,7 +728,7 @@ _vrack dedicated server interfaces_
 
 _dedicatedServerInterfaceDetails operations_
 
-### 🟢 GET `GET` — Details for all dedicated server interfaces in this vrack
+### 🟢 GET — Details for all dedicated server interfaces in this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -749,7 +751,7 @@ _dedicatedServerInterfaceDetails operations_
 
 _List all eligible services for this vRack asynchronously_
 
-### 🟢 GET `GET` — List all eligible services for this vRack asynchronously
+### 🟢 GET — List all eligible services for this vRack asynchronously
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -773,7 +775,7 @@ _List all eligible services for this vRack asynchronously_
 
 _List the vrack.ip objects_
 
-### 🟢 GET `GET` — vrack for IP blocks
+### 🟢 GET — vrack for IP blocks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -791,7 +793,7 @@ _List the vrack.ip objects_
 
 ---
 
-### 🟡 POST `POST` — add an IP block to this vrack
+### 🟡 POST — add an IP block to this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -816,7 +818,7 @@ _List the vrack.ip objects_
 
 _IP block in vrack_
 
-### 🔴 DELETE `DELETE` — remove this IP block from this vrack
+### 🔴 DELETE — remove this IP block from this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -835,7 +837,7 @@ _IP block in vrack_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -859,7 +861,7 @@ _IP block in vrack_
 
 _List the vrack.iplb objects_
 
-### 🟢 GET `GET` — vrack for ipLoadbalancing
+### 🟢 GET — vrack for ipLoadbalancing
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -877,7 +879,7 @@ _List the vrack.iplb objects_
 
 ---
 
-### 🟡 POST `POST` — add an ipLoadbalancing to this vrack
+### 🟡 POST — add an ipLoadbalancing to this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -901,7 +903,7 @@ _List the vrack.iplb objects_
 
 _ipLoadbalancing in vrack_
 
-### 🔴 DELETE `DELETE` — remove this ipLoadbalancing from this vrack
+### 🔴 DELETE — remove this ipLoadbalancing from this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -920,7 +922,7 @@ _ipLoadbalancing in vrack_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -944,7 +946,7 @@ _ipLoadbalancing in vrack_
 
 _List the vrack.ipv6 objects_
 
-### 🟢 GET `GET` — vrack for IP v6 blocks
+### 🟢 GET — vrack for IP v6 blocks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -962,7 +964,7 @@ _List the vrack.ipv6 objects_
 
 ---
 
-### 🟡 POST `POST` — add an IP v6 block to this vrack
+### 🟡 POST — add an IP v6 block to this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -986,7 +988,7 @@ _List the vrack.ipv6 objects_
 
 _IP v6 block in vrack_
 
-### 🔴 DELETE `DELETE` — remove this IP v6 block from this vrack
+### 🔴 DELETE — remove this IP v6 block from this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1005,7 +1007,7 @@ _IP v6 block in vrack_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1029,7 +1031,7 @@ _IP v6 block in vrack_
 
 _List the vrack.bridgedSubrange objects_
 
-### 🟢 GET `GET` — subrange bridged into your vrack
+### 🟢 GET — subrange bridged into your vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1053,7 +1055,7 @@ _List the vrack.bridgedSubrange objects_
 
 _Bridged subrange within your IP v6 block_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1073,7 +1075,7 @@ _Bridged subrange within your IP v6 block_
 
 ---
 
-### 🟠 PUT `PUT` — Update Slaac status
+### 🟠 PUT — Update Slaac status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1099,7 +1101,7 @@ _Bridged subrange within your IP v6 block_
 
 _List the vrack.routedSubrange objects_
 
-### 🟢 GET `GET` — subrange routed into your vrack
+### 🟢 GET — subrange routed into your vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1118,7 +1120,7 @@ _List the vrack.routedSubrange objects_
 
 ---
 
-### 🟡 POST `POST` — route a subrange of your IP v6 block into your vrack
+### 🟡 POST — route a subrange of your IP v6 block into your vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1144,7 +1146,7 @@ _List the vrack.routedSubrange objects_
 
 _Routed subranges within your IP v6 block_
 
-### 🔴 DELETE `DELETE` — unroute subrange from your vrack
+### 🔴 DELETE — unroute subrange from your vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1164,7 +1166,7 @@ _Routed subranges within your IP v6 block_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1189,7 +1191,7 @@ _Routed subranges within your IP v6 block_
 
 _List the vrack.legacyVrack objects_
 
-### 🟢 GET `GET` — vrack for legacy vrack
+### 🟢 GET — vrack for legacy vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1207,7 +1209,7 @@ _List the vrack.legacyVrack objects_
 
 ---
 
-### 🟡 POST `POST` — add a legacy vrack (vrackXXXX) to this vrack (pn-XXXX)
+### 🟡 POST — add a legacy vrack (vrackXXXX) to this vrack (pn-XXXX)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1231,7 +1233,7 @@ _List the vrack.legacyVrack objects_
 
 _interface between legacy vrack (vrackXXXX) and vrack (pn-XXXX)_
 
-### 🔴 DELETE `DELETE` — remove this legacy vrack (vrackXXXX) from this vrack (pn-XXXX)
+### 🔴 DELETE — remove this legacy vrack (vrackXXXX) from this vrack (pn-XXXX)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1250,7 +1252,7 @@ _interface between legacy vrack (vrackXXXX) and vrack (pn-XXXX)_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1274,7 +1276,7 @@ _interface between legacy vrack (vrackXXXX) and vrack (pn-XXXX)_
 
 _List the vrack.ovhCloudConnect objects_
 
-### 🟢 GET `GET` — vrack for ovhCloudConnect
+### 🟢 GET — vrack for ovhCloudConnect
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1292,7 +1294,7 @@ _List the vrack.ovhCloudConnect objects_
 
 ---
 
-### 🟡 POST `POST` — Add an ovhCloudConnect to the vrack
+### 🟡 POST — Add an ovhCloudConnect to the vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1316,7 +1318,7 @@ _List the vrack.ovhCloudConnect objects_
 
 _ovhCloudConnect in vrack_
 
-### 🔴 DELETE `DELETE` — Remove the ovhCloudConnect from the vrack
+### 🔴 DELETE — Remove the ovhCloudConnect from the vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1335,7 +1337,7 @@ _ovhCloudConnect in vrack_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1359,7 +1361,7 @@ _ovhCloudConnect in vrack_
 
 _publicRoutingBandwidthLimit operations_
 
-### 🟢 GET `GET` — List public routing bandwidth limit on regions for this vrack
+### 🟢 GET — List public routing bandwidth limit on regions for this vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1383,7 +1385,7 @@ _publicRoutingBandwidthLimit operations_
 
 _Details about a non-expiring Service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1406,7 +1408,7 @@ _Details about a non-expiring Service_
 
 _List the vrack.Task objects_
 
-### 🟢 GET `GET` — vrack tasks
+### 🟢 GET — vrack tasks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1429,7 +1431,7 @@ _List the vrack.Task objects_
 
 _vrack tasks_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1453,7 +1455,7 @@ _vrack tasks_
 
 _Ask for the termination of your service. Admin contact of this service will receive a termination token in order to confirm its termination with /confirmTermination endpoint._
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1476,7 +1478,7 @@ _Ask for the termination of your service. Admin contact of this service will rec
 
 _List the vrack.vrackServices objects_
 
-### 🟢 GET `GET` — vrack for vrackServices
+### 🟢 GET — vrack for vrackServices
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1494,7 +1496,7 @@ _List the vrack.vrackServices objects_
 
 ---
 
-### 🟡 POST `POST` — Add a vrackServices to the vrack
+### 🟡 POST — Add a vrackServices to the vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1518,7 +1520,7 @@ _List the vrack.vrackServices objects_
 
 _vrackServices in vrack_
 
-### 🔴 DELETE `DELETE` — Remove the vrackServices from the vrack
+### 🔴 DELETE — Remove the vrackServices from the vrack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1537,7 +1539,7 @@ _vrackServices in vrack_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1553,5 +1555,625 @@ _vrackServices in vrack_
 
 **IAM actions:** `vrack:apiovh:vrackServices/get` (required)
 
+
+---
+
+## Models
+
+### `complexType.UnitAndValue<T>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `complexType.UnitAndValue<double>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `T` | ❌ | ❌ | ❌ |  |
+
+### `dedicated.server.MrtgPeriodEnum`
+
+_distincts MRTG period_
+
+**Enum** (`enumType: string`):
+
+- `daily`
+- `hourly`
+- `monthly`
+- `weekly`
+- `yearly`
+
+### `dedicated.server.MrtgTimestampValue`
+
+_A timestamp associated to a value_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `timestamp` | `long` | ❌ | ❌ | ❌ |  |
+| `value` | `complexType.UnitAndValue<double>` | ❌ | ✅ | ❌ |  |
+
+### `dedicated.server.MrtgTypeEnum`
+
+_distincts MRTG type_
+
+**Enum** (`enumType: string`):
+
+- `errors:download`
+- `errors:upload`
+- `packets:download`
+- `packets:upload`
+- `traffic:download`
+- `traffic:upload`
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.NonExpiringService`
+
+_Details about a non-expiring Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `vrack.AllowedDedicatedServerInterfaces`
+
+_A structure giving all dedicated server interfaces allowed for this vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dedicatedServer` | `string` | ❌ | ❌ | ❌ | the name of dedicatedServer |
+| `dedicatedServerInterface` | `string` | ❌ | ❌ | ❌ | the unique identifier of dedicatedServerInterface |
+| `name` | `string` | ❌ | ❌ | ❌ | the name of dedicatedServerInterface |
+
+### `vrack.AllowedServiceEnum`
+
+_Possible values for vrack allowed service_
+
+**Enum** (`enumType: string`):
+
+- `cloudProject`
+- `dedicatedCloud`
+- `dedicatedCloudDatacenter`
+- `dedicatedConnect`
+- `dedicatedServer`
+- `dedicatedServerInterface`
+- `ip`
+- `ipLoadbalancing`
+- `ipv6`
+- `legacyVrack`
+- `ovhCloudConnect`
+- `vmwareCloudDirectorVirtualDataCenter`
+- `vrackServices`
+
+### `vrack.AllowedServices`
+
+_A structure given all service allowed for this vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cloudProject` | `string[]` | ❌ | ✅ | ❌ | list of publicCloud projects allowed to be connected to vrack |
+| `dedicatedCloud` | `string[]` | ❌ | ✅ | ❌ | list of dedicated cloud allowed to be connected to vrack |
+| `dedicatedCloudDatacenter` | `string[]` | ❌ | ✅ | ❌ | list of dedicated cloud datacenters allowed to be connected to vrack |
+| `dedicatedConnect` | `string[]` | ❌ | ✅ | ❌ | list of dedicated connect links allowed to be connected to vrack |
+| `dedicatedServer` | `string[]` | ❌ | ✅ | ❌ | list of dedicated servers allowed to be connected to vrack |
+| `dedicatedServerInterface` | `vrack.AllowedDedicatedServerInterfaces[]` | ❌ | ✅ | ❌ | list of dedicated server interfaces allowed to be connected to vrack |
+| `ip` | `ipBlock[]` | ❌ | ✅ | ❌ | list of blocks allowed to be connected to vrack |
+| `ipLoadbalancing` | `string[]` | ❌ | ✅ | ❌ | list of ipLoadbalancing allowed to be connected to vrack |
+| `ipv6` | `ipv6Block[]` | ❌ | ✅ | ❌ | list of ipv6 blocks allowed to be connected to vrack |
+| `legacyVrack` | `string[]` | ❌ | ✅ | ❌ | list of legacy vrack (1.0) allowed to be connected to vrack |
+| `ovhCloudConnect` | `uuid[]` | ❌ | ✅ | ❌ | List of the ovhCloudConnect services allowed to be connected to vrack |
+| `vmwareCloudDirectorVirtualDataCenter` | `string[]` | ❌ | ✅ | ❌ | List of the vmwareCloudDirectorVirtualDataCenter allowed to be connected to vrack |
+| `vrackServices` | `string[]` | ❌ | ✅ | ❌ | List of the vrackServices allowed to be connected to vrack |
+
+### `vrack.EligibleDedicatedServerInterfaces`
+
+_Dedicated server interfaces allowed for this vRack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dedicatedServer` | `string` | ❌ | ❌ | ✅ | The name of the dedicatedServer |
+| `dedicatedServerInterface` | `string` | ❌ | ❌ | ✅ | The unique identifier of the dedicatedServerInterface |
+| `name` | `string` | ❌ | ❌ | ✅ | The name of the dedicatedServerInterface |
+
+### `vrack.EligibleServices`
+
+_Eligible services for this vRack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cloudProject` | `string[]` | ❌ | ✅ | ✅ | List of publicCloud projects allowed to be connected to this vRack |
+| `dedicatedCloud` | `string[]` | ❌ | ✅ | ✅ | List of dedicated cloud allowed to be connected to this vRack |
+| `dedicatedCloudDatacenter` | `string[]` | ❌ | ✅ | ✅ | List of dedicated cloud datacenters allowed to be connected to this vRack |
+| `dedicatedConnect` | `string[]` | ❌ | ✅ | ✅ | List of dedicated connect links allowed to be connected to this vRack |
+| `dedicatedServer` | `string[]` | ❌ | ✅ | ✅ | List of dedicated servers allowed to be connected to this vRack |
+| `dedicatedServerInterface` | `vrack.EligibleDedicatedServerInterfaces[]` | ❌ | ✅ | ✅ | List of dedicated server interfaces allowed to be connected to this vRack |
+| `ip` | `ipBlock[]` | ❌ | ✅ | ✅ | List of blocks allowed to be connected to this vRack |
+| `ipLoadbalancing` | `string[]` | ❌ | ✅ | ✅ | List of ipLoadbalancing allowed to be connected to this vRack |
+| `ipv6` | `ipv6Block[]` | ❌ | ✅ | ✅ | List of ipv6 blocks allowed to be connected to this vRack |
+| `legacyVrack` | `string[]` | ❌ | ✅ | ✅ | List of legacy vRack (1.0) allowed to be connected to this vRack |
+| `ovhCloudConnect` | `uuid[]` | ❌ | ✅ | ✅ | List of the ovhCloudConnect services allowed to be connected to this vRack |
+| `vmwareCloudDirectorVirtualDataCenter` | `string[]` | ❌ | ✅ | ✅ | List of the VMwareCloudDirectorVirtualDatacenter allowed to be connected to this vRack |
+| `vrackServices` | `string[]` | ❌ | ✅ | ✅ | List of the vrackServices allowed to be connected to this vRack |
+
+### `vrack.EligibleServicesEnum`
+
+_Possible values for vrack eligible services_
+
+**Enum** (`enumType: string`):
+
+- `cloudProject`
+- `dedicatedCloud`
+- `dedicatedServer`
+- `dedicatedServerInterface`
+- `ip`
+- `ipLoadbalancing`
+- `ipv6`
+- `legacyVrack`
+- `ovhCloudConnect`
+- `vrackServices`
+
+### `vrack.EligibleServicesResponse`
+
+_Eligible services call response_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `string` | ❌ | ❌ | ✅ | Creation date of the call |
+| `errors` | `string[]` | ❌ | ❌ | ✅ | List of services where an error has been encountered |
+| `result` | `vrack.EligibleServices` | ❌ | ❌ | ✅ | Eligible services for this vRack |
+| `status` | `string` | ❌ | ❌ | ✅ | Status of the call |
+
+### `vrack.PublicRoutingBandwidthLimit`
+
+_A structure describing a public routing bandwidth limit (in Mbps)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bandwidthLimit` | `long` | ❌ | ❌ | ❌ | Bandwidth limit for blocks in your vRack (in Mbps) |
+| `bandwidthLimitType` | `vrack.PublicRoutingBandwidthLimitTypeEnum` | ❌ | ❌ | ❌ | Public routing bandwidth limit type |
+| `region` | `string` | ❌ | ❌ | ❌ | Region name |
+
+### `vrack.PublicRoutingBandwidthLimitTypeEnum`
+
+_Possible values for bandwidth limit type_
+
+**Enum** (`enumType: string`):
+
+- `default`
+- `upgraded`
+
+### `vrack.PublicRoutingDefinition`
+
+_A structure defining the priority for EVERY region's availability zones_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | Availability zone name |
+| `priority` | `long` | ❌ | ❌ | ❌ | Unique priority value [1..3] |
+
+### `vrack.PublicRoutingPriorityTypeEnum`
+
+_Possible values for public routing priority type_
+
+**Enum** (`enumType: string`):
+
+- `custom`
+- `default`
+
+### `vrack.PublicRoutingRegion`
+
+_A structure describing a Region where a block can be announced to_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `defaultBandwidthLimit` | `long` | ❌ | ❌ | ❌ | Default bandwidth limit for blocks in your vRack (in Mbps) |
+| `publicRoutingType` | `vrack.PublicRoutingType` | ❌ | ❌ | ❌ | Type of public routing in the region. It indicates how many availability zones (one or three) can be configured to route blocks in this region. PublicRoutingPriority can be defined only on type PUBLIC-ROUTING-3-AZ. |
+| `region` | `string` | ❌ | ❌ | ❌ | Region name |
+
+### `vrack.PublicRoutingType`
+
+_Type of public routing in the region_
+
+**Enum** (`enumType: string`):
+
+- `PUBLIC-ROUTING-1-AZ`
+- `PUBLIC-ROUTING-3-AZ`
+
+### `vrack.SlaacEnum`
+
+_Possible values for slaac_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `vrack.Task`
+
+_vrack tasks_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `function` | `string` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `lastUpdate` | `datetime` | ❌ | ✅ | ✅ |  |
+| `orderId` | `long` | ❌ | ✅ | ✅ |  |
+| `serviceName` | `string` | ❌ | ✅ | ✅ |  |
+| `status` | `vrack.TaskStatusEnum` | ❌ | ❌ | ✅ | Task status |
+| `targetDomain` | `string` | ❌ | ✅ | ✅ |  |
+| `todoDate` | `datetime` | ❌ | ✅ | ✅ |  |
+
+### `vrack.TaskStatusEnum`
+
+_All states a vRack Task can be in_
+
+**Enum** (`enumType: string`):
+
+- `cancelled`
+- `doing`
+- `done`
+- `init`
+- `todo`
+
+### `vrack.VrackZoneEnum`
+
+_Possible values for vrack zone_
+
+**Enum** (`enumType: string`):
+
+- `bhs`
+- `cch`
+- `fra1`
+- `gra`
+- `lon1`
+- `pdx1`
+- `rbx`
+- `sbg`
+- `sgp1`
+- `syd1`
+- `syd2`
+- `was1`
+- `waw`
+- `ynm`
+- `yyz`
+- `zvf`
+
+### `vrack.bridgedSubrange`
+
+_Bridged subrange within your IP v6 block_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bridgedSubrange` | `ipv6Block` | ❌ | ❌ | ✅ | subrange bridged into your vrack |
+| `gateway` | `ipv6` | ❌ | ❌ | ✅ | Your gateway |
+| `slaac` | `vrack.SlaacEnum` | ❌ | ❌ | ❌ | Slaac status |
+
+### `vrack.cloudProject`
+
+_PublicCloud project in vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `project` | `string` | ❌ | ❌ | ✅ | publicCloud project |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.dedicatedCloud`
+
+_VMware on OVHcloud vRack link_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dedicatedCloud` | `string` | ❌ | ❌ | ✅ | your dedicated cloud service |
+| `vlanId` | `long` | ❌ | ✅ | ✅ | Dedicated cloud vlanId used |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.dedicatedConnect`
+
+_vrack dedicated connect interface_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | A name for your dedicatedConnect link |
+
+### `vrack.dedicatedServer`
+
+_vrack dedicated server interfaces (LEGACY)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dedicatedServer` | `string` | ❌ | ❌ | ✅ | Dedicated Server |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.dedicatedServerInterface`
+
+_vrack dedicated server interfaces_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dedicatedServerInterface` | `string` | ❌ | ❌ | ✅ | Dedicated Server Interface |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.ip`
+
+_IP block in vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gateway` | `ipBlock` | ❌ | ✅ | ✅ | Your gateway |
+| `ip` | `ipBlock` | ❌ | ❌ | ✅ | Your IP block |
+| `region` | `string` | ❌ | ✅ | ✅ | Where you want your block announced on the network |
+| `zone` | `vrack.VrackZoneEnum` | ❌ | ✅ | ✅ | /!\ DEPRECATED /!\ since 10/15/2025, deletion date 12/1/2025, IP blocks are now localized by region<br>Where you want your block announced on the network |
+
+### `vrack.iplb`
+
+_ipLoadbalancing in vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ipLoadbalancing` | `string` | ❌ | ❌ | ✅ | Your ipLoadbalancing |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.ipv6`
+
+_IP v6 block in vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ipv6` | `ipv6Block` | ❌ | ❌ | ✅ | Your IP v6 block |
+| `region` | `string` | ❌ | ✅ | ✅ | Where you want your block announced on the network |
+
+### `vrack.legacyVrack`
+
+_interface between legacy vrack (vrackXXXX) and vrack (pn-XXXX)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `legacyVrack` | `string` | ❌ | ❌ | ✅ | your legacy vrack service |
+| `vlanId` | `long` | ❌ | ❌ | ✅ | vlan to set on legacy vrack equipments |
+
+### `vrack.ovhCloudConnect`
+
+_ovhCloudConnect in vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ovhCloudConnect` | `uuid` | ❌ | ❌ | ✅ | ovhCloudConnect service name |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.pccDatacenter`
+
+_vrack datacenter interface_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datacenter` | `string` | ❌ | ❌ | ✅ | Your dedicatedCloud datacenter name |
+| `dedicatedCloud` | `string` | ❌ | ❌ | ✅ | Your dedicatedCloud name |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.publicRoutingPriority`
+
+_Public routing priority_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZones` | `vrack.PublicRoutingDefinition[]` | ❌ | ❌ | ❌ | Priority definition per availability zone |
+| `priorityId` | `uuid` | ❌ | ❌ | ✅ | Public routing priority identifier |
+| `region` | `string` | ❌ | ❌ | ✅ | Name of the region where public routing priority is defined |
+| `type` | `vrack.PublicRoutingPriorityTypeEnum` | ❌ | ❌ | ✅ | Public routing priority type |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.routedSubrange`
+
+_Routed subranges within your IP v6 block_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `nexthop` | `ipv6` | ❌ | ❌ | ✅ | nexthop used as a gateway for your routed subrange |
+| `routedSubrange` | `ipv6Block` | ❌ | ❌ | ✅ | subrange routed into your vrack |
+
+### `vrack.vmwareCloudDirectorVirtualDataCenter`
+
+_vmwareCloudDirector virtualDataCenter in vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `vmwareCloudDirectorVirtualDataCenter` | `string` | ❌ | ❌ | ✅ | vmwareCloudDirectorVirtualDataCenter service name |
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+
+### `vrack.vrack`
+
+_vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the vRack |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the vRack |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Service name of your vRack on OVHcloud |
+
+### `vrack.vrackServices`
+
+_vrackServices in vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `vrack` | `string` | ❌ | ❌ | ✅ | vrack name |
+| `vrackServices` | `string` | ❌ | ❌ | ✅ | vrackServices service name |
+
+### `vrack.vrackWithIAM`
+
+_vrack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the vRack |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the vRack |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Service name of your vRack on OVHcloud |
 
 

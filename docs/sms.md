@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **78** — Operations: **124**
+> Routes: **78** — Operations: **124**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `846d574fb64d7b2e`
 
 ---
 
@@ -95,7 +97,7 @@
 
 _Operations about the VOIP service_
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -118,7 +120,7 @@ _Operations about the VOIP service_
 
 _Get the encoding, length and number of SMS parts of a text message_
 
-### 🟡 POST `POST` — Get the encoding, length and number of SMS parts of a text message
+### 🟡 POST — Get the encoding, length and number of SMS parts of a text message
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -143,7 +145,7 @@ _Get the encoding, length and number of SMS parts of a text message_
 
 _Get informations about the given ptt code_
 
-### 🟢 GET `GET` — Get informations about the given ptt code
+### 🟢 GET — Get informations about the given ptt code
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -164,7 +166,7 @@ _Get informations about the given ptt code_
 
 _Get the prices and credits to send a SMS towards given country_
 
-### 🟢 GET `GET` — Get the prices and credits to send a SMS towards given country
+### 🟢 GET — Get the prices and credits to send a SMS towards given country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -186,7 +188,7 @@ _Get the prices and credits to send a SMS towards given country_
 
 _Get the prices and credits of all the SMS packs with informations about the destination country_
 
-### 🟢 GET `GET` — Get the prices and credits of all the SMS packs with informations about the destination country
+### 🟢 GET — Get the prices and credits of all the SMS packs with informations about the destination country
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -208,7 +210,7 @@ _Get the prices and credits of all the SMS packs with informations about the des
 
 _Operations about the VOIP service_
 
-### 🟢 GET `GET` — Your virtual numbers
+### 🟢 GET — Your virtual numbers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -231,7 +233,7 @@ _Operations about the VOIP service_
 
 _Virtual numbers_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -254,7 +256,7 @@ _Virtual numbers_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -272,7 +274,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -296,7 +298,7 @@ _Details about a Service_
 
 _SMS details_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -314,7 +316,7 @@ _SMS details_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -338,7 +340,7 @@ _SMS details_
 
 _Manage SMS batches_
 
-### 🟢 GET `GET` — Get batches list
+### 🟢 GET — Get batches list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -356,7 +358,7 @@ _Manage SMS batches_
 
 ---
 
-### 🟡 POST `POST` — Create a batch
+### 🟡 POST — Create a batch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -380,7 +382,7 @@ _Manage SMS batches_
 
 _Manage SMS batches_
 
-### 🔴 DELETE `DELETE` — Remove a batch
+### 🔴 DELETE — Remove a batch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -399,7 +401,7 @@ _Manage SMS batches_
 
 ---
 
-### 🟢 GET `GET` — Get a batch
+### 🟢 GET — Get a batch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -418,7 +420,7 @@ _Manage SMS batches_
 
 ---
 
-### 🟠 PUT `PUT` — Update a batch
+### 🟠 PUT — Update a batch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -441,7 +443,7 @@ _Manage SMS batches_
 
 ## `/sms/{serviceName}/batches/{id}/cancel`
 
-### 🟡 POST `POST` — Cancel a deferred batch (no SMS must have been sent)
+### 🟡 POST — Cancel a deferred batch (no SMS must have been sent)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -463,7 +465,7 @@ _Manage SMS batches_
 
 ## `/sms/{serviceName}/batches/{id}/statistics`
 
-### 🟢 GET `GET` — Batch's statistics
+### 🟢 GET — Batch's statistics
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -487,7 +489,7 @@ _Manage SMS batches_
 
 _List the sms.Blacklist objects_
 
-### 🟢 GET `GET` — Numbers blacklisted associated to the sms account
+### 🟢 GET — Numbers blacklisted associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -512,7 +514,7 @@ _List the sms.Blacklist objects_
 
 _SMS blacklist_
 
-### 🔴 DELETE `DELETE` — Delete the blacklisted sms number given
+### 🔴 DELETE — Delete the blacklisted sms number given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -531,7 +533,7 @@ _SMS blacklist_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -555,7 +557,7 @@ _SMS blacklist_
 
 _document operations_
 
-### 🟢 GET `GET` — Get the /me/document id generated
+### 🟢 GET — Get the /me/document id generated
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -583,7 +585,7 @@ _document operations_
 
 _exceptions operations_
 
-### 🟢 GET `GET` — Describe filter exceptions in sms sending from a specific receiver.
+### 🟢 GET — Describe filter exceptions in sms sending from a specific receiver.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -607,7 +609,7 @@ _exceptions operations_
 
 _List the sms.HlrLookupNumber objects_
 
-### 🟢 GET `GET` — Home Location Register informations. Give informations about a given cellular phone.
+### 🟢 GET — Home Location Register informations. Give informations about a given cellular phone.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -625,7 +627,7 @@ _List the sms.HlrLookupNumber objects_
 
 ---
 
-### 🟡 POST `POST` — Add one or several sending hlr lookup request
+### 🟡 POST — Add one or several sending hlr lookup request
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -650,7 +652,7 @@ _List the sms.HlrLookupNumber objects_
 
 _Home Location Register informations. Give informations about a given cellular phone._
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -674,7 +676,7 @@ _Home Location Register informations. Give informations about a given cellular p
 
 _Sms operator informations_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -698,7 +700,7 @@ _Sms operator informations_
 
 _List the sms.Incoming objects_
 
-### 🟢 GET `GET` — Sms received associated to the sms account
+### 🟢 GET — Sms received associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -725,7 +727,7 @@ _List the sms.Incoming objects_
 
 _Sms history of sms incoming received_
 
-### 🔴 DELETE `DELETE` — Delete the sms incoming history given
+### 🔴 DELETE — Delete the sms incoming history given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -744,7 +746,7 @@ _Sms history of sms incoming received_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -768,7 +770,7 @@ _Sms history of sms incoming received_
 
 _List the sms.Job objects_
 
-### 🟢 GET `GET` — Sms in pending associated to the sms account
+### 🟢 GET — Sms in pending associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -786,7 +788,7 @@ _List the sms.Job objects_
 
 ---
 
-### 🟡 POST `POST` — Add one or several sending jobs
+### 🟡 POST — Add one or several sending jobs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -823,7 +825,7 @@ _List the sms.Job objects_
 
 _Sms job_
 
-### 🔴 DELETE `DELETE` — Delete the sms job given (stop sending)
+### 🔴 DELETE — Delete the sms job given (stop sending)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -842,7 +844,7 @@ _Sms job_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -866,7 +868,7 @@ _Sms job_
 
 _Sent SMSs associated to SMS account_
 
-### 🟢 GET `GET` — Get SMS list
+### 🟢 GET — Get SMS list
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -899,7 +901,7 @@ _Sent SMSs associated to SMS account_
 
 _Sent SMSs associated to SMS account_
 
-### 🔴 DELETE `DELETE` — Delete outgoing SMS from history
+### 🔴 DELETE — Delete outgoing SMS from history
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -918,7 +920,7 @@ _Sent SMSs associated to SMS account_
 
 ---
 
-### 🟢 GET `GET` — Get SMS details
+### 🟢 GET — Get SMS details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -942,7 +944,7 @@ _Sent SMSs associated to SMS account_
 
 _Sms operator informations_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -966,7 +968,7 @@ _Sms operator informations_
 
 _List the sms.Phonebook objects_
 
-### 🟢 GET `GET` — Return phonebooks associated to this account
+### 🟢 GET — Return phonebooks associated to this account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -984,7 +986,7 @@ _List the sms.Phonebook objects_
 
 ---
 
-### 🟡 POST `POST` — Add a phonebook. Return the bookKey.
+### 🟡 POST — Add a phonebook. Return the bookKey.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1008,7 +1010,7 @@ _List the sms.Phonebook objects_
 
 _Phone book_
 
-### 🔴 DELETE `DELETE` — Delete a phonebook
+### 🔴 DELETE — Delete a phonebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1027,7 +1029,7 @@ _Phone book_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1046,7 +1048,7 @@ _Phone book_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1071,7 +1073,7 @@ _Phone book_
 
 _export operations_
 
-### 🟢 GET `GET` — Export the phonebook's contacts
+### 🟢 GET — Export the phonebook's contacts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1096,7 +1098,7 @@ _export operations_
 
 _import operations_
 
-### 🟡 POST `POST` — Import a contacts file. Supported formats are Excel (.xls and .xlsx) and CSV
+### 🟡 POST — Import a contacts file. Supported formats are Excel (.xls and .xlsx) and CSV
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1121,7 +1123,7 @@ _import operations_
 
 _List the sms.PhonebookContact objects_
 
-### 🟢 GET `GET` — Phonebook contacts
+### 🟢 GET — Phonebook contacts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1140,7 +1142,7 @@ _List the sms.PhonebookContact objects_
 
 ---
 
-### 🟡 POST `POST` — Create a phonebook contact. Return identifier of the phonebook contact.
+### 🟡 POST — Create a phonebook contact. Return identifier of the phonebook contact.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1171,7 +1173,7 @@ _List the sms.PhonebookContact objects_
 
 _Phone book contact_
 
-### 🔴 DELETE `DELETE` — Delete a phonebook contact
+### 🔴 DELETE — Delete a phonebook contact
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1191,7 +1193,7 @@ _Phone book contact_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1211,7 +1213,7 @@ _Phone book contact_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1237,7 +1239,7 @@ _Phone book contact_
 
 _List the sms.Receiver objects_
 
-### 🟢 GET `GET` — Receivers preloaded from text or csv document file
+### 🟢 GET — Receivers preloaded from text or csv document file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1255,7 +1257,7 @@ _List the sms.Receiver objects_
 
 ---
 
-### 🟡 POST `POST` — Add a new document of csv receivers
+### 🟡 POST — Add a new document of csv receivers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1283,7 +1285,7 @@ _List the sms.Receiver objects_
 
 _Sms receivers preloaded_
 
-### 🔴 DELETE `DELETE` — Delete the document from the slot
+### 🔴 DELETE — Delete the document from the slot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1302,7 +1304,7 @@ _Sms receivers preloaded_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1321,7 +1323,7 @@ _Sms receivers preloaded_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1346,7 +1348,7 @@ _Sms receivers preloaded_
 
 _clean operations_
 
-### 🟡 POST `POST` — Clean the invalid and inactive receivers in the document by requesting HLR on each receiver
+### 🟡 POST — Clean the invalid and inactive receivers in the document by requesting HLR on each receiver
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1372,7 +1374,7 @@ _clean operations_
 
 _csv operations_
 
-### 🟢 GET `GET` — Get the document data container
+### 🟢 GET — Get the document data container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1396,7 +1398,7 @@ _csv operations_
 
 _seeOffers operations_
 
-### 🟢 GET `GET` — Describe SMS offers available.
+### 🟢 GET — Describe SMS offers available.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1422,7 +1424,7 @@ _seeOffers operations_
 
 _List the sms.Sender objects_
 
-### 🟢 GET `GET` — Senders allowed associated to the sms account
+### 🟢 GET — Senders allowed associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1440,7 +1442,7 @@ _List the sms.Sender objects_
 
 ---
 
-### 🟡 POST `POST` — Create the sms sender given
+### 🟡 POST — Create the sms sender given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1466,7 +1468,7 @@ _List the sms.Sender objects_
 
 _SMS senders_
 
-### 🔴 DELETE `DELETE` — Delete the sms sender given
+### 🔴 DELETE — Delete the sms sender given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1485,7 +1487,7 @@ _SMS senders_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1504,7 +1506,7 @@ _SMS senders_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1529,7 +1531,7 @@ _SMS senders_
 
 _List the sms.SenderDocument objects_
 
-### 🟢 GET `GET` — Documents linked to SMS sender for validation purpose
+### 🟢 GET — Documents linked to SMS sender for validation purpose
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1548,7 +1550,7 @@ _List the sms.SenderDocument objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new empty document
+### 🟡 POST — Create a new empty document
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1574,7 +1576,7 @@ _List the sms.SenderDocument objects_
 
 _SMS senders' document_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1594,7 +1596,7 @@ _SMS senders' document_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1620,7 +1622,7 @@ _SMS senders' document_
 
 _validate operations_
 
-### 🟡 POST `POST` — Validate a given sender with an activation code.
+### 🟡 POST — Validate a given sender with an activation code.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1645,7 +1647,7 @@ _validate operations_
 
 _sendersAvailableForValidation operations_
 
-### 🟢 GET `GET` — The senders that are attached to your personal informations or OVH services and that can be automatically validated
+### 🟢 GET — The senders that are attached to your personal informations or OVH services and that can be automatically validated
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1669,7 +1671,7 @@ _sendersAvailableForValidation operations_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1687,7 +1689,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1711,7 +1713,7 @@ _Details about a Service_
 
 _Manage smpp allowedIPs_
 
-### 🟢 GET `GET` — Get SMPP allowed IPs
+### 🟢 GET — Get SMPP allowed IPs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1729,7 +1731,7 @@ _Manage smpp allowedIPs_
 
 ---
 
-### 🟠 PUT `PUT` — Add or remove allowed IPs
+### 🟠 PUT — Add or remove allowed IPs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1753,7 +1755,7 @@ _Manage smpp allowedIPs_
 
 _Manage SMPP password_
 
-### 🟡 POST `POST` — Renew SMPP password
+### 🟡 POST — Renew SMPP password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1776,7 +1778,7 @@ _Manage SMPP password_
 
 _Get SMPP settings_
 
-### 🟢 GET `GET` — Get SMPP settings
+### 🟢 GET — Get SMPP settings
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1799,7 +1801,7 @@ _Get SMPP settings_
 
 _List the sms.Task objects_
 
-### 🟢 GET `GET` — Operations on a SMS service
+### 🟢 GET — Operations on a SMS service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1823,7 +1825,7 @@ _List the sms.Task objects_
 
 _Operation on a SMS service_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1847,7 +1849,7 @@ _Operation on a SMS service_
 
 _List the sms.TemplateControl objects_
 
-### 🟢 GET `GET` — Template pattern filled up for moderation (Needed to send in US country)
+### 🟢 GET — Template pattern filled up for moderation (Needed to send in US country)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1865,7 +1867,7 @@ _List the sms.TemplateControl objects_
 
 ---
 
-### 🟡 POST `POST` — Create the sms template control given
+### 🟡 POST — Create the sms template control given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1893,7 +1895,7 @@ _List the sms.TemplateControl objects_
 
 _Sms template for moderation (Needed to send in US country)_
 
-### 🔴 DELETE `DELETE` — Delete the sms template control
+### 🔴 DELETE — Delete the sms template control
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1912,7 +1914,7 @@ _Sms template for moderation (Needed to send in US country)_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1931,7 +1933,7 @@ _Sms template for moderation (Needed to send in US country)_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1956,7 +1958,7 @@ _Sms template for moderation (Needed to send in US country)_
 
 _relaunchValidation operations_
 
-### 🟡 POST `POST` — Attempt a new validation after moderation refusal
+### 🟡 POST — Attempt a new validation after moderation refusal
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1982,7 +1984,7 @@ _relaunchValidation operations_
 
 _transferCredits operations_
 
-### 🟡 POST `POST` — Credit transfer between two sms accounts.
+### 🟡 POST — Credit transfer between two sms accounts.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2007,7 +2009,7 @@ _transferCredits operations_
 
 _List the sms.User objects_
 
-### 🟢 GET `GET` — Users associated to the sms account
+### 🟢 GET — Users associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2025,7 +2027,7 @@ _List the sms.User objects_
 
 ---
 
-### 🟡 POST `POST` — Create a new user for an sms account
+### 🟡 POST — Create a new user for an sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2050,7 +2052,7 @@ _List the sms.User objects_
 
 _SMS users_
 
-### 🔴 DELETE `DELETE` — Delete the sms user given
+### 🔴 DELETE — Delete the sms user given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2069,7 +2071,7 @@ _SMS users_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2088,7 +2090,7 @@ _SMS users_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2113,7 +2115,7 @@ _SMS users_
 
 _document operations_
 
-### 🟢 GET `GET` — Get the /me/document id generated
+### 🟢 GET — Get the /me/document id generated
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2141,7 +2143,7 @@ _document operations_
 
 _List the sms.Incoming objects_
 
-### 🟢 GET `GET` — Sms received associated to the sms user
+### 🟢 GET — Sms received associated to the sms user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2167,7 +2169,7 @@ _List the sms.Incoming objects_
 
 _Sms history of sms incoming received_
 
-### 🔴 DELETE `DELETE` — Delete the sms incoming history given
+### 🔴 DELETE — Delete the sms incoming history given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2187,7 +2189,7 @@ _Sms history of sms incoming received_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2212,7 +2214,7 @@ _Sms history of sms incoming received_
 
 _List the sms.Job objects_
 
-### 🟢 GET `GET` — Sms in pending associated to the sms user
+### 🟢 GET — Sms in pending associated to the sms user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2231,7 +2233,7 @@ _List the sms.Job objects_
 
 ---
 
-### 🟡 POST `POST` — Add one or several sending jobs
+### 🟡 POST — Add one or several sending jobs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2269,7 +2271,7 @@ _List the sms.Job objects_
 
 _Sms job_
 
-### 🔴 DELETE `DELETE` — Delete the sms job given (stop sending)
+### 🔴 DELETE — Delete the sms job given (stop sending)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2289,7 +2291,7 @@ _Sms job_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2314,7 +2316,7 @@ _Sms job_
 
 _List the sms.Outgoing objects_
 
-### 🟢 GET `GET` — Sms sent associated to the sms user
+### 🟢 GET — Sms sent associated to the sms user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2344,7 +2346,7 @@ _List the sms.Outgoing objects_
 
 _Sms history of sms outgoing sent_
 
-### 🔴 DELETE `DELETE` — Delete the sms outgoing history given
+### 🔴 DELETE — Delete the sms outgoing history given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2364,7 +2366,7 @@ _Sms history of sms outgoing sent_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2389,7 +2391,7 @@ _Sms history of sms outgoing sent_
 
 _Sms operator informations_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2414,7 +2416,7 @@ _Sms operator informations_
 
 _List the sms.Receiver objects_
 
-### 🟢 GET `GET` — Receivers preloaded from text or csv document file
+### 🟢 GET — Receivers preloaded from text or csv document file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2433,7 +2435,7 @@ _List the sms.Receiver objects_
 
 ---
 
-### 🟡 POST `POST` — Add a new document of csv receivers
+### 🟡 POST — Add a new document of csv receivers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2462,7 +2464,7 @@ _List the sms.Receiver objects_
 
 _Sms receivers preloaded_
 
-### 🔴 DELETE `DELETE` — Delete the document from the slot
+### 🔴 DELETE — Delete the document from the slot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2482,7 +2484,7 @@ _Sms receivers preloaded_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2502,7 +2504,7 @@ _Sms receivers preloaded_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2528,7 +2530,7 @@ _Sms receivers preloaded_
 
 _clean operations_
 
-### 🟡 POST `POST` — Clean the invalid and inactive receivers in the document by requesting HLR on each receiver
+### 🟡 POST — Clean the invalid and inactive receivers in the document by requesting HLR on each receiver
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2555,7 +2557,7 @@ _clean operations_
 
 _csv operations_
 
-### 🟢 GET `GET` — Get the document data container
+### 🟢 GET — Get the document data container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2580,7 +2582,7 @@ _csv operations_
 
 _List the sms.VirtualNumber objects_
 
-### 🟢 GET `GET` — Virtual numbers associated to the sms account
+### 🟢 GET — Virtual numbers associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2603,7 +2605,7 @@ _List the sms.VirtualNumber objects_
 
 _Virtual numbers_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2627,7 +2629,7 @@ _Virtual numbers_
 
 _The web access for your virtual number chat application_
 
-### 🔴 DELETE `DELETE` — Delete the given web access
+### 🔴 DELETE — Delete the given web access
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2646,7 +2648,7 @@ _The web access for your virtual number chat application_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2665,7 +2667,7 @@ _The web access for your virtual number chat application_
 
 ---
 
-### 🟡 POST `POST` — Create a new web access for this ressource
+### 🟡 POST — Create a new web access for this ressource
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2689,7 +2691,7 @@ _The web access for your virtual number chat application_
 
 _List the sms.Incoming objects_
 
-### 🟢 GET `GET` — Sms received associated to the sms account
+### 🟢 GET — Sms received associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2717,7 +2719,7 @@ _List the sms.Incoming objects_
 
 _Sms history of sms incoming received_
 
-### 🔴 DELETE `DELETE` — Delete the sms incoming history given
+### 🔴 DELETE — Delete the sms incoming history given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2737,7 +2739,7 @@ _Sms history of sms incoming received_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2762,7 +2764,7 @@ _Sms history of sms incoming received_
 
 _List the sms.VirtualNumberJob objects_
 
-### 🟢 GET `GET` — Sms in pending associated to the sms account
+### 🟢 GET — Sms in pending associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2781,7 +2783,7 @@ _List the sms.VirtualNumberJob objects_
 
 ---
 
-### 🟡 POST `POST` — Add one or several sending jobs
+### 🟡 POST — Add one or several sending jobs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2816,7 +2818,7 @@ _List the sms.VirtualNumberJob objects_
 
 _Sms job_
 
-### 🔴 DELETE `DELETE` — Delete the sms job given (stop sending)
+### 🔴 DELETE — Delete the sms job given (stop sending)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2836,7 +2838,7 @@ _Sms job_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2861,7 +2863,7 @@ _Sms job_
 
 _List the sms.Outgoing objects_
 
-### 🟢 GET `GET` — Sms sent associated to the sms account
+### 🟢 GET — Sms sent associated to the sms account
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2893,7 +2895,7 @@ _List the sms.Outgoing objects_
 
 _Sms history of sms outgoing sent_
 
-### 🔴 DELETE `DELETE` — Delete the sms outgoing history given
+### 🔴 DELETE — Delete the sms outgoing history given
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2913,7 +2915,7 @@ _Sms history of sms outgoing sent_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2938,7 +2940,7 @@ _Sms history of sms outgoing sent_
 
 _Sms operator informations_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2955,5 +2957,1455 @@ _Sms operator informations_
 
 **IAM actions:** `sms:apiovh:virtualNumbers/outgoing/hlr/get` (required)
 
+
+---
+
+## Models
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `order.CurrencyCodeEnum`
+
+**Enum** (`enumType: string`):
+
+- `AUD`
+- `CAD`
+- `CZK`
+- `EUR`
+- `GBP`
+- `INR`
+- `LTL`
+- `MAD`
+- `N/A`
+- `PLN`
+- `SGD`
+- `TND`
+- `USD`
+- `XOF`
+- `points`
+
+### `order.Price`
+
+_Price with it's currency and textual representation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currencyCode` | `order.CurrencyCodeEnum` | ❌ | ❌ | ❌ |  |
+| `text` | `string` | ❌ | ❌ | ❌ |  |
+| `value` | `double` | ❌ | ❌ | ❌ |  |
+
+### `reference.CountryEnum`
+
+_All country prices accessible from a reference_
+
+**Enum** (`enumType: string`):
+
+- `all`
+- `ca`
+- `cz`
+- `de`
+- `en`
+- `es`
+- `fi`
+- `fr`
+- `gb`
+- `ie`
+- `it`
+- `lt`
+- `ma`
+- `nl`
+- `pl`
+- `pp`
+- `pt`
+- `qc`
+- `ru`
+- `sk`
+- `sn`
+- `tn`
+- `we`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `sms.Account`
+
+_SMS details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automaticRecreditAmount` | `sms.PackQuantityAutomaticRecreditEnum` | ❌ | ✅ | ❌ |  |
+| `callBack` | `string` | ❌ | ✅ | ❌ | URL called when state of a sent SMS changes |
+| `channel` | `sms.ChannelEnum` | ❌ | ❌ | ✅ | For what purpose this account can be used for |
+| `creditThresholdForAutomaticRecredit` | `double` | ❌ | ❌ | ❌ | Credit threshold after which an automatic recredit is launched |
+| `creditsHoldByQuota` | `double` | ❌ | ❌ | ✅ |  |
+| `creditsLeft` | `double` | ❌ | ❌ | ✅ |  |
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `smpp` | `boolean` | ❌ | ❌ | ✅ | Whether the account can be used for smpp or not |
+| `smsResponse` | `sms.Response` | ❌ | ❌ | ❌ |  |
+| `status` | `sms.StatusAccountEnum` | ❌ | ❌ | ✅ |  |
+| `stopCallBack` | `string` | ❌ | ✅ | ❌ | URL called when a STOP is received after a receiver replied stop to a SMS |
+| `templates` | `sms.Templates` | ❌ | ❌ | ❌ |  |
+| `userQuantityWithQuota` | `long` | ❌ | ❌ | ✅ |  |
+
+### `sms.AccountWithIAM`
+
+_SMS details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automaticRecreditAmount` | `sms.PackQuantityAutomaticRecreditEnum` | ❌ | ✅ | ❌ |  |
+| `callBack` | `string` | ❌ | ✅ | ❌ | URL called when state of a sent SMS changes |
+| `channel` | `sms.ChannelEnum` | ❌ | ❌ | ✅ | For what purpose this account can be used for |
+| `creditThresholdForAutomaticRecredit` | `double` | ❌ | ❌ | ❌ | Credit threshold after which an automatic recredit is launched |
+| `creditsHoldByQuota` | `double` | ❌ | ❌ | ✅ |  |
+| `creditsLeft` | `double` | ❌ | ❌ | ✅ |  |
+| `description` | `string` | ❌ | ❌ | ❌ |  |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+| `smpp` | `boolean` | ❌ | ❌ | ✅ | Whether the account can be used for smpp or not |
+| `smsResponse` | `sms.Response` | ❌ | ❌ | ❌ |  |
+| `status` | `sms.StatusAccountEnum` | ❌ | ❌ | ✅ |  |
+| `stopCallBack` | `string` | ❌ | ✅ | ❌ | URL called when a STOP is received after a receiver replied stop to a SMS |
+| `templates` | `sms.Templates` | ❌ | ❌ | ❌ |  |
+| `userQuantityWithQuota` | `long` | ❌ | ❌ | ✅ |  |
+
+### `sms.AlertThreshold`
+
+_A structure describing all information about alert threshold informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alertEmail` | `string` | ❌ | ❌ | ❌ |  |
+| `alertNumber` | `string` | ❌ | ❌ | ❌ |  |
+| `alertThreshold` | `long` | ❌ | ❌ | ❌ |  |
+| `support` | `sms.SupportEnum` | ❌ | ❌ | ❌ |  |
+
+### `sms.AllowedIPs`
+
+_Smpp allowed IPs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `sms.AllowedIPsActionEnum` | ✅ | ❌ | ❌ | Action to perform on the provided IPs |
+| `ips` | `ip[]` | ✅ | ❌ | ❌ | List of IPs to add or remove |
+
+### `sms.AllowedIPsActionEnum`
+
+_Smpp allowed IPs action_
+
+**Enum** (`enumType: string`):
+
+- `add`
+- `remove`
+
+### `sms.Batch`
+
+_Batch of SMS to send_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountID` | `long` | ❌ | ❌ | ✅ | SMS account ID |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation datetime |
+| `errors` | `sms.BatchError[]` | ❌ | ❌ | ✅ | Details on error(s) on the batch, if any |
+| `estimatedCredits` | `double` | ❌ | ❌ | ✅ | The estimated cost of the batch in credits |
+| `finishedAt` | `datetime` | ❌ | ✅ | ✅ | Datetime when the batch finished processing SMSs |
+| `from` | `string` | ❌ | ✅ | ✅ | SMS sender |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Batch ID |
+| `message` | `text` | ❌ | ❌ | ✅ | SMS message |
+| `name` | `text` | ❌ | ❌ | ✅ | Batch name |
+| `processedRecords` | `long` | ❌ | ❌ | ✅ | Number of processed records in this batch |
+| `receivers` | `phoneNumber[]` | ❌ | ✅ | ✅ | SMS receivers list |
+| `sentAt` | `datetime` | ❌ | ✅ | ✅ | Datetime when the SMSs of the batch are sent (based on deferred time if exists) |
+| `slotID` | `string` | ❌ | ✅ | ✅ | Slot ID |
+| `startedAt` | `datetime` | ❌ | ✅ | ✅ | Datetime when the batch started processing SMSs |
+| `status` | `sms.BatchStatusEnum` | ❌ | ❌ | ✅ | Batch status |
+| `totalRecords` | `long` | ❌ | ❌ | ✅ | Total number of records in this batch |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update datetime |
+
+### `sms.BatchClassEnum`
+
+_SMS classes_
+
+**Enum** (`enumType: string`):
+
+- `FLASH`
+- `PHONE`
+- `SIM`
+
+### `sms.BatchError`
+
+_Batch error details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `message` | `string` | ❌ | ❌ | ✅ | Error message |
+| `receiver` | `string` | ❌ | ❌ | ✅ | Receiver that triggered the error |
+
+### `sms.BatchParams`
+
+_Params to create a batch_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `class` | `sms.BatchClassEnum` | ❌ | ❌ | ❌ | Deprecated: SMS class |
+| `deferred` | `datetime` | ❌ | ❌ | ❌ | SMS deferred sending date |
+| `from` | `string` | ❌ | ❌ | ❌ | SMS sender. Either "from" or "senderForResponse" must be passed |
+| `message` | `text` | ✅ | ❌ | ❌ | SMS message |
+| `name` | `text` | ❌ | ❌ | ❌ | Batch name |
+| `noStop` | `boolean` | ❌ | ❌ | ❌ | STOP clause not needed |
+| `senderForResponse` | `boolean` | ❌ | ❌ | ❌ | Ask to compute a sender that allows response. Either "from" or "senderForResponse" must be passed |
+| `slotID` | `string` | ❌ | ❌ | ❌ | SMS receivers slot ID. Either "to" or "slotID" must be passed |
+| `tag` | `string` | ❌ | ❌ | ❌ | SMS tag |
+| `to` | `phoneNumber[]` | ❌ | ❌ | ❌ | SMS receivers list. Either "to" or "slotID" must be passed |
+
+### `sms.BatchStatistics`
+
+_Batch's statistics_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `credits` | `double` | ❌ | ❌ | ✅ | The cost of the batch in credits, computed during batch processing |
+| `delivered` | `long` | ❌ | ❌ | ✅ | Number of SMS that are delivered |
+| `estimatedCredits` | `double` | ❌ | ❌ | ✅ | The estimated cost of the batch in credits, computed before batch processing |
+| `failed` | `long` | ❌ | ❌ | ✅ | Number of SMS in error |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Batch ID |
+| `pending` | `long` | ❌ | ❌ | ✅ | Number of SMS that are in pending status |
+| `sent` | `long` | ❌ | ❌ | ✅ | Number of SMS that are sent to the broker |
+| `stoplisted` | `long` | ❌ | ❌ | ✅ | Number of SMS that received a STOP by the receiver |
+
+### `sms.BatchStatusEnum`
+
+_Batch statuses_
+
+**Enum** (`enumType: string`):
+
+- `CANCELED`
+- `CANCELING`
+- `COMPLETED`
+- `FAILED`
+- `INSERTED`
+- `INSERTING`
+- `PENDING`
+- `TO_CANCEL`
+
+### `sms.BatchUpdateParams`
+
+_Params to update a batch_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `text` | ✅ | ❌ | ❌ | Batch name |
+
+### `sms.BillingCountryEnum`
+
+_Countries where we sell SMS credits_
+
+**Enum** (`enumType: string`):
+
+- `es`
+- `fr`
+- `gb`
+- `ie`
+- `it`
+- `pl`
+
+### `sms.Blacklist`
+
+_SMS blacklist_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `batchID` | `uuid` | ❌ | ✅ | ✅ | ID of the batch responsible of the blacklist |
+| `dateCreation` | `datetime` | ❌ | ❌ | ✅ |  |
+| `number` | `string` | ❌ | ❌ | ✅ | The sms number blacklisted |
+| `smsOutgoingID` | `long` | ❌ | ✅ | ✅ | ID of the outgoing SMS responsible of the blacklist |
+
+### `sms.ChannelEnum`
+
+_In case of smpp the channel can not be "both"_
+
+**Enum** (`enumType: string`):
+
+- `both`
+- `marketing`
+- `transactional`
+
+### `sms.CharsetEnum`
+
+_The charset format_
+
+**Enum** (`enumType: string`):
+
+- `UTF-8`
+
+### `sms.ChatAccess`
+
+_The web access for your virtual number chat application_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | The creation date of this access |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `url` | `string` | ❌ | ❌ | ✅ | The url of the web access |
+
+### `sms.ClassEnum`
+
+_Deprecated: The sms class of sms sending job_
+
+**Enum** (`enumType: string`):
+
+- `flash`
+- `phoneDisplay`
+- `sim`
+- `toolkit`
+
+### `sms.CodingEnum`
+
+_The sms coding_
+
+**Enum** (`enumType: string`):
+
+- `7bit`
+- `8bit`
+
+### `sms.CountryEnum`
+
+_All country suffixes accessible for sms services and "all" available_
+
+**Enum** (`enumType: string`):
+
+- `ad`
+- `ae`
+- `af`
+- `ag`
+- `ai`
+- `al`
+- `all`
+- `am`
+- `an`
+- `ao`
+- `ar`
+- `at`
+- `au`
+- `aw`
+- `az`
+- `ba`
+- `bb`
+- `bd`
+- `be`
+- `bf`
+- `bg`
+- `bh`
+- `bi`
+- `bj`
+- `bm`
+- `bn`
+- `bo`
+- `br`
+- `bs`
+- `bt`
+- `bw`
+- `by`
+- `bz`
+- `ca`
+- `cd`
+- `cf`
+- `cg`
+- `ch`
+- `ci`
+- `ck`
+- `cl`
+- `cm`
+- `cn`
+- `co`
+- `cr`
+- `cu`
+- `cv`
+- `cy`
+- `cz`
+- `de`
+- `dk`
+- `dm`
+- `dz`
+- `ec`
+- `ee`
+- `eg`
+- `es`
+- `et`
+- `fi`
+- `fj`
+- `fk`
+- `fo`
+- `fr`
+- `ga`
+- `gb`
+- `gd`
+- `ge`
+- `gf`
+- `gh`
+- `gi`
+- `gl`
+- `gm`
+- `gn`
+- `gp`
+- `gq`
+- `gr`
+- `gt`
+- `gu`
+- `gw`
+- `gy`
+- `hk`
+- `hn`
+- `hr`
+- `ht`
+- `hu`
+- `id`
+- `ie`
+- `il`
+- `in`
+- `io`
+- `iq`
+- `ir`
+- `is`
+- `it`
+- `jm`
+- `jo`
+- `jp`
+- `ke`
+- `kg`
+- `kh`
+- `km`
+- `kn`
+- `kr`
+- `kw`
+- `ky`
+- `kz`
+- `la`
+- `lb`
+- `lc`
+- `li`
+- `lk`
+- `lr`
+- `ls`
+- `lt`
+- `lu`
+- `lv`
+- `ly`
+- `ma`
+- `md`
+- `me`
+- `mg`
+- `mk`
+- `ml`
+- `mn`
+- `mo`
+- `mq`
+- `mr`
+- `ms`
+- `mt`
+- `mu`
+- `mv`
+- `mw`
+- `mx`
+- `my`
+- `mz`
+- `na`
+- `nc`
+- `ne`
+- `ng`
+- `ni`
+- `nl`
+- `no`
+- `np`
+- `nz`
+- `om`
+- `pa`
+- `pe`
+- `pf`
+- `pg`
+- `ph`
+- `pk`
+- `pl`
+- `ps`
+- `pt`
+- `py`
+- `qa`
+- `re`
+- `ro`
+- `rs`
+- `ru`
+- `rw`
+- `sa`
+- `sb`
+- `sc`
+- `sd`
+- `se`
+- `sg`
+- `si`
+- `sk`
+- `sl`
+- `sm`
+- `sn`
+- `so`
+- `sr`
+- `st`
+- `sv`
+- `sy`
+- `sz`
+- `tc`
+- `td`
+- `tg`
+- `th`
+- `tj`
+- `tl`
+- `tm`
+- `tn`
+- `to`
+- `tr`
+- `tt`
+- `tw`
+- `tz`
+- `ua`
+- `ug`
+- `us`
+- `uy`
+- `uz`
+- `vc`
+- `ve`
+- `vg`
+- `vi`
+- `vn`
+- `vu`
+- `ws`
+- `ye`
+- `yt`
+- `za`
+- `zm`
+- `zw`
+
+### `sms.DestinationRates`
+
+_Rates of a given destination_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `country` | `string` | ❌ | ❌ | ❌ | The country full name |
+| `countryCode` | `sms.CountryEnum` | ❌ | ❌ | ❌ | The country 2-letters code |
+| `credit` | `double` | ❌ | ❌ | ❌ | Credits consumed by sending one SMS towards the given destination |
+| `price` | `order.Price` | ❌ | ❌ | ❌ | Price of one SMS sent towards the given destination |
+| `vatRate` | `double` | ❌ | ❌ | ❌ | The VAT rate applied from the provided billing country. |
+
+### `sms.DocumentWayTypeEnum`
+
+_Way type_
+
+**Enum** (`enumType: string`):
+
+- `incoming`
+- `outgoing`
+
+### `sms.EncodingEnum`
+
+_The SMS available characters class_
+
+**Enum** (`enumType: string`):
+
+- `7bits`
+- `unicode`
+
+### `sms.Exception`
+
+_Sms reach list_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countrySuffixe` | `string` | ❌ | ❌ | ✅ | The abreviated country code. |
+| `messages` | `string[]` | ❌ | ❌ | ✅ | The exception message |
+| `operators` | `string` | ❌ | ❌ | ✅ | The list of operators impacted. |
+| `restrictionCode` | `sms.RestrictionCodeEnum` | ❌ | ❌ | ✅ | The type of routing restriction imposed by the operator |
+| `substitution` | `string` | ❌ | ✅ | ✅ | The substitution sender used to bypass operator filter |
+
+### `sms.Hlr`
+
+_Sms operator informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `country` | `string` | ❌ | ❌ | ✅ | The country |
+| `countryCode` | `string` | ❌ | ❌ | ✅ | The countryCode prefix number |
+| `network` | `string` | ❌ | ❌ | ✅ | The network name |
+| `operator` | `string` | ❌ | ❌ | ✅ | The operator name |
+| `region` | `string` | ❌ | ❌ | ✅ | The region |
+
+### `sms.HlrLookupNumber`
+
+_Home Location Register informations. Give informations about a given cellular phone._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `datetime` | `datetime` | ❌ | ❌ | ✅ | HLR creation datetime |
+| `id` | `long` | ❌ | ❌ | ✅ | HLR id |
+| `msisdn` | `string` | ❌ | ❌ | ✅ | MSISDN |
+| `operatorCode` | `string` | ❌ | ❌ | ✅ | The {Mobile Country Code, Mobile Network Code} unique identifier |
+| `ported` | `boolean` | ❌ | ❌ | ✅ | Has the MSISDN been ported from its original network |
+| `reachable` | `boolean` | ❌ | ❌ | ✅ | Is the MSISDN currently reachable |
+| `roaming` | `boolean` | ❌ | ❌ | ✅ | Is the MSISDN currently roaming outside its natinal network |
+| `status` | `sms.HlrStatuses` | ❌ | ❌ | ✅ | Status of the HLR request |
+| `valid` | `boolean` | ❌ | ❌ | ✅ | Is the MSISDN valid |
+
+### `sms.HlrStatuses`
+
+_The sms coding_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `sms.Incoming`
+
+_Sms history of sms incoming received_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+| `credits` | `double` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `message` | `string` | ❌ | ❌ | ✅ |  |
+| `sender` | `string` | ❌ | ❌ | ✅ |  |
+| `tag` | `string` | ❌ | ❌ | ✅ |  |
+
+### `sms.Job`
+
+_Sms job_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+| `credits` | `double` | ❌ | ❌ | ✅ |  |
+| `deliveredAt` | `datetime` | ❌ | ✅ | ✅ |  |
+| `deliveryReceipt` | `long` | ❌ | ❌ | ✅ |  |
+| `differedDelivery` | `long` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `message` | `string` | ❌ | ❌ | ✅ |  |
+| `messageLength` | `long` | ❌ | ❌ | ✅ |  |
+| `numberOfSms` | `long` | ❌ | ❌ | ✅ |  |
+| `ptt` | `long` | ❌ | ❌ | ✅ |  |
+| `receiver` | `string` | ❌ | ❌ | ✅ |  |
+| `sender` | `string` | ❌ | ❌ | ✅ |  |
+| `sentAt` | `datetime` | ❌ | ✅ | ✅ |  |
+
+### `sms.JobEstimate`
+
+_A structure describing the encoding, length and number of SMS parts of a text message_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `characters` | `long` | ❌ | ❌ | ❌ | The number of characters the message contains, including invisible escaped characters |
+| `charactersClass` | `sms.EncodingEnum` | ❌ | ❌ | ❌ | The characters class that will be used to send the SMS, depending on characters in message |
+| `maxCharactersPerPart` | `long` | ❌ | ❌ | ❌ | The number of characters every SMS part can contain, depending on characters class and quantity of parts |
+| `parts` | `long` | ❌ | ❌ | ❌ | The quantity of SMS parts the message will be split in |
+
+### `sms.Outgoing`
+
+_Sent SMS_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `batchID` | `uuid` | ❌ | ✅ | ✅ | ID of batch linked to the SMS |
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ | Creation datetime |
+| `credits` | `double` | ❌ | ❌ | ✅ | Spent credits |
+| `deliveredAt` | `datetime` | ❌ | ✅ | ✅ | Delivering datetime |
+| `deliveryReceipt` | `long` | ❌ | ❌ | ✅ | Delivery receipt from operator |
+| `differedDelivery` | `long` | ❌ | ❌ | ✅ | Delay before SMS sending |
+| `id` | `long` | ❌ | ❌ | ✅ | Identifier |
+| `message` | `string` | ❌ | ❌ | ✅ | SMS message |
+| `messageID` | `uuid` | ❌ | ✅ | ✅ | SMPP messageID |
+| `messageLength` | `long` | ❌ | ❌ | ✅ | SMS message length |
+| `numberOfSms` | `long` | ❌ | ❌ | ✅ | SMS message's number of parts |
+| `ptt` | `long` | ❌ | ❌ | ✅ | Code representing SMS state |
+| `receiver` | `string` | ❌ | ❌ | ✅ | SMS receiver |
+| `sender` | `string` | ❌ | ❌ | ✅ | SMS sender |
+| `sentAt` | `datetime` | ❌ | ✅ | ✅ | Sending datetime |
+| `tag` | `string` | ❌ | ❌ | ✅ | Customer label to categorize SMSs |
+| `tariffCode` | `string` | ❌ | ❌ | ✅ | Tariff code applied on the sms |
+
+### `sms.PackDetails`
+
+_Details about a SMS pack_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countryCode` | `sms.CountryEnum` | ❌ | ❌ | ❌ | Destination country code |
+| `credit` | `double` | ❌ | ❌ | ❌ | Credits consumed by sending one SMS towards the given destination |
+| `creditPrice` | `order.Price` | ❌ | ❌ | ❌ | Price of one credit, including pack's promotion |
+| `creditQuantityMax` | `long` | ❌ | ✅ | ❌ | Maximum quantity (excluded) of credit to order to have this price |
+| `creditQuantityMin` | `long` | ❌ | ❌ | ❌ | Minimum quantity (included) of credit to order to have this price |
+| `discountCreditPrice` | `order.Price` | ❌ | ✅ | ❌ | Price of one credit, during a promotional event |
+| `discountPercentage` | `long` | ❌ | ✅ | ❌ | Percentage applied as part of a promotional event |
+| `discountSmsPrice` | `order.Price` | ❌ | ✅ | ❌ | Price of one SMS, during a promotional event |
+| `smsPrice` | `order.Price` | ❌ | ❌ | ❌ | Price of one SMS sent towards the given destination, including pack's promotion |
+| `smsQuantityMax` | `long` | ❌ | ✅ | ❌ | Maximum quantity (excluded) of SMS you can obtain with this pack |
+| `smsQuantityMin` | `long` | ❌ | ❌ | ❌ | Minimum quantity (included) of SMS you can obtain with this pack |
+| `vatRate` | `double` | ❌ | ❌ | ❌ | The VAT rate applied from the provided billing country. |
+
+### `sms.PackOffer`
+
+_A structure describing all information about an sms pack offer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countryDestination` | `string` | ❌ | ❌ | ❌ |  |
+| `giftPrice` | `double` | ❌ | ✅ | ❌ |  |
+| `giftQuantity` | `double` | ❌ | ✅ | ❌ |  |
+| `language` | `string` | ❌ | ❌ | ❌ |  |
+| `price` | `double` | ❌ | ❌ | ❌ |  |
+| `quantity` | `long` | ❌ | ❌ | ❌ |  |
+| `smsQuantity` | `double` | ❌ | ❌ | ❌ |  |
+| `totalPrice` | `double` | ❌ | ✅ | ❌ |  |
+
+### `sms.PackQuantityAutomaticRecreditEnum`
+
+_Pack quantity automatic recredit possibilities_
+
+**Enum** (`enumType: long`):
+
+- `100`
+- `200`
+- `250`
+- `500`
+- `1000`
+- `5000`
+- `10000`
+
+### `sms.PackQuantityEnum`
+
+_Pack quantity levels_
+
+**Enum** (`enumType: long`):
+
+- `100`
+- `200`
+- `250`
+- `500`
+- `1000`
+- `2500`
+- `5000`
+- `10000`
+- `25000`
+- `50000`
+- `100000`
+- `1000000`
+
+### `sms.Phonebook`
+
+_Phone book_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bookKey` | `string` | ❌ | ❌ | ✅ | Identifier of the phonebook |
+| `name` | `string` | ❌ | ❌ | ❌ | Phonebook name |
+| `phoneKey` | `string` | ❌ | ❌ | ✅ | Phone key identifier between the phone and phonebooks |
+
+### `sms.PhonebookContact`
+
+_Phone book contact_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `group` | `string` | ❌ | ❌ | ❌ | Group name of the phonebook |
+| `homeMobile` | `internationalPhoneNumber` | ❌ | ✅ | ❌ | Home mobile phone number of the contact |
+| `homePhone` | `internationalPhoneNumber` | ❌ | ✅ | ❌ | Home landline phone number of the contact |
+| `id` | `long` | ❌ | ❌ | ✅ | Contact identifier |
+| `name` | `string` | ❌ | ❌ | ❌ | Contact name |
+| `surname` | `string` | ❌ | ❌ | ❌ | Contact surname |
+| `workMobile` | `internationalPhoneNumber` | ❌ | ✅ | ❌ | Mobile phone office number of the contact |
+| `workPhone` | `internationalPhoneNumber` | ❌ | ✅ | ❌ | Landline phone office number of the contact |
+
+### `sms.PriorityEnum`
+
+_The priority of an sms sending_
+
+**Enum** (`enumType: string`):
+
+- `high`
+- `low`
+- `medium`
+- `veryLow`
+
+### `sms.PttDetails`
+
+_A structure describing ptt details_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `comment` | `string` | ❌ | ❌ | ❌ | Ptt informations |
+| `description` | `string` | ❌ | ❌ | ❌ | Ptt short description |
+| `duration` | `sms.PttDurationTypeEnum` | ❌ | ❌ | ❌ | Ptt volatility type |
+
+### `sms.PttDurationTypeEnum`
+
+_All typology of ptt duration_
+
+**Enum** (`enumType: string`):
+
+- `indeterminated`
+- `permanent`
+- `temporary`
+
+### `sms.Quota`
+
+_A structure describing all information about quota informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quotaLeft` | `double` | ❌ | ❌ | ❌ |  |
+| `quotaStatus` | `sms.QuotaStatusUserEnum` | ❌ | ❌ | ❌ |  |
+
+### `sms.QuotaStatusUserEnum`
+
+_Current quota status_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `inactive`
+
+### `sms.Receiver`
+
+_Sms receivers preloaded_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `autoUpdate` | `boolean` | ❌ | ❌ | ❌ | Download file from URL before sending to contacts (works only with csvUrl and not document ID) |
+| `canAutoUpdate` | `boolean` | ❌ | ❌ | ✅ | Is the object compatible with autoUpdate |
+| `datetime` | `datetime` | ❌ | ❌ | ✅ | Creation date of the document |
+| `description` | `string` | ❌ | ❌ | ❌ | Description name of the document |
+| `records` | `long` | ❌ | ❌ | ✅ | Number of receiver records in the document |
+| `slotId` | `long` | ❌ | ❌ | ✅ | Slot number id |
+
+### `sms.ReceiversAsynchronousCleanReport`
+
+_A structure giving operation price and asynchronous task ID_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `taskId` | `long` | ❌ | ❌ | ❌ |  |
+| `totalCreditsRemoved` | `double` | ❌ | ❌ | ❌ |  |
+
+### `sms.RefererSenderEnum`
+
+_All tyoplogy of senders_
+
+**Enum** (`enumType: string`):
+
+- `custom`
+- `domain`
+- `line`
+- `nic`
+- `owner`
+- `virtual`
+
+### `sms.Response`
+
+_A structure describing how to manage an sms Response_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cgiUrl` | `string` | ❌ | ✅ | ❌ | Default url callback used for a given response. |
+| `responseType` | `sms.ResponseTypeEnum` | ❌ | ❌ | ❌ |  |
+| `text` | `string` | ❌ | ✅ | ❌ | Automatic notification sent by text in case of customer reply. |
+| `trackingDefaultSmsSender` | `string` | ❌ | ✅ | ❌ |  |
+| `trackingOptions` | `sms.ResponseTrackingOptions[]` | ❌ | ✅ | ❌ |  |
+
+### `sms.ResponseTrackingMediaEnum`
+
+_The tracking media response_
+
+**Enum** (`enumType: string`):
+
+- `email`
+- `sms`
+- `voice`
+
+### `sms.ResponseTrackingOptions`
+
+_The tracking media response_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `media` | `sms.ResponseTrackingMediaEnum` | ❌ | ❌ | ❌ |  |
+| `sender` | `string` | ❌ | ❌ | ❌ |  |
+| `target` | `string` | ❌ | ❌ | ❌ |  |
+
+### `sms.ResponseTypeEnum`
+
+_Response type_
+
+**Enum** (`enumType: string`):
+
+- `cgi`
+- `none`
+- `text`
+
+### `sms.RestrictionCodeEnum`
+
+_Restriction type used by the operator to filter sms._
+
+**Enum** (`enumType: string`):
+
+- `ALPHA`
+- `BAD_DLR`
+- `BLOCKED`
+- `CODING`
+- `DLR`
+- `FLASHONLY`
+- `MSISDN`
+
+### `sms.Sender`
+
+_SMS senders_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `comment` | `string` | ❌ | ✅ | ✅ | Message sent by the moderator |
+| `description` | `string` | ❌ | ❌ | ❌ | Sender description |
+| `referer` | `sms.RefererSenderEnum` | ❌ | ❌ | ✅ | Specify if the sender is custom or not |
+| `sender` | `string` | ❌ | ❌ | ✅ | The sms sender |
+| `status` | `sms.StatusSenderEnum` | ❌ | ❌ | ❌ | Sender status |
+| `type` | `sms.TypeSenderEnum` | ❌ | ✅ | ✅ | Specify the kind of sender |
+| `validationMedia` | `string` | ❌ | ✅ | ✅ | Validation media identifier |
+
+### `sms.SenderAvailable`
+
+_A structure describing all information about senders available_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `referer` | `sms.SenderRefererEnum` | ❌ | ❌ | ❌ |  |
+| `sender` | `string` | ❌ | ❌ | ❌ |  |
+
+### `sms.SenderDocument`
+
+_SMS senders' document_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation datetime |
+| `description` | `string` | ❌ | ✅ | ❌ | Document description |
+| `documentID` | `uuid` | ❌ | ❌ | ✅ | Document ID |
+| `getUrl` | `string` | ❌ | ❌ | ✅ | URL to get document |
+| `name` | `string` | ❌ | ❌ | ❌ | Document name |
+| `putUrl` | `string` | ❌ | ✅ | ✅ | URL to upload document |
+| `size` | `long` | ❌ | ❌ | ✅ | Document size (in bytes) |
+
+### `sms.SenderRefererEnum`
+
+_The referer of the available sender_
+
+**Enum** (`enumType: string`):
+
+- `domain`
+- `nichandle`
+
+### `sms.Settings`
+
+_SMPP settings_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpoints` | `sms.SettingsEndpoints[]` | ❌ | ❌ | ✅ | Addresses of the TLS and non-TLS endpoints |
+| `status` | `sms.SettingsStatusEnum` | ❌ | ❌ | ✅ | Status of the SMPP account |
+| `systemID` | `string` | ❌ | ❌ | ✅ | Username used to connect to OVHcloud SMSC |
+| `throughput` | `long` | ❌ | ❌ | ✅ | Number of messages allowed per seconds |
+| `windowing` | `long` | ❌ | ❌ | ✅ | Number of messages treated simultaneously |
+
+### `sms.SettingsEndpoints`
+
+_SMPP Settings Endpoints_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `secured` | `string` | ❌ | ❌ | ✅ | address of the TLS endpoint: domain:port |
+| `unsecured` | `string` | ❌ | ❌ | ✅ | address of the non-TLS endpoint: domain:port |
+
+### `sms.SettingsStatusEnum`
+
+_Smpp Settings Statuses_
+
+**Enum** (`enumType: string`):
+
+- `DELETED`
+- `ERROR`
+- `SUCCESS`
+- `UNKNOWN`
+- `UPDATING_IP`
+- `WAITING_IP`
+
+### `sms.SmsSendingReport`
+
+_A structure describing all information about quota information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ids` | `long[]` | ❌ | ❌ | ❌ |  |
+| `invalidReceivers` | `string[]` | ❌ | ❌ | ❌ |  |
+| `tag` | `string` | ❌ | ❌ | ❌ |  |
+| `totalCreditsRemoved` | `double` | ❌ | ❌ | ❌ |  |
+| `validReceivers` | `string[]` | ❌ | ❌ | ❌ |  |
+
+### `sms.SmsSendingReportUser`
+
+_A structure describing all information about quota information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creditsLeft` | `double` | ❌ | ❌ | ❌ |  |
+| `ids` | `long[]` | ❌ | ❌ | ❌ |  |
+| `invalidReceivers` | `string[]` | ❌ | ❌ | ❌ |  |
+| `tag` | `string` | ❌ | ❌ | ❌ |  |
+| `totalCreditsRemoved` | `double` | ❌ | ❌ | ❌ |  |
+| `validReceivers` | `string[]` | ❌ | ❌ | ❌ |  |
+
+### `sms.StatusAccountEnum`
+
+_Account status_
+
+**Enum** (`enumType: string`):
+
+- `disable`
+- `enable`
+
+### `sms.StatusSenderEnum`
+
+_All existing status for a given referer_
+
+**Enum** (`enumType: string`):
+
+- `disable`
+- `enable`
+- `refused`
+- `waitingValidation`
+
+### `sms.SupportEnum`
+
+_The media support used to be contacted in case of alert_
+
+**Enum** (`enumType: string`):
+
+- `both`
+- `mail`
+- `sms`
+
+### `sms.Task`
+
+_Operation on a SMS service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `function` | `sms.TodoGeneralPublicFunctionsEnum` | ❌ | ❌ | ✅ |  |
+| `status` | `telephony.TaskStatusEnum` | ❌ | ❌ | ✅ |  |
+| `step` | `sms.TodoGeneralPublicStepsEnum` | ❌ | ❌ | ✅ |  |
+| `taskId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `sms.TemplateControl`
+
+_Sms template for moderation (Needed to send in US country)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activity` | `sms.TypeTemplateEnum` | ❌ | ❌ | ❌ | Specify the kind of template |
+| `comment` | `string` | ❌ | ❌ | ✅ | Message sent by the moderator |
+| `datetime` | `datetime` | ❌ | ❌ | ✅ | Template creation datetime |
+| `description` | `string` | ❌ | ❌ | ❌ | Template description |
+| `message` | `string` | ❌ | ❌ | ❌ | Message pattern to be moderated. Use "#VALUE#" format for dynamic text area. |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the template |
+| `status` | `sms.StatusSenderEnum` | ❌ | ❌ | ❌ | Template status |
+
+### `sms.Templates`
+
+_A structure describing all information about templates informations_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `customizedEmailMode` | `boolean` | ❌ | ❌ | ❌ |  |
+| `customizedSmsMode` | `boolean` | ❌ | ❌ | ❌ |  |
+| `emailBody` | `string` | ❌ | ✅ | ❌ |  |
+| `emailFrom` | `string` | ❌ | ✅ | ❌ |  |
+| `emailSubject` | `string` | ❌ | ✅ | ❌ |  |
+| `smsBody` | `string` | ❌ | ✅ | ❌ |  |
+
+### `sms.TodoGeneralPublicFunctionsEnum`
+
+_The task function_
+
+**Enum** (`enumType: string`):
+
+- `cleanSmsReceivers`
+
+### `sms.TodoGeneralPublicStepsEnum`
+
+_The task step_
+
+**Enum** (`enumType: string`):
+
+- `checkOrder`
+- `createHlrs`
+- `finishing`
+- `sendMailReport`
+- `starting`
+- `waitForHlrs`
+
+### `sms.TypeSenderEnum`
+
+_All existing types for a given sender_
+
+**Enum** (`enumType: string`):
+
+- `alpha`
+- `numeric`
+- `shortcode`
+- `time2chat`
+- `virtual`
+
+### `sms.TypeTemplateEnum`
+
+_All existing types for a given template_
+
+**Enum** (`enumType: string`):
+
+- `alerting`
+- `authentification`
+- `transactional`
+
+### `sms.User`
+
+_SMS users_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alertThresholdInformations` | `sms.AlertThreshold` | ❌ | ❌ | ❌ |  |
+| `callBack` | `string` | ❌ | ✅ | ❌ | URL called when state of a sent SMS changes |
+| `ipRestrictions` | `string[]` | ❌ | ❌ | ❌ |  |
+| `login` | `string` | ❌ | ❌ | ✅ | The sms user login |
+| `password` | `string` | ❌ | ❌ | ❌ |  |
+| `quotaInformations` | `sms.Quota` | ❌ | ❌ | ❌ |  |
+| `stopCallBack` | `string` | ❌ | ✅ | ❌ | URL called when a STOP is received after a receiver replied stop to a SMS |
+
+### `sms.VirtualNumber`
+
+_Virtual numbers_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countryCode` | `sms.VirtualNumberIsoCountryCodeEnum` | ❌ | ❌ | ✅ | The ISO formated country code of the number |
+| `number` | `string` | ❌ | ❌ | ✅ | The virtual number |
+
+### `sms.VirtualNumberGenericService`
+
+_Virtual numbers_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countryCode` | `sms.VirtualNumberIsoCountryCodeEnum` | ❌ | ❌ | ✅ | The ISO formated country code of the number |
+| `number` | `string` | ❌ | ❌ | ✅ | The virtual number |
+
+### `sms.VirtualNumberGenericServiceWithIAM`
+
+_Virtual numbers_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `countryCode` | `sms.VirtualNumberIsoCountryCodeEnum` | ❌ | ❌ | ✅ | The ISO formated country code of the number |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `number` | `string` | ❌ | ❌ | ✅ | The virtual number |
+
+### `sms.VirtualNumberIsoCountryCodeEnum`
+
+_The ISO formated country code of the number_
+
+**Enum** (`enumType: string`):
+
+- `be`
+- `ch`
+- `de`
+- `es`
+- `fr`
+- `uk`
+
+### `sms.VirtualNumberJob`
+
+_Sms job_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+| `credits` | `double` | ❌ | ❌ | ✅ |  |
+| `deliveryReceipt` | `long` | ❌ | ❌ | ✅ |  |
+| `differedDelivery` | `long` | ❌ | ❌ | ✅ |  |
+| `id` | `long` | ❌ | ❌ | ✅ |  |
+| `message` | `string` | ❌ | ❌ | ✅ |  |
+| `messageLength` | `long` | ❌ | ❌ | ✅ |  |
+| `numberOfSms` | `long` | ❌ | ❌ | ✅ |  |
+| `ptt` | `long` | ❌ | ❌ | ✅ |  |
+| `receiver` | `string` | ❌ | ❌ | ✅ |  |
+
+### `telephony.ContactsExportFormatsEnum`
+
+_Export file format_
+
+**Enum** (`enumType: string`):
+
+- `csv`
+
+### `telephony.PcsFile`
+
+_Telephony API related file hosted_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `filename` | `string` | ❌ | ❌ | ✅ |  |
+| `status` | `telephony.PcsFileStatusEnum` | ❌ | ❌ | ✅ |  |
+| `url` | `string` | ❌ | ❌ | ✅ |  |
+| `urlExpirationDatetime` | `datetime` | ❌ | ❌ | ✅ |  |
+
+### `telephony.PcsFileStatusEnum`
+
+_File providing task status_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `todo`
+
+### `telephony.Task`
+
+_Operation on a telephony service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `string` | ❌ | ❌ | ✅ | Action associated with the task |
+| `message` | `string` | ❌ | ✅ | ✅ | Potential failure reason of the task |
+| `objectCreated` | `string` | ❌ | ✅ | ✅ | Object potentially created at the end of the task |
+| `serviceType` | `string` | ❌ | ❌ | ✅ |  |
+| `status` | `telephony.TaskStatusEnum` | ❌ | ❌ | ✅ | Status of the task |
+| `taskId` | `long` | ❌ | ❌ | ✅ |  |
+
+### `telephony.TaskStatusEnum`
+
+_Task status_
+
+**Enum** (`enumType: string`):
+
+- `doing`
+- `done`
+- `error`
+- `pause`
+- `todo`
 
 

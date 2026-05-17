@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **30** — Operations: **47**
+> Routes: **30** — Operations: **47**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `9796ebe4d2b74cc6`
 
 ---
 
@@ -45,7 +47,7 @@
 
 ## `/storage/netapp`
 
-### 🟢 GET `GET` — List available services
+### 🟢 GET — List available services
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -66,7 +68,7 @@
 
 ## `/storage/netapp/{serviceName}`
 
-### 🟢 GET `GET` — Get service details
+### 🟢 GET — Get service details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -84,7 +86,7 @@
 
 ---
 
-### 🟠 PUT `PUT` — Update service
+### 🟠 PUT — Update service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -106,7 +108,7 @@
 
 ## `/storage/netapp/{serviceName}/changeContact`
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -128,7 +130,7 @@
 
 ## `/storage/netapp/{serviceName}/confirmTermination`
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -150,7 +152,7 @@
 
 ## `/storage/netapp/{serviceName}/metricsToken`
 
-### 🟢 GET `GET` — Get metrics token
+### 🟢 GET — Get metrics token
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -173,7 +175,7 @@
 
 _Network_
 
-### 🟢 GET `GET` — List networks
+### 🟢 GET — List networks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -197,7 +199,7 @@ _Network_
 
 _Network_
 
-### 🟢 GET `GET` — Get network details
+### 🟢 GET — Get network details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -219,7 +221,7 @@ _Network_
 
 ## `/storage/netapp/{serviceName}/serviceInfos`
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -237,7 +239,7 @@ _Network_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -261,7 +263,7 @@ _Network_
 
 _Share_
 
-### 🟢 GET `GET` — List available shares
+### 🟢 GET — List available shares
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -281,7 +283,7 @@ _Share_
 
 ---
 
-### 🟡 POST `POST` — Create a share
+### 🟡 POST — Create a share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -305,7 +307,7 @@ _Share_
 
 _Share_
 
-### 🔴 DELETE `DELETE` — Delete a share
+### 🔴 DELETE — Delete a share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -324,7 +326,7 @@ _Share_
 
 ---
 
-### 🟢 GET `GET` — Get share details
+### 🟢 GET — Get share details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -343,7 +345,7 @@ _Share_
 
 ---
 
-### 🟠 PUT `PUT` — Update a share
+### 🟠 PUT — Update a share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -368,7 +370,7 @@ _Share_
 
 _Share Access Path_
 
-### 🟢 GET `GET` — List available access paths
+### 🟢 GET — List available access paths
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -392,7 +394,7 @@ _Share Access Path_
 
 _Share Access Path_
 
-### 🟢 GET `GET` — Get access path details
+### 🟢 GET — Get access path details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -417,7 +419,7 @@ _Share Access Path_
 
 _Share ACL_
 
-### 🟢 GET `GET` — List available ACLs
+### 🟢 GET — List available ACLs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -436,7 +438,7 @@ _Share ACL_
 
 ---
 
-### 🟡 POST `POST` — Create an ACL
+### 🟡 POST — Create an ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -461,7 +463,7 @@ _Share ACL_
 
 _Share ACL_
 
-### 🔴 DELETE `DELETE` — Delete an ACL
+### 🔴 DELETE — Delete an ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -481,7 +483,7 @@ _Share ACL_
 
 ---
 
-### 🟢 GET `GET` — Get ACL details
+### 🟢 GET — Get ACL details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -506,7 +508,7 @@ _Share ACL_
 
 _Share Extend_
 
-### 🟡 POST `POST` — Extend share size
+### 🟡 POST — Extend share size
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -531,7 +533,7 @@ _Share Extend_
 
 _Revert a share to it's latest snapshot_
 
-### 🟡 POST `POST` — Revert a share to it's latest snapshot
+### 🟡 POST — Revert a share to it's latest snapshot
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -556,7 +558,7 @@ _Revert a share to it's latest snapshot_
 
 _Share Shrink_
 
-### 🟡 POST `POST` — Shrink share size
+### 🟡 POST — Shrink share size
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -581,7 +583,7 @@ _Share Shrink_
 
 _Share Snapshot_
 
-### 🟢 GET `GET` — List available snapshots
+### 🟢 GET — List available snapshots
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -601,7 +603,7 @@ _Share Snapshot_
 
 ---
 
-### 🟡 POST `POST` — Create a snapshot
+### 🟡 POST — Create a snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -626,7 +628,7 @@ _Share Snapshot_
 
 _Share Snapshot_
 
-### 🔴 DELETE `DELETE` — Delete a snapshot
+### 🔴 DELETE — Delete a snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -646,7 +648,7 @@ _Share Snapshot_
 
 ---
 
-### 🟢 GET `GET` — Get snapshot details
+### 🟢 GET — Get snapshot details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -666,7 +668,7 @@ _Share Snapshot_
 
 ---
 
-### 🟠 PUT `PUT` — Update a snapshot
+### 🟠 PUT — Update a snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -692,7 +694,7 @@ _Share Snapshot_
 
 _Share Snapshot Hold_
 
-### 🟡 POST `POST` — Hold an automatic share snapshot
+### 🟡 POST — Hold an automatic share snapshot
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -717,7 +719,7 @@ _Share Snapshot Hold_
 
 _Share snapshot policy_
 
-### 🟢 GET `GET` — Get snapshot policy used by a share
+### 🟢 GET — Get snapshot policy used by a share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -736,7 +738,7 @@ _Share snapshot policy_
 
 ---
 
-### 🟠 PUT `PUT` — Update snapshot policy used by a share
+### 🟠 PUT — Update snapshot policy used by a share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -761,7 +763,7 @@ _Share snapshot policy_
 
 _Share snapshot reserve properties_
 
-### 🟢 GET `GET` — Get snapshot reserve properties of a share
+### 🟢 GET — Get snapshot reserve properties of a share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -780,7 +782,7 @@ _Share snapshot reserve properties_
 
 ---
 
-### 🟠 PUT `PUT` — Update snapshot reserve properties of a share
+### 🟠 PUT — Update snapshot reserve properties of a share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -805,7 +807,7 @@ _Share snapshot reserve properties_
 
 _A share replication_
 
-### 🟢 GET `GET` — Get a list of share replications
+### 🟢 GET — Get a list of share replications
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -823,7 +825,7 @@ _A share replication_
 
 ---
 
-### 🟡 POST `POST` — Create a share replication
+### 🟡 POST — Create a share replication
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -847,7 +849,7 @@ _A share replication_
 
 _A share replication_
 
-### 🔴 DELETE `DELETE` — Delete a share replication
+### 🔴 DELETE — Delete a share replication
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -866,7 +868,7 @@ _A share replication_
 
 ---
 
-### 🟢 GET `GET` — Get share replication details
+### 🟢 GET — Get share replication details
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -890,7 +892,7 @@ _A share replication_
 
 _Share Replication accept_
 
-### 🟡 POST `POST` — Share replication accept
+### 🟡 POST — Share replication accept
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -915,7 +917,7 @@ _Share Replication accept_
 
 _Share Replication cutover_
 
-### 🟡 POST `POST` — Cutover share replication
+### 🟡 POST — Cutover share replication
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -937,7 +939,7 @@ _Share Replication cutover_
 
 ## `/storage/netapp/{serviceName}/shareReplicationServicesCompatibility`
 
-### 🟢 GET `GET` — Returns a list of checks indicating for each service if it can act as share replication destination for the given source service.
+### 🟢 GET — Returns a list of checks indicating for each service if it can act as share replication destination for the given source service.
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -961,7 +963,7 @@ _Share Replication cutover_
 
 _A snapshot policy_
 
-### 🟢 GET `GET` — Get a list of snapshot policies
+### 🟢 GET — Get a list of snapshot policies
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -979,7 +981,7 @@ _A snapshot policy_
 
 ---
 
-### 🟡 POST `POST` — Create a snapshot policy
+### 🟡 POST — Create a snapshot policy
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1003,7 +1005,7 @@ _A snapshot policy_
 
 _A snapshot policy_
 
-### 🔴 DELETE `DELETE` — Delete a snapshot policy
+### 🔴 DELETE — Delete a snapshot policy
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1022,7 +1024,7 @@ _A snapshot policy_
 
 ---
 
-### 🟢 GET `GET` — Get snapshot policy details
+### 🟢 GET — Get snapshot policy details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1041,7 +1043,7 @@ _A snapshot policy_
 
 ---
 
-### 🟠 PUT `PUT` — Update a snapshot policy
+### 🟠 PUT — Update a snapshot policy
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1064,7 +1066,7 @@ _A snapshot policy_
 
 ## `/storage/netapp/{serviceName}/terminate`
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1079,5 +1081,755 @@ _A snapshot policy_
 
 **IAM actions:** `storageNetApp:apiovh:terminate` (required)
 
+
+---
+
+## Models
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+_service.StateEnum_
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
+
+### `services.changeContact`
+
+_Service change contact payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contactAdmin` | `string` | ❌ | ❌ | ❌ | The contact to set as admin contact |
+| `contactBilling` | `string` | ❌ | ❌ | ❌ | The contact to set as billing contact |
+| `contactTech` | `string` | ❌ | ❌ | ❌ | The contact to set as tech contact |
+
+### `services.confirmTermination`
+
+_Service confirm termination payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `commentary` | `string` | ❌ | ❌ | ❌ | Commentary about your termination request |
+| `commentaryFutureUse` | `string` | ❌ | ❌ | ❌ | Commentary about your future use |
+| `commentaryReason` | `string` | ❌ | ❌ | ❌ | Commentary about your reason for termination request |
+| `futureUse` | `service.TerminationFutureUseEnum` | ❌ | ❌ | ❌ | All future uses you can provide for a service termination |
+| `reason` | `service.TerminationReasonEnum` | ❌ | ❌ | ❌ | All reasons you can provide for a service termination |
+| `token` | `string` | ✅ | ❌ | ❌ | The termination token sent by email to the admin contact |
+
+### `storage.MetricsToken`
+
+_Metrics token_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpoint` | `string` | ❌ | ❌ | ✅ | Backend url |
+| `expiry` | `datetime` | ❌ | ❌ | ✅ | Token expiration date |
+| `token` | `password` | ❌ | ❌ | ✅ | Generated token |
+
+### `storage.NetAppNetwork`
+
+_A network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Network ID |
+| `status` | `storage.NetAppNetworkStatusEnum` | ❌ | ✅ | ✅ | Network status |
+| `vRackServicesURN` | `string` | ❌ | ✅ | ✅ | vRack Services URN the network is attached to |
+
+### `storage.NetAppNetworkStatusEnum`
+
+_Network status_
+
+**Enum** (`enumType: string`):
+
+- `associated`
+- `associating`
+- `dissociating`
+- `to_configure`
+
+### `storage.NetAppService`
+
+_A service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Service creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Service name |
+| `performanceLevel` | `storage.NetAppServicePerformanceLevelEnum` | ❌ | ❌ | ✅ | Service performance level |
+| `product` | `string` | ❌ | ❌ | ✅ | Product name |
+| `quota` | `long` | ❌ | ❌ | ✅ | Service quota |
+| `region` | `storage.RegionEnum` | ❌ | ❌ | ✅ | Service region |
+| `status` | `storage.NetAppServiceStatusEnum` | ❌ | ❌ | ✅ | Service status |
+
+### `storage.NetAppServicePerformanceLevelEnum`
+
+_Service performance level_
+
+**Enum** (`enumType: string`):
+
+- `premium`
+
+### `storage.NetAppServiceStatusEnum`
+
+_Service status_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleted`
+- `deleting`
+- `reopening`
+- `running`
+- `suspended`
+- `suspending`
+
+### `storage.NetAppServiceSummary`
+
+_A summarized representation of a service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Service name |
+
+### `storage.NetAppServiceUpdate`
+
+_Service updatable properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | New service name |
+
+### `storage.NetAppServiceWithIAM`
+
+_A service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Service creation date |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Service name |
+| `performanceLevel` | `storage.NetAppServicePerformanceLevelEnum` | ❌ | ❌ | ✅ | Service performance level |
+| `product` | `string` | ❌ | ❌ | ✅ | Product name |
+| `quota` | `long` | ❌ | ❌ | ✅ | Service quota |
+| `region` | `storage.RegionEnum` | ❌ | ❌ | ✅ | Service region |
+| `status` | `storage.NetAppServiceStatusEnum` | ❌ | ❌ | ✅ | Service status |
+
+### `storage.NetAppShare`
+
+_A share_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessMode` | `storage.NetAppShareAccessModeEnum` | ❌ | ✅ | ✅ | Share access mode |
+| `createdAt` | `datetime` | ❌ | ✅ | ✅ | Share creation date |
+| `description` | `string` | ❌ | ✅ | ❌ | Share description |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Share ID |
+| `mountPointName` | `string` | ❌ | ✅ | ❌ | User-defined name used to generate human readable access path for the share |
+| `name` | `string` | ❌ | ✅ | ❌ | Share name |
+| `protocol` | `storage.ProtocolEnum` | ✅ | ✅ | ❌ | Share protocol |
+| `size` | `long` | ✅ | ✅ | ❌ | Share size in Gigabytes |
+| `snapshotID` | `string` | ❌ | ✅ | ❌ | Snapshot ID used to create the share |
+| `status` | `storage.NetAppShareStatusEnum` | ❌ | ✅ | ✅ | Share status |
+
+### `storage.NetAppShareACLPermissionEnum`
+
+_ACL permission_
+
+**Enum** (`enumType: string`):
+
+- `ro`
+- `rw`
+
+### `storage.NetAppShareACLRule`
+
+_A share ACL rule_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessLevel` | `storage.NetAppShareACLPermissionEnum` | ✅ | ✅ | ❌ | Rule access level |
+| `accessTo` | `string` | ✅ | ✅ | ❌ | Rule destination |
+| `accessType` | `storage.NetAppShareACLTypeEnum` | ❌ | ✅ | ✅ | Rule access type |
+| `createdAt` | `datetime` | ❌ | ✅ | ✅ | Rule creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Rule ID |
+| `status` | `storage.NetAppShareACLStatusEnum` | ❌ | ✅ | ✅ | Rule status |
+
+### `storage.NetAppShareACLStatusEnum`
+
+_ACL status_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `applying`
+- `denying`
+- `error`
+- `queued_to_apply`
+- `queued_to_deny`
+
+### `storage.NetAppShareACLTypeEnum`
+
+_ACL type_
+
+**Enum** (`enumType: string`):
+
+- `ip`
+
+### `storage.NetAppShareAccessModeEnum`
+
+_Share access mode_
+
+**Enum** (`enumType: string`):
+
+- `ro`
+- `rw`
+
+### `storage.NetAppShareAccessPath`
+
+_A share access path_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Access path ID |
+| `path` | `string` | ❌ | ❌ | ✅ | Access path |
+| `preferred` | `boolean` | ❌ | ❌ | ✅ | Is this the preferred access path? |
+
+### `storage.NetAppShareExtendOrShrink`
+
+_A share_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `size` | `long` | ✅ | ✅ | ❌ | Share size in Gigabytes |
+
+### `storage.NetAppShareForShareReplication`
+
+_A share used for share replication creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Share description |
+| `mountPointName` | `string` | ❌ | ❌ | ❌ | User-defined name used to generate human readable access path for the share |
+| `name` | `string` | ❌ | ❌ | ❌ | Share name |
+| `protocol` | `storage.ProtocolEnum` | ✅ | ❌ | ❌ | Share protocol |
+| `size` | `long` | ✅ | ❌ | ❌ | Share size in Gigabytes |
+
+### `storage.NetAppShareReplicaStateEnum`
+
+_Share replica state_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `error`
+- `in_sync`
+- `out_of_sync`
+
+### `storage.NetAppShareReplication`
+
+_A share replication_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ✅ | ✅ | Share replication creation date |
+| `description` | `string` | ❌ | ✅ | ✅ | Share replication description |
+| `destination` | `storage.NetAppShareReplicationDestination` | ❌ | ❌ | ✅ | Share replication destination information |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Share replication ID |
+| `progress` | `long` | ❌ | ✅ | ✅ | Percentage of the source share’s data that has been successfully replicated to the destination share |
+| `replicaState` | `storage.NetAppShareReplicaStateEnum` | ❌ | ✅ | ✅ | Share replica state |
+| `source` | `storage.NetAppShareReplicationSource` | ❌ | ❌ | ✅ | Share replication source information |
+| `status` | `storage.NetAppShareReplicationStatusEnum` | ❌ | ✅ | ✅ | Share replication status |
+
+### `storage.NetAppShareReplicationAccept`
+
+_A share replication acceptation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `share` | `storage.NetAppShareForShareReplication` | ❌ | ❌ | ❌ | Replication share |
+
+### `storage.NetAppShareReplicationCreate`
+
+_A share replication creation input_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Share replication description |
+| `destinationServiceId` | `uuid` | ❌ | ❌ | ❌ | Replication service ID (destination) |
+| `sourceShareId` | `uuid` | ❌ | ❌ | ❌ | Replication share ID (source) |
+
+### `storage.NetAppShareReplicationDestination`
+
+_A share replication destination_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `serviceID` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `shareID` | `uuid` | ❌ | ✅ | ✅ | Share ID |
+
+### `storage.NetAppShareReplicationServicesCompatibility`
+
+_Result of checking if a service can be a share replication destination_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `compatible` | `boolean` | ❌ | ❌ | ✅ | Whether service can be used as destination |
+| `reason` | `string` | ❌ | ✅ | ✅ | Indicates why service can't be used as destination if applicable |
+| `service` | `storage.NetAppServiceSummary` | ❌ | ❌ | ✅ | Summarized properties of the checked service |
+
+### `storage.NetAppShareReplicationSource`
+
+_A share replication source_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `serviceID` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `shareID` | `uuid` | ❌ | ❌ | ✅ | Share ID |
+
+### `storage.NetAppShareReplicationStatusEnum`
+
+_Share replication status_
+
+**Enum** (`enumType: string`):
+
+- `accepted`
+- `completed`
+- `cutover`
+- `cutting_over`
+- `deleted`
+- `deleting`
+- `error`
+- `pending`
+
+### `storage.NetAppShareRevertToSnapshot`
+
+_A share_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `snapshotID` | `uuid` | ✅ | ❌ | ❌ | Latest share snapshot |
+
+### `storage.NetAppShareSnapshot`
+
+_A share snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ✅ | ✅ | Snapshot creation date |
+| `description` | `string` | ❌ | ✅ | ❌ | Snapshot description |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Snapshot ID |
+| `name` | `string` | ❌ | ✅ | ❌ | Snapshot name |
+| `path` | `string` | ❌ | ✅ | ✅ | Snapshot path |
+| `status` | `storage.NetAppSnapshotStatusEnum` | ❌ | ✅ | ✅ | Snapshot status |
+| `type` | `storage.NetAppSnapshotTypeEnum` | ❌ | ✅ | ✅ | Snapshot type |
+
+### `storage.NetAppShareSnapshotPolicy`
+
+_A snapshot policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Snapshot policy ID |
+| `status` | `storage.NetAppShareSnapshotPolicyStatusEnum` | ❌ | ❌ | ✅ | Association status between the share and the snapshot policy |
+
+### `storage.NetAppShareSnapshotPolicyStatusEnum`
+
+_Association status between the share and the snapshot policy_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `error`
+- `updating`
+
+### `storage.NetAppShareSnapshotPolicyUpdate`
+
+_A snapshot policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `snapshotPolicyID` | `uuid` | ✅ | ❌ | ❌ | Snapshot policy ID |
+
+### `storage.NetAppShareSnapshotReserve`
+
+_Snapshot reserve properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `percent` | `long` | ❌ | ❌ | ✅ | Share space percentage reserved for snapshots |
+| `status` | `storage.NetAppShareSnapshotReserveStatusEnum` | ❌ | ❌ | ✅ | Status |
+
+### `storage.NetAppShareSnapshotReserveStatusEnum`
+
+_Snapshot reserve properties status_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `error`
+- `updating`
+
+### `storage.NetAppShareSnapshotReserveUpdate`
+
+_A snapshot policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `percent` | `long` | ✅ | ❌ | ❌ | Share space percentage reserved for snapshots |
+
+### `storage.NetAppShareSnapshotUpdate`
+
+_Share snapshot updatable properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | New snapshot description |
+| `name` | `string` | ❌ | ✅ | ❌ | New snapshot name |
+
+### `storage.NetAppShareStatusEnum`
+
+_Share status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `awaiting_replication`
+- `creating`
+- `creating_from_snapshot`
+- `deleted`
+- `deleting`
+- `error`
+- `error_deleting`
+- `extending`
+- `extending_error`
+- `inactive`
+- `manage_error`
+- `manage_starting`
+- `migrating`
+- `migrating_to`
+- `replication_change`
+- `reverting`
+- `reverting_error`
+- `shrinking`
+- `shrinking_error`
+- `shrinking_possible_data_loss_error`
+- `unmanage_error`
+- `unmanage_starting`
+- `unmanaged`
+
+### `storage.NetAppShareUpdate`
+
+_NetApp share updatable properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | New share description |
+| `name` | `string` | ❌ | ✅ | ❌ | New share name |
+
+### `storage.NetAppSnapshotPolicy`
+
+_A snapshot policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ✅ | ✅ | Snapshot policy creation date |
+| `description` | `string` | ❌ | ✅ | ❌ | Snapshot policy description |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Snapshot policy ID |
+| `isDefault` | `boolean` | ❌ | ✅ | ✅ | Is this the default snapshot policy? |
+| `name` | `string` | ❌ | ✅ | ❌ | Snapshot policy name |
+| `rules` | `storage.NetAppSnapshotPolicyRule[]` | ✅ | ✅ | ❌ | Snapshot policy rules |
+| `status` | `storage.NetAppSnapshotPolicyStatusEnum` | ❌ | ✅ | ✅ | Snapshot policy status |
+
+### `storage.NetAppSnapshotPolicyRule`
+
+_A snapshot policy rule_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `copies` | `long` | ✅ | ✅ | ❌ | Number of snapshot copies to keep |
+| `prefix` | `string` | ✅ | ✅ | ❌ | Prefix to use for snapshots |
+| `schedule` | `storage.NetAppSnapshotPolicySchedule` | ✅ | ✅ | ❌ | Snapshot policy schedule |
+
+### `storage.NetAppSnapshotPolicySchedule`
+
+_A snapshot policy schedule_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `days` | `long[]` | ❌ | ✅ | ❌ | The days of the month the schedule runs (1 through 31). Empty for all. |
+| `hours` | `long[]` | ❌ | ✅ | ❌ | The hours of the day the schedule runs (0 through 23). Empty for all. |
+| `minutes` | `long[]` | ✅ | ❌ | ❌ | The minutes the schedule runs (0 through 59). Required to have at least one value. |
+| `months` | `long[]` | ❌ | ✅ | ❌ | The months of the year the schedule runs (1 through 12). Empty for all. |
+| `weekdays` | `long[]` | ❌ | ✅ | ❌ | The days of the week the schedule runs (0 through 6, where 0 is Sunday and 6 is Saturday). Empty for all. |
+
+### `storage.NetAppSnapshotPolicyStatusEnum`
+
+_Snapshot policy status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `creating`
+- `deleting`
+- `error`
+- `updating`
+
+### `storage.NetAppSnapshotPolicyUpdate`
+
+_Snapshot policy updatable properties_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | New snapshot policy description |
+| `name` | `string` | ❌ | ✅ | ❌ | New snapshot policy name |
+
+### `storage.NetAppSnapshotStatusEnum`
+
+_Snapshot status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `creating`
+- `deleting`
+- `error`
+- `error_deleting`
+- `manage_error`
+- `manage_starting`
+- `restoring`
+- `unmanage_error`
+- `unmanage_starting`
+
+### `storage.NetAppSnapshotTypeEnum`
+
+_Snapshot type_
+
+**Enum** (`enumType: string`):
+
+- `automatic`
+- `manual`
+- `system`
+
+### `storage.ProtocolEnum`
+
+_Storage protocol_
+
+**Enum** (`enumType: string`):
+
+- `NFS`
+
+### `storage.RegionEnum`
+
+_Region of customer's service_
+
+**Enum** (`enumType: string`):
+
+- `ca-east-bhs`
+- `eu-west-gra`
+- `eu-west-lim`
+- `eu-west-rbx`
+- `eu-west-sbg`
 
 

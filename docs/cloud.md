@@ -2,7 +2,9 @@
 
 > Base path: `https://eu.api.ovh.com/1.0`  
 > API version: `1.0`  
-> Routes: **767** — Operations: **1127**
+> Routes: **767** — Operations: **1127**  
+> Generated: 2026-05-17T16:20:50Z  
+> Spec sha256: `d1c7350eba1c16df`
 
 ---
 
@@ -784,7 +786,7 @@
 
 _Get agreements related to a product_
 
-### 🟢 GET `GET` — Get agreements related to a product
+### 🟢 GET — Get agreements related to a product
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -807,7 +809,7 @@ _Get agreements related to a product_
 
 _Check your eligibility to create a Public Cloud order_
 
-### 🟢 GET `GET` — Check your eligibility to create a Public Cloud order
+### 🟢 GET — Check your eligibility to create a Public Cloud order
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -830,7 +832,7 @@ _Check your eligibility to create a Public Cloud order_
 
 _Manage cloud orders_
 
-### 🟢 GET `GET` — Get all cloud pending orders
+### 🟢 GET — Get all cloud pending orders
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -853,7 +855,7 @@ _Manage cloud orders_
 
 _Product availability_
 
-### 🟢 GET `GET` — Get product availability
+### 🟢 GET — Get product availability
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -878,7 +880,7 @@ _Product availability_
 
 _Operations about the PUBLICCLOUD service_
 
-### 🟢 GET `GET` — List available public cloud projects
+### 🟢 GET — List available public cloud projects
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -902,7 +904,7 @@ _Operations about the PUBLICCLOUD service_
 
 _Operations about the PUBLICCLOUD service_
 
-### 🟢 GET `GET` — Get a public cloud project properties
+### 🟢 GET — Get a public cloud project properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -921,7 +923,7 @@ _Operations about the PUBLICCLOUD service_
 
 ---
 
-### 🟠 PUT `PUT` — Alter this object properties
+### 🟠 PUT — Alter this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -945,7 +947,7 @@ _Operations about the PUBLICCLOUD service_
 
 _List the cloud.Acl objects_
 
-### 🟢 GET `GET` — Get ACL on your cloud project
+### 🟢 GET — Get ACL on your cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -964,7 +966,7 @@ _List the cloud.Acl objects_
 
 ---
 
-### 🟡 POST `POST` — Create new ACL
+### 🟡 POST — Create new ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -989,7 +991,7 @@ _List the cloud.Acl objects_
 
 _Cloud ACL_
 
-### 🔴 DELETE `DELETE` — Delete ACL
+### 🔴 DELETE — Delete ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1008,7 +1010,7 @@ _Cloud ACL_
 
 ---
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1032,7 +1034,7 @@ _Cloud ACL_
 
 _Missing description_
 
-### 🟡 POST `POST` — Activate monthly billing on multiple instances
+### 🟡 POST — Activate monthly billing on multiple instances
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -1056,7 +1058,7 @@ _Missing description_
 
 _Manage AI Solutions apps_
 
-### 🟢 GET `GET` — List apps
+### 🟢 GET — List apps
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1083,7 +1085,7 @@ _Manage AI Solutions apps_
 
 ---
 
-### 🟡 POST `POST` — Create a new app
+### 🟡 POST — Create a new app
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1107,7 +1109,7 @@ _Manage AI Solutions apps_
 
 _Generate an app spec corresponding CLI command_
 
-### 🟡 POST `POST` — Generate an app spec corresponding CLI command
+### 🟡 POST — Generate an app spec corresponding CLI command
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1131,7 +1133,7 @@ _Generate an app spec corresponding CLI command_
 
 _Manage AI Solutions apps_
 
-### 🔴 DELETE `DELETE` — Delete an app
+### 🔴 DELETE — Delete an app
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1151,7 +1153,7 @@ _Manage AI Solutions apps_
 
 ---
 
-### 🟢 GET `GET` — Get app information
+### 🟢 GET — Get app information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1170,7 +1172,7 @@ _Manage AI Solutions apps_
 
 ---
 
-### 🟠 PUT `PUT` — Update several parts of an app's spec
+### 🟠 PUT — Update several parts of an app's spec
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1193,7 +1195,7 @@ _Manage AI Solutions apps_
 
 ## `/cloud/project/{serviceName}/ai/app/{appId}/datasync`
 
-### 🟡 POST `POST` — Starts a manual data synchronization on an app
+### 🟡 POST — Starts a manual data synchronization on an app
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1218,7 +1220,7 @@ _Manage AI Solutions apps_
 
 _Set the Docker image of an AI app_
 
-### 🟠 PUT `PUT` — Set the Docker image of an AI app
+### 🟠 PUT — Set the Docker image of an AI app
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1243,7 +1245,7 @@ _Set the Docker image of an AI app_
 
 _Manage labels of an AI Solutions app_
 
-### 🟠 PUT `PUT` — Update/add an AI Solutions app label
+### 🟠 PUT — Update/add an AI Solutions app label
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1266,7 +1268,7 @@ _Manage labels of an AI Solutions app_
 
 ## `/cloud/project/{serviceName}/ai/app/{appId}/log`
 
-### 🟢 GET `GET` — Get the logs of an app
+### 🟢 GET — Get the logs of an app
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1293,7 +1295,7 @@ _Manage labels of an AI Solutions app_
 
 _Scale a App_
 
-### 🟠 PUT `PUT` — Scale a App
+### 🟠 PUT — Scale a App
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1318,7 +1320,7 @@ _Scale a App_
 
 _Start an existing AI Solutions app_
 
-### 🟠 PUT `PUT` — Start an existing AI Solutions app
+### 🟠 PUT — Start an existing AI Solutions app
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1342,7 +1344,7 @@ _Start an existing AI Solutions app_
 
 _Stop an AI Solutions app_
 
-### 🟠 PUT `PUT` — Stop an AI Solutions app
+### 🟠 PUT — Stop an AI Solutions app
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1364,7 +1366,7 @@ _Stop an AI Solutions app_
 
 ## `/cloud/project/{serviceName}/ai/authorization`
 
-### 🟢 GET `GET` — Get authorization status
+### 🟢 GET — Get authorization status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1382,7 +1384,7 @@ _Stop an AI Solutions app_
 
 ---
 
-### 🟡 POST `POST` — Authorization of AI Solutions service by allowing access to your object storage containers
+### 🟡 POST — Authorization of AI Solutions service by allowing access to your object storage containers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1405,7 +1407,7 @@ _Stop an AI Solutions app_
 
 _List AI Solutions available features_
 
-### 🟢 GET `GET` — List AI Solutions available features
+### 🟢 GET — List AI Solutions available features
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1428,7 +1430,7 @@ _List AI Solutions available features_
 
 _List AI Solutions available quotas_
 
-### 🟢 GET `GET` — List AI Solutions available quotas
+### 🟢 GET — List AI Solutions available quotas
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1451,7 +1453,7 @@ _List AI Solutions available quotas_
 
 _List AI Solutions available regions_
 
-### 🟢 GET `GET` — List Region
+### 🟢 GET — List Region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1474,7 +1476,7 @@ _List AI Solutions available regions_
 
 _List AI Solutions available regions_
 
-### 🟢 GET `GET` — Get Region Information
+### 🟢 GET — Get Region Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1498,7 +1500,7 @@ _List AI Solutions available regions_
 
 _List AI Solutions App images_
 
-### 🟢 GET `GET` — List AI Solutions App images
+### 🟢 GET — List AI Solutions App images
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1522,7 +1524,7 @@ _List AI Solutions App images_
 
 _List AI Solutions available data regions_
 
-### 🟢 GET `GET` — Get Available data regions Information
+### 🟢 GET — Get Available data regions Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1546,7 +1548,7 @@ _List AI Solutions available data regions_
 
 _List AI Solutions available flavors_
 
-### 🟢 GET `GET` — List Flavors
+### 🟢 GET — List Flavors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1570,7 +1572,7 @@ _List AI Solutions available flavors_
 
 _List AI Solutions available flavors_
 
-### 🟢 GET `GET` — Get Flavor Information
+### 🟢 GET — Get Flavor Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1595,7 +1597,7 @@ _List AI Solutions available flavors_
 
 _List AI Solutions Job images_
 
-### 🟢 GET `GET` — List AI Solutions Job images
+### 🟢 GET — List AI Solutions Job images
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1619,7 +1621,7 @@ _List AI Solutions Job images_
 
 _Query AI Solutions Notebook editors_
 
-### 🟢 GET `GET` — List AI Solutions Notebook editors
+### 🟢 GET — List AI Solutions Notebook editors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1644,7 +1646,7 @@ _Query AI Solutions Notebook editors_
 
 _Query AI Solutions Notebook editors_
 
-### 🟢 GET `GET` — Get an AI Solutions Notebook editor
+### 🟢 GET — Get an AI Solutions Notebook editor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1669,7 +1671,7 @@ _Query AI Solutions Notebook editors_
 
 _Query AI Solutions Notebook frameworks_
 
-### 🟢 GET `GET` — List AI Solutions Notebook frameworks
+### 🟢 GET — List AI Solutions Notebook frameworks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1695,7 +1697,7 @@ _Query AI Solutions Notebook frameworks_
 
 _Query AI Solutions Notebook frameworks_
 
-### 🟢 GET `GET` — Get an AI Solutions Notebook framework
+### 🟢 GET — Get an AI Solutions Notebook framework
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1720,7 +1722,7 @@ _Query AI Solutions Notebook frameworks_
 
 _Manage an AI Solutions notebook workspace backups retention policies for the parent public cloud project and region_
 
-### 🟢 GET `GET` — Get the applied notebook backup retention policy for the parent public cloud project and region
+### 🟢 GET — Get the applied notebook backup retention policy for the parent public cloud project and region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1739,7 +1741,7 @@ _Manage an AI Solutions notebook workspace backups retention policies for the pa
 
 ---
 
-### 🟠 PUT `PUT` — Override notebook backup retention policy for the parent public cloud project and region
+### 🟠 PUT — Override notebook backup retention policy for the parent public cloud project and region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1764,7 +1766,7 @@ _Manage an AI Solutions notebook workspace backups retention policies for the pa
 
 _List AI Solutions available presets_
 
-### 🟢 GET `GET` — List Presets
+### 🟢 GET — List Presets
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1789,7 +1791,7 @@ _List AI Solutions available presets_
 
 _List AI Solutions available presets_
 
-### 🟢 GET `GET` — Get Preset Information
+### 🟢 GET — Get Preset Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1814,7 +1816,7 @@ _List AI Solutions available presets_
 
 _List AI Solutions available regions_
 
-### 🟢 GET `GET` — List Region
+### 🟢 GET — List Region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1837,7 +1839,7 @@ _List AI Solutions available regions_
 
 _List AI Solutions available regions_
 
-### 🟢 GET `GET` — Get Region Information
+### 🟢 GET — Get Region Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1861,7 +1863,7 @@ _List AI Solutions available regions_
 
 _AI Datastore operations for a given region_
 
-### 🟢 GET `GET` — List datastores
+### 🟢 GET — List datastores
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1880,7 +1882,7 @@ _AI Datastore operations for a given region_
 
 ---
 
-### 🟡 POST `POST` — Create a new datastore
+### 🟡 POST — Create a new datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1906,7 +1908,7 @@ _AI Datastore operations for a given region_
 
 _AI Datastore operations for a given region_
 
-### 🔴 DELETE `DELETE` — Permanently delete a datastore
+### 🔴 DELETE — Permanently delete a datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1926,7 +1928,7 @@ _AI Datastore operations for a given region_
 
 ---
 
-### 🟢 GET `GET` — Get Datastore Information
+### 🟢 GET — Get Datastore Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1946,7 +1948,7 @@ _AI Datastore operations for a given region_
 
 ---
 
-### 🟠 PUT `PUT` — Update a datastore
+### 🟠 PUT — Update a datastore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1972,7 +1974,7 @@ _AI Datastore operations for a given region_
 
 _Retrieve AI Datastore auth by alias_
 
-### 🟢 GET `GET` — Get an AI datastore auth in a given region by its alias
+### 🟢 GET — Get an AI datastore auth in a given region by its alias
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -1997,7 +1999,7 @@ _Retrieve AI Datastore auth by alias_
 
 _Manage AI Solutions Jobs_
 
-### 🟢 GET `GET` — List jobs
+### 🟢 GET — List jobs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2024,7 +2026,7 @@ _Manage AI Solutions Jobs_
 
 ---
 
-### 🟡 POST `POST` — Create a new job
+### 🟡 POST — Create a new job
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2048,7 +2050,7 @@ _Manage AI Solutions Jobs_
 
 _List AI Solutions Preset Model Images_
 
-### 🟢 GET `GET` — List AI Solutions Preset Model Images (deprecated)
+### 🟢 GET — List AI Solutions Preset Model Images (deprecated)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2071,7 +2073,7 @@ _List AI Solutions Preset Model Images_
 
 _Generate a job spec corresponding CLI command_
 
-### 🟡 POST `POST` — Generate a job spec corresponding CLI command
+### 🟡 POST — Generate a job spec corresponding CLI command
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2095,7 +2097,7 @@ _Generate a job spec corresponding CLI command_
 
 _Manage AI Solutions Jobs_
 
-### 🔴 DELETE `DELETE` — Permanently delete a job
+### 🔴 DELETE — Permanently delete a job
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2115,7 +2117,7 @@ _Manage AI Solutions Jobs_
 
 ---
 
-### 🟢 GET `GET` — Get job information
+### 🟢 GET — Get job information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2137,7 +2139,7 @@ _Manage AI Solutions Jobs_
 
 ## `/cloud/project/{serviceName}/ai/job/{jobId}/datasync`
 
-### 🟡 POST `POST` — Starts a manual data synchronization on an AI Solutions job
+### 🟡 POST — Starts a manual data synchronization on an AI Solutions job
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2162,7 +2164,7 @@ _Manage AI Solutions Jobs_
 
 _Kill a AI Solutions job_
 
-### 🟠 PUT `PUT` — Kill a AI Solutions job
+### 🟠 PUT — Kill a AI Solutions job
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2186,7 +2188,7 @@ _Kill a AI Solutions job_
 
 _Manage labels of an AI Solutions job_
 
-### 🟠 PUT `PUT` — Update/add an AI Solutions job label
+### 🟠 PUT — Update/add an AI Solutions job label
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2209,7 +2211,7 @@ _Manage labels of an AI Solutions job_
 
 ## `/cloud/project/{serviceName}/ai/job/{jobId}/log`
 
-### 🟢 GET `GET` — Get the logs of a job
+### 🟢 GET — Get the logs of a job
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2235,7 +2237,7 @@ _Manage labels of an AI Solutions job_
 
 _Manage AI Solutions notebooks_
 
-### 🟢 GET `GET` — List notebooks
+### 🟢 GET — List notebooks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2263,7 +2265,7 @@ _Manage AI Solutions notebooks_
 
 ---
 
-### 🟡 POST `POST` — Create a new notebook
+### 🟡 POST — Create a new notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2287,7 +2289,7 @@ _Manage AI Solutions notebooks_
 
 _List AI Solutions Notebook available code editors_
 
-### 🟢 GET `GET` — List AI Solutions Notebook available code editors
+### 🟢 GET — List AI Solutions Notebook available code editors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2311,7 +2313,7 @@ _List AI Solutions Notebook available code editors_
 
 _List AI Solutions Notebook available frameworks_
 
-### 🟢 GET `GET` — List AI Solutions Notebook available frameworks
+### 🟢 GET — List AI Solutions Notebook available frameworks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2336,7 +2338,7 @@ _List AI Solutions Notebook available frameworks_
 
 _Generate a notebook spec corresponding CLI command_
 
-### 🟡 POST `POST` — Generate a notebook spec corresponding CLI command
+### 🟡 POST — Generate a notebook spec corresponding CLI command
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2360,7 +2362,7 @@ _Generate a notebook spec corresponding CLI command_
 
 _Manage AI Solutions notebooks_
 
-### 🔴 DELETE `DELETE` — Delete a notebook
+### 🔴 DELETE — Delete a notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2380,7 +2382,7 @@ _Manage AI Solutions notebooks_
 
 ---
 
-### 🟢 GET `GET` — Get notebook information
+### 🟢 GET — Get notebook information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2399,7 +2401,7 @@ _Manage AI Solutions notebooks_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing notebook. Only labels update can be done while notebook is running.
+### 🟠 PUT — Update an existing notebook. Only labels update can be done while notebook is running.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2422,7 +2424,7 @@ _Manage AI Solutions notebooks_
 
 ## `/cloud/project/{serviceName}/ai/notebook/{notebookId}/backup`
 
-### 🟢 GET `GET` — List all backups of an AI Solutions notebook
+### 🟢 GET — List all backups of an AI Solutions notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2450,7 +2452,7 @@ _Manage AI Solutions notebooks_
 
 ## `/cloud/project/{serviceName}/ai/notebook/{notebookId}/backup/{backupId}`
 
-### 🟢 GET `GET` — Get details for a single AI Solutions notebook backup
+### 🟢 GET — Get details for a single AI Solutions notebook backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2473,7 +2475,7 @@ _Manage AI Solutions notebooks_
 
 ## `/cloud/project/{serviceName}/ai/notebook/{notebookId}/backup/{backupId}/fork`
 
-### 🟡 POST `POST` — Starts a new AI Solutions notebook from a backup
+### 🟡 POST — Starts a new AI Solutions notebook from a backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2497,7 +2499,7 @@ _Manage AI Solutions notebooks_
 
 ## `/cloud/project/{serviceName}/ai/notebook/{notebookId}/datasync`
 
-### 🟡 POST `POST` — Starts a manual data synchronization on an AI Solutions notebook
+### 🟡 POST — Starts a manual data synchronization on an AI Solutions notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2522,7 +2524,7 @@ _Manage AI Solutions notebooks_
 
 _Manage labels of an AI Solutions notebook_
 
-### 🟠 PUT `PUT` — Update/add an AI Solutions notebook label
+### 🟠 PUT — Update/add an AI Solutions notebook label
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2545,7 +2547,7 @@ _Manage labels of an AI Solutions notebook_
 
 ## `/cloud/project/{serviceName}/ai/notebook/{notebookId}/log`
 
-### 🟢 GET `GET` — Get the logs of a notebook
+### 🟢 GET — Get the logs of a notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2569,7 +2571,7 @@ _Manage labels of an AI Solutions notebook_
 
 _Restart an AI Solutions notebook_
 
-### 🟠 PUT `PUT` — Restart an AI Solutions notebook
+### 🟠 PUT — Restart an AI Solutions notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2593,7 +2595,7 @@ _Restart an AI Solutions notebook_
 
 _Start an AI Solutions notebook_
 
-### 🟠 PUT `PUT` — Start an AI Solutions notebook
+### 🟠 PUT — Start an AI Solutions notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2617,7 +2619,7 @@ _Start an AI Solutions notebook_
 
 _Stop an AI Solutions notebook_
 
-### 🟠 PUT `PUT` — Stop an AI Solutions notebook
+### 🟠 PUT — Stop an AI Solutions notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2641,7 +2643,7 @@ _Stop an AI Solutions notebook_
 
 _Manage notebook backup retention policy for specific notebooks_
 
-### 🟢 GET `GET` — Get the applied notebook backup retention policy for the given notebook
+### 🟢 GET — Get the applied notebook backup retention policy for the given notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2660,7 +2662,7 @@ _Manage notebook backup retention policy for specific notebooks_
 
 ---
 
-### 🟠 PUT `PUT` — Override notebook backup retention policy for the given notebook
+### 🟠 PUT — Override notebook backup retention policy for the given notebook
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2685,7 +2687,7 @@ _Manage notebook backup retention policy for specific notebooks_
 
 _List AI Solutions available regions_
 
-### 🟢 GET `GET` — List Region
+### 🟢 GET — List Region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2708,7 +2710,7 @@ _List AI Solutions available regions_
 
 _List AI Solutions available regions_
 
-### 🟢 GET `GET` — Get Region Information
+### 🟢 GET — Get Region Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2732,7 +2734,7 @@ _List AI Solutions available regions_
 
 _Manage AI Solutions partners_
 
-### 🟢 GET `GET` — List partners and contracts
+### 🟢 GET — List partners and contracts
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2756,7 +2758,7 @@ _Manage AI Solutions partners_
 
 _Manage AI Solutions partners_
 
-### 🟢 GET `GET` — Get partner and contract
+### 🟢 GET — Get partner and contract
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2781,7 +2783,7 @@ _Manage AI Solutions partners_
 
 _Manage AI Solutions Registries_
 
-### 🟢 GET `GET` — List Docker registries
+### 🟢 GET — List Docker registries
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2799,7 +2801,7 @@ _Manage AI Solutions Registries_
 
 ---
 
-### 🟡 POST `POST` — Create a Docker registry
+### 🟡 POST — Create a Docker registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2823,7 +2825,7 @@ _Manage AI Solutions Registries_
 
 _Manage AI Solutions Registries_
 
-### 🔴 DELETE `DELETE` — Delete a Docker registry
+### 🔴 DELETE — Delete a Docker registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2842,7 +2844,7 @@ _Manage AI Solutions Registries_
 
 ---
 
-### 🟢 GET `GET` — Get information about a Docker registry
+### 🟢 GET — Get information about a Docker registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2861,7 +2863,7 @@ _Manage AI Solutions Registries_
 
 ---
 
-### 🟠 PUT `PUT` — Update a Docker registry
+### 🟠 PUT — Update a Docker registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2886,7 +2888,7 @@ _Manage AI Solutions Registries_
 
 _Manage AI Solutions Application Tokens_
 
-### 🟢 GET `GET` — List application tokens
+### 🟢 GET — List application tokens
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2904,7 +2906,7 @@ _Manage AI Solutions Application Tokens_
 
 ---
 
-### 🟡 POST `POST` — Create a new application token
+### 🟡 POST — Create a new application token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2928,7 +2930,7 @@ _Manage AI Solutions Application Tokens_
 
 _Manage AI Solutions Application Tokens_
 
-### 🔴 DELETE `DELETE` — Delete this application token
+### 🔴 DELETE — Delete this application token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2947,7 +2949,7 @@ _Manage AI Solutions Application Tokens_
 
 ---
 
-### 🟢 GET `GET` — Get application token information
+### 🟢 GET — Get application token information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2969,7 +2971,7 @@ _Manage AI Solutions Application Tokens_
 
 ## `/cloud/project/{serviceName}/ai/token/{id}/renew`
 
-### 🟡 POST `POST` — Renew an application token
+### 🟡 POST — Renew an application token
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -2993,7 +2995,7 @@ _Manage AI Solutions Application Tokens_
 
 _Manage the billing alert configuration of your project_
 
-### 🟢 GET `GET` — List all billing alert configurations for a public cloud project
+### 🟢 GET — List all billing alert configurations for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3012,7 +3014,7 @@ _Manage the billing alert configuration of your project_
 
 ---
 
-### 🟡 POST `POST` — Create a new alert
+### 🟡 POST — Create a new alert
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3037,7 +3039,7 @@ _Manage the billing alert configuration of your project_
 
 _Manage the billing alert configuration of your project_
 
-### 🔴 DELETE `DELETE` — Delete an alert
+### 🔴 DELETE — Delete an alert
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3057,7 +3059,7 @@ _Manage the billing alert configuration of your project_
 
 ---
 
-### 🟢 GET `GET` — Get a specific billing alert configuration for a public cloud project
+### 🟢 GET — Get a specific billing alert configuration for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3077,7 +3079,7 @@ _Manage the billing alert configuration of your project_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing alert
+### 🟠 PUT — Update an existing alert
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3103,7 +3105,7 @@ _Manage the billing alert configuration of your project_
 
 _List alerts sent to customer_
 
-### 🟢 GET `GET` — List all billing alert configurations for a public cloud project
+### 🟢 GET — List all billing alert configurations for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3128,7 +3130,7 @@ _List alerts sent to customer_
 
 _List alerts sent to customer_
 
-### 🟢 GET `GET` — Get a specific billing alert configuration for a public cloud project
+### 🟢 GET — Get a specific billing alert configuration for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3154,7 +3156,7 @@ _List alerts sent to customer_
 
 _bill operations_
 
-### 🟢 GET `GET` — Get your project bills
+### 🟢 GET — Get your project bills
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3179,7 +3181,7 @@ _bill operations_
 
 _cancel operations_
 
-### 🟡 POST `POST` — Cancel project creation
+### 🟡 POST — Cancel project creation
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3200,7 +3202,7 @@ _cancel operations_
 
 ## `/cloud/project/{serviceName}/capabilities/containerRegistry`
 
-### 🟢 GET `GET` — List container registry capabilities per region
+### 🟢 GET — List container registry capabilities per region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3221,7 +3223,7 @@ _cancel operations_
 
 ## `/cloud/project/{serviceName}/capabilities/kube/admissionplugins`
 
-### 🟢 GET `GET` — List of admissionPlugins managed by MKS product that can be enabled or disabled.
+### 🟢 GET — List of admissionPlugins managed by MKS product that can be enabled or disabled.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3242,7 +3244,7 @@ _cancel operations_
 
 ## `/cloud/project/{serviceName}/capabilities/kube/flavors`
 
-### 🟢 GET `GET` — List Kubernetes available flavors for a region
+### 🟢 GET — List Kubernetes available flavors for a region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3266,7 +3268,7 @@ _cancel operations_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3289,7 +3291,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3313,7 +3315,7 @@ _Access to available log kind_
 
 _List Kubernetes regions where cluster creation is possible_
 
-### 🟢 GET `GET` — List Kubernetes regions where cluster creation is possible.
+### 🟢 GET — List Kubernetes regions where cluster creation is possible.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3334,7 +3336,7 @@ _List Kubernetes regions where cluster creation is possible_
 
 ## `/cloud/project/{serviceName}/capabilities/loadbalancer/region`
 
-### 🟢 GET `GET` — List all available regions
+### 🟢 GET — List all available regions
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -3355,7 +3357,7 @@ _List Kubernetes regions where cluster creation is possible_
 
 ## `/cloud/project/{serviceName}/capabilities/loadbalancer/region/{regionName}`
 
-### 🟢 GET `GET` — Get specific information of a region
+### 🟢 GET — Get specific information of a region
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -3377,7 +3379,7 @@ _List Kubernetes regions where cluster creation is possible_
 
 ## `/cloud/project/{serviceName}/capabilities/productAvailability`
 
-### 🟢 GET `GET` — List product availability
+### 🟢 GET — List product availability
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -3405,7 +3407,7 @@ _List Kubernetes regions where cluster creation is possible_
 
 _Change the contacts of this service_
 
-### 🟡 POST `POST` — Launch a contact change procedure
+### 🟡 POST — Launch a contact change procedure
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3431,7 +3433,7 @@ _Change the contacts of this service_
 
 _Confirm service termination_
 
-### 🟡 POST `POST` — Confirm service termination
+### 🟡 POST — Confirm service termination
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3458,7 +3460,7 @@ _Confirm service termination_
 
 _Manage registries_
 
-### 🟢 GET `GET` — List registries of the project
+### 🟢 GET — List registries of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3476,7 +3478,7 @@ _Manage registries_
 
 ---
 
-### 🟡 POST `POST` — Create a new registry
+### 🟡 POST — Create a new registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3500,7 +3502,7 @@ _Manage registries_
 
 _Manage registries_
 
-### 🔴 DELETE `DELETE` — Delete a registry
+### 🔴 DELETE — Delete a registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3519,7 +3521,7 @@ _Manage registries_
 
 ---
 
-### 🟢 GET `GET` — Get the registry information
+### 🟢 GET — Get the registry information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3538,7 +3540,7 @@ _Manage registries_
 
 ---
 
-### 🟠 PUT `PUT` — Update the registry
+### 🟠 PUT — Update the registry
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3561,7 +3563,7 @@ _Manage registries_
 
 ## `/cloud/project/{serviceName}/containerRegistry/{registryID}/capabilities/plan`
 
-### 🟢 GET `GET` — Get available plans for the current registry.
+### 🟢 GET — Get available plans for the current registry.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3585,7 +3587,7 @@ _Manage registries_
 
 _Manage the registry IAM configuration_
 
-### 🔴 DELETE `DELETE` — Disable Ovhcloud IAM
+### 🔴 DELETE — Disable Ovhcloud IAM
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3604,7 +3606,7 @@ _Manage the registry IAM configuration_
 
 ---
 
-### 🟡 POST `POST` — Enable OVHcloud IAM
+### 🟡 POST — Enable OVHcloud IAM
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3629,7 +3631,7 @@ _Manage the registry IAM configuration_
 
 _Manage IP restrictions on Harbor UI and API for container registry_
 
-### 🟢 GET `GET` — List your IP restrictions applied on Harbor UI and API
+### 🟢 GET — List your IP restrictions applied on Harbor UI and API
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3648,7 +3650,7 @@ _Manage IP restrictions on Harbor UI and API for container registry_
 
 ---
 
-### 🟠 PUT `PUT` — Replace IP restrictions applied on Harbor UI and API
+### 🟠 PUT — Replace IP restrictions applied on Harbor UI and API
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3673,7 +3675,7 @@ _Manage IP restrictions on Harbor UI and API for container registry_
 
 _Manage IP restrictions on artifact manager component (Docker, Helm, etc...) for container registry_
 
-### 🟢 GET `GET` — List your IP restrictions applied on artifact manager component
+### 🟢 GET — List your IP restrictions applied on artifact manager component
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3692,7 +3694,7 @@ _Manage IP restrictions on artifact manager component (Docker, Helm, etc...) for
 
 ---
 
-### 🟠 PUT `PUT` — Replace IP restrictions applied on artifact manager component (Docker, Helm, etc...)
+### 🟠 PUT — Replace IP restrictions applied on artifact manager component (Docker, Helm, etc...)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3717,7 +3719,7 @@ _Manage IP restrictions on artifact manager component (Docker, Helm, etc...) for
 
 _Manage the registry OIDC configuration_
 
-### 🔴 DELETE `DELETE` — Delete the registry's OIDC Configuration
+### 🔴 DELETE — Delete the registry's OIDC Configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3736,7 +3738,7 @@ _Manage the registry OIDC configuration_
 
 ---
 
-### 🟢 GET `GET` — Get the registry's OIDC configuration
+### 🟢 GET — Get the registry's OIDC configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3755,7 +3757,7 @@ _Manage the registry OIDC configuration_
 
 ---
 
-### 🟡 POST `POST` — Add or replace the registry's OIDC configuration
+### 🟡 POST — Add or replace the registry's OIDC configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3775,7 +3777,7 @@ _Manage the registry OIDC configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Edit the registry's OIDC configuration
+### 🟠 PUT — Edit the registry's OIDC configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3798,7 +3800,7 @@ _Manage the registry OIDC configuration_
 
 ## `/cloud/project/{serviceName}/containerRegistry/{registryID}/plan`
 
-### 🟢 GET `GET` — Show the actual plan of the registry.
+### 🟢 GET — Show the actual plan of the registry.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3817,7 +3819,7 @@ _Manage the registry OIDC configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update the plan of a registry.
+### 🟠 PUT — Update the plan of a registry.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3842,7 +3844,7 @@ _Manage the registry OIDC configuration_
 
 _Manage users_
 
-### 🟢 GET `GET` — List registry user
+### 🟢 GET — List registry user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3861,7 +3863,7 @@ _Manage users_
 
 ---
 
-### 🟡 POST `POST` — Create a new registry user
+### 🟡 POST — Create a new registry user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3886,7 +3888,7 @@ _Manage users_
 
 _Manage users_
 
-### 🔴 DELETE `DELETE` — Delete a registry user
+### 🔴 DELETE — Delete a registry user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3906,7 +3908,7 @@ _Manage users_
 
 ---
 
-### 🟢 GET `GET` — Get registry user
+### 🟢 GET — Get registry user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3929,7 +3931,7 @@ _Manage users_
 
 ## `/cloud/project/{serviceName}/containerRegistry/{registryID}/users/{userID}/setAsAdmin`
 
-### 🟠 PUT `PUT` — Set the user as Admin
+### 🟠 PUT — Set the user as Admin
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3954,7 +3956,7 @@ _Manage users_
 
 _List the cloud.Credit objects_
 
-### 🟢 GET `GET` — Get your credit
+### 🟢 GET — Get your credit
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3972,7 +3974,7 @@ _List the cloud.Credit objects_
 
 ---
 
-### 🟡 POST `POST` — Add credit to your project
+### 🟡 POST — Add credit to your project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -3996,7 +3998,7 @@ _List the cloud.Credit objects_
 
 _Cloud credit_
 
-### 🟢 GET `GET` — Get this object properties
+### 🟢 GET — Get this object properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4018,7 +4020,7 @@ _Cloud credit_
 
 ## `/cloud/project/{serviceName}/database/availability`
 
-### 🟢 GET `GET` — Get database engines availability
+### 🟢 GET — Get database engines availability
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4042,7 +4044,7 @@ _Cloud credit_
 
 ## `/cloud/project/{serviceName}/database/capabilities`
 
-### 🟢 GET `GET` — Get database engines capabilities
+### 🟢 GET — Get database engines capabilities
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4065,7 +4067,7 @@ _Cloud credit_
 
 _Operations about the cloud project cassandra engine_
 
-### 🟢 GET `GET` — List all the cassandra clusters of the project
+### 🟢 GET — List all the cassandra clusters of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4083,7 +4085,7 @@ _Operations about the cloud project cassandra engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new cassandra cluster
+### 🟡 POST — Create a new cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4107,7 +4109,7 @@ _Operations about the cloud project cassandra engine_
 
 _Operations about the cloud project cassandra engine_
 
-### 🔴 DELETE `DELETE` — Delete a cassandra cluster
+### 🔴 DELETE — Delete a cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4126,7 +4128,7 @@ _Operations about the cloud project cassandra engine_
 
 ---
 
-### 🟢 GET `GET` — Get cassandra cluster properties
+### 🟢 GET — Get cassandra cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4145,7 +4147,7 @@ _Operations about the cloud project cassandra engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing cassandra cluster
+### 🟠 PUT — Update an existing cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4170,7 +4172,7 @@ _Operations about the cloud project cassandra engine_
 
 _Operations about the cloud project cassandra advanced configuration_
 
-### 🟢 GET `GET` — Get cassandra advanced configuration
+### 🟢 GET — Get cassandra advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4189,7 +4191,7 @@ _Operations about the cloud project cassandra advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update cassandra advanced configuration
+### 🟠 PUT — Update cassandra advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4214,7 +4216,7 @@ _Operations about the cloud project cassandra advanced configuration_
 
 _Operations about the cloud project cassandra backups_
 
-### 🟢 GET `GET` — List backups of the cassandra
+### 🟢 GET — List backups of the cassandra
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4238,7 +4240,7 @@ _Operations about the cloud project cassandra backups_
 
 _Operations about the cloud project cassandra backups_
 
-### 🟢 GET `GET` — Get cassandra backups
+### 🟢 GET — Get cassandra backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4263,7 +4265,7 @@ _Operations about the cloud project cassandra backups_
 
 _Operations about the cloud project cassandra advanced configuration_
 
-### 🟢 GET `GET` — Get cassandra advanced configuration fields
+### 🟢 GET — Get cassandra advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4287,7 +4289,7 @@ _Operations about the cloud project cassandra advanced configuration_
 
 _Operations about the cassandra cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the cassandra service
+### 🟢 GET — Get integration capabilities related to the cassandra service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4311,7 +4313,7 @@ _Operations about the cassandra cloud project integration capabilities_
 
 _Operations about cassandra certificates_
 
-### 🟢 GET `GET` — Retrieve the certificates of the cassandra cluster
+### 🟢 GET — Retrieve the certificates of the cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4335,7 +4337,7 @@ _Operations about cassandra certificates_
 
 _Operations about the cloud project cassandra integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4354,7 +4356,7 @@ _Operations about the cloud project cassandra integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4379,7 +4381,7 @@ _Operations about the cloud project cassandra integrations_
 
 _Operations about the cloud project cassandra integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4399,7 +4401,7 @@ _Operations about the cloud project cassandra integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4424,7 +4426,7 @@ _Operations about the cloud project cassandra integrations_
 
 _Operations about the cloud project cassandra ip restrictions_
 
-### 🟢 GET `GET` — List cassandra ip restrictions
+### 🟢 GET — List cassandra ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4443,7 +4445,7 @@ _Operations about the cloud project cassandra ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the cassandra
+### 🟡 POST — Add ip restrictions to the cassandra
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4468,7 +4470,7 @@ _Operations about the cloud project cassandra ip restrictions_
 
 _Operations about the cloud project cassandra ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the cassandra
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the cassandra
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4488,7 +4490,7 @@ _Operations about the cloud project cassandra ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get cassandra ip restrictions
+### 🟢 GET — Get cassandra ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4508,7 +4510,7 @@ _Operations about the cloud project cassandra ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the cassandra
+### 🟠 PUT — Changes the list of ip restrictions to the cassandra
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -4534,7 +4536,7 @@ _Operations about the cloud project cassandra ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4558,7 +4560,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4583,7 +4585,7 @@ _Access to available log kind_
 
 _Query operations on cassandra cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4603,7 +4605,7 @@ _Query operations on cassandra cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a cassandra
+### 🟡 POST — Create subscription to log to customer for a cassandra
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4628,7 +4630,7 @@ _Query operations on cassandra cluster logs subscription to log to customer_
 
 _Query operations on cassandra cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4648,7 +4650,7 @@ _Query operations on cassandra cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4673,7 +4675,7 @@ _Query operations on cassandra cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4698,7 +4700,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on cassandra cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent cassandra log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent cassandra log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4722,7 +4724,7 @@ _Query operations on cassandra cluster logs_
 
 _Query operations on cassandra cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the cassandra cluster
+### 🟢 GET — List maintenances for the cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4746,7 +4748,7 @@ _Query operations on cassandra cluster maintenance_
 
 _Query operations on cassandra cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the cassandra cluster
+### 🟢 GET — Get the maintenance for the cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4771,7 +4773,7 @@ _Query operations on cassandra cluster maintenance_
 
 _Operations about the cloud project cassandra maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4796,7 +4798,7 @@ _Operations about the cloud project cassandra maintenance apply_
 
 _Query operations on cassandra cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the cassandra cluster
+### 🟢 GET — List available metrics for the cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4821,7 +4823,7 @@ _Query operations on cassandra cluster metrics_
 
 _Query operations on cassandra cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the cassandra cluster
+### 🟢 GET — Get the metric values for the cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4847,7 +4849,7 @@ _Query operations on cassandra cluster metrics_
 
 _Operations about the cloud project cassandra nodes_
 
-### 🟢 GET `GET` — List nodes of the cassandra
+### 🟢 GET — List nodes of the cassandra
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4871,7 +4873,7 @@ _Operations about the cloud project cassandra nodes_
 
 _Operations about the cloud project cassandra nodes_
 
-### 🟢 GET `GET` — Get cassandra nodes
+### 🟢 GET — Get cassandra nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4896,7 +4898,7 @@ _Operations about the cloud project cassandra nodes_
 
 _Operations about the cloud project Cassandra Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for Cassandra cluster Prometheus
+### 🟢 GET — Get the endpoint for Cassandra cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4920,7 +4922,7 @@ _Operations about the cloud project Cassandra Prometheus_
 
 _Operations about the cloud project Cassandra Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4944,7 +4946,7 @@ _Operations about the cloud project Cassandra Prometheus credentials reset_
 
 _Operations about the cloud project cassandra users_
 
-### 🟢 GET `GET` — List users of the cassandra
+### 🟢 GET — List users of the cassandra
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4963,7 +4965,7 @@ _Operations about the cloud project cassandra users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the cassandra cluster
+### 🟡 POST — Create a new user on the cassandra cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -4988,7 +4990,7 @@ _Operations about the cloud project cassandra users_
 
 _Operations about the cloud project cassandra users_
 
-### 🔴 DELETE `DELETE` — Delete a cassandra user
+### 🔴 DELETE — Delete a cassandra user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5008,7 +5010,7 @@ _Operations about the cloud project cassandra users_
 
 ---
 
-### 🟢 GET `GET` — Get cassandra users
+### 🟢 GET — Get cassandra users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5033,7 +5035,7 @@ _Operations about the cloud project cassandra users_
 
 _Operations about the cloud project cassandra users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5058,7 +5060,7 @@ _Operations about the cloud project cassandra users credentials reset_
 
 _Operations about the cloud project clickhouse engine_
 
-### 🟢 GET `GET` — List all the clickhouse of the project
+### 🟢 GET — List all the clickhouse of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5076,7 +5078,7 @@ _Operations about the cloud project clickhouse engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new clickhouse cluster
+### 🟡 POST — Create a new clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5100,7 +5102,7 @@ _Operations about the cloud project clickhouse engine_
 
 _Operations about the cloud project clickhouse engine_
 
-### 🔴 DELETE `DELETE` — Delete a clickhouse cluster
+### 🔴 DELETE — Delete a clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5119,7 +5121,7 @@ _Operations about the cloud project clickhouse engine_
 
 ---
 
-### 🟢 GET `GET` — Get clickhouse cluster properties
+### 🟢 GET — Get clickhouse cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5138,7 +5140,7 @@ _Operations about the cloud project clickhouse engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing clickhouse cluster
+### 🟠 PUT — Update an existing clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5163,7 +5165,7 @@ _Operations about the cloud project clickhouse engine_
 
 _Operations about the cloud project clickhouse backups_
 
-### 🟢 GET `GET` — List backups of the clickhouse
+### 🟢 GET — List backups of the clickhouse
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5187,7 +5189,7 @@ _Operations about the cloud project clickhouse backups_
 
 _Operations about the cloud project clickhouse backups_
 
-### 🟢 GET `GET` — Get clickhouse backups
+### 🟢 GET — Get clickhouse backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5212,7 +5214,7 @@ _Operations about the cloud project clickhouse backups_
 
 _Operations related to available region backup capabilities for the clickhouse cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the clickhouse service
+### 🟢 GET — Get backup region capabilities related to the clickhouse service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5236,7 +5238,7 @@ _Operations related to available region backup capabilities for the clickhouse c
 
 _Operations about the clickhouse cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the clickhouse service
+### 🟢 GET — Get integration capabilities related to the clickhouse service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5260,7 +5262,7 @@ _Operations about the clickhouse cloud project integration capabilities_
 
 _Operations about clickhouse certificates_
 
-### 🟢 GET `GET` — Retrieve the certificates of the clickhouse cluster
+### 🟢 GET — Retrieve the certificates of the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5284,7 +5286,7 @@ _Operations about clickhouse certificates_
 
 _Current queries of clickhouse cluster_
 
-### 🟢 GET `GET` — Retrieve the current queries for the cluster
+### 🟢 GET — Retrieve the current queries for the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5310,7 +5312,7 @@ _Current queries of clickhouse cluster_
 
 _Cancel a current query on clickhouse cluster_
 
-### 🟡 POST `POST` — Cancel the given current query of the cluster
+### 🟡 POST — Cancel the given current query of the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5335,7 +5337,7 @@ _Cancel a current query on clickhouse cluster_
 
 _Query operations on clickhouse cluster database_
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5354,7 +5356,7 @@ _Query operations on clickhouse cluster database_
 
 ---
 
-### 🟡 POST `POST` — Create a new database on the clickhouse cluster
+### 🟡 POST — Create a new database on the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5379,7 +5381,7 @@ _Query operations on clickhouse cluster database_
 
 _Query operations on clickhouse cluster database_
 
-### 🔴 DELETE `DELETE` — Delete a clickhouse database
+### 🔴 DELETE — Delete a clickhouse database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5399,7 +5401,7 @@ _Query operations on clickhouse cluster database_
 
 ---
 
-### 🟢 GET `GET` — Get the database for the clickhouse cluster
+### 🟢 GET — Get the database for the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5424,7 +5426,7 @@ _Query operations on clickhouse cluster database_
 
 _Query operations on clickhouse cluster database write permissions_
 
-### 🟡 POST `POST` — Enable temporary write permission on readonly lock clickhouse service
+### 🟡 POST — Enable temporary write permission on readonly lock clickhouse service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5448,7 +5450,7 @@ _Query operations on clickhouse cluster database write permissions_
 
 _Operations about the cloud project clickhouse integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5467,7 +5469,7 @@ _Operations about the cloud project clickhouse integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5492,7 +5494,7 @@ _Operations about the cloud project clickhouse integrations_
 
 _Operations about the cloud project clickhouse integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5512,7 +5514,7 @@ _Operations about the cloud project clickhouse integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5537,7 +5539,7 @@ _Operations about the cloud project clickhouse integrations_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5561,7 +5563,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5586,7 +5588,7 @@ _Access to available log kind_
 
 _Query operations on clickhouse cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5606,7 +5608,7 @@ _Query operations on clickhouse cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a clickhouse
+### 🟡 POST — Create subscription to log to customer for a clickhouse
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5631,7 +5633,7 @@ _Query operations on clickhouse cluster logs subscription to log to customer_
 
 _Query operations on clickhouse cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5651,7 +5653,7 @@ _Query operations on clickhouse cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5676,7 +5678,7 @@ _Query operations on clickhouse cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5701,7 +5703,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on clickhouse cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the clickhouse cluster
+### 🟢 GET — List maintenances for the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5725,7 +5727,7 @@ _Query operations on clickhouse cluster maintenance_
 
 _Query operations on clickhouse cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the clickhouse cluster
+### 🟢 GET — Get the maintenance for the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5750,7 +5752,7 @@ _Query operations on clickhouse cluster maintenance_
 
 _Operations about the cloud project clickhouse maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5775,7 +5777,7 @@ _Operations about the cloud project clickhouse maintenance apply_
 
 _Query operations on clickhouse cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the clickhouse cluster
+### 🟢 GET — List available metrics for the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5800,7 +5802,7 @@ _Query operations on clickhouse cluster metrics_
 
 _Query operations on clickhouse cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the clickhouse cluster
+### 🟢 GET — Get the metric values for the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5826,7 +5828,7 @@ _Query operations on clickhouse cluster metrics_
 
 _Operations about the cloud project clickhouse nodes_
 
-### 🟢 GET `GET` — List nodes of the clickhouse
+### 🟢 GET — List nodes of the clickhouse
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5850,7 +5852,7 @@ _Operations about the cloud project clickhouse nodes_
 
 _Operations about the cloud project clickhouse nodes_
 
-### 🟢 GET `GET` — Get clickhouse nodes
+### 🟢 GET — Get clickhouse nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5875,7 +5877,7 @@ _Operations about the cloud project clickhouse nodes_
 
 _Operations about the cloud project clickhouse Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for clickhouse cluster Prometheus
+### 🟢 GET — Get the endpoint for clickhouse cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5899,7 +5901,7 @@ _Operations about the cloud project clickhouse Prometheus_
 
 _Operations about the cloud project clickhouse Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5923,7 +5925,7 @@ _Operations about the cloud project clickhouse Prometheus credentials reset_
 
 _Query statistics on clickhouse cluster logs_
 
-### 🟢 GET `GET` — Retrieve the query statistics for the cluster
+### 🟢 GET — Retrieve the query statistics for the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5949,7 +5951,7 @@ _Query statistics on clickhouse cluster logs_
 
 _Operations about the cloud project clickhouse roles_
 
-### 🟢 GET `GET` — Get clickhouse roles
+### 🟢 GET — Get clickhouse roles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5973,7 +5975,7 @@ _Operations about the cloud project clickhouse roles_
 
 _Operations about the cloud project clickhouse users_
 
-### 🟢 GET `GET` — List users of the clickhouse
+### 🟢 GET — List users of the clickhouse
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -5992,7 +5994,7 @@ _Operations about the cloud project clickhouse users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the clickhouse cluster
+### 🟡 POST — Create a new user on the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6017,7 +6019,7 @@ _Operations about the cloud project clickhouse users_
 
 _Operations about the cloud project clickhouse users_
 
-### 🔴 DELETE `DELETE` — Delete a clickhouse user
+### 🔴 DELETE — Delete a clickhouse user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6037,7 +6039,7 @@ _Operations about the cloud project clickhouse users_
 
 ---
 
-### 🟢 GET `GET` — Get clickhouse users
+### 🟢 GET — Get clickhouse users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6057,7 +6059,7 @@ _Operations about the cloud project clickhouse users_
 
 ---
 
-### 🟠 PUT `PUT` — Updates the user on the clickhouse cluster
+### 🟠 PUT — Updates the user on the clickhouse cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6083,7 +6085,7 @@ _Operations about the cloud project clickhouse users_
 
 _Operations about the cloud project clickhouse users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6108,7 +6110,7 @@ _Operations about the cloud project clickhouse users credentials reset_
 
 _Operations about the cloud project grafana engine_
 
-### 🟢 GET `GET` — List all the grafana of the project
+### 🟢 GET — List all the grafana of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6126,7 +6128,7 @@ _Operations about the cloud project grafana engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new grafana cluster
+### 🟡 POST — Create a new grafana cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6150,7 +6152,7 @@ _Operations about the cloud project grafana engine_
 
 _Operations about the cloud project grafana engine_
 
-### 🔴 DELETE `DELETE` — Delete a grafana cluster
+### 🔴 DELETE — Delete a grafana cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6169,7 +6171,7 @@ _Operations about the cloud project grafana engine_
 
 ---
 
-### 🟢 GET `GET` — Get grafana cluster properties
+### 🟢 GET — Get grafana cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6188,7 +6190,7 @@ _Operations about the cloud project grafana engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing grafana cluster
+### 🟠 PUT — Update an existing grafana cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6213,7 +6215,7 @@ _Operations about the cloud project grafana engine_
 
 _Operations about the cloud project grafana advanced configuration_
 
-### 🟢 GET `GET` — Get grafana advanced configuration
+### 🟢 GET — Get grafana advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6232,7 +6234,7 @@ _Operations about the cloud project grafana advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update grafana advanced configuration
+### 🟠 PUT — Update grafana advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6257,7 +6259,7 @@ _Operations about the cloud project grafana advanced configuration_
 
 _Operations about the cloud project grafana backups_
 
-### 🟢 GET `GET` — List backups of the grafana
+### 🟢 GET — List backups of the grafana
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6281,7 +6283,7 @@ _Operations about the cloud project grafana backups_
 
 _Operations about the cloud project grafana backups_
 
-### 🟢 GET `GET` — Get grafana backups
+### 🟢 GET — Get grafana backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6306,7 +6308,7 @@ _Operations about the cloud project grafana backups_
 
 _Operations about the cloud project grafana advanced configuration_
 
-### 🟢 GET `GET` — Get grafana advanced configuration fields
+### 🟢 GET — Get grafana advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6330,7 +6332,7 @@ _Operations about the cloud project grafana advanced configuration_
 
 _Operations related to available region backup capabilities for the grafana cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the grafana service
+### 🟢 GET — Get backup region capabilities related to the grafana service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6354,7 +6356,7 @@ _Operations related to available region backup capabilities for the grafana clou
 
 _Operations about the grafana cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the grafana service
+### 🟢 GET — Get integration capabilities related to the grafana service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6378,7 +6380,7 @@ _Operations about the grafana cloud project integration capabilities_
 
 _Operations about the cloud project grafana integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6397,7 +6399,7 @@ _Operations about the cloud project grafana integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6422,7 +6424,7 @@ _Operations about the cloud project grafana integrations_
 
 _Operations about the cloud project grafana integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6442,7 +6444,7 @@ _Operations about the cloud project grafana integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6467,7 +6469,7 @@ _Operations about the cloud project grafana integrations_
 
 _Operations about the cloud project grafana ip restrictions_
 
-### 🟢 GET `GET` — List grafana ip restrictions
+### 🟢 GET — List grafana ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6486,7 +6488,7 @@ _Operations about the cloud project grafana ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the grafana
+### 🟡 POST — Add ip restrictions to the grafana
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6511,7 +6513,7 @@ _Operations about the cloud project grafana ip restrictions_
 
 _Operations about the cloud project grafana ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the grafana
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the grafana
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6531,7 +6533,7 @@ _Operations about the cloud project grafana ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get grafana ip restrictions
+### 🟢 GET — Get grafana ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6551,7 +6553,7 @@ _Operations about the cloud project grafana ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the grafana
+### 🟠 PUT — Changes the list of ip restrictions to the grafana
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -6577,7 +6579,7 @@ _Operations about the cloud project grafana ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6601,7 +6603,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6626,7 +6628,7 @@ _Access to available log kind_
 
 _Query operations on grafana cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6646,7 +6648,7 @@ _Query operations on grafana cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a grafana
+### 🟡 POST — Create subscription to log to customer for a grafana
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6671,7 +6673,7 @@ _Query operations on grafana cluster logs subscription to log to customer_
 
 _Query operations on grafana cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6691,7 +6693,7 @@ _Query operations on grafana cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6716,7 +6718,7 @@ _Query operations on grafana cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6741,7 +6743,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on grafana cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent grafana log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent grafana log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6765,7 +6767,7 @@ _Query operations on grafana cluster logs_
 
 _Query operations on grafana cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the grafana cluster
+### 🟢 GET — List maintenances for the grafana cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6789,7 +6791,7 @@ _Query operations on grafana cluster maintenance_
 
 _Query operations on grafana cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the grafana cluster
+### 🟢 GET — Get the maintenance for the grafana cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6814,7 +6816,7 @@ _Query operations on grafana cluster maintenance_
 
 _Operations about the cloud project grafana maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6839,7 +6841,7 @@ _Operations about the cloud project grafana maintenance apply_
 
 _Query operations on grafana cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the grafana cluster
+### 🟢 GET — List available metrics for the grafana cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6864,7 +6866,7 @@ _Query operations on grafana cluster metrics_
 
 _Query operations on grafana cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the grafana cluster
+### 🟢 GET — Get the metric values for the grafana cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6890,7 +6892,7 @@ _Query operations on grafana cluster metrics_
 
 _Operations about the cloud project grafana nodes_
 
-### 🟢 GET `GET` — List nodes of the grafana
+### 🟢 GET — List nodes of the grafana
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6914,7 +6916,7 @@ _Operations about the cloud project grafana nodes_
 
 _Operations about the cloud project grafana nodes_
 
-### 🟢 GET `GET` — Get grafana nodes
+### 🟢 GET — Get grafana nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6939,7 +6941,7 @@ _Operations about the cloud project grafana nodes_
 
 _Operations about the cloud project grafana users_
 
-### 🟢 GET `GET` — List users of the grafana
+### 🟢 GET — List users of the grafana
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6963,7 +6965,7 @@ _Operations about the cloud project grafana users_
 
 _Operations about the cloud project grafana users_
 
-### 🟢 GET `GET` — Get grafana users
+### 🟢 GET — Get grafana users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -6988,7 +6990,7 @@ _Operations about the cloud project grafana users_
 
 _Operations about the cloud project grafana users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7013,7 +7015,7 @@ _Operations about the cloud project grafana users credentials reset_
 
 _Operations about the cloud project kafka engine_
 
-### 🟢 GET `GET` — List all the kafka of the project
+### 🟢 GET — List all the kafka of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7031,7 +7033,7 @@ _Operations about the cloud project kafka engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new kafka cluster
+### 🟡 POST — Create a new kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7055,7 +7057,7 @@ _Operations about the cloud project kafka engine_
 
 _Operations about the cloud project kafka engine_
 
-### 🔴 DELETE `DELETE` — Delete a kafka cluster
+### 🔴 DELETE — Delete a kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7074,7 +7076,7 @@ _Operations about the cloud project kafka engine_
 
 ---
 
-### 🟢 GET `GET` — Get kafka cluster properties
+### 🟢 GET — Get kafka cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7093,7 +7095,7 @@ _Operations about the cloud project kafka engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing kafka cluster
+### 🟠 PUT — Update an existing kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7118,7 +7120,7 @@ _Operations about the cloud project kafka engine_
 
 _Operations about the cloud project kafka acls_
 
-### 🟢 GET `GET` — List acls of the kafka
+### 🟢 GET — List acls of the kafka
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7137,7 +7139,7 @@ _Operations about the cloud project kafka acls_
 
 ---
 
-### 🟡 POST `POST` — Create a new acl on the kafka cluster
+### 🟡 POST — Create a new acl on the kafka cluster
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7162,7 +7164,7 @@ _Operations about the cloud project kafka acls_
 
 _Operations about the cloud project kafka acls_
 
-### 🔴 DELETE `DELETE` — Delete a kafka acl
+### 🔴 DELETE — Delete a kafka acl
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7182,7 +7184,7 @@ _Operations about the cloud project kafka acls_
 
 ---
 
-### 🟢 GET `GET` — Get kafka acls
+### 🟢 GET — Get kafka acls
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7207,7 +7209,7 @@ _Operations about the cloud project kafka acls_
 
 _Operations about the cloud project kafka advanced configuration_
 
-### 🟢 GET `GET` — Get kafka advanced configuration
+### 🟢 GET — Get kafka advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7226,7 +7228,7 @@ _Operations about the cloud project kafka advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update kafka advanced configuration
+### 🟠 PUT — Update kafka advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7251,7 +7253,7 @@ _Operations about the cloud project kafka advanced configuration_
 
 _Operations about the cloud project kafka advanced configuration_
 
-### 🟢 GET `GET` — Get kafka advanced configuration fields
+### 🟢 GET — Get kafka advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7275,7 +7277,7 @@ _Operations about the cloud project kafka advanced configuration_
 
 _Operations related to available region backup capabilities for the kafka cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the kafka service
+### 🟢 GET — Get backup region capabilities related to the kafka service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7299,7 +7301,7 @@ _Operations related to available region backup capabilities for the kafka cloud 
 
 _Operations about the kafka cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the kafka service
+### 🟢 GET — Get integration capabilities related to the kafka service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7323,7 +7325,7 @@ _Operations about the kafka cloud project integration capabilities_
 
 _Operations about kafka certificates_
 
-### 🟢 GET `GET` — Retrieve the certificates of the kafka cluster
+### 🟢 GET — Retrieve the certificates of the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7347,7 +7349,7 @@ _Operations about kafka certificates_
 
 _Operations about the cloud project kafka integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7366,7 +7368,7 @@ _Operations about the cloud project kafka integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7391,7 +7393,7 @@ _Operations about the cloud project kafka integrations_
 
 _Operations about the cloud project kafka integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7411,7 +7413,7 @@ _Operations about the cloud project kafka integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7436,7 +7438,7 @@ _Operations about the cloud project kafka integrations_
 
 _Operations about the cloud project kafka ip restrictions_
 
-### 🟢 GET `GET` — List kafka ip restrictions
+### 🟢 GET — List kafka ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7455,7 +7457,7 @@ _Operations about the cloud project kafka ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the kafka
+### 🟡 POST — Add ip restrictions to the kafka
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7480,7 +7482,7 @@ _Operations about the cloud project kafka ip restrictions_
 
 _Operations about the cloud project kafka ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the kafka
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the kafka
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7500,7 +7502,7 @@ _Operations about the cloud project kafka ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get kafka ip restrictions
+### 🟢 GET — Get kafka ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7520,7 +7522,7 @@ _Operations about the cloud project kafka ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the kafka
+### 🟠 PUT — Changes the list of ip restrictions to the kafka
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -7546,7 +7548,7 @@ _Operations about the cloud project kafka ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7570,7 +7572,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7595,7 +7597,7 @@ _Access to available log kind_
 
 _Query operations on kafka cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7615,7 +7617,7 @@ _Query operations on kafka cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a kafka
+### 🟡 POST — Create subscription to log to customer for a kafka
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7640,7 +7642,7 @@ _Query operations on kafka cluster logs subscription to log to customer_
 
 _Query operations on kafka cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7660,7 +7662,7 @@ _Query operations on kafka cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7685,7 +7687,7 @@ _Query operations on kafka cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7710,7 +7712,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on kafka cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent kafka log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent kafka log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7734,7 +7736,7 @@ _Query operations on kafka cluster logs_
 
 _Query operations on kafka cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the kafka cluster
+### 🟢 GET — List maintenances for the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7758,7 +7760,7 @@ _Query operations on kafka cluster maintenance_
 
 _Query operations on kafka cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the kafka cluster
+### 🟢 GET — Get the maintenance for the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7783,7 +7785,7 @@ _Query operations on kafka cluster maintenance_
 
 _Operations about the cloud project kafka maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7808,7 +7810,7 @@ _Operations about the cloud project kafka maintenance apply_
 
 _Query operations on kafka cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the kafka cluster
+### 🟢 GET — List available metrics for the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7833,7 +7835,7 @@ _Query operations on kafka cluster metrics_
 
 _Query operations on kafka cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the kafka cluster
+### 🟢 GET — Get the metric values for the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7859,7 +7861,7 @@ _Query operations on kafka cluster metrics_
 
 _Operations about the cloud project kafka nodes_
 
-### 🟢 GET `GET` — List nodes of the kafka
+### 🟢 GET — List nodes of the kafka
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7883,7 +7885,7 @@ _Operations about the cloud project kafka nodes_
 
 _Operations about the cloud project kafka nodes_
 
-### 🟢 GET `GET` — Get kafka nodes
+### 🟢 GET — Get kafka nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7908,7 +7910,7 @@ _Operations about the cloud project kafka nodes_
 
 _Query operations on kafka cluster permissions_
 
-### 🟢 GET `GET` — Retrieve the permissions available on the cluster
+### 🟢 GET — Retrieve the permissions available on the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7932,7 +7934,7 @@ _Query operations on kafka cluster permissions_
 
 _Operations about the cloud project Kafka Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for Kafka cluster Prometheus
+### 🟢 GET — Get the endpoint for Kafka cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7956,7 +7958,7 @@ _Operations about the cloud project Kafka Prometheus_
 
 _Operations about the cloud project Kafka Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7980,7 +7982,7 @@ _Operations about the cloud project Kafka Prometheus credentials reset_
 
 _Operations about the cloud project kafka schema Registry acls_
 
-### 🟢 GET `GET` — List schema registry acls of the kafka
+### 🟢 GET — List schema registry acls of the kafka
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -7999,7 +8001,7 @@ _Operations about the cloud project kafka schema Registry acls_
 
 ---
 
-### 🟡 POST `POST` — Create a new schema registry acl on the kafka cluster
+### 🟡 POST — Create a new schema registry acl on the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8024,7 +8026,7 @@ _Operations about the cloud project kafka schema Registry acls_
 
 _Operations about the cloud project kafka schema Registry acls_
 
-### 🔴 DELETE `DELETE` — Delete a kafka schema registry acl
+### 🔴 DELETE — Delete a kafka schema registry acl
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8044,7 +8046,7 @@ _Operations about the cloud project kafka schema Registry acls_
 
 ---
 
-### 🟢 GET `GET` — Get kafka schema registry acls
+### 🟢 GET — Get kafka schema registry acls
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8069,7 +8071,7 @@ _Operations about the cloud project kafka schema Registry acls_
 
 _Operations about the cloud project kafka topics_
 
-### 🟢 GET `GET` — List topics of the kafka
+### 🟢 GET — List topics of the kafka
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8088,7 +8090,7 @@ _Operations about the cloud project kafka topics_
 
 ---
 
-### 🟡 POST `POST` — Create a new topic on the kafka cluster
+### 🟡 POST — Create a new topic on the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8113,7 +8115,7 @@ _Operations about the cloud project kafka topics_
 
 _Operations about the cloud project kafka topics_
 
-### 🔴 DELETE `DELETE` — Delete a kafka topic
+### 🔴 DELETE — Delete a kafka topic
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8133,7 +8135,7 @@ _Operations about the cloud project kafka topics_
 
 ---
 
-### 🟢 GET `GET` — Get kafka topics
+### 🟢 GET — Get kafka topics
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8153,7 +8155,7 @@ _Operations about the cloud project kafka topics_
 
 ---
 
-### 🟠 PUT `PUT` — Updates the topic on the kafka cluster
+### 🟠 PUT — Updates the topic on the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8179,7 +8181,7 @@ _Operations about the cloud project kafka topics_
 
 _Operations about the cloud project kafka topic acls_
 
-### 🟢 GET `GET` — List topic acls of the kafka
+### 🟢 GET — List topic acls of the kafka
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8198,7 +8200,7 @@ _Operations about the cloud project kafka topic acls_
 
 ---
 
-### 🟡 POST `POST` — Create a new topic acl on the kafka cluster
+### 🟡 POST — Create a new topic acl on the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8223,7 +8225,7 @@ _Operations about the cloud project kafka topic acls_
 
 _Operations about the cloud project kafka topic acls_
 
-### 🔴 DELETE `DELETE` — Delete a kafka topic acl
+### 🔴 DELETE — Delete a kafka topic acl
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8243,7 +8245,7 @@ _Operations about the cloud project kafka topic acls_
 
 ---
 
-### 🟢 GET `GET` — Get kafka topic acls
+### 🟢 GET — Get kafka topic acls
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8268,7 +8270,7 @@ _Operations about the cloud project kafka topic acls_
 
 _Operations about the cloud project kafka users_
 
-### 🟢 GET `GET` — List users of the kafka
+### 🟢 GET — List users of the kafka
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8287,7 +8289,7 @@ _Operations about the cloud project kafka users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the kafka cluster
+### 🟡 POST — Create a new user on the kafka cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8312,7 +8314,7 @@ _Operations about the cloud project kafka users_
 
 _Operations about the cloud project kafka users_
 
-### 🔴 DELETE `DELETE` — Delete a kafka user
+### 🔴 DELETE — Delete a kafka user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8332,7 +8334,7 @@ _Operations about the cloud project kafka users_
 
 ---
 
-### 🟢 GET `GET` — Get kafka users
+### 🟢 GET — Get kafka users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8357,7 +8359,7 @@ _Operations about the cloud project kafka users_
 
 _Query operations on kafka cluster user access_
 
-### 🟢 GET `GET` — Retrieve the user acces for the cluster
+### 🟢 GET — Retrieve the user acces for the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8382,7 +8384,7 @@ _Query operations on kafka cluster user access_
 
 _Operations about the cloud project kafka users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8407,7 +8409,7 @@ _Operations about the cloud project kafka users credentials reset_
 
 _Operations about the cloud project kafkaConnect engine_
 
-### 🟢 GET `GET` — List all the kafkaConnect of the project
+### 🟢 GET — List all the kafkaConnect of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8425,7 +8427,7 @@ _Operations about the cloud project kafkaConnect engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new kafkaConnect cluster
+### 🟡 POST — Create a new kafkaConnect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8449,7 +8451,7 @@ _Operations about the cloud project kafkaConnect engine_
 
 _Operations about the cloud project kafkaConnect engine_
 
-### 🔴 DELETE `DELETE` — Delete a kafkaConnect cluster
+### 🔴 DELETE — Delete a kafkaConnect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8468,7 +8470,7 @@ _Operations about the cloud project kafkaConnect engine_
 
 ---
 
-### 🟢 GET `GET` — Get kafkaConnect cluster properties
+### 🟢 GET — Get kafkaConnect cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8487,7 +8489,7 @@ _Operations about the cloud project kafkaConnect engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing kafkaConnect cluster
+### 🟠 PUT — Update an existing kafkaConnect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8512,7 +8514,7 @@ _Operations about the cloud project kafkaConnect engine_
 
 _Operations about the cloud project kafkaConnect advanced configuration_
 
-### 🟢 GET `GET` — Get kafkaConnect advanced configuration
+### 🟢 GET — Get kafkaConnect advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8531,7 +8533,7 @@ _Operations about the cloud project kafkaConnect advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update kafkaConnect advanced configuration
+### 🟠 PUT — Update kafkaConnect advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8556,7 +8558,7 @@ _Operations about the cloud project kafkaConnect advanced configuration_
 
 _Operations about the cloud project kafkaConnect advanced configuration_
 
-### 🟢 GET `GET` — Get kafkaConnect advanced configuration fields
+### 🟢 GET — Get kafkaConnect advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8580,7 +8582,7 @@ _Operations about the cloud project kafkaConnect advanced configuration_
 
 _Operations related to available region backup capabilities for the kafkaconnect cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the kafkaconnect service
+### 🟢 GET — Get backup region capabilities related to the kafkaconnect service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8604,7 +8606,7 @@ _Operations related to available region backup capabilities for the kafkaconnect
 
 _Operations about the cloud project kafka connect connector capabilities_
 
-### 🟢 GET `GET` — List Kafka Connect connectors
+### 🟢 GET — List Kafka Connect connectors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8628,7 +8630,7 @@ _Operations about the cloud project kafka connect connector capabilities_
 
 _Operations about the cloud project kafka connect connector capabilities_
 
-### 🟢 GET `GET` — Get Kafka Connect connector capability
+### 🟢 GET — Get Kafka Connect connector capability
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8653,7 +8655,7 @@ _Operations about the cloud project kafka connect connector capabilities_
 
 _Operations about the cloud project kafka connect connector configuration_
 
-### 🟢 GET `GET` — Get Kafka Connect connector configuration
+### 🟢 GET — Get Kafka Connect connector configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8678,7 +8680,7 @@ _Operations about the cloud project kafka connect connector configuration_
 
 _Operations about the cloud project kafka connect connector transforms_
 
-### 🟢 GET `GET` — Get Kafka Connect connector transforms
+### 🟢 GET — Get Kafka Connect connector transforms
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8703,7 +8705,7 @@ _Operations about the cloud project kafka connect connector transforms_
 
 _Operations about the kafkaConnect cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the kafkaConnect service
+### 🟢 GET — Get integration capabilities related to the kafkaConnect service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8727,7 +8729,7 @@ _Operations about the kafkaConnect cloud project integration capabilities_
 
 _Operations about the cloud project kafkaConnect connectors_
 
-### 🟢 GET `GET` — List the connectors
+### 🟢 GET — List the connectors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8746,7 +8748,7 @@ _Operations about the cloud project kafkaConnect connectors_
 
 ---
 
-### 🟡 POST `POST` — Create a new connector
+### 🟡 POST — Create a new connector
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8771,7 +8773,7 @@ _Operations about the cloud project kafkaConnect connectors_
 
 _Operations about the cloud project kafkaConnect connectors_
 
-### 🔴 DELETE `DELETE` — Delete a connector
+### 🔴 DELETE — Delete a connector
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8791,7 +8793,7 @@ _Operations about the cloud project kafkaConnect connectors_
 
 ---
 
-### 🟢 GET `GET` — Get connector
+### 🟢 GET — Get connector
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8811,7 +8813,7 @@ _Operations about the cloud project kafkaConnect connectors_
 
 ---
 
-### 🟠 PUT `PUT` — Update a connector
+### 🟠 PUT — Update a connector
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8837,7 +8839,7 @@ _Operations about the cloud project kafkaConnect connectors_
 
 _Operations about pausing kafka connectors_
 
-### 🟡 POST `POST` — Pause the kafka connector execution
+### 🟡 POST — Pause the kafka connector execution
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8862,7 +8864,7 @@ _Operations about pausing kafka connectors_
 
 _Operations about restarting kafka connectors_
 
-### 🟡 POST `POST` — Restart the kafka connector execution
+### 🟡 POST — Restart the kafka connector execution
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8887,7 +8889,7 @@ _Operations about restarting kafka connectors_
 
 _Operations about resuming kafka connectors_
 
-### 🟡 POST `POST` — Resume the kafka connector execution
+### 🟡 POST — Resume the kafka connector execution
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8912,7 +8914,7 @@ _Operations about resuming kafka connectors_
 
 _Operations about the cloud project kafkaConnect connectors tasks_
 
-### 🟢 GET `GET` — List the connector tasks
+### 🟢 GET — List the connector tasks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8937,7 +8939,7 @@ _Operations about the cloud project kafkaConnect connectors tasks_
 
 _Operations about the cloud project kafkaConnect connectors tasks_
 
-### 🟢 GET `GET` — Get connector task
+### 🟢 GET — Get connector task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8963,7 +8965,7 @@ _Operations about the cloud project kafkaConnect connectors tasks_
 
 _Operations about restarting kafka connectors tasks_
 
-### 🟡 POST `POST` — Restart the kafka connector task execution
+### 🟡 POST — Restart the kafka connector task execution
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -8989,7 +8991,7 @@ _Operations about restarting kafka connectors tasks_
 
 _Operations about the cloud project kafka connect integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9008,7 +9010,7 @@ _Operations about the cloud project kafka connect integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9033,7 +9035,7 @@ _Operations about the cloud project kafka connect integrations_
 
 _Operations about the cloud project kafka connect integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9053,7 +9055,7 @@ _Operations about the cloud project kafka connect integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9078,7 +9080,7 @@ _Operations about the cloud project kafka connect integrations_
 
 _Operations about the cloud project kafkaConnect ip restrictions_
 
-### 🟢 GET `GET` — List kafkaConnect ip restrictions
+### 🟢 GET — List kafkaConnect ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9097,7 +9099,7 @@ _Operations about the cloud project kafkaConnect ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the kafkaConnect
+### 🟡 POST — Add ip restrictions to the kafkaConnect
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9122,7 +9124,7 @@ _Operations about the cloud project kafkaConnect ip restrictions_
 
 _Operations about the cloud project kafkaConnect ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the kafkaConnect
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the kafkaConnect
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9142,7 +9144,7 @@ _Operations about the cloud project kafkaConnect ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get kafkaConnect ip restrictions
+### 🟢 GET — Get kafkaConnect ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9162,7 +9164,7 @@ _Operations about the cloud project kafkaConnect ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the kafkaConnect
+### 🟠 PUT — Changes the list of ip restrictions to the kafkaConnect
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -9188,7 +9190,7 @@ _Operations about the cloud project kafkaConnect ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9212,7 +9214,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9237,7 +9239,7 @@ _Access to available log kind_
 
 _Query operations on kafkaConnect cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9257,7 +9259,7 @@ _Query operations on kafkaConnect cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a kafkaConnect
+### 🟡 POST — Create subscription to log to customer for a kafkaConnect
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9282,7 +9284,7 @@ _Query operations on kafkaConnect cluster logs subscription to log to customer_
 
 _Query operations on kafkaConnect cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9302,7 +9304,7 @@ _Query operations on kafkaConnect cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9327,7 +9329,7 @@ _Query operations on kafkaConnect cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9352,7 +9354,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on kafkaConnect cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent kafkaConnect log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent kafkaConnect log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9376,7 +9378,7 @@ _Query operations on kafkaConnect cluster logs_
 
 _Query operations on kafka connect cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the kafka connect cluster
+### 🟢 GET — List maintenances for the kafka connect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9400,7 +9402,7 @@ _Query operations on kafka connect cluster maintenance_
 
 _Query operations on kafka connect cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the kafka connect cluster
+### 🟢 GET — Get the maintenance for the kafka connect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9425,7 +9427,7 @@ _Query operations on kafka connect cluster maintenance_
 
 _Operations about the cloud project kafka connect maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9450,7 +9452,7 @@ _Operations about the cloud project kafka connect maintenance apply_
 
 _Query operations on kafkaConnect cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the kafkaConnect cluster
+### 🟢 GET — List available metrics for the kafkaConnect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9475,7 +9477,7 @@ _Query operations on kafkaConnect cluster metrics_
 
 _Query operations on kafkaConnect cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the kafkaConnect cluster
+### 🟢 GET — Get the metric values for the kafkaConnect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9501,7 +9503,7 @@ _Query operations on kafkaConnect cluster metrics_
 
 _Operations about the cloud project kafkaConnect nodes_
 
-### 🟢 GET `GET` — List nodes of the kafkaConnect
+### 🟢 GET — List nodes of the kafkaConnect
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9525,7 +9527,7 @@ _Operations about the cloud project kafkaConnect nodes_
 
 _Operations about the cloud project kafkaConnect nodes_
 
-### 🟢 GET `GET` — Get kafkaConnect nodes
+### 🟢 GET — Get kafkaConnect nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9550,7 +9552,7 @@ _Operations about the cloud project kafkaConnect nodes_
 
 _Operations about the cloud project Kafka Connect Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for Kafka Connect cluster Prometheus
+### 🟢 GET — Get the endpoint for Kafka Connect cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9574,7 +9576,7 @@ _Operations about the cloud project Kafka Connect Prometheus_
 
 _Operations about the cloud project Kafka Connect Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9598,7 +9600,7 @@ _Operations about the cloud project Kafka Connect Prometheus credentials reset_
 
 _Operations about the cloud project kafkaConnect users_
 
-### 🟢 GET `GET` — List users of the kafkaConnect
+### 🟢 GET — List users of the kafkaConnect
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9617,7 +9619,7 @@ _Operations about the cloud project kafkaConnect users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the kafkaConnect cluster
+### 🟡 POST — Create a new user on the kafkaConnect cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9642,7 +9644,7 @@ _Operations about the cloud project kafkaConnect users_
 
 _Operations about the cloud project kafkaConnect users_
 
-### 🔴 DELETE `DELETE` — Delete a kafkaConnect user
+### 🔴 DELETE — Delete a kafkaConnect user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9662,7 +9664,7 @@ _Operations about the cloud project kafkaConnect users_
 
 ---
 
-### 🟢 GET `GET` — Get kafkaConnect users
+### 🟢 GET — Get kafkaConnect users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9687,7 +9689,7 @@ _Operations about the cloud project kafkaConnect users_
 
 _Operations about the cloud project kafkaConnect users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9712,7 +9714,7 @@ _Operations about the cloud project kafkaConnect users credentials reset_
 
 _Operations about the cloud project kafkaMirrorMaker engine_
 
-### 🟢 GET `GET` — List all the kafkaMirrorMaker of the project
+### 🟢 GET — List all the kafkaMirrorMaker of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9730,7 +9732,7 @@ _Operations about the cloud project kafkaMirrorMaker engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new kafkaMirrorMaker
+### 🟡 POST — Create a new kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9754,7 +9756,7 @@ _Operations about the cloud project kafkaMirrorMaker engine_
 
 _Operations about the cloud project kafkaMirrorMaker engine_
 
-### 🔴 DELETE `DELETE` — Delete a kafkaMirrorMaker
+### 🔴 DELETE — Delete a kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9773,7 +9775,7 @@ _Operations about the cloud project kafkaMirrorMaker engine_
 
 ---
 
-### 🟢 GET `GET` — Get kafkaMirrorMaker properties
+### 🟢 GET — Get kafkaMirrorMaker properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9792,7 +9794,7 @@ _Operations about the cloud project kafkaMirrorMaker engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing kafkaMirrorMaker
+### 🟠 PUT — Update an existing kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9817,7 +9819,7 @@ _Operations about the cloud project kafkaMirrorMaker engine_
 
 _Operations about the kafkaMirrorMaker cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the kafkaMirrorMaker service
+### 🟢 GET — Get integration capabilities related to the kafkaMirrorMaker service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9841,7 +9843,7 @@ _Operations about the kafkaMirrorMaker cloud project integration capabilities_
 
 _Operations about the cloud project kafka mirrormaker integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9860,7 +9862,7 @@ _Operations about the cloud project kafka mirrormaker integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9885,7 +9887,7 @@ _Operations about the cloud project kafka mirrormaker integrations_
 
 _Operations about the cloud project kafka mirrormaker integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9905,7 +9907,7 @@ _Operations about the cloud project kafka mirrormaker integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9930,7 +9932,7 @@ _Operations about the cloud project kafka mirrormaker integrations_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9954,7 +9956,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9979,7 +9981,7 @@ _Access to available log kind_
 
 _Query operations on kafkaMirrorMaker cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -9999,7 +10001,7 @@ _Query operations on kafkaMirrorMaker cluster logs subscription to log to custom
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a kafkaMirrorMaker
+### 🟡 POST — Create subscription to log to customer for a kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10024,7 +10026,7 @@ _Query operations on kafkaMirrorMaker cluster logs subscription to log to custom
 
 _Query operations on kafkaMirrorMaker cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10044,7 +10046,7 @@ _Query operations on kafkaMirrorMaker cluster logs subscription to log to custom
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10069,7 +10071,7 @@ _Query operations on kafkaMirrorMaker cluster logs subscription to log to custom
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10094,7 +10096,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on kafkaMirrorMaker logs_
 
-### 🟢 GET `GET` — Retrieve the most recent kafkaMirrorMaker log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent kafkaMirrorMaker log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10118,7 +10120,7 @@ _Query operations on kafkaMirrorMaker logs_
 
 _Query operations on kafka mirror maker cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the kafka mirror maker cluster
+### 🟢 GET — List maintenances for the kafka mirror maker cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10142,7 +10144,7 @@ _Query operations on kafka mirror maker cluster maintenance_
 
 _Query operations on kafka mirror maker cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the kafka mirror maker cluster
+### 🟢 GET — Get the maintenance for the kafka mirror maker cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10167,7 +10169,7 @@ _Query operations on kafka mirror maker cluster maintenance_
 
 _Operations about the cloud project kafka mirror maker maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10192,7 +10194,7 @@ _Operations about the cloud project kafka mirror maker maintenance apply_
 
 _Query operations on kafkaMirrorMaker metrics_
 
-### 🟢 GET `GET` — List available metrics for the kafkaMirrorMaker
+### 🟢 GET — List available metrics for the kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10217,7 +10219,7 @@ _Query operations on kafkaMirrorMaker metrics_
 
 _Query operations on kafkaMirrorMaker metrics_
 
-### 🟢 GET `GET` — Get the metric values for the kafkaMirrorMaker
+### 🟢 GET — Get the metric values for the kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10243,7 +10245,7 @@ _Query operations on kafkaMirrorMaker metrics_
 
 _Operations about the cloud project kafkaMirrorMaker nodes_
 
-### 🟢 GET `GET` — List nodes of the kafkaMirrorMaker
+### 🟢 GET — List nodes of the kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10267,7 +10269,7 @@ _Operations about the cloud project kafkaMirrorMaker nodes_
 
 _Operations about the cloud project kafkaMirrorMaker nodes_
 
-### 🟢 GET `GET` — Get kafkaMirrorMaker nodes
+### 🟢 GET — Get kafkaMirrorMaker nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10292,7 +10294,7 @@ _Operations about the cloud project kafkaMirrorMaker nodes_
 
 _Operations about the cloud project Kafka Mirror Maker Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for Kafka Mirror Maker cluster Prometheus
+### 🟢 GET — Get the endpoint for Kafka Mirror Maker cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10316,7 +10318,7 @@ _Operations about the cloud project Kafka Mirror Maker Prometheus_
 
 _Operations about the cloud project Kafka Mirror Maker Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10340,7 +10342,7 @@ _Operations about the cloud project Kafka Mirror Maker Prometheus credentials re
 
 _Operations about the cloud project kafkaMirrorMaker replications_
 
-### 🟢 GET `GET` — List replication of the kafkaMirrorMaker
+### 🟢 GET — List replication of the kafkaMirrorMaker
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10359,7 +10361,7 @@ _Operations about the cloud project kafkaMirrorMaker replications_
 
 ---
 
-### 🟡 POST `POST` — Create a new replication
+### 🟡 POST — Create a new replication
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10384,7 +10386,7 @@ _Operations about the cloud project kafkaMirrorMaker replications_
 
 _Operations about the cloud project kafkaMirrorMaker replications_
 
-### 🔴 DELETE `DELETE` — Delete an replication
+### 🔴 DELETE — Delete an replication
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10404,7 +10406,7 @@ _Operations about the cloud project kafkaMirrorMaker replications_
 
 ---
 
-### 🟢 GET `GET` — Get kafkaMirrorMaker replication
+### 🟢 GET — Get kafkaMirrorMaker replication
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10424,7 +10426,7 @@ _Operations about the cloud project kafkaMirrorMaker replications_
 
 ---
 
-### 🟠 PUT `PUT` — Updates a replication
+### 🟠 PUT — Updates a replication
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10450,7 +10452,7 @@ _Operations about the cloud project kafkaMirrorMaker replications_
 
 _Operations about the cloud project m3aggregator engine_
 
-### 🟢 GET `GET` — List all the m3aggregator of the project
+### 🟢 GET — List all the m3aggregator of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10468,7 +10470,7 @@ _Operations about the cloud project m3aggregator engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new m3aggregator
+### 🟡 POST — Create a new m3aggregator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10492,7 +10494,7 @@ _Operations about the cloud project m3aggregator engine_
 
 _Operations about the cloud project m3aggregator engine_
 
-### 🔴 DELETE `DELETE` — Delete a m3aggregator
+### 🔴 DELETE — Delete a m3aggregator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10511,7 +10513,7 @@ _Operations about the cloud project m3aggregator engine_
 
 ---
 
-### 🟢 GET `GET` — Get m3aggregator properties
+### 🟢 GET — Get m3aggregator properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10530,7 +10532,7 @@ _Operations about the cloud project m3aggregator engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing m3aggregator
+### 🟠 PUT — Update an existing m3aggregator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10555,7 +10557,7 @@ _Operations about the cloud project m3aggregator engine_
 
 _Operations about the m3aggregator cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the m3aggregator service
+### 🟢 GET — Get integration capabilities related to the m3aggregator service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10579,7 +10581,7 @@ _Operations about the m3aggregator cloud project integration capabilities_
 
 _Operations about the cloud project m3aggregator integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10598,7 +10600,7 @@ _Operations about the cloud project m3aggregator integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10623,7 +10625,7 @@ _Operations about the cloud project m3aggregator integrations_
 
 _Operations about the cloud project m3aggregator integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10643,7 +10645,7 @@ _Operations about the cloud project m3aggregator integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10668,7 +10670,7 @@ _Operations about the cloud project m3aggregator integrations_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10692,7 +10694,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10717,7 +10719,7 @@ _Access to available log kind_
 
 _Query operations on m3aggregator cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10737,7 +10739,7 @@ _Query operations on m3aggregator cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a m3aggregator
+### 🟡 POST — Create subscription to log to customer for a m3aggregator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10762,7 +10764,7 @@ _Query operations on m3aggregator cluster logs subscription to log to customer_
 
 _Query operations on m3aggregator cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10782,7 +10784,7 @@ _Query operations on m3aggregator cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10807,7 +10809,7 @@ _Query operations on m3aggregator cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10832,7 +10834,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on m3aggregator logs_
 
-### 🟢 GET `GET` — Retrieve the most recent m3aggregator log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent m3aggregator log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10856,7 +10858,7 @@ _Query operations on m3aggregator logs_
 
 _Query operations on m3aggregator cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the m3aggregator cluster
+### 🟢 GET — List maintenances for the m3aggregator cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10880,7 +10882,7 @@ _Query operations on m3aggregator cluster maintenance_
 
 _Query operations on m3aggregator cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the m3aggregator cluster
+### 🟢 GET — Get the maintenance for the m3aggregator cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10905,7 +10907,7 @@ _Query operations on m3aggregator cluster maintenance_
 
 _Operations about the cloud project m3aggregator maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10930,7 +10932,7 @@ _Operations about the cloud project m3aggregator maintenance apply_
 
 _Query operations on m3aggregator metrics_
 
-### 🟢 GET `GET` — List available metrics for the m3aggregator
+### 🟢 GET — List available metrics for the m3aggregator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10955,7 +10957,7 @@ _Query operations on m3aggregator metrics_
 
 _Query operations on m3aggregator metrics_
 
-### 🟢 GET `GET` — Get the metric values for the m3aggregator
+### 🟢 GET — Get the metric values for the m3aggregator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -10981,7 +10983,7 @@ _Query operations on m3aggregator metrics_
 
 _Operations about the cloud project m3aggregator nodes_
 
-### 🟢 GET `GET` — List nodes of the m3aggregator
+### 🟢 GET — List nodes of the m3aggregator
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11005,7 +11007,7 @@ _Operations about the cloud project m3aggregator nodes_
 
 _Operations about the cloud project m3aggregator nodes_
 
-### 🟢 GET `GET` — Get m3aggregator nodes
+### 🟢 GET — Get m3aggregator nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11030,7 +11032,7 @@ _Operations about the cloud project m3aggregator nodes_
 
 _Operations about the cloud project m3db engine_
 
-### 🟢 GET `GET` — List all the m3db clusters of the project
+### 🟢 GET — List all the m3db clusters of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11048,7 +11050,7 @@ _Operations about the cloud project m3db engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new m3db cluster
+### 🟡 POST — Create a new m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11072,7 +11074,7 @@ _Operations about the cloud project m3db engine_
 
 _Operations about the cloud project m3db engine_
 
-### 🔴 DELETE `DELETE` — Delete a m3db cluster
+### 🔴 DELETE — Delete a m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11091,7 +11093,7 @@ _Operations about the cloud project m3db engine_
 
 ---
 
-### 🟢 GET `GET` — Get m3db cluster properties
+### 🟢 GET — Get m3db cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11110,7 +11112,7 @@ _Operations about the cloud project m3db engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing m3db cluster
+### 🟠 PUT — Update an existing m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11135,7 +11137,7 @@ _Operations about the cloud project m3db engine_
 
 _Operations about the cloud project m3db advanced configuration_
 
-### 🟢 GET `GET` — Get m3db advanced configuration
+### 🟢 GET — Get m3db advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11154,7 +11156,7 @@ _Operations about the cloud project m3db advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update m3db advanced configuration
+### 🟠 PUT — Update m3db advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11179,7 +11181,7 @@ _Operations about the cloud project m3db advanced configuration_
 
 _Operations about the cloud project m3db backups_
 
-### 🟢 GET `GET` — List backups of the m3db
+### 🟢 GET — List backups of the m3db
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11203,7 +11205,7 @@ _Operations about the cloud project m3db backups_
 
 _Operations about the cloud project m3db backups_
 
-### 🟢 GET `GET` — Get m3db backups
+### 🟢 GET — Get m3db backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11228,7 +11230,7 @@ _Operations about the cloud project m3db backups_
 
 _Operations about the cloud project m3db advanced configuration_
 
-### 🟢 GET `GET` — Get m3db advanced configuration fields
+### 🟢 GET — Get m3db advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11252,7 +11254,7 @@ _Operations about the cloud project m3db advanced configuration_
 
 _Operations about the m3db cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the m3db service
+### 🟢 GET — Get integration capabilities related to the m3db service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11276,7 +11278,7 @@ _Operations about the m3db cloud project integration capabilities_
 
 _Operations about the cloud project M3DB integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11295,7 +11297,7 @@ _Operations about the cloud project M3DB integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11320,7 +11322,7 @@ _Operations about the cloud project M3DB integrations_
 
 _Operations about the cloud project M3DB integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11340,7 +11342,7 @@ _Operations about the cloud project M3DB integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11365,7 +11367,7 @@ _Operations about the cloud project M3DB integrations_
 
 _Operations about the cloud project m3db ip restrictions_
 
-### 🟢 GET `GET` — List m3db ip restrictions
+### 🟢 GET — List m3db ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11384,7 +11386,7 @@ _Operations about the cloud project m3db ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the m3db
+### 🟡 POST — Add ip restrictions to the m3db
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11409,7 +11411,7 @@ _Operations about the cloud project m3db ip restrictions_
 
 _Operations about the cloud project m3db ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the m3db
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the m3db
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11429,7 +11431,7 @@ _Operations about the cloud project m3db ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get m3db ip restrictions
+### 🟢 GET — Get m3db ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11449,7 +11451,7 @@ _Operations about the cloud project m3db ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the m3db
+### 🟠 PUT — Changes the list of ip restrictions to the m3db
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -11475,7 +11477,7 @@ _Operations about the cloud project m3db ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11499,7 +11501,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11524,7 +11526,7 @@ _Access to available log kind_
 
 _Query operations on m3db cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11544,7 +11546,7 @@ _Query operations on m3db cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a m3db
+### 🟡 POST — Create subscription to log to customer for a m3db
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11569,7 +11571,7 @@ _Query operations on m3db cluster logs subscription to log to customer_
 
 _Query operations on m3db cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11589,7 +11591,7 @@ _Query operations on m3db cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11614,7 +11616,7 @@ _Query operations on m3db cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11639,7 +11641,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on m3db cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent m3db log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent m3db log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11663,7 +11665,7 @@ _Query operations on m3db cluster logs_
 
 _Query operations on m3db cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the m3db cluster
+### 🟢 GET — List maintenances for the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11687,7 +11689,7 @@ _Query operations on m3db cluster maintenance_
 
 _Query operations on m3db cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the m3db cluster
+### 🟢 GET — Get the maintenance for the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11712,7 +11714,7 @@ _Query operations on m3db cluster maintenance_
 
 _Operations about the cloud project m3db maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11737,7 +11739,7 @@ _Operations about the cloud project m3db maintenance apply_
 
 _Query operations on m3db cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the m3db cluster
+### 🟢 GET — List available metrics for the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11762,7 +11764,7 @@ _Query operations on m3db cluster metrics_
 
 _Query operations on m3db cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the m3db cluster
+### 🟢 GET — Get the metric values for the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11788,7 +11790,7 @@ _Query operations on m3db cluster metrics_
 
 _Operations about the cloud project m3db namespaces_
 
-### 🟢 GET `GET` — List namespaces of the m3db
+### 🟢 GET — List namespaces of the m3db
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11807,7 +11809,7 @@ _Operations about the cloud project m3db namespaces_
 
 ---
 
-### 🟡 POST `POST` — Create a new namespace on the m3db cluster
+### 🟡 POST — Create a new namespace on the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11832,7 +11834,7 @@ _Operations about the cloud project m3db namespaces_
 
 _Operations about the cloud project m3db namespaces_
 
-### 🔴 DELETE `DELETE` — Delete m3db namespace
+### 🔴 DELETE — Delete m3db namespace
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11852,7 +11854,7 @@ _Operations about the cloud project m3db namespaces_
 
 ---
 
-### 🟢 GET `GET` — Get m3db namespaces
+### 🟢 GET — Get m3db namespaces
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11872,7 +11874,7 @@ _Operations about the cloud project m3db namespaces_
 
 ---
 
-### 🟠 PUT `PUT` — Updates the namespace on the m3db cluster
+### 🟠 PUT — Updates the namespace on the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11898,7 +11900,7 @@ _Operations about the cloud project m3db namespaces_
 
 _Operations about the cloud project m3db nodes_
 
-### 🟢 GET `GET` — List nodes of the m3db
+### 🟢 GET — List nodes of the m3db
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11922,7 +11924,7 @@ _Operations about the cloud project m3db nodes_
 
 _Operations about the cloud project m3db nodes_
 
-### 🟢 GET `GET` — Get m3db nodes
+### 🟢 GET — Get m3db nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11947,7 +11949,7 @@ _Operations about the cloud project m3db nodes_
 
 _Operations about the cloud project m3db users_
 
-### 🟢 GET `GET` — List users of the m3db
+### 🟢 GET — List users of the m3db
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11966,7 +11968,7 @@ _Operations about the cloud project m3db users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the m3db cluster
+### 🟡 POST — Create a new user on the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -11991,7 +11993,7 @@ _Operations about the cloud project m3db users_
 
 _Operations about the cloud project m3db users_
 
-### 🔴 DELETE `DELETE` — Delete m3db user
+### 🔴 DELETE — Delete m3db user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12011,7 +12013,7 @@ _Operations about the cloud project m3db users_
 
 ---
 
-### 🟢 GET `GET` — Get m3db users
+### 🟢 GET — Get m3db users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12031,7 +12033,7 @@ _Operations about the cloud project m3db users_
 
 ---
 
-### 🟠 PUT `PUT` — Updates the user on the m3db cluster
+### 🟠 PUT — Updates the user on the m3db cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12057,7 +12059,7 @@ _Operations about the cloud project m3db users_
 
 _Operations about the cloud project m3db users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12082,7 +12084,7 @@ _Operations about the cloud project m3db users credentials reset_
 
 _Operations about the cloud project mongodb engines_
 
-### 🟢 GET `GET` — List mongodbs of the project
+### 🟢 GET — List mongodbs of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12100,7 +12102,7 @@ _Operations about the cloud project mongodb engines_
 
 ---
 
-### 🟡 POST `POST` — Create a new mongodb cluster
+### 🟡 POST — Create a new mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12124,7 +12126,7 @@ _Operations about the cloud project mongodb engines_
 
 _Operations about the cloud project mongodb engines_
 
-### 🔴 DELETE `DELETE` — Delete a mongodb cluster
+### 🔴 DELETE — Delete a mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12143,7 +12145,7 @@ _Operations about the cloud project mongodb engines_
 
 ---
 
-### 🟢 GET `GET` — Get mongodb cluster properties
+### 🟢 GET — Get mongodb cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12162,7 +12164,7 @@ _Operations about the cloud project mongodb engines_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing mongodb cluster
+### 🟠 PUT — Update an existing mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12187,7 +12189,7 @@ _Operations about the cloud project mongodb engines_
 
 _Operations about the cloud project mongodb backups_
 
-### 🟢 GET `GET` — List backups of the mongodb
+### 🟢 GET — List backups of the mongodb
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12211,7 +12213,7 @@ _Operations about the cloud project mongodb backups_
 
 _Operations about the cloud project mongodb backups_
 
-### 🟢 GET `GET` — Get mongodb backups
+### 🟢 GET — Get mongodb backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12236,7 +12238,7 @@ _Operations about the cloud project mongodb backups_
 
 _Operations about the cloud project mongodb backups restore_
 
-### 🟡 POST `POST` — Restore the backup
+### 🟡 POST — Restore the backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12261,7 +12263,7 @@ _Operations about the cloud project mongodb backups restore_
 
 _Operations about the cloud project mongodb ip restrictions_
 
-### 🟢 GET `GET` — List mongodb ip restrictions
+### 🟢 GET — List mongodb ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12280,7 +12282,7 @@ _Operations about the cloud project mongodb ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the mongodb
+### 🟡 POST — Add ip restrictions to the mongodb
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12305,7 +12307,7 @@ _Operations about the cloud project mongodb ip restrictions_
 
 _Operations about the cloud project mongodb ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the mongodb
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the mongodb
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12325,7 +12327,7 @@ _Operations about the cloud project mongodb ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get mongodb ip restrictions
+### 🟢 GET — Get mongodb ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12345,7 +12347,7 @@ _Operations about the cloud project mongodb ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the mongodb
+### 🟠 PUT — Changes the list of ip restrictions to the mongodb
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -12371,7 +12373,7 @@ _Operations about the cloud project mongodb ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12395,7 +12397,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12420,7 +12422,7 @@ _Access to available log kind_
 
 _Query operations on mongodb cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12440,7 +12442,7 @@ _Query operations on mongodb cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a mongodb
+### 🟡 POST — Create subscription to log to customer for a mongodb
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12465,7 +12467,7 @@ _Query operations on mongodb cluster logs subscription to log to customer_
 
 _Query operations on mongodb cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12485,7 +12487,7 @@ _Query operations on mongodb cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12510,7 +12512,7 @@ _Query operations on mongodb cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12535,7 +12537,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on mongodb cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent mongoDB log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent mongoDB log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12559,7 +12561,7 @@ _Query operations on mongodb cluster logs_
 
 _Query operations on mongodb cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the mongodb cluster
+### 🟢 GET — List maintenances for the mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12583,7 +12585,7 @@ _Query operations on mongodb cluster maintenance_
 
 _Query operations on mongodb cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the mongodb cluster
+### 🟢 GET — Get the maintenance for the mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12608,7 +12610,7 @@ _Query operations on mongodb cluster maintenance_
 
 _Operations about the cloud project mongodb maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12633,7 +12635,7 @@ _Operations about the cloud project mongodb maintenance apply_
 
 _Query operations on mongodb cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the mongodb cluster
+### 🟢 GET — List available metrics for the mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12658,7 +12660,7 @@ _Query operations on mongodb cluster metrics_
 
 _Query operations on mongodb cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the mongodb cluster
+### 🟢 GET — Get the metric values for the mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12684,7 +12686,7 @@ _Query operations on mongodb cluster metrics_
 
 _Operations about the cloud project mongodb nodes_
 
-### 🟢 GET `GET` — List nodes of the mongodb
+### 🟢 GET — List nodes of the mongodb
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12703,7 +12705,7 @@ _Operations about the cloud project mongodb nodes_
 
 ---
 
-### 🟡 POST `POST` — Create a new node on the mongodb cluster
+### 🟡 POST — Create a new node on the mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12728,7 +12730,7 @@ _Operations about the cloud project mongodb nodes_
 
 _Operations about the cloud project mongodb nodes_
 
-### 🔴 DELETE `DELETE` — Delete a mongodb cluster's node
+### 🔴 DELETE — Delete a mongodb cluster's node
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12748,7 +12750,7 @@ _Operations about the cloud project mongodb nodes_
 
 ---
 
-### 🟢 GET `GET` — Get mongodb nodes
+### 🟢 GET — Get mongodb nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12768,7 +12770,7 @@ _Operations about the cloud project mongodb nodes_
 
 ---
 
-### 🟠 PUT `PUT` — Modify mongodb nodes
+### 🟠 PUT — Modify mongodb nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12794,7 +12796,7 @@ _Operations about the cloud project mongodb nodes_
 
 _Operations about the cloud project MongoDB Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for MongoDB cluster Prometheus
+### 🟢 GET — Get the endpoint for MongoDB cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12818,7 +12820,7 @@ _Operations about the cloud project MongoDB Prometheus_
 
 _Operations about the cloud project MongoDB Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12842,7 +12844,7 @@ _Operations about the cloud project MongoDB Prometheus credentials reset_
 
 _Operations related to service restore_
 
-### 🟡 POST `POST` — Initiate a restore
+### 🟡 POST — Initiate a restore
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12867,7 +12869,7 @@ _Operations related to service restore_
 
 _Operations about the cloud project mongodb roles_
 
-### 🟢 GET `GET` — Get mongodb roles
+### 🟢 GET — Get mongodb roles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12892,7 +12894,7 @@ _Operations about the cloud project mongodb roles_
 
 _Operations about the cloud project mongodb users_
 
-### 🟢 GET `GET` — List users of the mongodb
+### 🟢 GET — List users of the mongodb
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12911,7 +12913,7 @@ _Operations about the cloud project mongodb users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the mongodb cluster
+### 🟡 POST — Create a new user on the mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12936,7 +12938,7 @@ _Operations about the cloud project mongodb users_
 
 _Operations about the cloud project mongodb users_
 
-### 🔴 DELETE `DELETE` — Delete a mongodb user
+### 🔴 DELETE — Delete a mongodb user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12956,7 +12958,7 @@ _Operations about the cloud project mongodb users_
 
 ---
 
-### 🟢 GET `GET` — Get mongodb users
+### 🟢 GET — Get mongodb users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -12976,7 +12978,7 @@ _Operations about the cloud project mongodb users_
 
 ---
 
-### 🟠 PUT `PUT` — Updates the user on the mongodb cluster
+### 🟠 PUT — Updates the user on the mongodb cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13002,7 +13004,7 @@ _Operations about the cloud project mongodb users_
 
 _Operations about the cloud project mongodb users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13027,7 +13029,7 @@ _Operations about the cloud project mongodb users credentials reset_
 
 _Operations about the cloud project MySQL engine_
 
-### 🟢 GET `GET` — List all the MySQL of the project
+### 🟢 GET — List all the MySQL of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13045,7 +13047,7 @@ _Operations about the cloud project MySQL engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new MySQL cluster
+### 🟡 POST — Create a new MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13069,7 +13071,7 @@ _Operations about the cloud project MySQL engine_
 
 _Operations about the cloud project MySQL engine_
 
-### 🔴 DELETE `DELETE` — Delete a MySQL cluster
+### 🔴 DELETE — Delete a MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13088,7 +13090,7 @@ _Operations about the cloud project MySQL engine_
 
 ---
 
-### 🟢 GET `GET` — Get MySQL cluster properties
+### 🟢 GET — Get MySQL cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13107,7 +13109,7 @@ _Operations about the cloud project MySQL engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing mysql cluster
+### 🟠 PUT — Update an existing mysql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13132,7 +13134,7 @@ _Operations about the cloud project MySQL engine_
 
 _Operations about the cloud project MySQL advanced configuration_
 
-### 🟢 GET `GET` — Get MySQL advanced configuration
+### 🟢 GET — Get MySQL advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13151,7 +13153,7 @@ _Operations about the cloud project MySQL advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update MySQL advanced configuration
+### 🟠 PUT — Update MySQL advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13176,7 +13178,7 @@ _Operations about the cloud project MySQL advanced configuration_
 
 _Operations about the cloud project MySQL backups_
 
-### 🟢 GET `GET` — List backups of the MySQL
+### 🟢 GET — List backups of the MySQL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13200,7 +13202,7 @@ _Operations about the cloud project MySQL backups_
 
 _Operations about the cloud project MySQL backups_
 
-### 🟢 GET `GET` — Get MySQL backups
+### 🟢 GET — Get MySQL backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13225,7 +13227,7 @@ _Operations about the cloud project MySQL backups_
 
 _Operations about the cloud project MySQL advanced configuration_
 
-### 🟢 GET `GET` — Get MySQL advanced configuration fields
+### 🟢 GET — Get MySQL advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13249,7 +13251,7 @@ _Operations about the cloud project MySQL advanced configuration_
 
 _Operations related to available region backup capabilities for the mysql cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the mysql service
+### 🟢 GET — Get backup region capabilities related to the mysql service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13273,7 +13275,7 @@ _Operations related to available region backup capabilities for the mysql cloud 
 
 _Operations about the MySQL cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the MySQL service
+### 🟢 GET — Get integration capabilities related to the MySQL service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13297,7 +13299,7 @@ _Operations about the MySQL cloud project integration capabilities_
 
 _Operations about MySQL certificates_
 
-### 🟢 GET `GET` — Retrieve the certificates of the MySQL cluster
+### 🟢 GET — Retrieve the certificates of the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13321,7 +13323,7 @@ _Operations about MySQL certificates_
 
 _Current queries of MySQL cluster_
 
-### 🟢 GET `GET` — Retrieve the current queries for the cluster
+### 🟢 GET — Retrieve the current queries for the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13347,7 +13349,7 @@ _Current queries of MySQL cluster_
 
 _Cancel a current query on MySQL cluster_
 
-### 🟡 POST `POST` — Cancel the given current query of the cluster
+### 🟡 POST — Cancel the given current query of the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13372,7 +13374,7 @@ _Cancel a current query on MySQL cluster_
 
 _Query operations on MySQL cluster database_
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13391,7 +13393,7 @@ _Query operations on MySQL cluster database_
 
 ---
 
-### 🟡 POST `POST` — Create a new database on the MySQL cluster
+### 🟡 POST — Create a new database on the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13416,7 +13418,7 @@ _Query operations on MySQL cluster database_
 
 _Query operations on MySQL cluster database_
 
-### 🔴 DELETE `DELETE` — Delete a MySQL database
+### 🔴 DELETE — Delete a MySQL database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13436,7 +13438,7 @@ _Query operations on MySQL cluster database_
 
 ---
 
-### 🟢 GET `GET` — Get the database for the MySQL cluster
+### 🟢 GET — Get the database for the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13461,7 +13463,7 @@ _Query operations on MySQL cluster database_
 
 _Query operations on MySQL cluster database write permissions_
 
-### 🟡 POST `POST` — Enable temporary write permission on readonly lock MySQL service
+### 🟡 POST — Enable temporary write permission on readonly lock MySQL service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13485,7 +13487,7 @@ _Query operations on MySQL cluster database write permissions_
 
 _Operations about the cloud project MySQL integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13504,7 +13506,7 @@ _Operations about the cloud project MySQL integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13529,7 +13531,7 @@ _Operations about the cloud project MySQL integrations_
 
 _Operations about the cloud project MySQL integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13549,7 +13551,7 @@ _Operations about the cloud project MySQL integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13574,7 +13576,7 @@ _Operations about the cloud project MySQL integrations_
 
 _Operations about the cloud project MySQL ip restrictions_
 
-### 🟢 GET `GET` — List MySQL ip restrictions
+### 🟢 GET — List MySQL ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -13593,7 +13595,7 @@ _Operations about the cloud project MySQL ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the MySQL
+### 🟡 POST — Add ip restrictions to the MySQL
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -13618,7 +13620,7 @@ _Operations about the cloud project MySQL ip restrictions_
 
 _Operations about the cloud project MySQL ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the MySQL
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the MySQL
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -13638,7 +13640,7 @@ _Operations about the cloud project MySQL ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get MySQL ip restrictions
+### 🟢 GET — Get MySQL ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -13658,7 +13660,7 @@ _Operations about the cloud project MySQL ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the MySQL
+### 🟠 PUT — Changes the list of ip restrictions to the MySQL
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -13684,7 +13686,7 @@ _Operations about the cloud project MySQL ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13708,7 +13710,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13733,7 +13735,7 @@ _Access to available log kind_
 
 _Query operations on MySQL cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13753,7 +13755,7 @@ _Query operations on MySQL cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a MySQL
+### 🟡 POST — Create subscription to log to customer for a MySQL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13778,7 +13780,7 @@ _Query operations on MySQL cluster logs subscription to log to customer_
 
 _Query operations on MySQL cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13798,7 +13800,7 @@ _Query operations on MySQL cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13823,7 +13825,7 @@ _Query operations on MySQL cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13848,7 +13850,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on MySQL cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent MySQL log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent MySQL log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13872,7 +13874,7 @@ _Query operations on MySQL cluster logs_
 
 _Query operations on MySQL cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the MySQL cluster
+### 🟢 GET — List maintenances for the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13896,7 +13898,7 @@ _Query operations on MySQL cluster maintenance_
 
 _Query operations on MySQL cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the MySQL cluster
+### 🟢 GET — Get the maintenance for the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13921,7 +13923,7 @@ _Query operations on MySQL cluster maintenance_
 
 _Operations about the cloud project MySQL maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13946,7 +13948,7 @@ _Operations about the cloud project MySQL maintenance apply_
 
 _Query operations on MySQL cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the MySQL cluster
+### 🟢 GET — List available metrics for the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13971,7 +13973,7 @@ _Query operations on MySQL cluster metrics_
 
 _Query operations on MySQL cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the MySQL cluster
+### 🟢 GET — Get the metric values for the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -13997,7 +13999,7 @@ _Query operations on MySQL cluster metrics_
 
 _Operations about the cloud project MySQL external migration_
 
-### 🟢 GET `GET` — Get the MySQL migration status
+### 🟢 GET — Get the MySQL migration status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14016,7 +14018,7 @@ _Operations about the cloud project MySQL external migration_
 
 ---
 
-### 🟡 POST `POST` — Create a new MySQL migration task
+### 🟡 POST — Create a new MySQL migration task
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14041,7 +14043,7 @@ _Operations about the cloud project MySQL external migration_
 
 _Operations about the cloud project MySQL external migration check_
 
-### 🟢 GET `GET` — Get the MySQL migration check status
+### 🟢 GET — Get the MySQL migration check status
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14060,7 +14062,7 @@ _Operations about the cloud project MySQL external migration check_
 
 ---
 
-### 🟡 POST `POST` — Create a new MySQL migration check
+### 🟡 POST — Create a new MySQL migration check
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14085,7 +14087,7 @@ _Operations about the cloud project MySQL external migration check_
 
 _Operations about the cloud project MySQL external migration stop_
 
-### 🟡 POST `POST` — Stop MySQL migration and replication process
+### 🟡 POST — Stop MySQL migration and replication process
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14109,7 +14111,7 @@ _Operations about the cloud project MySQL external migration stop_
 
 _Operations about the cloud project MySQL nodes_
 
-### 🟢 GET `GET` — List nodes of the MySQL
+### 🟢 GET — List nodes of the MySQL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14133,7 +14135,7 @@ _Operations about the cloud project MySQL nodes_
 
 _Operations about the cloud project MySQL nodes_
 
-### 🟢 GET `GET` — Get MySQL nodes
+### 🟢 GET — Get MySQL nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14158,7 +14160,7 @@ _Operations about the cloud project MySQL nodes_
 
 _Operations about the cloud project Mysql Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for Mysql cluster Prometheus
+### 🟢 GET — Get the endpoint for Mysql cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14182,7 +14184,7 @@ _Operations about the cloud project Mysql Prometheus_
 
 _Operations about the cloud project Mysql Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14206,7 +14208,7 @@ _Operations about the cloud project Mysql Prometheus credentials reset_
 
 _Query statistics on MySQL cluster logs_
 
-### 🟢 GET `GET` — Retrieve the query statistics for the cluster
+### 🟢 GET — Retrieve the query statistics for the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14232,7 +14234,7 @@ _Query statistics on MySQL cluster logs_
 
 _Reset the query statistics on MySQL cluster_
 
-### 🟡 POST `POST` — Reset the query statistics of the cluster
+### 🟡 POST — Reset the query statistics of the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14256,7 +14258,7 @@ _Reset the query statistics on MySQL cluster_
 
 _Operations about the cloud project MySQL users_
 
-### 🟢 GET `GET` — List users of the MySQL
+### 🟢 GET — List users of the MySQL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14275,7 +14277,7 @@ _Operations about the cloud project MySQL users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the MySQL cluster
+### 🟡 POST — Create a new user on the MySQL cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14300,7 +14302,7 @@ _Operations about the cloud project MySQL users_
 
 _Operations about the cloud project MySQL users_
 
-### 🔴 DELETE `DELETE` — Delete a MySQL user
+### 🔴 DELETE — Delete a MySQL user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14320,7 +14322,7 @@ _Operations about the cloud project MySQL users_
 
 ---
 
-### 🟢 GET `GET` — Get MySQL users
+### 🟢 GET — Get MySQL users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14345,7 +14347,7 @@ _Operations about the cloud project MySQL users_
 
 _Operations about the cloud project mysql users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14370,7 +14372,7 @@ _Operations about the cloud project mysql users credentials reset_
 
 _Operations about the cloud project opensearch engine_
 
-### 🟢 GET `GET` — List all the opensearch of the project
+### 🟢 GET — List all the opensearch of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14388,7 +14390,7 @@ _Operations about the cloud project opensearch engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new opensearch cluster
+### 🟡 POST — Create a new opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14412,7 +14414,7 @@ _Operations about the cloud project opensearch engine_
 
 _Operations about the cloud project opensearch engine_
 
-### 🔴 DELETE `DELETE` — Delete a opensearch cluster
+### 🔴 DELETE — Delete a opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14431,7 +14433,7 @@ _Operations about the cloud project opensearch engine_
 
 ---
 
-### 🟢 GET `GET` — Get opensearch cluster properties
+### 🟢 GET — Get opensearch cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14450,7 +14452,7 @@ _Operations about the cloud project opensearch engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing opensearch cluster
+### 🟠 PUT — Update an existing opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14475,7 +14477,7 @@ _Operations about the cloud project opensearch engine_
 
 _Operations about the cloud project opensearch advanced configuration_
 
-### 🟢 GET `GET` — Get opensearch advanced configuration
+### 🟢 GET — Get opensearch advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14494,7 +14496,7 @@ _Operations about the cloud project opensearch advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update opensearch advanced configuration
+### 🟠 PUT — Update opensearch advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14519,7 +14521,7 @@ _Operations about the cloud project opensearch advanced configuration_
 
 _Operations about the cloud project opensearch backups_
 
-### 🟢 GET `GET` — List backups of the opensearch
+### 🟢 GET — List backups of the opensearch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14543,7 +14545,7 @@ _Operations about the cloud project opensearch backups_
 
 _Operations about the cloud project opensearch backups_
 
-### 🟢 GET `GET` — Get opensearch backups
+### 🟢 GET — Get opensearch backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14568,7 +14570,7 @@ _Operations about the cloud project opensearch backups_
 
 _Operations about the cloud project opensearch advanced configuration_
 
-### 🟢 GET `GET` — Get opensearch advanced configuration fields
+### 🟢 GET — Get opensearch advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14592,7 +14594,7 @@ _Operations about the cloud project opensearch advanced configuration_
 
 _Operations related to available region backup capabilities for the opensearch cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the opensearch service
+### 🟢 GET — Get backup region capabilities related to the opensearch service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14616,7 +14618,7 @@ _Operations related to available region backup capabilities for the opensearch c
 
 _Operations about the opensearch cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the opensearch service
+### 🟢 GET — Get integration capabilities related to the opensearch service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14640,7 +14642,7 @@ _Operations about the opensearch cloud project integration capabilities_
 
 _Operations about the cloud project opensearch indexes_
 
-### 🟢 GET `GET` — List indexes of the opensearch
+### 🟢 GET — List indexes of the opensearch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14664,7 +14666,7 @@ _Operations about the cloud project opensearch indexes_
 
 _Operations about the cloud project opensearch indexes_
 
-### 🔴 DELETE `DELETE` — Delete an opensearch index
+### 🔴 DELETE — Delete an opensearch index
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14684,7 +14686,7 @@ _Operations about the cloud project opensearch indexes_
 
 ---
 
-### 🟢 GET `GET` — Get opensearch index
+### 🟢 GET — Get opensearch index
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14709,7 +14711,7 @@ _Operations about the cloud project opensearch indexes_
 
 _Operations about the cloud project opensearch integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14728,7 +14730,7 @@ _Operations about the cloud project opensearch integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14753,7 +14755,7 @@ _Operations about the cloud project opensearch integrations_
 
 _Operations about the cloud project opensearch integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14773,7 +14775,7 @@ _Operations about the cloud project opensearch integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14798,7 +14800,7 @@ _Operations about the cloud project opensearch integrations_
 
 _Operations about the cloud project opensearch ip restrictions_
 
-### 🟢 GET `GET` — List opensearch ip restrictions
+### 🟢 GET — List opensearch ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -14817,7 +14819,7 @@ _Operations about the cloud project opensearch ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the opensearch
+### 🟡 POST — Add ip restrictions to the opensearch
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -14842,7 +14844,7 @@ _Operations about the cloud project opensearch ip restrictions_
 
 _Operations about the cloud project opensearch ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the opensearch
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the opensearch
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -14862,7 +14864,7 @@ _Operations about the cloud project opensearch ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get opensearch ip restrictions
+### 🟢 GET — Get opensearch ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -14882,7 +14884,7 @@ _Operations about the cloud project opensearch ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the opensearch
+### 🟠 PUT — Changes the list of ip restrictions to the opensearch
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -14908,7 +14910,7 @@ _Operations about the cloud project opensearch ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14932,7 +14934,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14957,7 +14959,7 @@ _Access to available log kind_
 
 _Query operations on opensearch cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -14977,7 +14979,7 @@ _Query operations on opensearch cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a opensearch
+### 🟡 POST — Create subscription to log to customer for a opensearch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15002,7 +15004,7 @@ _Query operations on opensearch cluster logs subscription to log to customer_
 
 _Query operations on opensearch cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15022,7 +15024,7 @@ _Query operations on opensearch cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15047,7 +15049,7 @@ _Query operations on opensearch cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15072,7 +15074,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on opensearch cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent opensearch log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent opensearch log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15096,7 +15098,7 @@ _Query operations on opensearch cluster logs_
 
 _Query operations on opensearch cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the opensearch cluster
+### 🟢 GET — List maintenances for the opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15120,7 +15122,7 @@ _Query operations on opensearch cluster maintenance_
 
 _Query operations on opensearch cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the opensearch cluster
+### 🟢 GET — Get the maintenance for the opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15145,7 +15147,7 @@ _Query operations on opensearch cluster maintenance_
 
 _Operations about the cloud project opensearch maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15170,7 +15172,7 @@ _Operations about the cloud project opensearch maintenance apply_
 
 _Query operations on opensearch cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the opensearch cluster
+### 🟢 GET — List available metrics for the opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15195,7 +15197,7 @@ _Query operations on opensearch cluster metrics_
 
 _Query operations on opensearch cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the opensearch cluster
+### 🟢 GET — Get the metric values for the opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15221,7 +15223,7 @@ _Query operations on opensearch cluster metrics_
 
 _Operations about the cloud project opensearch nodes_
 
-### 🟢 GET `GET` — List nodes of the opensearch
+### 🟢 GET — List nodes of the opensearch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15245,7 +15247,7 @@ _Operations about the cloud project opensearch nodes_
 
 _Operations about the cloud project opensearch nodes_
 
-### 🟢 GET `GET` — Get opensearch nodes
+### 🟢 GET — Get opensearch nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15270,7 +15272,7 @@ _Operations about the cloud project opensearch nodes_
 
 _Operations about the cloud project opensearch patterns_
 
-### 🟢 GET `GET` — List patterns of the opensearch
+### 🟢 GET — List patterns of the opensearch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15289,7 +15291,7 @@ _Operations about the cloud project opensearch patterns_
 
 ---
 
-### 🟡 POST `POST` — Create a new pattern on the opensearch cluster
+### 🟡 POST — Create a new pattern on the opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15314,7 +15316,7 @@ _Operations about the cloud project opensearch patterns_
 
 _Operations about the cloud project opensearch patterns_
 
-### 🔴 DELETE `DELETE` — Delete an opensearch pattern
+### 🔴 DELETE — Delete an opensearch pattern
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15334,7 +15336,7 @@ _Operations about the cloud project opensearch patterns_
 
 ---
 
-### 🟢 GET `GET` — Get opensearch patterns
+### 🟢 GET — Get opensearch patterns
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15359,7 +15361,7 @@ _Operations about the cloud project opensearch patterns_
 
 _Query operations on opensearch cluster permissions_
 
-### 🟢 GET `GET` — Retrieve the opensearch permissions values
+### 🟢 GET — Retrieve the opensearch permissions values
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15383,7 +15385,7 @@ _Query operations on opensearch cluster permissions_
 
 _Operations about the cloud project Opensearch Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for Opensearch cluster Prometheus
+### 🟢 GET — Get the endpoint for Opensearch cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15407,7 +15409,7 @@ _Operations about the cloud project Opensearch Prometheus_
 
 _Operations about the cloud project Opensearch Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15431,7 +15433,7 @@ _Operations about the cloud project Opensearch Prometheus credentials reset_
 
 _Operations about the cloud project opensearch users_
 
-### 🟢 GET `GET` — List users of the opensearch
+### 🟢 GET — List users of the opensearch
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15450,7 +15452,7 @@ _Operations about the cloud project opensearch users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the opensearch cluster
+### 🟡 POST — Create a new user on the opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15475,7 +15477,7 @@ _Operations about the cloud project opensearch users_
 
 _Operations about the cloud project opensearch users_
 
-### 🔴 DELETE `DELETE` — Delete a opensearch user
+### 🔴 DELETE — Delete a opensearch user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15495,7 +15497,7 @@ _Operations about the cloud project opensearch users_
 
 ---
 
-### 🟢 GET `GET` — Get opensearch users
+### 🟢 GET — Get opensearch users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15515,7 +15517,7 @@ _Operations about the cloud project opensearch users_
 
 ---
 
-### 🟠 PUT `PUT` — Update a user on the opensearch cluster
+### 🟠 PUT — Update a user on the opensearch cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15541,7 +15543,7 @@ _Operations about the cloud project opensearch users_
 
 _Operations about the cloud project opensearch users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15566,7 +15568,7 @@ _Operations about the cloud project opensearch users credentials reset_
 
 _Operations about the cloud project postgresql engine_
 
-### 🟢 GET `GET` — List all the postgresql of the project
+### 🟢 GET — List all the postgresql of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15584,7 +15586,7 @@ _Operations about the cloud project postgresql engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new postgresql cluster
+### 🟡 POST — Create a new postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15608,7 +15610,7 @@ _Operations about the cloud project postgresql engine_
 
 _Operations about the cloud project postgresql engine_
 
-### 🔴 DELETE `DELETE` — Delete a postgresql cluster
+### 🔴 DELETE — Delete a postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15627,7 +15629,7 @@ _Operations about the cloud project postgresql engine_
 
 ---
 
-### 🟢 GET `GET` — Get postgresql cluster properties
+### 🟢 GET — Get postgresql cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15646,7 +15648,7 @@ _Operations about the cloud project postgresql engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing postgresql cluster
+### 🟠 PUT — Update an existing postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15671,7 +15673,7 @@ _Operations about the cloud project postgresql engine_
 
 _Operations about the cloud project postgresql advanced configuration_
 
-### 🟢 GET `GET` — Get postgresql advanced configuration
+### 🟢 GET — Get postgresql advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15690,7 +15692,7 @@ _Operations about the cloud project postgresql advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update postgresql advanced configuration
+### 🟠 PUT — Update postgresql advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15715,7 +15717,7 @@ _Operations about the cloud project postgresql advanced configuration_
 
 _Operations about the cloud project postgresql backups_
 
-### 🟢 GET `GET` — List backups of the postgresql
+### 🟢 GET — List backups of the postgresql
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15739,7 +15741,7 @@ _Operations about the cloud project postgresql backups_
 
 _Operations about the cloud project postgresql backups_
 
-### 🟢 GET `GET` — Get postgresql backups
+### 🟢 GET — Get postgresql backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15764,7 +15766,7 @@ _Operations about the cloud project postgresql backups_
 
 _Operations about the cloud project postgresql advanced configuration_
 
-### 🟢 GET `GET` — Get postgresql advanced configuration fields
+### 🟢 GET — Get postgresql advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15788,7 +15790,7 @@ _Operations about the cloud project postgresql advanced configuration_
 
 _Operations related to available region backup capabilities for the postgresql cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the postgresql service
+### 🟢 GET — Get backup region capabilities related to the postgresql service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15812,7 +15814,7 @@ _Operations related to available region backup capabilities for the postgresql c
 
 _Operations about the postgresql cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the postgresql service
+### 🟢 GET — Get integration capabilities related to the postgresql service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15836,7 +15838,7 @@ _Operations about the postgresql cloud project integration capabilities_
 
 _Operations about postgresql certificates_
 
-### 🟢 GET `GET` — Retrieve the certificates of the postgresql cluster
+### 🟢 GET — Retrieve the certificates of the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15860,7 +15862,7 @@ _Operations about postgresql certificates_
 
 _Query operations on postgresql cluster connectionPool_
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15879,7 +15881,7 @@ _Query operations on postgresql cluster connectionPool_
 
 ---
 
-### 🟡 POST `POST` — Create a new connectionPool on the postgresql cluster
+### 🟡 POST — Create a new connectionPool on the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15904,7 +15906,7 @@ _Query operations on postgresql cluster connectionPool_
 
 _Query operations on postgresql cluster connectionPool_
 
-### 🔴 DELETE `DELETE` — Delete a postgresql connectionPool
+### 🔴 DELETE — Delete a postgresql connectionPool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15924,7 +15926,7 @@ _Query operations on postgresql cluster connectionPool_
 
 ---
 
-### 🟢 GET `GET` — Get the connectionPool for the postgresql cluster
+### 🟢 GET — Get the connectionPool for the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15944,7 +15946,7 @@ _Query operations on postgresql cluster connectionPool_
 
 ---
 
-### 🟠 PUT `PUT` — Update a connectionPool on the postgresql cluster
+### 🟠 PUT — Update a connectionPool on the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15970,7 +15972,7 @@ _Query operations on postgresql cluster connectionPool_
 
 _Current queries of postgresql cluster_
 
-### 🟢 GET `GET` — Retrieve the current queries for the cluster
+### 🟢 GET — Retrieve the current queries for the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -15996,7 +15998,7 @@ _Current queries of postgresql cluster_
 
 _Cancel a current query on postgresql cluster_
 
-### 🟡 POST `POST` — Cancel the given current query of the cluster
+### 🟡 POST — Cancel the given current query of the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16021,7 +16023,7 @@ _Cancel a current query on postgresql cluster_
 
 _Query operations on postgresql cluster database_
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16040,7 +16042,7 @@ _Query operations on postgresql cluster database_
 
 ---
 
-### 🟡 POST `POST` — Create a new database on the postgresql cluster
+### 🟡 POST — Create a new database on the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16065,7 +16067,7 @@ _Query operations on postgresql cluster database_
 
 _Query operations on postgresql cluster database_
 
-### 🔴 DELETE `DELETE` — Delete a postgresql database
+### 🔴 DELETE — Delete a postgresql database
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16085,7 +16087,7 @@ _Query operations on postgresql cluster database_
 
 ---
 
-### 🟢 GET `GET` — Get the database for the postgresql cluster
+### 🟢 GET — Get the database for the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16110,7 +16112,7 @@ _Query operations on postgresql cluster database_
 
 _Query operations on postgresql cluster database write permissions_
 
-### 🟡 POST `POST` — Enable temporary write permission on readonly lock postgresql service
+### 🟡 POST — Enable temporary write permission on readonly lock postgresql service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16134,7 +16136,7 @@ _Query operations on postgresql cluster database write permissions_
 
 _Operations about the cloud project PostgreSQL integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16153,7 +16155,7 @@ _Operations about the cloud project PostgreSQL integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16178,7 +16180,7 @@ _Operations about the cloud project PostgreSQL integrations_
 
 _Operations about the cloud project PostgreSQL integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16198,7 +16200,7 @@ _Operations about the cloud project PostgreSQL integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16223,7 +16225,7 @@ _Operations about the cloud project PostgreSQL integrations_
 
 _Operations about the cloud project postgresql ip restrictions_
 
-### 🟢 GET `GET` — List postgresql ip restrictions
+### 🟢 GET — List postgresql ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -16242,7 +16244,7 @@ _Operations about the cloud project postgresql ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the postgresql
+### 🟡 POST — Add ip restrictions to the postgresql
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -16267,7 +16269,7 @@ _Operations about the cloud project postgresql ip restrictions_
 
 _Operations about the cloud project postgresql ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the postgresql
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the postgresql
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -16287,7 +16289,7 @@ _Operations about the cloud project postgresql ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get postgresql ip restrictions
+### 🟢 GET — Get postgresql ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -16307,7 +16309,7 @@ _Operations about the cloud project postgresql ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the postgresql
+### 🟠 PUT — Changes the list of ip restrictions to the postgresql
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -16333,7 +16335,7 @@ _Operations about the cloud project postgresql ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16357,7 +16359,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16382,7 +16384,7 @@ _Access to available log kind_
 
 _Query operations on postgresql cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16402,7 +16404,7 @@ _Query operations on postgresql cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a postgresql
+### 🟡 POST — Create subscription to log to customer for a postgresql
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16427,7 +16429,7 @@ _Query operations on postgresql cluster logs subscription to log to customer_
 
 _Query operations on postgresql cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16447,7 +16449,7 @@ _Query operations on postgresql cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16472,7 +16474,7 @@ _Query operations on postgresql cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16497,7 +16499,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on postgresql cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent postgresql log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent postgresql log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16521,7 +16523,7 @@ _Query operations on postgresql cluster logs_
 
 _Query operations on postgresql cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the postgresql cluster
+### 🟢 GET — List maintenances for the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16545,7 +16547,7 @@ _Query operations on postgresql cluster maintenance_
 
 _Query operations on postgresql cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the postgresql cluster
+### 🟢 GET — Get the maintenance for the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16570,7 +16572,7 @@ _Query operations on postgresql cluster maintenance_
 
 _Operations about the cloud project postgresql maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16595,7 +16597,7 @@ _Operations about the cloud project postgresql maintenance apply_
 
 _Query operations on postgresql cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the postgresql cluster
+### 🟢 GET — List available metrics for the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16620,7 +16622,7 @@ _Query operations on postgresql cluster metrics_
 
 _Query operations on postgresql cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the postgresql cluster
+### 🟢 GET — Get the metric values for the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16646,7 +16648,7 @@ _Query operations on postgresql cluster metrics_
 
 _Operations about the cloud project postgresql nodes_
 
-### 🟢 GET `GET` — List nodes of the postgresql
+### 🟢 GET — List nodes of the postgresql
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16670,7 +16672,7 @@ _Operations about the cloud project postgresql nodes_
 
 _Operations about the cloud project postgresql nodes_
 
-### 🟢 GET `GET` — Get postgresql nodes
+### 🟢 GET — Get postgresql nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16695,7 +16697,7 @@ _Operations about the cloud project postgresql nodes_
 
 _Operations about the cloud project PostgreSQL Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for PostgreSQL cluster Prometheus
+### 🟢 GET — Get the endpoint for PostgreSQL cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16719,7 +16721,7 @@ _Operations about the cloud project PostgreSQL Prometheus_
 
 _Operations about the cloud project PostgreSQL Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16743,7 +16745,7 @@ _Operations about the cloud project PostgreSQL Prometheus credentials reset_
 
 _Query statistics on postgresql cluster logs_
 
-### 🟢 GET `GET` — Retrieve the query statistics for the cluster
+### 🟢 GET — Retrieve the query statistics for the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16769,7 +16771,7 @@ _Query statistics on postgresql cluster logs_
 
 _Reset the query statistics on postgresql cluster_
 
-### 🟡 POST `POST` — Reset the query statistics of the cluster
+### 🟡 POST — Reset the query statistics of the cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16793,7 +16795,7 @@ _Reset the query statistics on postgresql cluster_
 
 _Operations about the cloud project postgresql roles_
 
-### 🟢 GET `GET` — Get postgresql roles
+### 🟢 GET — Get postgresql roles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16817,7 +16819,7 @@ _Operations about the cloud project postgresql roles_
 
 _Operations about the cloud project postgresql users_
 
-### 🟢 GET `GET` — List users of the postgresql
+### 🟢 GET — List users of the postgresql
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16836,7 +16838,7 @@ _Operations about the cloud project postgresql users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the postgresql cluster
+### 🟡 POST — Create a new user on the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16861,7 +16863,7 @@ _Operations about the cloud project postgresql users_
 
 _Operations about the cloud project postgresql users_
 
-### 🔴 DELETE `DELETE` — Delete a postgresql user
+### 🔴 DELETE — Delete a postgresql user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16881,7 +16883,7 @@ _Operations about the cloud project postgresql users_
 
 ---
 
-### 🟢 GET `GET` — Get postgresql users
+### 🟢 GET — Get postgresql users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16901,7 +16903,7 @@ _Operations about the cloud project postgresql users_
 
 ---
 
-### 🟠 PUT `PUT` — Updates the user on the postgresql cluster
+### 🟠 PUT — Updates the user on the postgresql cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16927,7 +16929,7 @@ _Operations about the cloud project postgresql users_
 
 _Operations about the cloud project postgresql users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16952,7 +16954,7 @@ _Operations about the cloud project postgresql users credentials reset_
 
 _Operations about the cloud project redis engine_
 
-### 🟢 GET `GET` — List all the redis of the project
+### 🟢 GET — List all the redis of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16970,7 +16972,7 @@ _Operations about the cloud project redis engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new redis cluster
+### 🟡 POST — Create a new redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -16994,7 +16996,7 @@ _Operations about the cloud project redis engine_
 
 _Operations about the cloud project redis engine_
 
-### 🔴 DELETE `DELETE` — Delete a redis cluster
+### 🔴 DELETE — Delete a redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17013,7 +17015,7 @@ _Operations about the cloud project redis engine_
 
 ---
 
-### 🟢 GET `GET` — Get redis cluster properties
+### 🟢 GET — Get redis cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17032,7 +17034,7 @@ _Operations about the cloud project redis engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing redis cluster
+### 🟠 PUT — Update an existing redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17057,7 +17059,7 @@ _Operations about the cloud project redis engine_
 
 _Operations about the cloud project redis advanced configuration_
 
-### 🟢 GET `GET` — Get redis advanced configuration
+### 🟢 GET — Get redis advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17076,7 +17078,7 @@ _Operations about the cloud project redis advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update redis advanced configuration
+### 🟠 PUT — Update redis advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17101,7 +17103,7 @@ _Operations about the cloud project redis advanced configuration_
 
 _Operations about the cloud project redis backups_
 
-### 🟢 GET `GET` — List backups of the redis
+### 🟢 GET — List backups of the redis
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17125,7 +17127,7 @@ _Operations about the cloud project redis backups_
 
 _Operations about the cloud project redis backups_
 
-### 🟢 GET `GET` — Get redis backups
+### 🟢 GET — Get redis backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17150,7 +17152,7 @@ _Operations about the cloud project redis backups_
 
 _Operations about the cloud project redis advanced configuration_
 
-### 🟢 GET `GET` — Get redis advanced configuration fields
+### 🟢 GET — Get redis advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17174,7 +17176,7 @@ _Operations about the cloud project redis advanced configuration_
 
 _Operations about the redis cloud project available categories_
 
-### 🟢 GET `GET` — Get available categories in the redis service
+### 🟢 GET — Get available categories in the redis service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17198,7 +17200,7 @@ _Operations about the redis cloud project available categories_
 
 _Operations about the redis cloud project available commands_
 
-### 🟢 GET `GET` — Get available commands in the redis service
+### 🟢 GET — Get available commands in the redis service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17222,7 +17224,7 @@ _Operations about the redis cloud project available commands_
 
 _Operations about the redis cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the redis service
+### 🟢 GET — Get integration capabilities related to the redis service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17246,7 +17248,7 @@ _Operations about the redis cloud project integration capabilities_
 
 _Operations about the cloud project redis integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17265,7 +17267,7 @@ _Operations about the cloud project redis integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17290,7 +17292,7 @@ _Operations about the cloud project redis integrations_
 
 _Operations about the cloud project redis integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17310,7 +17312,7 @@ _Operations about the cloud project redis integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17335,7 +17337,7 @@ _Operations about the cloud project redis integrations_
 
 _Operations about the cloud project redis ip restrictions_
 
-### 🟢 GET `GET` — List redis ip restrictions
+### 🟢 GET — List redis ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -17354,7 +17356,7 @@ _Operations about the cloud project redis ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Add ip restrictions to the redis
+### 🟡 POST — Add ip restrictions to the redis
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -17379,7 +17381,7 @@ _Operations about the cloud project redis ip restrictions_
 
 _Operations about the cloud project redis ip restrictions_
 
-### 🔴 DELETE `DELETE` — Deletes the given IP from the restricted IPs of the redis
+### 🔴 DELETE — Deletes the given IP from the restricted IPs of the redis
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -17399,7 +17401,7 @@ _Operations about the cloud project redis ip restrictions_
 
 ---
 
-### 🟢 GET `GET` — Get redis ip restrictions
+### 🟢 GET — Get redis ip restrictions
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -17419,7 +17421,7 @@ _Operations about the cloud project redis ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Changes the list of ip restrictions to the redis
+### 🟠 PUT — Changes the list of ip restrictions to the redis
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -17445,7 +17447,7 @@ _Operations about the cloud project redis ip restrictions_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17469,7 +17471,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17494,7 +17496,7 @@ _Access to available log kind_
 
 _Query operations on redis cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17514,7 +17516,7 @@ _Query operations on redis cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a redis
+### 🟡 POST — Create subscription to log to customer for a redis
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17539,7 +17541,7 @@ _Query operations on redis cluster logs subscription to log to customer_
 
 _Query operations on redis cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17559,7 +17561,7 @@ _Query operations on redis cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17584,7 +17586,7 @@ _Query operations on redis cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17609,7 +17611,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on redis cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent redis log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent redis log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17633,7 +17635,7 @@ _Query operations on redis cluster logs_
 
 _Query operations on redis cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the redis cluster
+### 🟢 GET — List maintenances for the redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17657,7 +17659,7 @@ _Query operations on redis cluster maintenance_
 
 _Query operations on redis cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the redis cluster
+### 🟢 GET — Get the maintenance for the redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17682,7 +17684,7 @@ _Query operations on redis cluster maintenance_
 
 _Operations about the cloud project redis maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17707,7 +17709,7 @@ _Operations about the cloud project redis maintenance apply_
 
 _Query operations on redis cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the redis cluster
+### 🟢 GET — List available metrics for the redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17732,7 +17734,7 @@ _Query operations on redis cluster metrics_
 
 _Query operations on redis cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the redis cluster
+### 🟢 GET — Get the metric values for the redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17758,7 +17760,7 @@ _Query operations on redis cluster metrics_
 
 _Operations about the cloud project redis nodes_
 
-### 🟢 GET `GET` — List nodes of the redis
+### 🟢 GET — List nodes of the redis
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17782,7 +17784,7 @@ _Operations about the cloud project redis nodes_
 
 _Operations about the cloud project redis nodes_
 
-### 🟢 GET `GET` — Get redis nodes
+### 🟢 GET — Get redis nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17807,7 +17809,7 @@ _Operations about the cloud project redis nodes_
 
 _Operations about the cloud project Redis Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for Redis cluster Prometheus
+### 🟢 GET — Get the endpoint for Redis cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17831,7 +17833,7 @@ _Operations about the cloud project Redis Prometheus_
 
 _Operations about the cloud project Redis Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17855,7 +17857,7 @@ _Operations about the cloud project Redis Prometheus credentials reset_
 
 _Operations about the cloud project redis users_
 
-### 🟢 GET `GET` — List users of the redis
+### 🟢 GET — List users of the redis
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17874,7 +17876,7 @@ _Operations about the cloud project redis users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the redis cluster
+### 🟡 POST — Create a new user on the redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17899,7 +17901,7 @@ _Operations about the cloud project redis users_
 
 _Operations about the cloud project redis users_
 
-### 🔴 DELETE `DELETE` — Delete a redis user
+### 🔴 DELETE — Delete a redis user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17919,7 +17921,7 @@ _Operations about the cloud project redis users_
 
 ---
 
-### 🟢 GET `GET` — Get redis users
+### 🟢 GET — Get redis users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17939,7 +17941,7 @@ _Operations about the cloud project redis users_
 
 ---
 
-### 🟠 PUT `PUT` — Update a user on the redis cluster
+### 🟠 PUT — Update a user on the redis cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17965,7 +17967,7 @@ _Operations about the cloud project redis users_
 
 _Operations about the cloud project redis users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -17990,7 +17992,7 @@ _Operations about the cloud project redis users credentials reset_
 
 _Operations about the cloud project databases services_
 
-### 🟢 GET `GET` — List database services of the project
+### 🟢 GET — List database services of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18014,7 +18016,7 @@ _Operations about the cloud project databases services_
 
 _Operations about the cloud project databases services_
 
-### 🟢 GET `GET` — Get service cluster properties
+### 🟢 GET — Get service cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18038,7 +18040,7 @@ _Operations about the cloud project databases services_
 
 _Operations about the cloud project valkey engine_
 
-### 🟢 GET `GET` — List all the valkey of the project
+### 🟢 GET — List all the valkey of the project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18056,7 +18058,7 @@ _Operations about the cloud project valkey engine_
 
 ---
 
-### 🟡 POST `POST` — Create a new valkey cluster
+### 🟡 POST — Create a new valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18080,7 +18082,7 @@ _Operations about the cloud project valkey engine_
 
 _Operations about the cloud project valkey engine_
 
-### 🔴 DELETE `DELETE` — Delete a valkey cluster
+### 🔴 DELETE — Delete a valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18099,7 +18101,7 @@ _Operations about the cloud project valkey engine_
 
 ---
 
-### 🟢 GET `GET` — Get valkey cluster properties
+### 🟢 GET — Get valkey cluster properties
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18118,7 +18120,7 @@ _Operations about the cloud project valkey engine_
 
 ---
 
-### 🟠 PUT `PUT` — Update an existing valkey cluster
+### 🟠 PUT — Update an existing valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18143,7 +18145,7 @@ _Operations about the cloud project valkey engine_
 
 _Operations about the cloud project valkey advanced configuration_
 
-### 🟢 GET `GET` — Get valkey advanced configuration
+### 🟢 GET — Get valkey advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18162,7 +18164,7 @@ _Operations about the cloud project valkey advanced configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update valkey advanced configuration
+### 🟠 PUT — Update valkey advanced configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18187,7 +18189,7 @@ _Operations about the cloud project valkey advanced configuration_
 
 _Operations about the cloud project valkey backups_
 
-### 🟢 GET `GET` — List backups of the valkey
+### 🟢 GET — List backups of the valkey
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18211,7 +18213,7 @@ _Operations about the cloud project valkey backups_
 
 _Operations about the cloud project valkey backups_
 
-### 🟢 GET `GET` — Get valkey backups
+### 🟢 GET — Get valkey backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18236,7 +18238,7 @@ _Operations about the cloud project valkey backups_
 
 _Operations about the cloud project valkey advanced configuration_
 
-### 🟢 GET `GET` — Get valkey advanced configuration fields
+### 🟢 GET — Get valkey advanced configuration fields
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18260,7 +18262,7 @@ _Operations about the cloud project valkey advanced configuration_
 
 _Operations related to available region backup capabilities for the valkey cloud project_
 
-### 🟢 GET `GET` — Get backup region capabilities related to the valkey service
+### 🟢 GET — Get backup region capabilities related to the valkey service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18284,7 +18286,7 @@ _Operations related to available region backup capabilities for the valkey cloud
 
 _Operations about the valkey cloud project available categories_
 
-### 🟢 GET `GET` — Get available categories in the valkey service
+### 🟢 GET — Get available categories in the valkey service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18308,7 +18310,7 @@ _Operations about the valkey cloud project available categories_
 
 _Operations about the valkey cloud project available commands_
 
-### 🟢 GET `GET` — Get available commands in the valkey service
+### 🟢 GET — Get available commands in the valkey service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18332,7 +18334,7 @@ _Operations about the valkey cloud project available commands_
 
 _Operations about the valkey cloud project integration capabilities_
 
-### 🟢 GET `GET` — Get integration capabilities related to the valkey service
+### 🟢 GET — Get integration capabilities related to the valkey service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18356,7 +18358,7 @@ _Operations about the valkey cloud project integration capabilities_
 
 _Operations about the cloud project valkey integrations_
 
-### 🟢 GET `GET` — List integrations
+### 🟢 GET — List integrations
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18375,7 +18377,7 @@ _Operations about the cloud project valkey integrations_
 
 ---
 
-### 🟡 POST `POST` — Create a new integration
+### 🟡 POST — Create a new integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18400,7 +18402,7 @@ _Operations about the cloud project valkey integrations_
 
 _Operations about the cloud project valkey integrations_
 
-### 🔴 DELETE `DELETE` — Delete an integration
+### 🔴 DELETE — Delete an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18420,7 +18422,7 @@ _Operations about the cloud project valkey integrations_
 
 ---
 
-### 🟢 GET `GET` — Get an integration
+### 🟢 GET — Get an integration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18445,7 +18447,7 @@ _Operations about the cloud project valkey integrations_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18469,7 +18471,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18494,7 +18496,7 @@ _Access to available log kind_
 
 _Query operations on valkey cluster logs subscription to log to customer_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18514,7 +18516,7 @@ _Query operations on valkey cluster logs subscription to log to customer_
 
 ---
 
-### 🟡 POST `POST` — Create subscription to log to customer for a valkey
+### 🟡 POST — Create subscription to log to customer for a valkey
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18539,7 +18541,7 @@ _Query operations on valkey cluster logs subscription to log to customer_
 
 _Query operations on valkey cluster logs subscription to log to customer_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18559,7 +18561,7 @@ _Query operations on valkey cluster logs subscription to log to customer_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18584,7 +18586,7 @@ _Query operations on valkey cluster logs subscription to log to customer_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18609,7 +18611,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Query operations on valkey cluster logs_
 
-### 🟢 GET `GET` — Retrieve the most recent valkey log messages (limited to 1000)
+### 🟢 GET — Retrieve the most recent valkey log messages (limited to 1000)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18633,7 +18635,7 @@ _Query operations on valkey cluster logs_
 
 _Query operations on valkey cluster maintenance_
 
-### 🟢 GET `GET` — List maintenances for the valkey cluster
+### 🟢 GET — List maintenances for the valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18657,7 +18659,7 @@ _Query operations on valkey cluster maintenance_
 
 _Query operations on valkey cluster maintenance_
 
-### 🟢 GET `GET` — Get the maintenance for the valkey cluster
+### 🟢 GET — Get the maintenance for the valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18682,7 +18684,7 @@ _Query operations on valkey cluster maintenance_
 
 _Operations about the cloud project valkey maintenance apply_
 
-### 🟡 POST `POST` — Apply the maintenance
+### 🟡 POST — Apply the maintenance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18707,7 +18709,7 @@ _Operations about the cloud project valkey maintenance apply_
 
 _Query operations on valkey cluster metrics_
 
-### 🟢 GET `GET` — List available metrics for the valkey cluster
+### 🟢 GET — List available metrics for the valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18732,7 +18734,7 @@ _Query operations on valkey cluster metrics_
 
 _Query operations on valkey cluster metrics_
 
-### 🟢 GET `GET` — Get the metric values for the valkey cluster
+### 🟢 GET — Get the metric values for the valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18758,7 +18760,7 @@ _Query operations on valkey cluster metrics_
 
 _Operations about the cloud project valkey nodes_
 
-### 🟢 GET `GET` — List nodes of the valkey
+### 🟢 GET — List nodes of the valkey
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18782,7 +18784,7 @@ _Operations about the cloud project valkey nodes_
 
 _Operations about the cloud project valkey nodes_
 
-### 🟢 GET `GET` — Get valkey nodes
+### 🟢 GET — Get valkey nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18807,7 +18809,7 @@ _Operations about the cloud project valkey nodes_
 
 _Operations about the cloud project valkey Prometheus_
 
-### 🟢 GET `GET` — Get the endpoint for valkey cluster Prometheus
+### 🟢 GET — Get the endpoint for valkey cluster Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18831,7 +18833,7 @@ _Operations about the cloud project valkey Prometheus_
 
 _Operations about the cloud project valkey Prometheus credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a Prometheus
+### 🟡 POST — Reset the password of a Prometheus
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18855,7 +18857,7 @@ _Operations about the cloud project valkey Prometheus credentials reset_
 
 _Operations about the cloud project valkey users_
 
-### 🟢 GET `GET` — List users of the valkey
+### 🟢 GET — List users of the valkey
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18874,7 +18876,7 @@ _Operations about the cloud project valkey users_
 
 ---
 
-### 🟡 POST `POST` — Create a new user on the valkey cluster
+### 🟡 POST — Create a new user on the valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18899,7 +18901,7 @@ _Operations about the cloud project valkey users_
 
 _Operations about the cloud project valkey users_
 
-### 🔴 DELETE `DELETE` — Delete a valkey user
+### 🔴 DELETE — Delete a valkey user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18919,7 +18921,7 @@ _Operations about the cloud project valkey users_
 
 ---
 
-### 🟢 GET `GET` — Get valkey users
+### 🟢 GET — Get valkey users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18939,7 +18941,7 @@ _Operations about the cloud project valkey users_
 
 ---
 
-### 🟠 PUT `PUT` — Update a user on the valkey cluster
+### 🟠 PUT — Update a user on the valkey cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18965,7 +18967,7 @@ _Operations about the cloud project valkey users_
 
 _Operations about the cloud project valkey users credentials reset_
 
-### 🟡 POST `POST` — Reset the password of a user
+### 🟡 POST — Reset the password of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -18990,7 +18992,7 @@ _Operations about the cloud project valkey users credentials reset_
 
 _Missing description_
 
-### 🟢 GET `GET` — List all flavors for a public cloud project
+### 🟢 GET — List all flavors for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19015,7 +19017,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get a specific flavor for a public cloud project
+### 🟢 GET — Get a specific flavor for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19040,7 +19042,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get images
+### 🟢 GET — Get images
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19066,7 +19068,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get image
+### 🟢 GET — Get image
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19090,7 +19092,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get instance
+### 🟢 GET — Get instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19109,7 +19111,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create a new instance
+### 🟡 POST — Create a new instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19133,7 +19135,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Create multiple instances
+### 🟡 POST — Create multiple instances
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19157,7 +19159,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get the detail of a group
+### 🟢 GET — Get the detail of a group
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19176,7 +19178,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create a group
+### 🟡 POST — Create a group
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19200,7 +19202,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete a group
+### 🔴 DELETE — Delete a group
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19219,7 +19221,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get all groups
+### 🟢 GET — Get all groups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19244,7 +19246,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete an instance
+### 🔴 DELETE — Delete an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19263,7 +19265,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get instance
+### 🟢 GET — Get instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19282,7 +19284,7 @@ _Missing description_
 
 ---
 
-### 🟠 PUT `PUT` — Alter an instance
+### 🟠 PUT — Alter an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19307,7 +19309,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Activate monthly billing on instance
+### 🟡 POST — Activate monthly billing on instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19331,7 +19333,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Return initial credentials of applications installed from public image
+### 🟡 POST — Return initial credentials of applications installed from public image
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19355,7 +19357,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get interfaces
+### 🟢 GET — Get interfaces
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19374,7 +19376,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create interface on an instance and attached it to a network
+### 🟡 POST — Create interface on an instance and attached it to a network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19399,7 +19401,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete an interface
+### 🔴 DELETE — Delete an interface
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19419,7 +19421,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get interface
+### 🟢 GET — Get interface
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19444,7 +19446,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Reboot an instance
+### 🟡 POST — Reboot an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19469,7 +19471,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Reinstall an instance
+### 🟡 POST — Reinstall an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19494,7 +19496,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Enable or disable rescue mode
+### 🟡 POST — Enable or disable rescue mode
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19519,7 +19521,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Migrate your instance to another flavor
+### 🟡 POST — Migrate your instance to another flavor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19544,7 +19546,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Resume a suspended instance
+### 🟡 POST — Resume a suspended instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19568,7 +19570,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Shelve an instance
+### 🟡 POST — Shelve an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19592,7 +19594,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Snapshot an instance
+### 🟡 POST — Snapshot an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19617,7 +19619,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Start an instance
+### 🟡 POST — Start an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19641,7 +19643,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Stop an instance
+### 🟡 POST — Stop an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19665,7 +19667,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Unshelve an instance
+### 🟡 POST — Unshelve an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19689,7 +19691,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Get VNC access to your instance
+### 🟡 POST — Get VNC access to your instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19713,7 +19715,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get ips
+### 🟢 GET — Get ips
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19736,7 +19738,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get failover ips
+### 🟢 GET — Get failover ips
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19759,7 +19761,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get failover ip
+### 🟢 GET — Get failover ip
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19783,7 +19785,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Attach failover ip to an instance
+### 🟡 POST — Attach failover ip to an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19808,7 +19810,7 @@ _Missing description_
 
 _Manage your clusters_
 
-### 🟢 GET `GET` — List your managed Kubernetes clusters
+### 🟢 GET — List your managed Kubernetes clusters
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19826,7 +19828,7 @@ _Manage your clusters_
 
 ---
 
-### 🟡 POST `POST` — Create a new managed Kubernetes cluster
+### 🟡 POST — Create a new managed Kubernetes cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19850,7 +19852,7 @@ _Manage your clusters_
 
 _Manage your clusters_
 
-### 🔴 DELETE `DELETE` — Delete your managed Kubernetes cluster
+### 🔴 DELETE — Delete your managed Kubernetes cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19869,7 +19871,7 @@ _Manage your clusters_
 
 ---
 
-### 🟢 GET `GET` — Get information about your managed Kubernetes cluster
+### 🟢 GET — Get information about your managed Kubernetes cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19888,7 +19890,7 @@ _Manage your clusters_
 
 ---
 
-### 🟠 PUT `PUT` — Update information about your managed Kubernetes cluster
+### 🟠 PUT — Update information about your managed Kubernetes cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19913,7 +19915,7 @@ _Manage your clusters_
 
 _Generate a temporary URL to retrieve audit logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve audit logs
+### 🟡 POST — Generate a temporary URL to retrieve audit logs
 
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-critical)
 
@@ -19937,7 +19939,7 @@ _Generate a temporary URL to retrieve audit logs_
 
 _Cluster customization_
 
-### 🟢 GET `GET` — Get cluster customization
+### 🟢 GET — Get cluster customization
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19956,7 +19958,7 @@ _Cluster customization_
 
 ---
 
-### 🟠 PUT `PUT` — Update cluster customization
+### 🟠 PUT — Update cluster customization
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -19981,7 +19983,7 @@ _Cluster customization_
 
 _List all flavors available_
 
-### 🟢 GET `GET` — List all flavors available
+### 🟢 GET — List all flavors available
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20005,7 +20007,7 @@ _List all flavors available_
 
 _Manage your api-server ip restrictions_
 
-### 🟢 GET `GET` — List your ip restrictions on your cluster
+### 🟢 GET — List your ip restrictions on your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20024,7 +20026,7 @@ _Manage your api-server ip restrictions_
 
 ---
 
-### 🟡 POST `POST` — Append a list of ip restrictions on your cluster
+### 🟡 POST — Append a list of ip restrictions on your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20044,7 +20046,7 @@ _Manage your api-server ip restrictions_
 
 ---
 
-### 🟠 PUT `PUT` — Remove the current list and add a list of ip restrictions on your cluster
+### 🟠 PUT — Remove the current list and add a list of ip restrictions on your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20069,7 +20071,7 @@ _Manage your api-server ip restrictions_
 
 _Manage your api-server ip restrictions_
 
-### 🔴 DELETE `DELETE` — Delete an ip restriction from your cluster
+### 🔴 DELETE — Delete an ip restriction from your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20094,7 +20096,7 @@ _Manage your api-server ip restrictions_
 
 _Get your cluster configuration_
 
-### 🟡 POST `POST` — Generate kubeconfig file
+### 🟡 POST — Generate kubeconfig file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20118,7 +20120,7 @@ _Get your cluster configuration_
 
 _Reset your cluster's kubeconfig_
 
-### 🟡 POST `POST` — Reset kubeconfig: Certificates will be regenerated, nodes will be reinstalled
+### 🟡 POST — Reset kubeconfig: Certificates will be regenerated, nodes will be reinstalled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20142,7 +20144,7 @@ _Reset your cluster's kubeconfig_
 
 _Create a subscription from logs to a pre-existing LDP stream_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20162,7 +20164,7 @@ _Create a subscription from logs to a pre-existing LDP stream_
 
 ---
 
-### 🟡 POST `POST` — Create a subscription from logs to a pre-existing LDP stream
+### 🟡 POST — Create a subscription from logs to a pre-existing LDP stream
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20187,7 +20189,7 @@ _Create a subscription from logs to a pre-existing LDP stream_
 
 _Create a subscription from logs to a pre-existing LDP stream_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20207,7 +20209,7 @@ _Create a subscription from logs to a pre-existing LDP stream_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20232,7 +20234,7 @@ _Create a subscription from logs to a pre-existing LDP stream_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20257,7 +20259,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Get your cluster etcd usage/quota_
 
-### 🟢 GET `GET` — List available metrics for this cluster
+### 🟢 GET — List available metrics for this cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20281,7 +20283,7 @@ _Get your cluster etcd usage/quota_
 
 _Manage your nodes_
 
-### 🟢 GET `GET` — List your nodes
+### 🟢 GET — List your nodes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20307,7 +20309,7 @@ _Manage your nodes_
 
 _Manage your nodes_
 
-### 🔴 DELETE `DELETE` — Delete a specific node on your cluster
+### 🔴 DELETE — Delete a specific node on your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20327,7 +20329,7 @@ _Manage your nodes_
 
 ---
 
-### 🟢 GET `GET` — Get information on a specific node on your cluster
+### 🟢 GET — Get information on a specific node on your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20352,7 +20354,7 @@ _Manage your nodes_
 
 _Manage your nodepools_
 
-### 🟢 GET `GET` — List your nodepools
+### 🟢 GET — List your nodepools
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20371,7 +20373,7 @@ _Manage your nodepools_
 
 ---
 
-### 🟡 POST `POST` — Create a nodepool on your cluster
+### 🟡 POST — Create a nodepool on your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20396,7 +20398,7 @@ _Manage your nodepools_
 
 _Manage your nodepools_
 
-### 🔴 DELETE `DELETE` — Delete a nodepool from your cluster
+### 🔴 DELETE — Delete a nodepool from your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20416,7 +20418,7 @@ _Manage your nodepools_
 
 ---
 
-### 🟢 GET `GET` — Get information on a specific nodepool on your cluster
+### 🟢 GET — Get information on a specific nodepool on your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20436,7 +20438,7 @@ _Manage your nodepools_
 
 ---
 
-### 🟠 PUT `PUT` — Update your nodepool information
+### 🟠 PUT — Update your nodepool information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20462,7 +20464,7 @@ _Manage your nodepools_
 
 _List nodes_
 
-### 🟢 GET `GET` — List all nodes contained in a nodepool
+### 🟢 GET — List all nodes contained in a nodepool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20489,7 +20491,7 @@ _List nodes_
 
 _Manage OpenIdConnect integration with Kube APIServer_
 
-### 🔴 DELETE `DELETE` — Remove OpenIdConnect integration from APIServer
+### 🔴 DELETE — Remove OpenIdConnect integration from APIServer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20508,7 +20510,7 @@ _Manage OpenIdConnect integration with Kube APIServer_
 
 ---
 
-### 🟢 GET `GET` — Get openIdConnect integration parameters
+### 🟢 GET — Get openIdConnect integration parameters
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20527,7 +20529,7 @@ _Manage OpenIdConnect integration with Kube APIServer_
 
 ---
 
-### 🟡 POST `POST` — Configure APIServer for OpenIdConnect
+### 🟡 POST — Configure APIServer for OpenIdConnect
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20547,7 +20549,7 @@ _Manage OpenIdConnect integration with Kube APIServer_
 
 ---
 
-### 🟠 PUT `PUT` — Update parameters and reconfigure APIServer
+### 🟠 PUT — Update parameters and reconfigure APIServer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20572,7 +20574,7 @@ _Manage OpenIdConnect integration with Kube APIServer_
 
 _Manage the private network configuration_
 
-### 🟢 GET `GET` — Get private network configuration
+### 🟢 GET — Get private network configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20591,7 +20593,7 @@ _Manage the private network configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update private network configuration
+### 🟠 PUT — Update private network configuration
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20616,7 +20618,7 @@ _Manage the private network configuration_
 
 _Reset your cluster_
 
-### 🟡 POST `POST` — Reset cluster: all Kubernetes data will be erased (pods, services, configuration, etc), nodes will be either deleted or reinstalled
+### 🟡 POST — Reset cluster: all Kubernetes data will be erased (pods, services, configuration, etc), nodes will be either deleted or reinstalled
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20641,7 +20643,7 @@ _Reset your cluster_
 
 _Restart your cluster control plane_
 
-### 🟡 POST `POST` — Restarting your control plane apiserver to invalidate cache without downtime (using force will create a slight downtime)
+### 🟡 POST — Restarting your control plane apiserver to invalidate cache without downtime (using force will create a slight downtime)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20666,7 +20668,7 @@ _Restart your cluster control plane_
 
 _Update cluster_
 
-### 🟡 POST `POST` — Force cluster and node update to the latest patch within minor version or next minor version
+### 🟡 POST — Force cluster and node update to the latest patch within minor version or next minor version
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20691,7 +20693,7 @@ _Update cluster_
 
 _Updates the load balancers subnet ID_
 
-### 🟠 PUT `PUT` — Updates the load balancers subnet ID
+### 🟠 PUT — Updates the load balancers subnet ID
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20716,7 +20718,7 @@ _Updates the load balancers subnet ID_
 
 _Manage the update policy of your cluster_
 
-### 🟠 PUT `PUT` — Change the update policy of your cluster
+### 🟠 PUT — Change the update policy of your cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -20741,7 +20743,7 @@ _Manage the update policy of your cluster_
 
 _Manage labs on your Cloud Project_
 
-### 🟢 GET `GET` — List available public cloud labs
+### 🟢 GET — List available public cloud labs
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20764,7 +20766,7 @@ _Manage labs on your Cloud Project_
 
 _Manage labs on your Cloud Project_
 
-### 🟢 GET `GET` — Get details of a public cloud lab
+### 🟢 GET — Get details of a public cloud lab
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20783,7 +20785,7 @@ _Manage labs on your Cloud Project_
 
 ---
 
-### 🟡 POST `POST` — Activate a lab on your Cloud Project
+### 🟡 POST — Activate a lab on your Cloud Project
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20807,7 +20809,7 @@ _Manage labs on your Cloud Project_
 
 _Manage lab agreements_
 
-### 🟢 GET `GET` — List required agreements to active this lab
+### 🟢 GET — List required agreements to active this lab
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20829,7 +20831,7 @@ _Manage lab agreements_
 
 ## `/cloud/project/{serviceName}/loadbalancer`
 
-### 🟢 GET `GET` — List all load balancer for a tenant
+### 🟢 GET — List all load balancer for a tenant
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20848,7 +20850,7 @@ _Manage lab agreements_
 
 ---
 
-### 🟡 POST `POST` — Create a load balancer
+### 🟡 POST — Create a load balancer
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20871,7 +20873,7 @@ _Manage lab agreements_
 
 ## `/cloud/project/{serviceName}/loadbalancer/{loadBalancerId}`
 
-### 🔴 DELETE `DELETE` — Delete a load balancer
+### 🔴 DELETE — Delete a load balancer
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20891,7 +20893,7 @@ _Manage lab agreements_
 
 ---
 
-### 🟢 GET `GET` — Get a load balancer
+### 🟢 GET — Get a load balancer
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20911,7 +20913,7 @@ _Manage lab agreements_
 
 ---
 
-### 🟠 PUT `PUT` — Update a load balancer
+### 🟠 PUT — Update a load balancer
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20935,7 +20937,7 @@ _Manage lab agreements_
 
 ## `/cloud/project/{serviceName}/loadbalancer/{loadBalancerId}/configuration`
 
-### 🟢 GET `GET` — List all versions of the configuration
+### 🟢 GET — List all versions of the configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20955,7 +20957,7 @@ _Manage lab agreements_
 
 ---
 
-### 🟡 POST `POST` — Create a configuration
+### 🟡 POST — Create a configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -20979,7 +20981,7 @@ _Manage lab agreements_
 
 ## `/cloud/project/{serviceName}/loadbalancer/{loadBalancerId}/configuration/{version}`
 
-### 🔴 DELETE `DELETE` — Delete a configuration
+### 🔴 DELETE — Delete a configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -21000,7 +21002,7 @@ _Manage lab agreements_
 
 ---
 
-### 🟢 GET `GET` — Get a configuration
+### 🟢 GET — Get a configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -21024,7 +21026,7 @@ _Manage lab agreements_
 
 ## `/cloud/project/{serviceName}/loadbalancer/{loadBalancerId}/configuration/{version}/apply`
 
-### 🟡 POST `POST` — Apply a configuration
+### 🟡 POST — Apply a configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -21050,7 +21052,7 @@ _Manage lab agreements_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get private networks
+### 🟢 GET — Get private networks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21068,7 +21070,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create a new network
+### 🟡 POST — Create a new network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21092,7 +21094,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete private network
+### 🔴 DELETE — Delete private network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21111,7 +21113,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get private network
+### 🟢 GET — Get private network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21130,7 +21132,7 @@ _Missing description_
 
 ---
 
-### 🟠 PUT `PUT` — Rename private network
+### 🟠 PUT — Rename private network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21155,7 +21157,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Activate private network in a new region
+### 🟡 POST — Activate private network in a new region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21180,7 +21182,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get network subnets
+### 🟢 GET — Get network subnets
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21199,7 +21201,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create a new network subnet
+### 🟡 POST — Create a new network subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21224,7 +21226,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete a network subnet
+### 🔴 DELETE — Delete a network subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21249,7 +21251,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get public networks
+### 🟢 GET — Get public networks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21272,7 +21274,7 @@ _Missing description_
 
 _Manage the operations on your Cloud Project_
 
-### 🟢 GET `GET` — List your operations
+### 🟢 GET — List your operations
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -21296,7 +21298,7 @@ _Manage the operations on your Cloud Project_
 
 _Manage the operations on your Cloud Project_
 
-### 🟢 GET `GET` — Get information about one operation
+### 🟢 GET — Get information about one operation
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -21320,7 +21322,7 @@ _Manage the operations on your Cloud Project_
 
 _List Quantum available regions_
 
-### 🟢 GET `GET` — List Region
+### 🟢 GET — List Region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21343,7 +21345,7 @@ _List Quantum available regions_
 
 _List Quantum available regions_
 
-### 🟢 GET `GET` — Get Region Information
+### 🟢 GET — Get Region Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21367,7 +21369,7 @@ _List Quantum available regions_
 
 _Get Quantum available QPU flavors_
 
-### 🟢 GET `GET` — List QPU Flavors
+### 🟢 GET — List QPU Flavors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21392,7 +21394,7 @@ _Get Quantum available QPU flavors_
 
 _Get Quantum available QPU flavors_
 
-### 🟢 GET `GET` — Get QPU Flavor Information
+### 🟢 GET — Get QPU Flavor Information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21417,7 +21419,7 @@ _Get Quantum available QPU flavors_
 
 _List your quota_
 
-### 🟢 GET `GET` — List quotas for a public cloud project
+### 🟢 GET — List quotas for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21442,7 +21444,7 @@ _List your quota_
 
 _Manage your regions_
 
-### 🟢 GET `GET` — List your regions
+### 🟢 GET — List your regions
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21460,7 +21462,7 @@ _Manage your regions_
 
 ---
 
-### 🟡 POST `POST` — Request access to a region
+### 🟡 POST — Request access to a region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21484,7 +21486,7 @@ _Manage your regions_
 
 _Manage your regions_
 
-### 🟢 GET `GET` — Get information about your region
+### 🟢 GET — Get information about your region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21508,7 +21510,7 @@ _Manage your regions_
 
 _Manage your S3 cold archive containers_
 
-### 🟢 GET `GET` — Get cold archive containers
+### 🟢 GET — Get cold archive containers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21528,7 +21530,7 @@ _Manage your S3 cold archive containers_
 
 ---
 
-### 🟡 POST `POST` — Create S3™* compatible cold archive container
+### 🟡 POST — Create S3™* compatible cold archive container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21554,7 +21556,7 @@ _Manage your S3 cold archive containers_
 
 _Manage your S3 cold archive containers_
 
-### 🔴 DELETE `DELETE` — Delete S3™* compatible cold archive container
+### 🔴 DELETE — Delete S3™* compatible cold archive container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21575,7 +21577,7 @@ _Manage your S3 cold archive containers_
 
 ---
 
-### 🟢 GET `GET` — Get S3™* compatible cold archive container
+### 🟢 GET — Get S3™* compatible cold archive container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21604,7 +21606,7 @@ _Manage your S3 cold archive containers_
 
 _Manage lifecycle of cold archive container_
 
-### 🟡 POST `POST` — Start archiving of container
+### 🟡 POST — Start archiving of container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21630,7 +21632,7 @@ _Manage lifecycle of cold archive container_
 
 _Manage lifecycle of cold archive container_
 
-### 🟡 POST `POST` — Start cleaning tape date of archived container
+### 🟡 POST — Start cleaning tape date of archived container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21655,7 +21657,7 @@ _Manage lifecycle of cold archive container_
 
 _Manage S3 cold archive container objects_
 
-### 🔴 DELETE `DELETE` — Delete S3™* compatible cold archive container object
+### 🔴 DELETE — Delete S3™* compatible cold archive container object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21681,7 +21683,7 @@ _Manage S3 cold archive container objects_
 
 _Manage S3 cold archive container policy_
 
-### 🟡 POST `POST` — Add S3™* compatible cold archive container policy
+### 🟡 POST — Add S3™* compatible cold archive container policy
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21708,7 +21710,7 @@ _Manage S3 cold archive container policy_
 
 _Generate presigned URLs to download or upload objects_
 
-### 🟡 POST `POST` — Generate presigned URLs to download or upload objects
+### 🟡 POST — Generate presigned URLs to download or upload objects
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21734,7 +21736,7 @@ _Generate presigned URLs to download or upload objects_
 
 _Manage lifecycle of cold archive container_
 
-### 🟡 POST `POST` — Start restoring of container
+### 🟡 POST — Start restoring of container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21759,7 +21761,7 @@ _Manage lifecycle of cold archive container_
 
 _Manage your floating ips_
 
-### 🟢 GET `GET` — List floating ips on a specific region for a public cloud project
+### 🟢 GET — List floating ips on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21784,7 +21786,7 @@ _Manage your floating ips_
 
 _Manage your floating ips_
 
-### 🔴 DELETE `DELETE` — Delete a floating ip on a specific region for a public cloud project
+### 🔴 DELETE — Delete a floating ip on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21805,7 +21807,7 @@ _Manage your floating ips_
 
 ---
 
-### 🟢 GET `GET` — Get a floating ip on a specific region for a public cloud project
+### 🟢 GET — Get a floating ip on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21831,7 +21833,7 @@ _Manage your floating ips_
 
 _Detach your floating ip_
 
-### 🟡 POST `POST` — Detach your floating ip
+### 🟡 POST — Detach your floating ip
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21856,7 +21858,7 @@ _Detach your floating ip_
 
 _Manage your gateways_
 
-### 🟢 GET `GET` — List gateways
+### 🟢 GET — List gateways
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21879,7 +21881,7 @@ _Manage your gateways_
 
 ---
 
-### 🟡 POST `POST` — Create new Gateway and new Private Network with new Subnet
+### 🟡 POST — Create new Gateway and new Private Network with new Subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21904,7 +21906,7 @@ _Manage your gateways_
 
 _Manage your gateways_
 
-### 🔴 DELETE `DELETE` — Delete gateway
+### 🔴 DELETE — Delete gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21924,7 +21926,7 @@ _Manage your gateways_
 
 ---
 
-### 🟢 GET `GET` — Get gateway
+### 🟢 GET — Get gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21944,7 +21946,7 @@ _Manage your gateways_
 
 ---
 
-### 🟠 PUT `PUT` — Update a gateway
+### 🟠 PUT — Update a gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21970,7 +21972,7 @@ _Manage your gateways_
 
 _Expose gateway to public network by adding a public port on it._
 
-### 🟡 POST `POST` — Expose gateway to public network by adding a public port on it.
+### 🟡 POST — Expose gateway to public network by adding a public port on it.
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -21995,7 +21997,7 @@ _Expose gateway to public network by adding a public port on it._
 
 _Manage your gateway interfaces_
 
-### 🟢 GET `GET` — List interfaces
+### 🟢 GET — List interfaces
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22015,7 +22017,7 @@ _Manage your gateway interfaces_
 
 ---
 
-### 🟡 POST `POST` — Create gateway interface
+### 🟡 POST — Create gateway interface
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22041,7 +22043,7 @@ _Manage your gateway interfaces_
 
 _Manage your gateway interfaces_
 
-### 🔴 DELETE `DELETE` — Delete gateway interface
+### 🔴 DELETE — Delete gateway interface
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22062,7 +22064,7 @@ _Manage your gateway interfaces_
 
 ---
 
-### 🟢 GET `GET` — Get interface
+### 🟢 GET — Get interface
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22088,7 +22090,7 @@ _Manage your gateway interfaces_
 
 _Manage your instances_
 
-### 🟢 GET `GET` — List all instances of a specific region for a public cloud project
+### 🟢 GET — List all instances of a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22108,7 +22110,7 @@ _Manage your instances_
 
 ---
 
-### 🟡 POST `POST` — Create an instance with its associated components (ssh key, private network, floating ip)
+### 🟡 POST — Create an instance with its associated components (ssh key, private network, floating ip)
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22134,7 +22136,7 @@ _Manage your instances_
 
 _Manage your instances_
 
-### 🟢 GET `GET` — Get a specific instance on a specific region for a public cloud project
+### 🟢 GET — Get a specific instance on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22165,7 +22167,7 @@ _Manage your instances_
 
 _Abort an instance snapshot creation_
 
-### 🟡 POST `POST` — Abort an instance snapshot creation for a specific instance on a specific region for a public cloud project
+### 🟡 POST — Abort an instance snapshot creation for a specific instance on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22191,7 +22193,7 @@ _Abort an instance snapshot creation_
 
 _Associate an existing floating IP to an instance_
 
-### 🟡 POST `POST` — Associate an existing floating IP to an instance on a specific region for a public cloud project
+### 🟡 POST — Associate an existing floating IP to an instance on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22216,7 +22218,7 @@ _Associate an existing floating IP to an instance_
 
 ## `/cloud/project/{serviceName}/region/{regionName}/instance/{instanceId}/autobackup`
 
-### 🟡 POST `POST` — Create an automatic instance backup workflow
+### 🟡 POST — Create an automatic instance backup workflow
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22242,7 +22244,7 @@ _Associate an existing floating IP to an instance_
 
 _Create a floating IP and attach it to an instance_
 
-### 🟡 POST `POST` — Create a floating IP and attach it to an instance on a specific region for a public cloud project
+### 🟡 POST — Create a floating IP and attach it to an instance on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22269,7 +22271,7 @@ _Create a floating IP and attach it to an instance_
 
 _Reinstall an instance with a new image_
 
-### 🟡 POST `POST` — Reinstall an instance with a new image
+### 🟡 POST — Reinstall an instance with a new image
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22296,7 +22298,7 @@ _Reinstall an instance with a new image_
 
 _Create an instance snapshot_
 
-### 🟡 POST `POST` — Create an instance snapshot for a specific instance on a specific region for a public cloud project
+### 🟡 POST — Create an instance snapshot for a specific instance on a specific region for a public cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22323,7 +22325,7 @@ _Create an instance snapshot_
 
 _Manage your certificates_
 
-### 🟢 GET `GET` — List certificates
+### 🟢 GET — List certificates
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22342,7 +22344,7 @@ _Manage your certificates_
 
 ---
 
-### 🟡 POST `POST` — Create a new certificate
+### 🟡 POST — Create a new certificate
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22367,7 +22369,7 @@ _Manage your certificates_
 
 _Manage your certificates_
 
-### 🔴 DELETE `DELETE` — Delete a certificate
+### 🔴 DELETE — Delete a certificate
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22387,7 +22389,7 @@ _Manage your certificates_
 
 ---
 
-### 🟢 GET `GET` — Get details about a certificate
+### 🟢 GET — Get details about a certificate
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22412,7 +22414,7 @@ _Manage your certificates_
 
 _Manage your secrets_
 
-### 🟢 GET `GET` — List secrets
+### 🟢 GET — List secrets
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22436,7 +22438,7 @@ _Manage your secrets_
 
 _Manage your secrets_
 
-### 🔴 DELETE `DELETE` — Delete a secret
+### 🔴 DELETE — Delete a secret
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22456,7 +22458,7 @@ _Manage your secrets_
 
 ---
 
-### 🟢 GET `GET` — Get details about a secret
+### 🟢 GET — Get details about a secret
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22481,7 +22483,7 @@ _Manage your secrets_
 
 _Consult load balancing flavors_
 
-### 🟢 GET `GET` — List flavors
+### 🟢 GET — List flavors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22505,7 +22507,7 @@ _Consult load balancing flavors_
 
 _Consult load balancing flavors_
 
-### 🟢 GET `GET` — Get details about a load balancing flavor
+### 🟢 GET — Get details about a load balancing flavor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22530,7 +22532,7 @@ _Consult load balancing flavors_
 
 _Manage your loadbalancers health monitoring_
 
-### 🟢 GET `GET` — List health monitors
+### 🟢 GET — List health monitors
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22550,7 +22552,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟡 POST `POST` — Create health monitor
+### 🟡 POST — Create health monitor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22575,7 +22577,7 @@ _Manage your loadbalancers health monitoring_
 
 _Manage your loadbalancers health monitoring_
 
-### 🔴 DELETE `DELETE` — Delete health monitor
+### 🔴 DELETE — Delete health monitor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22595,7 +22597,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟢 GET `GET` — Get details about a loadbalancer health monitor
+### 🟢 GET — Get details about a loadbalancer health monitor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22615,7 +22617,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟠 PUT `PUT` — Update a health monitor
+### 🟠 PUT — Update a health monitor
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22639,7 +22641,7 @@ _Manage your loadbalancers health monitoring_
 
 ## `/cloud/project/{serviceName}/region/{regionName}/loadbalancing/l7Policy`
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22659,7 +22661,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟡 POST `POST` — _no description_
+### 🟡 POST — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22682,7 +22684,7 @@ _Manage your loadbalancers health monitoring_
 
 ## `/cloud/project/{serviceName}/region/{regionName}/loadbalancing/l7Policy/{l7PolicyId}`
 
-### 🔴 DELETE `DELETE` — _no description_
+### 🔴 DELETE — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22702,7 +22704,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22722,7 +22724,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟠 PUT `PUT` — _no description_
+### 🟠 PUT — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22746,7 +22748,7 @@ _Manage your loadbalancers health monitoring_
 
 ## `/cloud/project/{serviceName}/region/{regionName}/loadbalancing/l7Policy/{l7PolicyId}/l7Rule`
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22766,7 +22768,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟡 POST `POST` — _no description_
+### 🟡 POST — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22790,7 +22792,7 @@ _Manage your loadbalancers health monitoring_
 
 ## `/cloud/project/{serviceName}/region/{regionName}/loadbalancing/l7Policy/{l7PolicyId}/l7Rule/{l7RuleId}`
 
-### 🔴 DELETE `DELETE` — _no description_
+### 🔴 DELETE — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22811,7 +22813,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟢 GET `GET` — _no description_
+### 🟢 GET — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22832,7 +22834,7 @@ _Manage your loadbalancers health monitoring_
 
 ---
 
-### 🟠 PUT `PUT` — _no description_
+### 🟠 PUT — _no description_
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22859,7 +22861,7 @@ _Manage your loadbalancers health monitoring_
 
 _Manage your loadbalancer listeners_
 
-### 🟢 GET `GET` — List your loadbalancer listeners
+### 🟢 GET — List your loadbalancer listeners
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22879,7 +22881,7 @@ _Manage your loadbalancer listeners_
 
 ---
 
-### 🟡 POST `POST` — Create a loadbalancer listener
+### 🟡 POST — Create a loadbalancer listener
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22904,7 +22906,7 @@ _Manage your loadbalancer listeners_
 
 _Manage your loadbalancer listeners_
 
-### 🔴 DELETE `DELETE` — Delete loadbalancer listener
+### 🔴 DELETE — Delete loadbalancer listener
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22924,7 +22926,7 @@ _Manage your loadbalancer listeners_
 
 ---
 
-### 🟢 GET `GET` — Get details about a loadbalancer listener
+### 🟢 GET — Get details about a loadbalancer listener
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22944,7 +22946,7 @@ _Manage your loadbalancer listeners_
 
 ---
 
-### 🟠 PUT `PUT` — Edit a loadbalancer listener
+### 🟠 PUT — Edit a loadbalancer listener
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22970,7 +22972,7 @@ _Manage your loadbalancer listeners_
 
 _Manage your load balancers_
 
-### 🟢 GET `GET` — List your load balancers
+### 🟢 GET — List your load balancers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -22989,7 +22991,7 @@ _Manage your load balancers_
 
 ---
 
-### 🟡 POST `POST` — Create a loadbalancer
+### 🟡 POST — Create a loadbalancer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23014,7 +23016,7 @@ _Manage your load balancers_
 
 _Manage your load balancers_
 
-### 🔴 DELETE `DELETE` — Delete loadbalancer
+### 🔴 DELETE — Delete loadbalancer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23034,7 +23036,7 @@ _Manage your load balancers_
 
 ---
 
-### 🟢 GET `GET` — Get details about a load balancer
+### 🟢 GET — Get details about a load balancer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23054,7 +23056,7 @@ _Manage your load balancers_
 
 ---
 
-### 🟠 PUT `PUT` — Edit a loadbalancer
+### 🟠 PUT — Edit a loadbalancer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23080,7 +23082,7 @@ _Manage your load balancers_
 
 _Associate an existing floating IP to a loadbalancer_
 
-### 🟡 POST `POST` — Associate an existing floating IP to a loadbalancer
+### 🟡 POST — Associate an existing floating IP to a loadbalancer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23106,7 +23108,7 @@ _Associate an existing floating IP to a loadbalancer_
 
 _Create a floating IP and attach it to a loadbalancer_
 
-### 🟡 POST `POST` — Create a floating IP and attach it to a loadbalancer
+### 🟡 POST — Create a floating IP and attach it to a loadbalancer
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23132,7 +23134,7 @@ _Create a floating IP and attach it to a loadbalancer_
 
 _Create a subscription from loadbalancer logs to a pre-existing LDP stream_
 
-### 🟢 GET `GET` — List subscription IDs for a cluster
+### 🟢 GET — List subscription IDs for a cluster
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23153,7 +23155,7 @@ _Create a subscription from loadbalancer logs to a pre-existing LDP stream_
 
 ---
 
-### 🟡 POST `POST` — Create a subscription from logs to a pre-existing LDP stream
+### 🟡 POST — Create a subscription from logs to a pre-existing LDP stream
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23179,7 +23181,7 @@ _Create a subscription from loadbalancer logs to a pre-existing LDP stream_
 
 _Create a subscription from loadbalancer logs to a pre-existing LDP stream_
 
-### 🔴 DELETE `DELETE` — Delete a subscription
+### 🔴 DELETE — Delete a subscription
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23200,7 +23202,7 @@ _Create a subscription from loadbalancer logs to a pre-existing LDP stream_
 
 ---
 
-### 🟢 GET `GET` — Get subscription details
+### 🟢 GET — Get subscription details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23226,7 +23228,7 @@ _Create a subscription from loadbalancer logs to a pre-existing LDP stream_
 
 _Generate a temporary URL to retrieve logs_
 
-### 🟡 POST `POST` — Generate a temporary URL to retrieve logs
+### 🟡 POST — Generate a temporary URL to retrieve logs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23252,7 +23254,7 @@ _Generate a temporary URL to retrieve logs_
 
 _Get loadbalancer statistics_
 
-### 🟢 GET `GET` — Get loadbalancer statistics
+### 🟢 GET — Get loadbalancer statistics
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23277,7 +23279,7 @@ _Get loadbalancer statistics_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — List available log kinds
+### 🟢 GET — List available log kinds
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23301,7 +23303,7 @@ _Access to available log kind_
 
 _Access to available log kind_
 
-### 🟢 GET `GET` — Get a log kind
+### 🟢 GET — Get a log kind
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23326,7 +23328,7 @@ _Access to available log kind_
 
 _Manage your loadbalancer pools_
 
-### 🟢 GET `GET` — List your loadbalancer pools
+### 🟢 GET — List your loadbalancer pools
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23346,7 +23348,7 @@ _Manage your loadbalancer pools_
 
 ---
 
-### 🟡 POST `POST` — Create a loadbalancer pool
+### 🟡 POST — Create a loadbalancer pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23371,7 +23373,7 @@ _Manage your loadbalancer pools_
 
 _Manage your loadbalancer pools_
 
-### 🔴 DELETE `DELETE` — Delete a loadbalancer pool
+### 🔴 DELETE — Delete a loadbalancer pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23391,7 +23393,7 @@ _Manage your loadbalancer pools_
 
 ---
 
-### 🟢 GET `GET` — Get details about a loadbalancer pool
+### 🟢 GET — Get details about a loadbalancer pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23411,7 +23413,7 @@ _Manage your loadbalancer pools_
 
 ---
 
-### 🟠 PUT `PUT` — Update a loadbalancer pool
+### 🟠 PUT — Update a loadbalancer pool
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23437,7 +23439,7 @@ _Manage your loadbalancer pools_
 
 _Manage your pool members_
 
-### 🟢 GET `GET` — List your pool members
+### 🟢 GET — List your pool members
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23457,7 +23459,7 @@ _Manage your pool members_
 
 ---
 
-### 🟡 POST `POST` — Create pool members
+### 🟡 POST — Create pool members
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23483,7 +23485,7 @@ _Manage your pool members_
 
 _Manage your pool members_
 
-### 🔴 DELETE `DELETE` — Delete a pool member
+### 🔴 DELETE — Delete a pool member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23504,7 +23506,7 @@ _Manage your pool members_
 
 ---
 
-### 🟢 GET `GET` — Get details about a pool member
+### 🟢 GET — Get details about a pool member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23525,7 +23527,7 @@ _Manage your pool members_
 
 ---
 
-### 🟠 PUT `PUT` — Update a pool member
+### 🟠 PUT — Update a pool member
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23552,7 +23554,7 @@ _Manage your pool members_
 
 _Manage your networks_
 
-### 🟢 GET `GET` — List networks
+### 🟢 GET — List networks
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23571,7 +23573,7 @@ _Manage your networks_
 
 ---
 
-### 🟡 POST `POST` — Create a network with a gateway
+### 🟡 POST — Create a network with a gateway
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23596,7 +23598,7 @@ _Manage your networks_
 
 _Manage your networks_
 
-### 🔴 DELETE `DELETE` — Delete network
+### 🔴 DELETE — Delete network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23616,7 +23618,7 @@ _Manage your networks_
 
 ---
 
-### 🟢 GET `GET` — Get network
+### 🟢 GET — Get network
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23641,7 +23643,7 @@ _Manage your networks_
 
 _Manage your subnets_
 
-### 🟢 GET `GET` — List subnets
+### 🟢 GET — List subnets
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23661,7 +23663,7 @@ _Manage your subnets_
 
 ---
 
-### 🟡 POST `POST` — Create subnet
+### 🟡 POST — Create subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23687,7 +23689,7 @@ _Manage your subnets_
 
 _Manage your subnets_
 
-### 🔴 DELETE `DELETE` — Delete subnet
+### 🔴 DELETE — Delete subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23708,7 +23710,7 @@ _Manage your subnets_
 
 ---
 
-### 🟢 GET `GET` — Get subnet
+### 🟢 GET — Get subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23734,7 +23736,7 @@ _Manage your subnets_
 
 _Create Gateway for existing subnet_
 
-### 🟡 POST `POST` — Create Gateway for existing subnet
+### 🟡 POST — Create Gateway for existing subnet
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23761,7 +23763,7 @@ _Create Gateway for existing subnet_
 
 _Consult quotas_
 
-### 🟢 GET `GET` — List quotas
+### 🟢 GET — List quotas
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23780,7 +23782,7 @@ _Consult quotas_
 
 ---
 
-### 🟡 POST `POST` — Change project quotas on region
+### 🟡 POST — Change project quotas on region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23805,7 +23807,7 @@ _Consult quotas_
 
 _Get allowed quotas_
 
-### 🟢 GET `GET` — Get allowed quotas on region
+### 🟢 GET — Get allowed quotas on region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23829,7 +23831,7 @@ _Get allowed quotas_
 
 _Get storage quotas_
 
-### 🔴 DELETE `DELETE` — Delete storage quota on region
+### 🔴 DELETE — Delete storage quota on region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23848,7 +23850,7 @@ _Get storage quotas_
 
 ---
 
-### 🟢 GET `GET` — Get storage quotas on region
+### 🟢 GET — Get storage quotas on region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23867,7 +23869,7 @@ _Get storage quotas_
 
 ---
 
-### 🟠 PUT `PUT` — Update storage quota on region
+### 🟠 PUT — Update storage quota on region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23892,7 +23894,7 @@ _Get storage quotas_
 
 _Manage shares_
 
-### 🟢 GET `GET` — Get shares
+### 🟢 GET — Get shares
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23911,7 +23913,7 @@ _Manage shares_
 
 ---
 
-### 🟡 POST `POST` — Create Share
+### 🟡 POST — Create Share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23936,7 +23938,7 @@ _Manage shares_
 
 _Manage shares_
 
-### 🔴 DELETE `DELETE` — Delete Share
+### 🔴 DELETE — Delete Share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23956,7 +23958,7 @@ _Manage shares_
 
 ---
 
-### 🟢 GET `GET` — Get share
+### 🟢 GET — Get share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -23976,7 +23978,7 @@ _Manage shares_
 
 ---
 
-### 🟠 PUT `PUT` — Update Share
+### 🟠 PUT — Update Share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24002,7 +24004,7 @@ _Manage shares_
 
 _Manage share ACLs_
 
-### 🟢 GET `GET` — Get share ACLs
+### 🟢 GET — Get share ACLs
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24022,7 +24024,7 @@ _Manage share ACLs_
 
 ---
 
-### 🟡 POST `POST` — Create share ACL
+### 🟡 POST — Create share ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24048,7 +24050,7 @@ _Manage share ACLs_
 
 _Manage share ACLs_
 
-### 🔴 DELETE `DELETE` — Delete share ACL
+### 🔴 DELETE — Delete share ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24069,7 +24071,7 @@ _Manage share ACLs_
 
 ---
 
-### 🟢 GET `GET` — Get share ACL
+### 🟢 GET — Get share ACL
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24095,7 +24097,7 @@ _Manage share ACLs_
 
 _Manage share snapshots_
 
-### 🟢 GET `GET` — Get share snapshots
+### 🟢 GET — Get share snapshots
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24115,7 +24117,7 @@ _Manage share snapshots_
 
 ---
 
-### 🟡 POST `POST` — Create Share
+### 🟡 POST — Create Share
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24141,7 +24143,7 @@ _Manage share snapshots_
 
 _Manage share snapshots_
 
-### 🔴 DELETE `DELETE` — Delete share snapshot
+### 🔴 DELETE — Delete share snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24162,7 +24164,7 @@ _Manage share snapshots_
 
 ---
 
-### 🟢 GET `GET` — Get share snapshot
+### 🟢 GET — Get share snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24188,7 +24190,7 @@ _Manage share snapshots_
 
 _Manage S3 storage containers_
 
-### 🟢 GET `GET` — Get S3™* compatible storage containers
+### 🟢 GET — Get S3™* compatible storage containers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24208,7 +24210,7 @@ _Manage S3 storage containers_
 
 ---
 
-### 🟡 POST `POST` — Create S3™* compatible storage container
+### 🟡 POST — Create S3™* compatible storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24234,7 +24236,7 @@ _Manage S3 storage containers_
 
 _Manage S3 storage containers_
 
-### 🔴 DELETE `DELETE` — Delete S3™* compatible storage container
+### 🔴 DELETE — Delete S3™* compatible storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24255,7 +24257,7 @@ _Manage S3 storage containers_
 
 ---
 
-### 🟢 GET `GET` — Get S3™* compatible storage container
+### 🟢 GET — Get S3™* compatible storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24280,7 +24282,7 @@ _Manage S3 storage containers_
 
 ---
 
-### 🟠 PUT `PUT` — Update S3™* compatible storage container
+### 🟠 PUT — Update S3™* compatible storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24307,7 +24309,7 @@ _Manage S3 storage containers_
 
 _Bulk delete storage container objects_
 
-### 🟡 POST `POST` — Bulk delete container objects
+### 🟡 POST — Bulk delete container objects
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24334,7 +24336,7 @@ _Bulk delete storage container objects_
 
 _Manage replication jobs on S3 buckets_
 
-### 🟢 GET `GET` — Get replication jobs on S3™* compatible buckets
+### 🟢 GET — Get replication jobs on S3™* compatible buckets
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24355,7 +24357,7 @@ _Manage replication jobs on S3 buckets_
 
 ---
 
-### 🟡 POST `POST` — Create replication job on S3™* compatible buckets
+### 🟡 POST — Create replication job on S3™* compatible buckets
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24381,7 +24383,7 @@ _Manage replication jobs on S3 buckets_
 
 _Manage S3™* compatible storage container lifecycle configuration_
 
-### 🔴 DELETE `DELETE` — Delete S3™* compatible storage container lifecycle configuration
+### 🔴 DELETE — Delete S3™* compatible storage container lifecycle configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24402,7 +24404,7 @@ _Manage S3™* compatible storage container lifecycle configuration_
 
 ---
 
-### 🟢 GET `GET` — Get S3™* compatible storage container lifecycle configuration
+### 🟢 GET — Get S3™* compatible storage container lifecycle configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24423,7 +24425,7 @@ _Manage S3™* compatible storage container lifecycle configuration_
 
 ---
 
-### 🟠 PUT `PUT` — Update S3™* compatible storage container lifecycle configuration
+### 🟠 PUT — Update S3™* compatible storage container lifecycle configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24450,7 +24452,7 @@ _Manage S3™* compatible storage container lifecycle configuration_
 
 _Manage multipart uploads on S3 storage containers_
 
-### 🟢 GET `GET` — List multipart uploads on a S3™* compatible storage container
+### 🟢 GET — List multipart uploads on a S3™* compatible storage container
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24471,7 +24473,7 @@ _Manage multipart uploads on S3 storage containers_
 
 ---
 
-### 🟡 POST `POST` — Create a multipart upload on a S3™* compatible storage container
+### 🟡 POST — Create a multipart upload on a S3™* compatible storage container
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24498,7 +24500,7 @@ _Manage multipart uploads on S3 storage containers_
 
 _Manage S3 storage container objects_
 
-### 🟢 GET `GET` — Get objects of S3™* compatible storage containers
+### 🟢 GET — Get objects of S3™* compatible storage containers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24530,7 +24532,7 @@ _Manage S3 storage container objects_
 
 _Manage S3 storage container objects_
 
-### 🔴 DELETE `DELETE` — Delete S3™* compatible storage container object
+### 🔴 DELETE — Delete S3™* compatible storage container object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24552,7 +24554,7 @@ _Manage S3 storage container objects_
 
 ---
 
-### 🟢 GET `GET` — Get information about an object in a S3™* compatible storage container
+### 🟢 GET — Get information about an object in a S3™* compatible storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24574,7 +24576,7 @@ _Manage S3 storage container objects_
 
 ---
 
-### 🟠 PUT `PUT` — Update S3™* compatible storage container object
+### 🟠 PUT — Update S3™* compatible storage container object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24602,7 +24604,7 @@ _Manage S3 storage container objects_
 
 _Copy an object_
 
-### 🟡 POST `POST` — Copy a S3™* object
+### 🟡 POST — Copy a S3™* object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24629,7 +24631,7 @@ _Copy an object_
 
 _Manage multipart uploads on S3 storage container objects_
 
-### 🟢 GET `GET` — List multipart uploads on a S3™* compatible storage container object
+### 🟢 GET — List multipart uploads on a S3™* compatible storage container object
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24656,7 +24658,7 @@ _Manage multipart uploads on S3 storage container objects_
 
 _Manage multipart uploads on S3 storage container objects_
 
-### 🔴 DELETE `DELETE` — Abort a multipart upload on a S3™* compatible storage container
+### 🔴 DELETE — Abort a multipart upload on a S3™* compatible storage container
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24679,7 +24681,7 @@ _Manage multipart uploads on S3 storage container objects_
 
 ---
 
-### 🟢 GET `GET` — Get a multipart upload on a S3™* compatible storage container
+### 🟢 GET — Get a multipart upload on a S3™* compatible storage container
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24707,7 +24709,7 @@ _Manage multipart uploads on S3 storage container objects_
 
 _Manage multipart upload parts_
 
-### 🟢 GET `GET` — List parts of a multipart upload on a S3™* compatible storage container
+### 🟢 GET — List parts of a multipart upload on a S3™* compatible storage container
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -24735,7 +24737,7 @@ _Manage multipart upload parts_
 
 _Restore an object_
 
-### 🟡 POST `POST` — Restore a S3™* object
+### 🟡 POST — Restore a S3™* object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24762,7 +24764,7 @@ _Restore an object_
 
 _Manage S3 storage container object versions_
 
-### 🟢 GET `GET` — Get versions of an object in a S3™* compatible storage container
+### 🟢 GET — Get versions of an object in a S3™* compatible storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24791,7 +24793,7 @@ _Manage S3 storage container object versions_
 
 _Manage S3 storage container object versions_
 
-### 🔴 DELETE `DELETE` — Delete S3™* compatible storage container object version
+### 🔴 DELETE — Delete S3™* compatible storage container object version
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24814,7 +24816,7 @@ _Manage S3 storage container object versions_
 
 ---
 
-### 🟢 GET `GET` — Get information about an object in a S3™* compatible storage container
+### 🟢 GET — Get information about an object in a S3™* compatible storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24837,7 +24839,7 @@ _Manage S3 storage container object versions_
 
 ---
 
-### 🟠 PUT `PUT` — Update S3™* compatible storage container object version
+### 🟠 PUT — Update S3™* compatible storage container object version
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24866,7 +24868,7 @@ _Manage S3 storage container object versions_
 
 _Copy a specific version of an object_
 
-### 🟡 POST `POST` — Copy a specific version of a S3™* object
+### 🟡 POST — Copy a specific version of a S3™* object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24894,7 +24896,7 @@ _Copy a specific version of an object_
 
 _Restore a specific version of an object_
 
-### 🟡 POST `POST` — Restore a specific version of a S3™* object
+### 🟡 POST — Restore a specific version of a S3™* object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24922,7 +24924,7 @@ _Restore a specific version of an object_
 
 _Manage S3 storage container policy_
 
-### 🟡 POST `POST` — Add S3™* compatible storage container policy
+### 🟡 POST — Add S3™* compatible storage container policy
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24950,7 +24952,7 @@ _Manage S3 storage container policy_
 
 _Generate S3 presigned URLs to download or upload objects_
 
-### 🟡 POST `POST` — Generate S3™* compatible presigned URLs to download or upload objects
+### 🟡 POST — Generate S3™* compatible presigned URLs to download or upload objects
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24977,7 +24979,7 @@ _Generate S3 presigned URLs to download or upload objects_
 
 _Manage your volumes_
 
-### 🟢 GET `GET` — List your volumes
+### 🟢 GET — List your volumes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -24996,7 +24998,7 @@ _Manage your volumes_
 
 ---
 
-### 🟡 POST `POST` — Create a volume
+### 🟡 POST — Create a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25021,7 +25023,7 @@ _Manage your volumes_
 
 _Manage your volumes_
 
-### 🟢 GET `GET` — Get a volume
+### 🟢 GET — Get a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25041,7 +25043,7 @@ _Manage your volumes_
 
 ---
 
-### 🟠 PUT `PUT` — Update a volume
+### 🟠 PUT — Update a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25067,7 +25069,7 @@ _Manage your volumes_
 
 _Delete your volume snapshots in bulk or all of them_
 
-### 🟡 POST `POST` — Delete your volume snapshots in bulk
+### 🟡 POST — Delete your volume snapshots in bulk
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25093,7 +25095,7 @@ _Delete your volume snapshots in bulk or all of them_
 
 _Manage your volume backups_
 
-### 🟢 GET `GET` — List volume backups
+### 🟢 GET — List volume backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25112,7 +25114,7 @@ _Manage your volume backups_
 
 ---
 
-### 🟡 POST `POST` — Create a volume backup
+### 🟡 POST — Create a volume backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25137,7 +25139,7 @@ _Manage your volume backups_
 
 _Manage your volume backups_
 
-### 🔴 DELETE `DELETE` — Delete volume backup
+### 🔴 DELETE — Delete volume backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25157,7 +25159,7 @@ _Manage your volume backups_
 
 ---
 
-### 🟢 GET `GET` — Get volume backup
+### 🟢 GET — Get volume backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25182,7 +25184,7 @@ _Manage your volume backups_
 
 _Restore a volume backup on a volume_
 
-### 🟡 POST `POST` — Restore a volume backup on a volume
+### 🟡 POST — Restore a volume backup on a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25208,7 +25210,7 @@ _Restore a volume backup on a volume_
 
 _Create a volume from a volume backup_
 
-### 🟡 POST `POST` — Create a volume from a volume backup
+### 🟡 POST — Create a volume from a volume backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25234,7 +25236,7 @@ _Create a volume from a volume backup_
 
 _Manage volume types_
 
-### 🟢 GET `GET` — List the volume types available for a region
+### 🟢 GET — List the volume types available for a region
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25258,7 +25260,7 @@ _Manage volume types_
 
 _Manage your automated backups_
 
-### 🟢 GET `GET` — List your automated backups
+### 🟢 GET — List your automated backups
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25277,7 +25279,7 @@ _Manage your automated backups_
 
 ---
 
-### 🟡 POST `POST` — Create a new automated backup
+### 🟡 POST — Create a new automated backup
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25302,7 +25304,7 @@ _Manage your automated backups_
 
 _Manage your automated backups_
 
-### 🔴 DELETE `DELETE` — Delete a backup workflow process
+### 🔴 DELETE — Delete a backup workflow process
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25322,7 +25324,7 @@ _Manage your automated backups_
 
 ---
 
-### 🟢 GET `GET` — Get details about a backup workflow process
+### 🟢 GET — Get details about a backup workflow process
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25347,7 +25349,7 @@ _Manage your automated backups_
 
 _Manage the regions you can add on your project_
 
-### 🟢 GET `GET` — List the regions on which you can ask an access to
+### 🟢 GET — List the regions on which you can ask an access to
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25370,7 +25372,7 @@ _Manage the regions you can add on your project_
 
 _retain operations_
 
-### 🟡 POST `POST` — Do not expire the project, and retain it
+### 🟡 POST — Do not expire the project, and retain it
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25393,7 +25395,7 @@ _retain operations_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get all Roles
+### 🟢 GET — Get all Roles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25416,7 +25418,7 @@ _Missing description_
 
 _Details about a Service_
 
-### 🟢 GET `GET` — Get service information
+### 🟢 GET — Get service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25434,7 +25436,7 @@ _Details about a Service_
 
 ---
 
-### 🟠 PUT `PUT` — Update service information
+### 🟠 PUT — Update service information
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25458,7 +25460,7 @@ _Details about a Service_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get snapshots
+### 🟢 GET — Get snapshots
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25483,7 +25485,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete a snapshot
+### 🔴 DELETE — Delete a snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25502,7 +25504,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get snapshot details
+### 🟢 GET — Get snapshot details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25526,7 +25528,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get SSH keys
+### 🟢 GET — Get SSH keys
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25545,7 +25547,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create SSH key
+### 🟡 POST — Create SSH key
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25569,7 +25571,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete SSH key
+### 🔴 DELETE — Delete SSH key
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25588,7 +25590,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get SSH key
+### 🟢 GET — Get SSH key
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25612,7 +25614,7 @@ _Missing description_
 
 _Manage SWIFT containers_
 
-### 🟢 GET `GET` — Get SWIFT storage containers
+### 🟢 GET — Get SWIFT storage containers
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25631,7 +25633,7 @@ _Manage SWIFT containers_
 
 ---
 
-### 🟡 POST `POST` — Create SWIFT container
+### 🟡 POST — Create SWIFT container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25655,7 +25657,7 @@ _Manage SWIFT containers_
 
 _Manage SWIFT container access_
 
-### 🟡 POST `POST` — Access to SWIFT storage API
+### 🟡 POST — Access to SWIFT storage API
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25678,7 +25680,7 @@ _Manage SWIFT container access_
 
 _Get your storage quota_
 
-### 🟢 GET `GET` — List storage quotas
+### 🟢 GET — List storage quotas
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -25701,7 +25703,7 @@ _Get your storage quota_
 
 _Manage SWIFT containers_
 
-### 🔴 DELETE `DELETE` — Delete SWIFT container
+### 🔴 DELETE — Delete SWIFT container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25721,7 +25723,7 @@ _Manage SWIFT containers_
 
 ---
 
-### 🟢 GET `GET` — Get SWIFT storage container
+### 🟢 GET — Get SWIFT storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25742,7 +25744,7 @@ _Manage SWIFT containers_
 
 ---
 
-### 🟠 PUT `PUT` — Update SWIFT storage container
+### 🟠 PUT — Update SWIFT storage container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25767,7 +25769,7 @@ _Manage SWIFT containers_
 
 _Manage SWIFT containers CORS settings_
 
-### 🔴 DELETE `DELETE` — Delete CORS support on SWIFT container
+### 🔴 DELETE — Delete CORS support on SWIFT container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25787,7 +25789,7 @@ _Manage SWIFT containers CORS settings_
 
 ---
 
-### 🟡 POST `POST` — Add CORS support on SWIFT container
+### 🟡 POST — Add CORS support on SWIFT container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25812,7 +25814,7 @@ _Manage SWIFT containers CORS settings_
 
 _Manage SWIFT temporary URLs_
 
-### 🟡 POST `POST` — Get a public temporary URL to access one of your SWIFT object
+### 🟡 POST — Get a public temporary URL to access one of your SWIFT object
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25837,7 +25839,7 @@ _Manage SWIFT temporary URLs_
 
 _Manage SWIFT container static files_
 
-### 🟡 POST `POST` — Deploy your SWIFT container files as a static web site
+### 🟡 POST — Deploy your SWIFT container files as a static web site
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25861,7 +25863,7 @@ _Manage SWIFT container static files_
 
 _Manage SWIFT containers users_
 
-### 🟡 POST `POST` — Create openstack user with only access to this SWIFT container
+### 🟡 POST — Create openstack user with only access to this SWIFT container
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25886,7 +25888,7 @@ _Manage SWIFT containers users_
 
 _Ask for the termination of your service. Admin contact of this service will receive a termination token in order to confirm its termination with /confirmTermination endpoint._
 
-### 🟡 POST `POST` — Ask for the termination of your service
+### 🟡 POST — Ask for the termination of your service
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25909,7 +25911,7 @@ _Ask for the termination of your service. Admin contact of this service will rec
 
 _unleash operations_
 
-### 🟡 POST `POST` — Request more quota on your /cloud project
+### 🟡 POST — Request more quota on your /cloud project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25932,7 +25934,7 @@ _unleash operations_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get current usage
+### 🟢 GET — Get current usage
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25955,7 +25957,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get usage forecast
+### 🟢 GET — Get usage forecast
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -25978,7 +25980,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Usage information details
+### 🟢 GET — Usage information details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26003,7 +26005,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Usage information details
+### 🟢 GET — Usage information details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26027,7 +26029,7 @@ _Missing description_
 
 _plans consumption endpoint_
 
-### 🟢 GET `GET` — Get plan consumption details
+### 🟢 GET — Get plan consumption details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26053,7 +26055,7 @@ _plans consumption endpoint_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get all users
+### 🟢 GET — Get all users
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26071,7 +26073,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create user
+### 🟡 POST — Create user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26095,7 +26097,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete user
+### 🔴 DELETE — Delete user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26114,7 +26116,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get user details
+### 🟢 GET — Get user details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26138,7 +26140,7 @@ _Missing description_
 
 _Get your client configuration_
 
-### 🟢 GET `GET` — Get your client configuration
+### 🟢 GET — Get your client configuration
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26163,7 +26165,7 @@ _Get your client configuration_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get RC file of OpenStack
+### 🟢 GET — Get RC file of OpenStack
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26189,7 +26191,7 @@ _Missing description_
 
 _Manage user storage policies_
 
-### 🟢 GET `GET` — Export user storage policy
+### 🟢 GET — Export user storage policy
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26208,7 +26210,7 @@ _Manage user storage policies_
 
 ---
 
-### 🟡 POST `POST` — Import user storage policy
+### 🟡 POST — Import user storage policy
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26233,7 +26235,7 @@ _Manage user storage policies_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get rclone configuration file
+### 🟢 GET — Get rclone configuration file
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26259,7 +26261,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Regenerate user password
+### 🟡 POST — Regenerate user password
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26283,7 +26285,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get user roles
+### 🟢 GET — Get user roles
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26302,7 +26304,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Add a role to a user
+### 🟡 POST — Add a role to a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26322,7 +26324,7 @@ _Missing description_
 
 ---
 
-### 🟠 PUT `PUT` — Update roles of a user
+### 🟠 PUT — Update roles of a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26347,7 +26349,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Remove role for a user
+### 🔴 DELETE — Remove role for a user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26367,7 +26369,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get role detail
+### 🟢 GET — Get role detail
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26392,7 +26394,7 @@ _Missing description_
 
 _Manage your S3 credentials_
 
-### 🟢 GET `GET` — List your S3™* compatible storage credentials
+### 🟢 GET — List your S3™* compatible storage credentials
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26411,7 +26413,7 @@ _Manage your S3 credentials_
 
 ---
 
-### 🟡 POST `POST` — Create a new S3™* compatible storage credentials for an user
+### 🟡 POST — Create a new S3™* compatible storage credentials for an user
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26435,7 +26437,7 @@ _Manage your S3 credentials_
 
 _Manage your S3 credentials_
 
-### 🔴 DELETE `DELETE` — Delete an S3™* compatible storage credential
+### 🔴 DELETE — Delete an S3™* compatible storage credential
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26455,7 +26457,7 @@ _Manage your S3 credentials_
 
 ---
 
-### 🟢 GET `GET` — Get details about an S3™* compatible storage credential
+### 🟢 GET — Get details about an S3™* compatible storage credential
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26480,7 +26482,7 @@ _Manage your S3 credentials_
 
 _Display secret from a S3 credential_
 
-### 🟡 POST `POST` — Display secret from a S3™* compatible storage credential
+### 🟡 POST — Display secret from a S3™* compatible storage credential
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26505,7 +26507,7 @@ _Display secret from a S3 credential_
 
 _Missing description_
 
-### 🟡 POST `POST` — Get token for user
+### 🟡 POST — Get token for user
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26530,7 +26532,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get volumes
+### 🟢 GET — Get volumes
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26549,7 +26551,7 @@ _Missing description_
 
 ---
 
-### 🟡 POST `POST` — Create a volume
+### 🟡 POST — Create a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26573,7 +26575,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟢 GET `GET` — Get volume snapshots
+### 🟢 GET — Get volume snapshots
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26597,7 +26599,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete a volume snapshot
+### 🔴 DELETE — Delete a volume snapshot
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26616,7 +26618,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get volume snapshot details
+### 🟢 GET — Get volume snapshot details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26640,7 +26642,7 @@ _Missing description_
 
 _Missing description_
 
-### 🔴 DELETE `DELETE` — Delete a volume
+### 🔴 DELETE — Delete a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26659,7 +26661,7 @@ _Missing description_
 
 ---
 
-### 🟢 GET `GET` — Get volume details
+### 🟢 GET — Get volume details
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26678,7 +26680,7 @@ _Missing description_
 
 ---
 
-### 🟠 PUT `PUT` — Update a volume
+### 🟠 PUT — Update a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26703,7 +26705,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Attach a volume on an instance
+### 🟡 POST — Attach a volume on an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26728,7 +26730,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Detach a volume from an instance
+### 🟡 POST — Detach a volume from an instance
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26753,7 +26755,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Snapshot a volume
+### 🟡 POST — Snapshot a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26778,7 +26780,7 @@ _Missing description_
 
 _Missing description_
 
-### 🟡 POST `POST` — Extend a volume
+### 🟡 POST — Extend a volume
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26803,7 +26805,7 @@ _Missing description_
 
 _Manage the vRack on your Cloud Project_
 
-### 🟢 GET `GET` — Get the linked vRack on your project
+### 🟢 GET — Get the linked vRack on your project
 
 ![status: stable](https://img.shields.io/badge/status-stable-success)
 
@@ -26821,7 +26823,7 @@ _Manage the vRack on your Cloud Project_
 
 ---
 
-### 🟡 POST `POST` — Order and attach a new vRack on your project
+### 🟡 POST — Order and attach a new vRack on your project
 
 ![status: beta](https://img.shields.io/badge/status-beta-yellow)
 
@@ -26836,5 +26838,12160 @@ _Manage the vRack on your Cloud Project_
 
 **IAM actions:** `publicCloudProject:apiovh:vrack/create` (required)
 
+
+---
+
+## Models
+
+### `cloud.AccessTypeEnum`
+
+_Possible values for project access type_
+
+**Enum** (`enumType: string`):
+
+- `full`
+- `restricted`
+
+### `cloud.Acl`
+
+_Cloud ACL_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accountId` | `string` | ❌ | ❌ | ✅ | OVH customer unique identifier |
+| `type` | `cloud.AclTypeEnum` | ❌ | ❌ | ✅ | ACL type |
+
+### `cloud.AclTypeEnum`
+
+_Possible values for ACL type_
+
+**Enum** (`enumType: string`):
+
+- `readOnly`
+- `readWrite`
+
+### `cloud.Alerting`
+
+_Cloud alerting consumption_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Alerting creation date |
+| `delay` | `cloud.AlertingDelayEnum` | ❌ | ❌ | ❌ | Delay between alerts in seconds |
+| `email` | `string` | ❌ | ❌ | ❌ | Email to contact |
+| `formattedMonthlyThreshold` | `order.Price` | ❌ | ❌ | ✅ | Formatted monthly threshold for this alerting |
+| `id` | `string` | ❌ | ❌ | ✅ | Alerting unique UUID |
+| `monthlyThreshold` | `long` | ❌ | ❌ | ❌ | Monthly threshold for this alerting |
+
+### `cloud.AlertingAlert`
+
+_Cloud alert on your consumption_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alertDate` | `datetime` | ❌ | ❌ | ✅ | Alert date |
+| `alertId` | `long` | ❌ | ❌ | ✅ | Alert id |
+| `emails` | `string[]` | ❌ | ❌ | ✅ | Alert sent to |
+
+### `cloud.AlertingDelayEnum`
+
+_Possible values for delay between two alerts in seconds_
+
+**Enum** (`enumType: long`):
+
+- `3600`
+- `10800`
+- `21600`
+- `43200`
+- `86400`
+- `172800`
+- `259200`
+- `604800`
+
+### `cloud.AvailableRegion`
+
+_Details about an available region that can be activated on your project_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `continentCode` | `cloud.RegionContinentEnum` | ❌ | ❌ | ✅ | Region continent code |
+| `datacenterLocation` | `string` | ❌ | ❌ | ✅ | Location of the datacenter where the region is |
+| `name` | `string` | ❌ | ❌ | ✅ | Region name |
+| `type` | `cloud.RegionTypeEnum` | ❌ | ❌ | ✅ | Region type |
+
+### `cloud.Backup`
+
+_List your automated backups_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupName` | `string` | ❌ | ❌ | ✅ | Backup name |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the workflow |
+| `cron` | `string` | ❌ | ❌ | ✅ | Workflow cron pattern |
+| `distantBackupName` | `string` | ❌ | ✅ | ✅ | Name of the distant backup if the workflow creates a distant backup |
+| `distantRegion` | `string` | ❌ | ✅ | ✅ | Name of the distant region if the workflow creates a distant backup |
+| `executions` | `cloud.Execution[]` | ❌ | ✅ | ✅ | Executions logs |
+| `id` | `string` | ❌ | ❌ | ✅ | Workflow id |
+| `instanceId` | `string` | ❌ | ❌ | ✅ | Instance id |
+| `name` | `string` | ❌ | ❌ | ✅ | Workflow name identifier |
+| `nextExecutionTime` | `datetime` | ❌ | ❌ | ✅ | Next execution time |
+| `rotation` | `long` | ❌ | ❌ | ✅ | Number of backup to keep |
+
+### `cloud.ColdArchiveContainer`
+
+_Container_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automaticDeletionAt` | `datetime` | ❌ | ✅ | ✅ | After restoring your archive, date when the restored files will be deleted |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The date when the resource was created |
+| `lockedUntil` | `datetime` | ❌ | ✅ | ✅ | Archive is locked (cannot be deleted) until this date |
+| `name` | `string` | ❌ | ❌ | ✅ | Container name |
+| `objects` | `cloud.StorageObjectList[]` | ❌ | ❌ | ✅ | Container objects (deprecated) |
+| `objectsCount` | `long` | ❌ | ❌ | ✅ | Container total objects count |
+| `objectsSize` | `long` | ❌ | ❌ | ✅ | Container total objects size (bytes) |
+| `ownerId` | `long` | ❌ | ❌ | ✅ | Container owner user ID |
+| `status` | `cloud.ColdArchiveContainerStatusEnum` | ❌ | ❌ | ✅ | ColdArchive status |
+| `virtualHost` | `string` | ❌ | ❌ | ✅ | Container virtual host |
+
+### `cloud.ColdArchiveContainerStatusEnum`
+
+_Enum values for Status_
+
+**Enum** (`enumType: string`):
+
+- `archived`
+- `archiving`
+- `deleting`
+- `flushed`
+- `none`
+- `restored`
+- `restoring`
+
+### `cloud.Component`
+
+_Information about the different components available in the region_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpoint` | `string` | ❌ | ❌ | ✅ | Endpoint URL |
+| `name` | `string` | ❌ | ❌ | ✅ | Service name |
+| `status` | `cloud.ServiceStatusEnum` | ❌ | ❌ | ✅ | Service status |
+
+### `cloud.Credit`
+
+_Cloud credit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `available_credit` | `order.Price` | ❌ | ❌ | ✅ | Available credit |
+| `bill` | `string` | ❌ | ✅ | ✅ | Credit bill id |
+| `description` | `string` | ❌ | ✅ | ✅ | Credit description |
+| `id` | `long` | ❌ | ❌ | ✅ | Credit id |
+| `products` | `string[]` | ❌ | ✅ | ✅ | Use credits on following products |
+| `total_credit` | `order.Price` | ❌ | ❌ | ✅ | Total credit |
+| `used_credit` | `order.Price` | ❌ | ❌ | ✅ | Used credit |
+| `validity` | `cloud.common.VoucherValidity` | ❌ | ✅ | ✅ | Credit validity |
+| `voucher` | `string` | ❌ | ✅ | ✅ | Voucher code |
+
+### `cloud.Execution`
+
+_An execution of the backup workflow_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `executedAt` | `datetime` | ❌ | ❌ | ✅ | Last date of cron trigger execution |
+| `id` | `string` | ❌ | ❌ | ✅ | Execution ID |
+| `state` | `cloud.ExecutionStateEnum` | ❌ | ❌ | ✅ | Execution state |
+| `stateInfo` | `string` | ❌ | ❌ | ✅ | Information about state |
+
+### `cloud.ExecutionStateEnum`
+
+_Enum values for State_
+
+**Enum** (`enumType: string`):
+
+- `CANCELED`
+- `ERROR`
+- `IDLE`
+- `PAUSED`
+- `RUNNING`
+- `SUCCESS`
+
+### `cloud.Instance.AutoBackup`
+
+_Autobackup params_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cron` | `string` | ✅ | ❌ | ❌ | Unix Cron pattern (eg: '0 0 * * *') |
+| `distantImageName` | `string` | ❌ | ✅ | ❌ | Name of the distant image |
+| `distantRegionName` | `string` | ❌ | ✅ | ❌ | Name of the distant region |
+| `imageName` | `string` | ❌ | ❌ | ❌ | Name of the image |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of your workflow |
+| `rotation` | `long` | ✅ | ❌ | ❌ | Number of backup to keep |
+
+### `cloud.IpCountryEnum`
+
+_Enum values for IpCountry_
+
+**Enum** (`enumType: string`):
+
+- `au`
+- `be`
+- `ca`
+- `cz`
+- `de`
+- `es`
+- `fi`
+- `fr`
+- `ie`
+- `in`
+- `it`
+- `lt`
+- `nl`
+- `pl`
+- `pt`
+- `sg`
+- `uk`
+- `us`
+
+### `cloud.Lab`
+
+_A public cloud lab permits to activate a feature in beta_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Lab ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Lab name |
+| `status` | `cloud.LabStatusEnum` | ❌ | ❌ | ✅ | Lab status |
+
+### `cloud.LabAgreements`
+
+_List of required agreements to activate the lab_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accepted` | `long[]` | ❌ | ❌ | ✅ | List of agreements already accepted to activate the lab |
+| `toAccept` | `long[]` | ❌ | ❌ | ✅ | List of agreements to accept before activate the lab |
+
+### `cloud.LabStatusEnum`
+
+_Enum values for Status_
+
+**Enum** (`enumType: string`):
+
+- `activated`
+- `activating`
+- `closed`
+- `open`
+
+### `cloud.Operation`
+
+_An operation is an async process on your Project_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `string` | ❌ | ❌ | ✅ | The action of the operation |
+| `completedAt` | `datetime` | ❌ | ✅ | ✅ | The completed date of the operation |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The creation date of the operation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique ID to describe the operation |
+| `progress` | `long` | ❌ | ❌ | ✅ | The progression in percentage of the operation |
+| `regions` | `string[]` | ❌ | ✅ | ✅ | Affected regions of the operation |
+| `resourceId` | `string` | ❌ | ✅ | ✅ | Affected resource of the operation |
+| `startedAt` | `datetime` | ❌ | ✅ | ✅ | The started date of the operation |
+| `status` | `cloud.OperationStatusEnum` | ❌ | ❌ | ✅ | Operation status |
+| `subOperations` | `cloud.SubOperation[]` | ❌ | ✅ | ✅ | Sub-operations of the operation |
+
+### `cloud.OperationStatusEnum`
+
+_Enum values for Status_
+
+**Enum** (`enumType: string`):
+
+- `canceled`
+- `completed`
+- `created`
+- `in-error`
+- `in-progress`
+- `unknown`
+
+### `cloud.Project`
+
+_Project_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `access` | `cloud.AccessTypeEnum` | ❌ | ❌ | ✅ | Project access |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Project creation date |
+| `description` | `string` | ❌ | ✅ | ❌ | Description of your project |
+| `expiration` | `datetime` | ❌ | ✅ | ✅ | Expiration date of your project. After this date, your project will be deleted |
+| `manualQuota` | `boolean` | ❌ | ❌ | ❌ | Manual quota prevent automatic quota upgrade |
+| `orderId` | `long` | ❌ | ✅ | ✅ | Project order id |
+| `planCode` | `string` | ❌ | ❌ | ✅ | Order plan code |
+| `projectName` | `string` | ❌ | ✅ | ✅ | Project name |
+| `project_id` | `string` | ❌ | ❌ | ✅ | Project id |
+| `status` | `cloud.project.ProjectStatusEnum` | ❌ | ❌ | ✅ | Current status |
+| `unleash` | `boolean` | ❌ | ❌ | ✅ | Project unleashed |
+
+### `cloud.ProjectActivateMonthlyBillingCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instances` | `cloud.instance.MonthlyInstanceBulkParams[]` | ✅ | ❌ | ❌ | Instance ids and regions |
+
+### `cloud.ProjectContainerRegistryCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the new registry |
+| `planID` | `string` | ❌ | ❌ | ❌ | ID of the plan to use for the new registry |
+| `region` | `string` | ✅ | ❌ | ❌ | Region where to deploy the registry.  Get available regions with /cloud/project/{serviceName}/capabilities/containerRegistry. |
+
+### `cloud.ProjectContainerRegistryUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | New registry name |
+
+### `cloud.ProjectContainerRegistryUsersCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `email` | `string` | ❌ | ✅ | ❌ | New user email |
+| `login` | `string` | ❌ | ✅ | ❌ | New user login |
+
+### `cloud.ProjectInstanceBulkCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `autobackup` | `cloud.instance.AutoBackup` | ❌ | ✅ | ❌ | Create an autobackup workflow after instance start up |
+| `availabilityZone` | `string` | ❌ | ✅ | ❌ | Availability zone to create the instance on |
+| `flavorId` | `string` | ✅ | ❌ | ❌ | Instance flavor id |
+| `groupId` | `string` | ❌ | ✅ | ❌ | Start instance in group |
+| `imageId` | `string` | ❌ | ✅ | ❌ | Instance image id |
+| `monthlyBilling` | `boolean` | ❌ | ✅ | ❌ | Active monthly billing |
+| `name` | `string` | ✅ | ❌ | ❌ | Instance name |
+| `networks` | `cloud.instance.NetworkBulkParams[]` | ❌ | ✅ | ❌ | Create network interfaces |
+| `number` | `long` | ✅ | ❌ | ❌ | Number of instances you want to create |
+| `region` | `string` | ✅ | ❌ | ❌ | Instance region |
+| `sshKeyId` | `string` | ❌ | ✅ | ❌ | SSH keypair id |
+| `userData` | `text` | ❌ | ✅ | ❌ | Configuration information or scripts to use upon launch |
+| `volumeId` | `string` | ❌ | ✅ | ❌ | Specify a volume id to boot from it |
+
+### `cloud.ProjectInstanceCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `autobackup` | `cloud.instance.AutoBackup` | ❌ | ✅ | ❌ | Create an autobackup workflow after instance start up |
+| `availabilityZone` | `string` | ❌ | ✅ | ❌ | Availability zone to create the instance on |
+| `flavorId` | `string` | ✅ | ❌ | ❌ | Instance flavor id |
+| `groupId` | `string` | ❌ | ✅ | ❌ | Start instance in group |
+| `imageId` | `string` | ❌ | ✅ | ❌ | Instance image id |
+| `monthlyBilling` | `boolean` | ❌ | ✅ | ❌ | Active monthly billing |
+| `name` | `string` | ✅ | ❌ | ❌ | Instance name |
+| `networks` | `cloud.instance.NetworkParams[]` | ❌ | ✅ | ❌ | Create network interfaces |
+| `region` | `string` | ✅ | ❌ | ❌ | Instance region |
+| `sshKeyId` | `string` | ❌ | ✅ | ❌ | SSH keypair id |
+| `userData` | `text` | ❌ | ✅ | ❌ | Configuration information or scripts to use upon launch |
+| `volumeId` | `string` | ❌ | ✅ | ❌ | Specify a volume id to boot from it |
+
+### `cloud.ProjectInstanceGroupCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | instance group name |
+| `region` | `string` | ✅ | ❌ | ❌ | Instance region |
+| `type` | `cloud.instancegroup.InstanceGroupTypeEnum` | ✅ | ❌ | ❌ | Instance group type |
+
+### `cloud.ProjectInstanceInterfaceCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ip` | ❌ | ✅ | ❌ | Static ip (Can only be defined for private networks) |
+| `networkId` | `string` | ✅ | ❌ | ❌ | Network id |
+
+### `cloud.ProjectInstanceRebootCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `type` | `cloud.instance.RebootTypeEnum` | ✅ | ❌ | ❌ | Reboot type (default soft) |
+
+### `cloud.ProjectInstanceReinstallCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `imageId` | `string` | ✅ | ❌ | ❌ | Image to reinstall |
+
+### `cloud.ProjectInstanceRescueModeCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `imageId` | `string` | ❌ | ✅ | ❌ | Image to boot on |
+| `rescue` | `boolean` | ✅ | ❌ | ❌ | Enable rescue mode |
+
+### `cloud.ProjectInstanceResizeCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `flavorId` | `string` | ✅ | ❌ | ❌ | Flavor id |
+
+### `cloud.ProjectInstanceSnapshotCreation`
+
+_Creates instance snapshots in the current region._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `snapshotName` | `string` | ✅ | ❌ | ❌ | Name for the snapshot that will be created in the current region |
+
+### `cloud.ProjectInstanceUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceName` | `string` | ✅ | ❌ | ❌ | Instance new name |
+
+### `cloud.ProjectIpFailoverAttachCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceId` | `string` | ✅ | ❌ | ❌ | Attach failover ip to instance |
+
+### `cloud.ProjectKubeCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `customization` | `cloud.ProjectKubeCustomization` | ❌ | ✅ | ❌ | Kubernetes cluster customization |
+| `ipAllocationPolicy` | `cloud.ProjectKubeIpAllocationPolicy` | ❌ | ✅ | ❌ | IP allocation policy. This field is optional. |
+| `kubeProxyMode` | `cloud.kube.KubeProxyModeEnum` | ❌ | ✅ | ❌ | Selected mode for kube-proxy |
+| `loadBalancersSubnetId` | `uuid` | ❌ | ❌ | ❌ | OpenStack subnet ID that the load balancers will use. Optional, can be updated with endpoint /cloud/project/{serviceName}/kube/{kubeId}/updateLoadBalancersSubnetId, can only be set if privateNetworkId and nodesSubnetId are also set |
+| `name` | `string` | ❌ | ❌ | ❌ | Kubernetes cluster name |
+| `nodepool` | `cloud.ProjectKubeCreationNodePool` | ❌ | ❌ | ❌ | Nodepool to initialize with cluster creation. Note: this fields is deprecated in favor of 'nodepools' field that allows to create one or more nodepools. |
+| `nodepools` | `cloud.ProjectKubeCreationNodePool[]` | ❌ | ❌ | ❌ | List of nodepools to initialize with cluster creation |
+| `nodesSubnetId` | `string` | ❌ | ❌ | ❌ | OpenStack subnet ID that the cluster nodes will use. Optional, can only be set on cluster creation or reset, can only be set if privateNetworkId is also set. If unspecified, it will be selected automatically when the first node is created. |
+| `plan` | `string` | ❌ | ✅ | ❌ | The cluster plan |
+| `privateNetworkConfiguration` | `cloud.kube.PrivateNetworkConfiguration` | ❌ | ❌ | ❌ | The private network configuration. |
+| `privateNetworkId` | `string` | ❌ | ❌ | ❌ | OpenStack private network ID that the cluster will use. Optional, can only be set on cluster creation or reset. If unspecified, the cluster will use the public network. |
+| `region` | `string` | ✅ | ❌ | ❌ | Kubernetes OpenStack region |
+| `updatePolicy` | `cloud.kube.UpdatePolicyEnum` | ❌ | ✅ | ❌ | Enum values for UpdatePolicy |
+| `version` | `cloud.kube.VersionEnum` | ❌ | ❌ | ❌ | Kubernetes version to install |
+
+### `cloud.ProjectKubeCreationNodePool`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `antiAffinity` | `boolean` | ❌ | ✅ | ❌ | Enable anti affinity groups for nodes in the pool |
+| `attachFloatingIps` | `cloud.ProjectKubeNodePoolAttachFloatingIpsParams` | ❌ | ✅ | ❌ | Parameters for optional node exposition via a floating IP per node |
+| `autoscale` | `boolean` | ❌ | ✅ | ❌ | Enable the auto-scaling on the pool |
+| `autoscaling` | `cloud.ProjectKubeNodePoolAutoscalingParams` | ❌ | ❌ | ❌ | Autoscaling customization parameters |
+| `availabilityZones` | `string[]` | ❌ | ✅ | ❌ | List of availability zones where nodes will be created (only 1 zone is supported for now) |
+| `desiredNodes` | `long` | ❌ | ❌ | ❌ | Number of nodes to instantiate (1 by default) |
+| `flavorName` | `string` | ✅ | ❌ | ❌ | Nodes flavor |
+| `maxNodes` | `long` | ❌ | ❌ | ❌ | Higher limit you accept for the desiredNodes value (100 by default) |
+| `minNodes` | `long` | ❌ | ❌ | ❌ | Lower limit you accept for the desiredNodes value (0 by default) |
+| `monthlyBilled` | `boolean` | ❌ | ✅ | ❌ | Enable monthly billing for nodes in the pool |
+| `name` | `string` | ❌ | ❌ | ❌ | NodePool name |
+| `template` | `cloud.kube.NodePoolTemplate` | ❌ | ❌ | ❌ | NodePool template to apply to each children nodes |
+
+### `cloud.ProjectKubeCustomization`
+
+_Cluster customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `apiServer` | `cloud.ProjectKubeCustomizationAPIServer` | ❌ | ✅ | ❌ | Kubernetes cluster api server customization |
+| `cilium` | `cloud.ProjectKubeCustomizationCilium` | ❌ | ✅ | ❌ | Kubernetes cluster cilium customization |
+| `kubeProxy` | `cloud.ProjectKubeCustomizationKubeProxy` | ❌ | ✅ | ❌ | Kubernetes cluster kube-proxy customization |
+
+### `cloud.ProjectKubeCustomizationAPIServer`
+
+_Cluster API server customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `admissionPlugins` | `cloud.ProjectKubeCustomizationAPIServerAdmissionPlugins` | ❌ | ✅ | ❌ | Kubernetes cluster api server admission plugins customization |
+
+### `cloud.ProjectKubeCustomizationAPIServerAdmissionPlugins`
+
+_Cluster API server admission plugins customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `disabled` | `cloud.ProjectKubeCustomizationAPIServerAdmissionPluginsEnum[]` | ❌ | ✅ | ❌ | Array of disabled admission plugins |
+| `enabled` | `cloud.ProjectKubeCustomizationAPIServerAdmissionPluginsEnum[]` | ❌ | ✅ | ❌ | Array of enabled admission plugins |
+
+### `cloud.ProjectKubeCustomizationAPIServerAdmissionPluginsEnum`
+
+_Enum admission plugins_
+
+**Enum** (`enumType: string`):
+
+- `AlwaysPullImages`
+- `NodeRestriction`
+
+### `cloud.ProjectKubeCustomizationCilium`
+
+_Cilium customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `clusterId` | `long` | ❌ | ✅ | ❌ | Cilium's clusterID: must be between 1 and 255 if set (mandatory when using clusterMesh feature) |
+| `clusterMesh` | `cloud.ProjectKubeCustomizationCiliumClusterMesh` | ❌ | ✅ | ❌ | ClusterMesh customization. |
+| `hubble` | `cloud.ProjectKubeCustomizationCiliumHubble` | ❌ | ✅ | ❌ | Hubble customization. |
+
+### `cloud.ProjectKubeCustomizationCiliumClusterMesh`
+
+_ClusterMesh customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `apiServer` | `cloud.ProjectKubeCustomizationCiliumClusterMeshApiServer` | ❌ | ✅ | ❌ | API server customization |
+| `enabled` | `boolean` | ❌ | ✅ | ❌ | Enable cluster mesh |
+
+### `cloud.ProjectKubeCustomizationCiliumClusterMeshApiServer`
+
+_ClusterMesh customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `nodePort` | `long` | ❌ | ✅ | ❌ | Node port |
+| `serviceType` | `cloud.ProjectKubeCustomizationCiliumClusterMeshApiServerServiceTypeEnum` | ❌ | ✅ | ❌ | Service type |
+
+### `cloud.ProjectKubeCustomizationCiliumClusterMeshApiServerServiceTypeEnum`
+
+_Type of service for clustermesh api server_
+
+**Enum** (`enumType: string`):
+
+- `LoadBalancer`
+- `NodePort`
+
+### `cloud.ProjectKubeCustomizationCiliumHubble`
+
+_Hubble customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ✅ | ❌ | Enable hubble |
+| `relay` | `cloud.ProjectKubeCustomizationCiliumHubbleRelay` | ❌ | ✅ | ❌ | Relay customization |
+| `ui` | `cloud.ProjectKubeCustomizationCiliumHubbleUI` | ❌ | ✅ | ❌ | Hubble UI customization |
+
+### `cloud.ProjectKubeCustomizationCiliumHubbleRelay`
+
+_Hubble relay customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ✅ | ❌ | Enable relay |
+
+### `cloud.ProjectKubeCustomizationCiliumHubbleUI`
+
+_Hubble UI customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backendResources` | `cloud.ProjectKubeCustomizationCiliumHubbleUIResources` | ❌ | ✅ | ❌ | Hubble UI Backend Resources requests and limits customizations |
+| `enabled` | `boolean` | ❌ | ✅ | ❌ | Enable Hubble UI |
+| `frontendResources` | `cloud.ProjectKubeCustomizationCiliumHubbleUIResources` | ❌ | ✅ | ❌ | Hubble UI Frontend Resources requests and limits customizations |
+
+### `cloud.ProjectKubeCustomizationCiliumHubbleUIResources`
+
+_Hubble UI Resources customization_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `limits` | `cloud.ProjectKubeResources` | ❌ | ✅ | ❌ | Resources limits customizations |
+| `requests` | `cloud.ProjectKubeResources` | ❌ | ✅ | ❌ | Resources requests customizations |
+
+### `cloud.ProjectKubeCustomizationKubeProxy`
+
+_Cluster kube-proxy customization: iptables and ipvs configurations can both be set at the same time, kube-proxy will use the one according to the cluster's kubeProxyMode value_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `iptables` | `cloud.ProjectKubeCustomizationKubeProxyIptables` | ❌ | ✅ | ❌ | Kubernetes cluster kube-proxy customization of iptables specific config (durations format is RFC3339 duration, e.g. 'PT60S') |
+| `ipvs` | `cloud.ProjectKubeCustomizationKubeProxyIpvs` | ❌ | ✅ | ❌ | Kubernetes cluster kube-proxy customization of ipvs specific config (durations format is RFC3339 duration, e.g. 'PT60S') |
+
+### `cloud.ProjectKubeCustomizationKubeProxyIptables`
+
+_Configuration used when kube-proxy is configured with iptables mode (durations format is RFC3339 duration, e.g. 'PT60S')_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `minSyncPeriod` | `duration` | ❌ | ✅ | ❌ | minSyncPeriod is the minimum period that iptables rules are refreshed, in RFC3339 duration format (e.g. 'PT60S') |
+| `syncPeriod` | `duration` | ❌ | ✅ | ❌ | syncPeriod is the period that iptables rules are refreshed, in RFC3339 duration format (e.g. 'PT60S'). Must be greater than 0 |
+
+### `cloud.ProjectKubeCustomizationKubeProxyIpvs`
+
+_Configuration used when kube-proxy is configured with ipvs mode (durations format is RFC3339 duration, e.g. 'PT60S')_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `minSyncPeriod` | `duration` | ❌ | ✅ | ❌ | minSyncPeriod is the minimum period that ipvs rules are refreshed in RFC3339 duration format (e.g. 'PT60S') |
+| `scheduler` | `cloud.kube.KubeProxyIpvsSchedulerEnum` | ❌ | ✅ | ❌ | ipvs scheduler |
+| `syncPeriod` | `duration` | ❌ | ✅ | ❌ | syncPeriod is the period that ipvs rules are refreshed in RFC3339 duration format (e.g. 'PT60S'). Must be greater than 0 |
+| `tcpFinTimeout` | `duration` | ❌ | ✅ | ❌ | tcpFinTimeout is the timeout value used for IPVS TCP sessions after receiving a FIN in RFC3339 duration format (e.g. 'PT60S'). The default value is 'PT0S', which preserves the current timeout value on the system |
+| `tcpTimeout` | `duration` | ❌ | ✅ | ❌ | tcpTimeout is the timeout value used for idle IPVS TCP sessions in RFC3339 duration format (e.g. 'PT60S'). The default value is 'PT0S', which preserves the current timeout value on the system. Cannot be set between 'PT0S' and 'PT5S', in order to prevent in-cluster networking issues. |
+| `udpTimeout` | `duration` | ❌ | ✅ | ❌ | udpTimeout is the timeout value used for IPVS UDP packets in RFC3339 duration format (e.g. 'PT60S'). The default value is 'PT0S', which preserves the current timeout value on the system |
+
+### `cloud.ProjectKubeIpAllocationPolicy`
+
+_IP allocation policy._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `podsIpv4Cidr` | `ipv4Block` | ❌ | ✅ | ❌ | CIDR used for pods ip allocation |
+| `servicesIpv4Cidr` | `ipv4Block` | ❌ | ✅ | ❌ | CIDR used for services ip allocation |
+
+### `cloud.ProjectKubeIpRestrictionUpsert`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ips` | `ipBlock[]` | ❌ | ❌ | ❌ | List of ips to add to the cluster api-server restrictions (format with /subnet available) |
+
+### `cloud.ProjectKubeNodePoolAttachFloatingIpsParams`
+
+_Parameters for optional node exposition via a floating IP per node_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ❌ | Enable node exposition via floating IP per node |
+
+### `cloud.ProjectKubeNodePoolAutoscalingParams`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `scaleDownUnneededTimeSeconds` | `long` | ❌ | ❌ | ❌ | How long a node should be unneeded before it is eligible for scale down |
+| `scaleDownUnreadyTimeSeconds` | `long` | ❌ | ❌ | ❌ | How long an unready node should be unneeded before it is eligible for scale down |
+| `scaleDownUtilizationThreshold` | `double` | ❌ | ❌ | ❌ | Sum of cpu or memory of all pods running on the node divided by node's corresponding allocatable resource, below which a node can be considered for scale down |
+
+### `cloud.ProjectKubeNodePoolCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `antiAffinity` | `boolean` | ❌ | ✅ | ❌ | Enable anti affinity groups for nodes in the pool |
+| `attachFloatingIps` | `cloud.ProjectKubeNodePoolAttachFloatingIpsParams` | ❌ | ✅ | ❌ | Parameters for optional node exposition via a floating IP per node |
+| `autoscale` | `boolean` | ❌ | ✅ | ❌ | Enable the auto-scaling on the pool |
+| `autoscaling` | `cloud.ProjectKubeNodePoolAutoscalingParams` | ❌ | ❌ | ❌ | Autoscaling customization parameters |
+| `availabilityZones` | `string[]` | ❌ | ✅ | ❌ | List of availability zones where nodes will be created (only 1 zone is supported for now) |
+| `desiredNodes` | `long` | ❌ | ❌ | ❌ | Number of nodes to instantiate (1 by default) |
+| `flavorName` | `string` | ✅ | ❌ | ❌ | Nodes flavor |
+| `maxNodes` | `long` | ❌ | ❌ | ❌ | Higher limit you accept for the desiredNodes value (100 by default) |
+| `minNodes` | `long` | ❌ | ❌ | ❌ | Lower limit you accept for the desiredNodes value (0 by default) |
+| `monthlyBilled` | `boolean` | ❌ | ✅ | ❌ | Enable monthly billing for nodes in the pool |
+| `name` | `string` | ❌ | ❌ | ❌ | NodePool name |
+| `template` | `cloud.kube.NodePoolTemplate` | ❌ | ❌ | ❌ | NodePool template to apply to each children nodes |
+
+### `cloud.ProjectKubeNodePoolUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `attachFloatingIps` | `cloud.ProjectKubeNodePoolAttachFloatingIpsParams` | ❌ | ✅ | ❌ | Parameters for optional node exposition via a floating IP per node |
+| `autoscale` | `boolean` | ❌ | ✅ | ❌ | Enable the auto-scaling on the pool |
+| `autoscaling` | `cloud.ProjectKubeNodePoolAutoscalingParams` | ❌ | ❌ | ❌ | Autoscaling customization parameters |
+| `desiredNodes` | `long` | ❌ | ❌ | ❌ | New number of nodes wanted in the nodepool |
+| `maxNodes` | `long` | ❌ | ❌ | ❌ | New maximal number of nodes wanted in the nodepool |
+| `minNodes` | `long` | ❌ | ❌ | ❌ | New minimal number of nodes wanted in the nodepool |
+| `nodesToRemove` | `string[]` | ❌ | ❌ | ❌ | List of specific node IDs, openstack instance IDs or Node.Spec.providerIDs to delete during downscale |
+| `template` | `cloud.kube.NodePoolTemplate` | ❌ | ❌ | ❌ | NodePool template to apply to each children nodes |
+
+### `cloud.ProjectKubeOpenIdConnectCreation`
+
+_Creation model for OIDC_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `caContent` | `string` | ❌ | ✅ | ❌ | Content of the certificate for the CA, in base64 format, that signed your identity provider's web certificate. Defaults to the host's root CAs. |
+| `clientId` | `string` | ✅ | ❌ | ❌ | Client ID |
+| `groupsClaim` | `string[]` | ❌ | ✅ | ❌ | JWT claim to use as the user's group. If the claim is present it must be an array of strings. |
+| `groupsPrefix` | `string` | ❌ | ✅ | ❌ | Prefix prepended to group claims to prevent clashes with existing names (such as system: groups). For example, the value oidc: will create group names like oidc:engineering and oidc:infra. |
+| `issuerUrl` | `string` | ✅ | ❌ | ❌ | Issuer URL |
+| `requiredClaim` | `string[]` | ❌ | ✅ | ❌ | key=value pairs that describe required claims in the ID Token. If set, the claims are verified to be present in the ID Token with a matching value. |
+| `signingAlgorithms` | `cloud.kube.OpenIdConnectSigningAlgorithmsEnum[]` | ❌ | ✅ | ❌ | The signing algorithms accepted. Default is "RS256". |
+| `usernameClaim` | `string` | ❌ | ✅ | ❌ | JWT claim to use as the user name. By default sub, which is expected to be a unique identifier of the end user. Admins can choose other claims, such as email or name, depending on their provider. However, claims other than email will be prefixed with the issuer URL to prevent naming clashes with other plugins. |
+| `usernamePrefix` | `string` | ❌ | ✅ | ❌ | Prefix prepended to username claims to prevent clashes with existing names (such as system: users). For example, the value oidc: will create usernames like oidc:jane.doe. If this field isn't set and oidcUsernameClaim is a value other than email the prefix defaults to ( Issuer URL )# where ( Issuer URL ) is the value of oidcIssuerUrl. The value - can be used to disable all prefixing. |
+
+### `cloud.ProjectKubeOpenIdConnectUpdate`
+
+_Update model for OIDC_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `caContent` | `string` | ❌ | ✅ | ❌ | Content of the certificate for the CA, in base64 format, that signed your identity provider's web certificate. Defaults to the host's root CAs. |
+| `clientId` | `string` | ❌ | ❌ | ❌ | Client ID |
+| `groupsClaim` | `string[]` | ❌ | ✅ | ❌ | JWT claim to use as the user's group. If the claim is present it must be an array of strings. |
+| `groupsPrefix` | `string` | ❌ | ✅ | ❌ | Prefix prepended to group claims to prevent clashes with existing names (such as system: groups). For example, the value oidc: will create group names like oidc:engineering and oidc:infra. |
+| `issuerUrl` | `string` | ❌ | ❌ | ❌ | Issuer URL |
+| `requiredClaim` | `string[]` | ❌ | ✅ | ❌ | key=value pairs that describe required claims in the ID Token. If set, the claims are verified to be present in the ID Token with a matching value. |
+| `signingAlgorithms` | `cloud.kube.OpenIdConnectSigningAlgorithmsEnum[]` | ❌ | ✅ | ❌ | The signing algorithms accepted. Default is "RS256". |
+| `usernameClaim` | `string` | ❌ | ✅ | ❌ | JWT claim to use as the user name. By default sub, which is expected to be a unique identifier of the end user. Admins can choose other claims, such as email or name, depending on their provider. However, claims other than email will be prefixed with the issuer URL to prevent naming clashes with other plugins. |
+| `usernamePrefix` | `string` | ❌ | ✅ | ❌ | Prefix prepended to username claims to prevent clashes with existing names (such as system: users). For example, the value oidc: will create usernames like oidc:jane.doe. If this field isn't set and oidcUsernameClaim is a value other than email the prefix defaults to ( Issuer URL )# where ( Issuer URL ) is the value of oidcIssuerUrl. The value - can be used to disable all prefixing. |
+
+### `cloud.ProjectKubeResetCreation`
+
+_Model object to reset kube cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `customization` | `cloud.ProjectKubeCustomization` | ❌ | ❌ | ❌ | Kubernetes cluster customization |
+| `ipAllocationPolicy` | `cloud.ProjectKubeIpAllocationPolicy` | ❌ | ❌ | ❌ | IP allocation policy. This field is optional. |
+| `kubeProxyMode` | `cloud.kube.KubeProxyModeEnum` | ❌ | ✅ | ❌ | Selected mode for kube-proxy |
+| `loadBalancersSubnetId` | `uuid` | ❌ | ❌ | ❌ | OpenStack subnet ID that the load balancers will use. Optional, can be updated with endpoint /cloud/project/{serviceName}/kube/{kubeId}/updateLoadBalancersSubnetId, can only be set if privateNetworkId and nodesSubnetId are also set |
+| `name` | `string` | ❌ | ❌ | ❌ | New cluster name |
+| `nodesSubnetId` | `string` | ❌ | ❌ | ❌ | OpenStack subnet ID that the cluster nodes will use. Optional, can only be set on cluster creation or reset, can only be set if privateNetworkId is also set. If unspecified, it will be selected automatically when the first node is created. |
+| `privateNetworkConfiguration` | `cloud.kube.PrivateNetworkConfiguration` | ❌ | ❌ | ❌ | The private network configuration. |
+| `privateNetworkId` | `string` | ❌ | ❌ | ❌ | OpenStack private network ID that the cluster will use. Optional, can only be set on cluster creation or reset. If unspecified, the cluster will use the public network. |
+| `updatePolicy` | `cloud.kube.UpdatePolicyEnum` | ❌ | ❌ | ❌ | Enum values for UpdatePolicy |
+| `version` | `cloud.kube.VersionEnum` | ❌ | ❌ | ❌ | Kubernetes version to use after reset, by default it keeps the current version |
+| `workerNodesPolicy` | `cloud.kube.ResetWorkerNodesPolicyEnum` | ❌ | ❌ | ❌ | Worker nodes reset policy, default is delete |
+
+### `cloud.ProjectKubeResources`
+
+_Kubernetes resources definitions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpu` | `string` | ❌ | ✅ | ❌ | cpu resource (format according to Kubernetes specification. e.g. cpu: 500m) |
+| `memory` | `string` | ❌ | ✅ | ❌ | memory resource (format according to Kubernetes specification. e.g. memory: 512Mi) |
+
+### `cloud.ProjectKubeRestart`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `force` | `boolean` | ❌ | ✅ | ❌ | Force restarting control plane apiserver (will create a slight downtime) |
+
+### `cloud.ProjectKubeUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | Cluster new name |
+| `updatePolicy` | `cloud.kube.UpdatePolicyEnum` | ❌ | ❌ | ❌ | Enum values for UpdatePolicy |
+
+### `cloud.ProjectKubeUpdateCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `force` | `boolean` | ❌ | ✅ | ❌ | Deprecated, has no effect |
+| `strategy` | `cloud.kube.UpdateStrategyEnum` | ❌ | ❌ | ❌ | The update strategy to apply on your service (next patch or minor version) |
+
+### `cloud.ProjectKubeUpdateLoadBalancersSubnetId`
+
+_Model object to update loadBalancersSubnetId property of a kube cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `loadBalancersSubnetId` | `uuid` | ❌ | ✅ | ❌ | OpenStack subnet ID that the load balancers will use |
+
+### `cloud.ProjectKubeUpdatePolicyUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `updatePolicy` | `cloud.kube.UpdatePolicyEnum` | ✅ | ❌ | ❌ | Update policy |
+
+### `cloud.ProjectNetworkPrivateCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | Network name |
+| `regions` | `string[]` | ❌ | ✅ | ❌ | Region where to activate private network. No parameters means all region |
+| `vlanId` | `long` | ❌ | ✅ | ❌ | Vland id, between 0 and 4095. 0 value means no vlan. |
+
+### `cloud.ProjectNetworkPrivateRegionCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `region` | `string` | ✅ | ❌ | ❌ | Region to active on your network |
+
+### `cloud.ProjectNetworkPrivateSubnetCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dhcp` | `boolean` | ✅ | ❌ | ❌ | Enable DHCP |
+| `end` | `ip` | ✅ | ❌ | ❌ | Last IP for this region (eg: 192.168.1.24) |
+| `network` | `ipBlock` | ✅ | ❌ | ❌ | Global network with cidr (eg: 192.168.1.0/24) |
+| `noGateway` | `boolean` | ✅ | ❌ | ❌ | Set to true if you don't want to set a default gateway IP |
+| `region` | `string` | ✅ | ❌ | ❌ | Region where this subnet will be created |
+| `start` | `ip` | ✅ | ❌ | ❌ | First IP for this region (eg: 192.168.1.12) |
+
+### `cloud.ProjectNetworkPrivateSubnetUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dhcp` | `boolean` | ✅ | ❌ | ❌ | Set to true if you don't want to set a default gateway IP |
+| `disableGateway` | `boolean` | ✅ | ❌ | ❌ | Set to true if you want to disable the default gateway |
+| `gatewayIp` | `string` | ❌ | ✅ | ❌ | Gateway IP (this field is used if noGateway = false) |
+
+### `cloud.ProjectNetworkPrivateUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | name |
+
+### `cloud.ProjectRegionCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `region` | `string` | ✅ | ❌ | ❌ | Region to add on your project |
+
+### `cloud.ProjectRegionQuotaCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the new quota |
+
+### `cloud.ProjectRegionWorkflowBackupCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cron` | `string` | ✅ | ❌ | ❌ | Unix Cron pattern (eg: '* * * * *') |
+| `instanceId` | `string` | ✅ | ❌ | ❌ | Instance ID to backup |
+| `maxExecutionCount` | `long` | ❌ | ✅ | ❌ | Number of execution to process before ending the job. Null value means that the job will never end. |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of your backup job |
+| `rotation` | `long` | ✅ | ❌ | ❌ | Number of backup to keep |
+
+### `cloud.ProjectSshkeyCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | SSH key name |
+| `publicKey` | `string` | ✅ | ❌ | ❌ | SSH public key |
+| `region` | `string` | ❌ | ✅ | ❌ | Region to create SSH key |
+
+### `cloud.ProjectStorageCorsCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `origin` | `string` | ✅ | ❌ | ❌ | Allow this origin |
+
+### `cloud.ProjectStorageCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `archive` | `boolean` | ✅ | ❌ | ❌ | Archive container flag |
+| `containerName` | `string` | ✅ | ❌ | ❌ | Container name |
+| `region` | `string` | ✅ | ❌ | ❌ | Region |
+
+### `cloud.ProjectStoragePublicUrlCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ✅ | ❌ | ❌ | Temporary URL expiration |
+| `objectName` | `string` | ✅ | ❌ | ❌ | Object name |
+
+### `cloud.ProjectStorageUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `containerType` | `cloud.storage.TypeEnum` | ❌ | ✅ | ❌ | Container type |
+
+### `cloud.ProjectStorageUserCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | User description |
+| `right` | `cloud.storage.RightEnum` | ✅ | ❌ | ❌ | User right (all, read, write) |
+
+### `cloud.ProjectUserCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | User description |
+| `role` | `cloud.user.RoleEnum` | ❌ | ✅ | ❌ | Openstack keystone role name |
+| `roles` | `cloud.user.RoleEnum[]` | ❌ | ✅ | ❌ | Openstack keystone roles names |
+
+### `cloud.ProjectUserRoleCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `roleId` | `string` | ✅ | ❌ | ❌ | Role id |
+
+### `cloud.ProjectUserRoleUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `rolesIds` | `string[]` | ✅ | ❌ | ❌ | Roles ids |
+
+### `cloud.ProjectUserTokenCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `password` | `password` | ✅ | ❌ | ❌ | User password |
+
+### `cloud.ProjectVolumeAttachCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceId` | `string` | ✅ | ❌ | ❌ | Instance id |
+
+### `cloud.ProjectVolumeCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZone` | `string` | ❌ | ✅ | ❌ | Availability zone of the volume (required for 3AZ regions, forbidden for classic type) |
+| `description` | `string` | ❌ | ✅ | ❌ | Volume description |
+| `imageId` | `string` | ❌ | ✅ | ❌ | Id of image to create a bootable volume |
+| `name` | `string` | ❌ | ✅ | ❌ | Volume name |
+| `region` | `string` | ✅ | ❌ | ❌ | Volume region |
+| `size` | `long` | ✅ | ❌ | ❌ | Volume size (in GiB) |
+| `snapshotId` | `string` | ❌ | ✅ | ❌ | Source snapshot id |
+| `type` | `cloud.volume.VolumeTypeEnum` | ✅ | ❌ | ❌ | Volume type |
+
+### `cloud.ProjectVolumeDetachCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceId` | `string` | ✅ | ❌ | ❌ | Instance id |
+
+### `cloud.ProjectVolumeSnapshotCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Snapshot description |
+| `name` | `string` | ❌ | ✅ | ❌ | Snapshot name |
+
+### `cloud.ProjectVolumeUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Volume description |
+| `name` | `string` | ❌ | ✅ | ❌ | Volume name |
+
+### `cloud.ProjectVolumeUpsizeCreation`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `size` | `long` | ✅ | ❌ | ❌ | New volume size (in GiB) (must be greater than current one) |
+
+### `cloud.ProjectWithIAM`
+
+_Project_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `access` | `cloud.AccessTypeEnum` | ❌ | ❌ | ✅ | Project access |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Project creation date |
+| `description` | `string` | ❌ | ✅ | ❌ | Description of your project |
+| `expiration` | `datetime` | ❌ | ✅ | ✅ | Expiration date of your project. After this date, your project will be deleted |
+| `iam` | `iam.ResourceMetadata` | ❌ | ✅ | ✅ | IAM resource metadata |
+| `manualQuota` | `boolean` | ❌ | ❌ | ❌ | Manual quota prevent automatic quota upgrade |
+| `orderId` | `long` | ❌ | ✅ | ✅ | Project order id |
+| `planCode` | `string` | ❌ | ❌ | ✅ | Order plan code |
+| `projectName` | `string` | ❌ | ✅ | ✅ | Project name |
+| `project_id` | `string` | ❌ | ❌ | ✅ | Project id |
+| `status` | `cloud.project.ProjectStatusEnum` | ❌ | ❌ | ✅ | Current status |
+| `unleash` | `boolean` | ❌ | ❌ | ✅ | Project unleashed |
+
+### `cloud.Region`
+
+_Details about your region_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZones` | `string[]` | ❌ | ❌ | ✅ | Availability zones of the region |
+| `continentCode` | `cloud.RegionContinentEnum` | ❌ | ❌ | ✅ | Region continent code |
+| `countryCode` | `countryCode2LettersEnum` | ❌ | ❌ | ✅ | Region country code |
+| `datacenterLocation` | `string` | ❌ | ❌ | ✅ | Location of the datacenter where the region is |
+| `ipCountries` | `cloud.IpCountryEnum[]` | ❌ | ❌ | ✅ | Allowed countries for failover ip |
+| `name` | `string` | ❌ | ❌ | ✅ | Region name |
+| `services` | `cloud.Component[]` | ❌ | ❌ | ✅ | Details about components status |
+| `status` | `cloud.RegionStatusEnum` | ❌ | ❌ | ✅ | Openstack region status |
+| `type` | `cloud.RegionTypeEnum` | ❌ | ❌ | ✅ | Region type |
+
+### `cloud.RegionContinentEnum`
+
+_Enum values for ContinentCode_
+
+**Enum** (`enumType: string`):
+
+- `AF`
+- `ASIA`
+- `EU`
+- `NA`
+- `US`
+
+### `cloud.RegionStatusEnum`
+
+_Enum values for Status_
+
+**Enum** (`enumType: string`):
+
+- `DOWN`
+- `MAINTENANCE`
+- `UP`
+
+### `cloud.RegionTypeEnum`
+
+_Enum values for region type_
+
+**Enum** (`enumType: string`):
+
+- `localzone`
+- `region`
+- `region-3-az`
+
+### `cloud.ServiceStatusEnum`
+
+_Enum values for Status_
+
+**Enum** (`enumType: string`):
+
+- `DOWN`
+- `UP`
+
+### `cloud.StorageContainer`
+
+_Object storage container._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The date and timestamp when the container was created. |
+| `encryption` | `cloud.StorageEncryptionObject` | ❌ | ✅ | ✅ | Encryption configuration. |
+| `lifecycle` | `cloud.StorageLifecycleConfiguration` | ❌ | ✅ | ✅ | Lifecycle configuration |
+| `name` | `string` | ❌ | ❌ | ✅ | Container name. |
+| `objectLock` | `cloud.StorageLockConfiguration` | ❌ | ✅ | ✅ | Object lock configuration. |
+| `objects` | `cloud.StorageObjectList[]` | ❌ | ❌ | ✅ | Container objects (deprecated). |
+| `objectsCount` | `long` | ❌ | ❌ | ✅ | Container total objects count. |
+| `objectsSize` | `long` | ❌ | ❌ | ✅ | Container total objects size in bytes. |
+| `ownerId` | `long` | ❌ | ❌ | ✅ | Container owner user ID. |
+| `region` | `string` | ❌ | ❌ | ✅ | Container region. |
+| `replication` | `cloud.StorageReplicationObject` | ❌ | ✅ | ✅ | Replication configuration. |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Container tags. |
+| `versioning` | `cloud.StorageVersioningObject` | ❌ | ✅ | ✅ | Versioning configuration. |
+| `virtualHost` | `string` | ❌ | ❌ | ✅ | Container virtual host. |
+
+### `cloud.StorageContainerCreation`
+
+_Create an object storage container._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `encryption` | `cloud.StorageEncryptionObject` | ❌ | ✅ | ❌ | Encryption configuration. |
+| `lifecycle` | `cloud.StorageLifecycleConfiguration` | ❌ | ✅ | ❌ | Lifecycle configuration |
+| `name` | `string` | ✅ | ❌ | ❌ | Container name. |
+| `objectLock` | `cloud.StorageLockConfiguration` | ❌ | ✅ | ❌ | Object lock configuration. |
+| `ownerId` | `long` | ❌ | ✅ | ❌ | Container owner user ID. |
+| `replication` | `cloud.StorageReplicationObjectIn` | ❌ | ✅ | ❌ | Replication configuration. |
+| `tags` | `map[string]string` | ❌ | ✅ | ❌ | Container tags. |
+| `versioning` | `cloud.StorageVersioningObject` | ❌ | ✅ | ❌ | Versioning configuration. |
+
+### `cloud.StorageContainerList`
+
+_Object storage container._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The date and timestamp when the container was created. |
+| `name` | `string` | ❌ | ❌ | ✅ | Container name. |
+| `objects` | `cloud.StorageObjectList[]` | ❌ | ❌ | ✅ | Container objects (deprecated). |
+| `objectsCount` | `long` | ❌ | ❌ | ✅ | Container total objects count. |
+| `objectsSize` | `long` | ❌ | ❌ | ✅ | Container total objects size in bytes. |
+| `ownerId` | `long` | ❌ | ❌ | ✅ | Container owner user ID. |
+| `region` | `string` | ❌ | ❌ | ✅ | Container region. |
+| `virtualHost` | `string` | ❌ | ❌ | ✅ | Container virtual host. |
+
+### `cloud.StorageContainerUpdate`
+
+_Create an object storage container._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `encryption` | `cloud.StorageEncryptionObject` | ❌ | ✅ | ❌ | Encryption configuration. |
+| `lifecycle` | `cloud.StorageLifecycleConfiguration` | ❌ | ✅ | ❌ | Lifecycle configuration |
+| `objectLock` | `cloud.StorageLockConfiguration` | ❌ | ✅ | ❌ | Object lock configuration. |
+| `replication` | `cloud.StorageReplicationObjectIn` | ❌ | ✅ | ❌ | Replication configuration. |
+| `tags` | `map[string]string` | ❌ | ✅ | ❌ | Container tags. |
+| `versioning` | `cloud.StorageVersioningObject` | ❌ | ✅ | ❌ | Versioning configuration. |
+
+### `cloud.StorageCopyObjectIn`
+
+_Copy object input._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ✅ | ❌ | Target Storage class. When copying an object within the same bucket with the same key, specify a different storage class to change an object's storage class. |
+| `targetBucket` | `string` | ❌ | ❌ | ❌ | Target bucket name. Can be the same as source bucket name to copy an object within the same bucket. |
+| `targetKey` | `string` | ❌ | ❌ | ❌ | Target object key. |
+
+### `cloud.StorageCopyObjectOut`
+
+_Copy object output._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `etag` | `string` | ❌ | ❌ | ✅ | The entity tag is a hash of the object that reflects changes only to the contents. |
+| `versionId` | `string` | ❌ | ✅ | ✅ | Version ID of the copied object. |
+
+### `cloud.StorageEncryptionObject`
+
+_Encryption configuration._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `sseAlgorithm` | `cloud.storage.EncryptionAlgorithmEnum` | ❌ | ✅ | ❌ | Encryption algorithm. |
+
+### `cloud.StorageJobReplication`
+
+_Replication storage job_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `completed` | `long` | ❌ | ❌ | ✅ | Number of successfully replicated objects |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Job creation date |
+| `failed` | `long` | ❌ | ❌ | ✅ | Number of failed replicated objects |
+| `id` | `string` | ❌ | ❌ | ✅ | Job ID |
+| `status` | `cloud.storage.StorageJobReplicationStatusEnum` | ❌ | ❌ | ✅ | Job replication status |
+| `stuck` | `long` | ❌ | ❌ | ✅ | Number of stuck replicated objects |
+| `total` | `long` | ❌ | ❌ | ✅ | Total number of objects to replicate |
+
+### `cloud.StorageLifecycleConfiguration`
+
+_Object Storage lifecycle configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `rules` | `cloud.storage.LifecycleRule[]` | ✅ | ✅ | ❌ | Lifecycle rules |
+
+### `cloud.StorageLifecycleRuleAbortIncompleteMultipartUpload`
+
+_Abort incomplete multipart upload configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `daysAfterInitiation` | `long` | ✅ | ❌ | ❌ | Specifies the number of days after which an incomplete multipart upload is aborted |
+
+### `cloud.StorageLifecycleRuleExpiration`
+
+_Lifecycle rule expiration configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `date` | ❌ | ✅ | ❌ | Indicates at what date the objects will be deleted. |
+| `days` | `long` | ❌ | ✅ | ❌ | Objects will be deleted past this lifetime. |
+| `expiredObjectDeleteMarker` | `boolean` | ❌ | ✅ | ❌ | Indicates whether a delete marker with no noncurrent versions will be removed. If set to true, the delete marker will be expired; if set to false the policy takes no action. This cannot be specified with Days or Date. |
+
+### `cloud.StorageLifecycleRuleFilter`
+
+_Object Storage replication configuration rule filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `objectSizeGreaterThan` | `long` | ❌ | ✅ | ❌ | Minimum object size in bytes to which the rule applies. |
+| `objectSizeLessThan` | `long` | ❌ | ✅ | ❌ | Maximum object size in bytes to which the rule applies. |
+| `prefix` | `string` | ❌ | ✅ | ❌ | Prefix filter |
+| `tags` | `map[string]string` | ❌ | ✅ | ❌ | Tags filter |
+
+### `cloud.StorageLifecycleRuleNoncurrentVersionExpiration`
+
+_Specifies when noncurrent object versions expire_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `newerNoncurrentVersions` | `long` | ❌ | ✅ | ❌ | Specifies how many noncurrent versions to retain. You can specify up to 100 noncurrent versions to retain. All noncurrent versions beyond the specified number to retain will be permanently deleted. |
+| `noncurrentDays` | `long` | ❌ | ✅ | ❌ | Specifies the number of days an object is noncurrent before the associated action can be performed. |
+
+### `cloud.StorageLifecycleRuleNoncurrentVersionTransition`
+
+_Specifies the transition rule for the lifecycle rule that describes when noncurrent objects transition to a specific storage class._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `newerNoncurrentVersions` | `long` | ❌ | ✅ | ❌ | Specifies how many noncurrent versions to retain in the same storage class before transitioning objects. You can specify up to 100 noncurrent versions to retain. |
+| `noncurrentDays` | `long` | ❌ | ✅ | ❌ | Specifies the number of days an object is noncurrent before the associated action can be performed. |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ✅ | ❌ | The storage class to which you want the object to transition. |
+
+### `cloud.StorageLifecycleRuleTransition`
+
+_Specifies when an object transitions to a specified storage class._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `date` | ❌ | ✅ | ❌ | Indicates when objects are transitioned to the specified storage class |
+| `days` | `long` | ❌ | ✅ | ❌ | Indicates the number of days after creation when objects are transitioned to the specified storage class |
+| `storageClass` | `cloud.storage.LifecycleRuleTransitionStorageClassEnum` | ❌ | ❌ | ❌ | The storage class to which you want the object to transition. |
+
+### `cloud.StorageLockConfiguration`
+
+_Object lock configuration._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `rule` | `cloud.StorageLockConfigurationRule` | ❌ | ✅ | ❌ | Object lock default rule. |
+| `status` | `cloud.storage.ObjectLockStatusEnum` | ❌ | ❌ | ❌ | Object lock status. |
+
+### `cloud.StorageLockConfigurationRule`
+
+_Object lock default configuration rule._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `mode` | `cloud.storage.ObjectLockModeEnum` | ❌ | ❌ | ❌ | Object lock mode. |
+| `period` | `duration` | ❌ | ❌ | ❌ | The retention period that the default retention configuration must apply. |
+
+### `cloud.StorageMultipartUpload`
+
+_StorageMultipartUpload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Multipart upload ID |
+| `initiated` | `datetime` | ❌ | ✅ | ✅ | Initiation date of the multipart upload |
+| `key` | `string` | ❌ | ❌ | ✅ | Object key |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ❌ | ✅ | Storage class of the object |
+
+### `cloud.StorageMultipartUploadCreation`
+
+_StorageMultipartUploadCreation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ✅ | ❌ | ❌ | Object key |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ❌ | ❌ | Storage class for the object |
+
+### `cloud.StorageMultipartUploadPart`
+
+_StorageMultipartUploadPart_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `etag` | `string` | ❌ | ❌ | ✅ | ETag of the part |
+| `lastModified` | `datetime` | ❌ | ✅ | ✅ | Last modified date of the part |
+| `number` | `long` | ❌ | ❌ | ✅ | Part number |
+| `size` | `long` | ❌ | ❌ | ✅ | Size of the part in bytes |
+
+### `cloud.StorageMultipartUploadParts`
+
+_StorageMultipartUploadParts_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `parts` | `cloud.StorageMultipartUploadPart[]` | ❌ | ❌ | ✅ | Parts of the multipart upload |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ❌ | ✅ | Storage class of the object |
+
+### `cloud.StorageObject`
+
+_Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `etag` | `string` | ❌ | ✅ | ✅ | The entity tag is a hash of the object that reflects changes only to the contents. The etag is omitted when isDeleteMarker is true. |
+| `isDeleteMarker` | `boolean` | ❌ | ✅ | ✅ | True when the entry represents a delete marker. This field is included only when using withVersions set to true. |
+| `isLatest` | `boolean` | ❌ | ✅ | ✅ | True when the entry is the latest version of the object or delete marker. |
+| `key` | `string` | ❌ | ❌ | ✅ | The name assigned to an object. Use the object key to retrieve the object. |
+| `lastModified` | `datetime` | ❌ | ❌ | ✅ | Last modification date. |
+| `legalHold` | `cloud.storage.ObjectLegalHoldStatusEnum` | ❌ | ✅ | ✅ | Object legal hold status. |
+| `lock` | `cloud.StorageObjectRetentionConfiguration` | ❌ | ✅ | ✅ | Object lock retention configuration, if any. |
+| `replicationStatus` | `cloud.storage.ObjectReplicationStatusEnum` | ❌ | ✅ | ✅ | Object replication status. |
+| `restoreStatus` | `cloud.StorageObjectRestoreStatus` | ❌ | ✅ | ✅ | Specifies the restoration status of an object, if any. Objects in certain storage classes must be restored before they can be retrieved. |
+| `size` | `long` | ❌ | ❌ | ✅ | Size in bytes of the object. |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ✅ | ✅ | The storage class used to store the object. |
+| `versionId` | `string` | ❌ | ✅ | ✅ | The version ID of the object. |
+
+### `cloud.StorageObjectDelete`
+
+_Object to delete._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ✅ | ❌ | ❌ | Key of the object. |
+| `versionId` | `string` | ❌ | ✅ | ❌ | Version ID of the object. |
+
+### `cloud.StorageObjectDeleteBulk`
+
+_Objects to delete._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `objects` | `cloud.StorageObjectDelete[]` | ✅ | ❌ | ❌ | Objects to delete. |
+
+### `cloud.StorageObjectDeleteBulkResponse`
+
+_Bulk delete response containing deleted objects and errors._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deleted` | `cloud.StorageObjectDeleted[]` | ❌ | ❌ | ✅ | List of successfully deleted objects. |
+| `errors` | `cloud.StorageObjectDeleteError[]` | ❌ | ❌ | ✅ | List of objects that failed to delete. |
+
+### `cloud.StorageObjectDeleteError`
+
+_Object deletion error._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `string` | ❌ | ❌ | ✅ | Error code. |
+| `error` | `string` | ❌ | ❌ | ✅ | Error message. |
+| `key` | `string` | ❌ | ❌ | ✅ | Key of the object that failed to delete. |
+| `versionId` | `string` | ❌ | ✅ | ✅ | Version ID of the object that failed to delete. |
+
+### `cloud.StorageObjectDeleted`
+
+_Successfully deleted object._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deleteMarkerVersionId` | `string` | ❌ | ✅ | ✅ | Version ID of the delete marker created. |
+| `key` | `string` | ❌ | ❌ | ✅ | Key of the deleted object. |
+| `versionId` | `string` | ❌ | ✅ | ✅ | Version ID of the deleted object. |
+| `wasADeleteMarker` | `boolean` | ❌ | ❌ | ✅ | Indicates whether the object was a delete marker. |
+
+### `cloud.StorageObjectList`
+
+_Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `etag` | `string` | ❌ | ✅ | ✅ | The entity tag is a hash of the object that reflects changes only to the contents. The etag is omitted when isDeleteMarker or isCommonPrefix is true. |
+| `isCommonPrefix` | `boolean` | ❌ | ✅ | ✅ | True when the entry represents a common prefix. This field is included only when specifying a delimiter. |
+| `isDeleteMarker` | `boolean` | ❌ | ✅ | ✅ | True when the entry represents a delete marker. This field is included only when using withVersions set to true. |
+| `isLatest` | `boolean` | ❌ | ✅ | ✅ | True when the entry is the latest version of the object or delete marker. |
+| `key` | `string` | ❌ | ❌ | ✅ | The name assigned to an object. Use the object key to retrieve the object. |
+| `lastModified` | `datetime` | ❌ | ✅ | ✅ | Last modification date. This field is omitted when isCommonPrefix is true. |
+| `restoreStatus` | `cloud.StorageObjectRestoreStatus` | ❌ | ✅ | ✅ | Specifies the restoration status of an object, if any. Objects in certain storage classes must be restored before they can be retrieved. |
+| `size` | `long` | ❌ | ❌ | ✅ | Size in bytes of the object. |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ✅ | ✅ | The storage class used to store the object. |
+| `versionId` | `string` | ❌ | ✅ | ✅ | The version ID of the object. |
+
+### `cloud.StorageObjectRestoreStatus`
+
+_Specifies the restoration status of an object. Objects in certain storage classes must be restored before they can be retrieved._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expireDate` | `datetime` | ❌ | ✅ | ✅ | Indicates when the restored copy will expire. |
+| `inProgress` | `boolean` | ❌ | ❌ | ✅ | Specifies whether the object is currently being restored. |
+
+### `cloud.StorageObjectRetentionConfiguration`
+
+_Object retention configuration._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `mode` | `cloud.storage.ObjectLockModeEnum` | ✅ | ❌ | ❌ | Object lock retention mode. |
+| `retainUntil` | `datetime` | ✅ | ❌ | ❌ | The date on which this object lock retention will expire. |
+
+### `cloud.StorageObjectUpdate`
+
+_Create a container._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `legalHold` | `cloud.storage.ObjectLegalHoldStatusEnum` | ❌ | ✅ | ❌ | Object legal hold status. |
+| `lock` | `cloud.StorageObjectRetentionConfiguration` | ❌ | ✅ | ❌ | Object lock retention configuration. |
+
+### `cloud.StorageObjectVersion`
+
+_Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `etag` | `string` | ❌ | ✅ | ✅ | The entity tag is a hash of the object that reflects changes only to the contents. The etag is omitted when isDeleteMarker is true. |
+| `isDeleteMarker` | `boolean` | ❌ | ✅ | ✅ | True when the entry represents a delete marker. This field is included only when using withVersions set to true. |
+| `isLatest` | `boolean` | ❌ | ✅ | ✅ | True when the entry is the latest version of the object or delete marker. |
+| `key` | `string` | ❌ | ❌ | ✅ | The name assigned to an object. Use the object key to retrieve the object. |
+| `lastModified` | `datetime` | ❌ | ❌ | ✅ | Last modification date. |
+| `legalHold` | `cloud.storage.ObjectLegalHoldStatusEnum` | ❌ | ✅ | ✅ | Object legal hold status. |
+| `lock` | `cloud.StorageObjectRetentionConfiguration` | ❌ | ✅ | ✅ | Object lock retention configuration, if any. |
+| `restoreStatus` | `cloud.StorageObjectRestoreStatus` | ❌ | ✅ | ✅ | Specifies the restoration status of an object, if any. Objects in certain storage classes must be restored before they can be retrieved. |
+| `size` | `long` | ❌ | ❌ | ✅ | Size in bytes of the object. |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ✅ | ✅ | The storage class used to store the object. |
+| `versionId` | `string` | ❌ | ❌ | ✅ | The version ID of the object. |
+
+### `cloud.StorageReplicationObject`
+
+_Object Storage replication configuration._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `rules` | `cloud.storage.ReplicationRule[]` | ❌ | ✅ | ✅ | Replication rules. |
+
+### `cloud.StorageReplicationObjectIn`
+
+_Object Storage replication configuration._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `rules` | `cloud.storage.ReplicationRuleIn[]` | ❌ | ✅ | ❌ | Replication rules. |
+
+### `cloud.StorageReplicationRuleDestination`
+
+_Object Storage replication configuration rule destination._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Destination bucket name. |
+| `region` | `string` | ❌ | ✅ | ✅ | Destination region, can be null if destination bucket has been deleted. |
+| `storageClass` | `cloud.storage.StorageClassReplicationEnum` | ❌ | ✅ | ✅ | Destination storage class. |
+
+### `cloud.StorageReplicationRuleDestinationIn`
+
+_Object Storage replication configuration rule destination._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | Destination bucket name. |
+| `region` | `string` | ✅ | ❌ | ❌ | Destination region. |
+| `storageClass` | `cloud.storage.StorageClassReplicationEnum` | ❌ | ✅ | ❌ | Destination storage class. |
+
+### `cloud.StorageReplicationRuleFilter`
+
+_Object Storage replication configuration rule filter._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `prefix` | `string` | ❌ | ✅ | ❌ | Prefix filter. |
+| `tags` | `map[string]string` | ❌ | ✅ | ❌ | Tags filter. |
+
+### `cloud.StorageRestoreObjectIn`
+
+_Restore object input._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `days` | `long` | ✅ | ❌ | ❌ | The number of days the restored object will be available. |
+
+### `cloud.StorageVersioningObject`
+
+_Versioning configuration._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `status` | `cloud.storage.VersioningStatusEnum` | ❌ | ✅ | ❌ | Versioning status. |
+
+### `cloud.SubOperation`
+
+_A sub-operation is a child of an operation on your Project_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `string` | ❌ | ❌ | ✅ | The action of the sub-operation |
+| `completedAt` | `datetime` | ❌ | ✅ | ✅ | The completed date of the sub-operation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique ID to describe the sub-operation |
+| `progress` | `long` | ❌ | ❌ | ✅ | The progression in percentage of the sub-operation |
+| `regions` | `string[]` | ❌ | ✅ | ✅ | Affected regions of the sub-operation |
+| `resourceId` | `string` | ❌ | ✅ | ✅ | Affected resource of the sub-operation |
+| `startedAt` | `datetime` | ❌ | ✅ | ✅ | The started date of the sub-operation |
+| `status` | `cloud.OperationStatusEnum` | ❌ | ❌ | ✅ | Sub-operation status |
+
+### `cloud.Vrack`
+
+_A vRack allows to connect your OVH infrastructures accross products and datacenters_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Description of your vRack |
+| `id` | `string` | ❌ | ❌ | ✅ | Vrack ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of your vRack |
+
+### `cloud.aggregated.InstanceActionGroupEnum`
+
+_group of the action_
+
+**Enum** (`enumType: string`):
+
+- `boot`
+- `delete`
+- `details`
+- `lifecycle`
+- `shelve`
+
+### `cloud.alerting.Alert`
+
+_Sent Alert to client_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alertDate` | `datetime` | ❌ | ❌ | ✅ | Send date |
+| `alertId` | `long` | ❌ | ❌ | ✅ | Alert ID |
+| `emails` | `string[]` | ❌ | ✅ | ✅ | Receivers of the alert |
+
+### `cloud.alerting.Alerting`
+
+_Billing Alert Configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `delay` | `long` | ✅ | ❌ | ❌ | Delay of the alert in seconds |
+| `email` | `string` | ❌ | ❌ | ❌ | Email. DEPRECATED: use emails |
+| `emails` | `string[]` | ❌ | ❌ | ❌ | Receiver of the alert |
+| `formattedMonthlyThreshold` | `order.Price` | ❌ | ❌ | ✅ | formatted monthly threshold |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the alert |
+| `monthlyThreshold` | `long` | ✅ | ❌ | ❌ | Monthly threshold |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the alert |
+| `service` | `cloud.alerting.ServiceEnum` | ❌ | ❌ | ❌ | Service of the alert |
+| `status` | `cloud.alerting.StatusEnum` | ❌ | ❌ | ✅ | Status of the alert |
+
+### `cloud.alerting.AlertingUpdate`
+
+_Billing Alert Configuration Update_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `delay` | `long` | ❌ | ❌ | ❌ | Delay of the alert in seconds |
+| `email` | `string` | ❌ | ❌ | ❌ | Email. DEPRECATED: use emails |
+| `emails` | `string[]` | ❌ | ❌ | ❌ | Receiver of the alert |
+| `monthlyThreshold` | `long` | ❌ | ❌ | ❌ | Monthly threshold |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the alert |
+| `service` | `cloud.alerting.ServiceEnum` | ❌ | ❌ | ❌ | Service of the alert |
+| `status` | `cloud.alerting.StatusEnum` | ❌ | ❌ | ❌ | Status of the alert |
+
+### `cloud.alerting.ServiceEnum`
+
+_available services to watch_
+
+**Enum** (`enumType: string`):
+
+- `ai_endpoint`
+- `all`
+- `block_storage`
+- `data_platform`
+- `instances`
+- `instances_gpu`
+- `instances_without_gpu`
+- `objet_storage`
+- `rancher`
+- `snapshot`
+
+### `cloud.alerting.StatusEnum`
+
+_alert status_
+
+**Enum** (`enumType: string`):
+
+- `deleted`
+- `disabled`
+- `ok`
+
+### `cloud.authentication.Catalog`
+
+_Catalog_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpoints` | `cloud.authentication.Endpoint[]` | ❌ | ❌ | ✅ |  |
+| `id` | `string` | ❌ | ❌ | ✅ |  |
+| `type` | `string` | ❌ | ❌ | ✅ |  |
+
+### `cloud.authentication.Domain`
+
+_Domain_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+
+### `cloud.authentication.Endpoint`
+
+_Endpoint_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ |  |
+| `interface` | `string` | ❌ | ❌ | ✅ |  |
+| `legacy_endpoint_id` | `string` | ❌ | ❌ | ✅ |  |
+| `region_id` | `string` | ❌ | ❌ | ✅ |  |
+| `service_id` | `string` | ❌ | ❌ | ✅ |  |
+| `url` | `string` | ❌ | ❌ | ✅ |  |
+
+### `cloud.authentication.OpenstackToken`
+
+_OpenstackToken_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `catalog` | `cloud.authentication.Catalog[]` | ❌ | ❌ | ✅ |  |
+| `expires_at` | `datetime` | ❌ | ❌ | ✅ |  |
+| `issued_at` | `datetime` | ❌ | ❌ | ✅ |  |
+| `methods` | `string[]` | ❌ | ❌ | ✅ |  |
+| `project` | `cloud.authentication.TokenProject` | ❌ | ❌ | ✅ |  |
+| `roles` | `cloud.authentication.Role[]` | ❌ | ❌ | ✅ |  |
+| `user` | `cloud.authentication.UserToken` | ❌ | ❌ | ✅ |  |
+
+### `cloud.authentication.Role`
+
+_Role_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+
+### `cloud.authentication.Token`
+
+_Token_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `X-Auth-Token` | `string` | ❌ | ❌ | ✅ |  |
+| `token` | `cloud.authentication.OpenstackToken` | ❌ | ❌ | ✅ |  |
+
+### `cloud.authentication.TokenProject`
+
+_TokenProject_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `domain` | `cloud.authentication.Domain` | ❌ | ❌ | ✅ |  |
+| `id` | `string` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+
+### `cloud.authentication.UserToken`
+
+_UserToken_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `domain` | `cloud.authentication.Domain` | ❌ | ❌ | ✅ |  |
+| `id` | `string` | ❌ | ❌ | ✅ |  |
+| `name` | `string` | ❌ | ❌ | ✅ |  |
+
+### `cloud.billingView.BandwidthInstance`
+
+_BandwidthInstance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Total bandwidth in GiB |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.BandwidthStorage`
+
+_BandwidthStorage_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Total bandwidth in GiB |
+| `resourceIds` | `string[]` | ❌ | ❌ | ✅ | List of resource IDs |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.Component`
+
+_Component_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Component ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the component |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Total quantity for the component |
+| `resourceId` | `string` | ❌ | ❌ | ✅ | Resource ID |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price for this component |
+
+### `cloud.billingView.HourlyDetail`
+
+_HourlyDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | ID |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Quantity |
+| `resourceId` | `string` | ❌ | ❌ | ✅ | Resource ID |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyInstance`
+
+_HourlyInstance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.HourlyInstanceDetail[]` | ❌ | ❌ | ✅ | Details about hourly instances |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Hours of run instances |
+| `reference` | `string` | ❌ | ❌ | ✅ | Instance reference |
+| `region` | `string` | ❌ | ❌ | ✅ | Instance region |
+| `savingsPlanIds` | `string[]` | ❌ | ✅ | ✅ | Savings Plan IDs |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyInstanceBandwidth`
+
+_HourlyInstanceBandwidth_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `incomingBandwidth` | `cloud.billingView.BandwidthInstance` | ❌ | ✅ | ✅ | Instance incoming bandwidth details |
+| `outgoingBandwidth` | `cloud.billingView.BandwidthInstance` | ❌ | ✅ | ✅ | Instance outgoing bandwidth details |
+| `region` | `string` | ❌ | ❌ | ✅ | Region |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyInstanceDetail`
+
+_HourlyInstanceDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceId` | `string` | ❌ | ❌ | ✅ | Instance ID |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Hours of run instances |
+| `resourceId` | `string` | ❌ | ❌ | ✅ | Resource ID |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyInstanceOption`
+
+_HourlyInstanceOption_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.HourlyInstanceOptionDetail[]` | ❌ | ❌ | ✅ | Details about hourly instances option |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Quantity of instance hours running with this option |
+| `reference` | `string` | ❌ | ❌ | ✅ | Instance reference |
+| `region` | `string` | ❌ | ❌ | ✅ | Instance region |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyInstanceOptionDetail`
+
+_HourlyInstanceOptionDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceId` | `string` | ❌ | ❌ | ✅ | Instance ID |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Quantity of instance hours running with this option |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyManagedKubernetesService`
+
+_HourlyManagedKubernetesService_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.HourlyDetail[]` | ❌ | ✅ | ✅ | Details about managed kubernetes services |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Total hours of usage |
+| `reference` | `string` | ❌ | ✅ | ✅ | Reference |
+| `region` | `string` | ❌ | ✅ | ✅ | Region |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyQuantum`
+
+_HourlyQuantum_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `notebook` | `cloud.billingView.HourlyQuantumNotebook[]` | ❌ | ❌ | ✅ | Details about hourly quantum notebooks |
+| `processingUnit` | `cloud.billingView.HourlyQuantumProcessingUnit[]` | ❌ | ❌ | ✅ | Details about hourly quantum processing unit |
+
+### `cloud.billingView.HourlyQuantumNotebook`
+
+_HourlyQuantumNotebook_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.HourlyDetail[]` | ❌ | ❌ | ✅ | Details about quantums |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Quantum quantity |
+| `reference` | `string` | ❌ | ❌ | ✅ | Quantum reference |
+| `region` | `string` | ❌ | ❌ | ✅ | Quantum region |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyQuantumProcessingUnit`
+
+_HourlyQuantumProcessingUnit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.HourlyDetail[]` | ❌ | ❌ | ✅ | Details about quantums |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Quantum quantity |
+| `reference` | `string` | ❌ | ❌ | ✅ | Quantum reference |
+| `region` | `string` | ❌ | ❌ | ✅ | Quantum region |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyRancher`
+
+_HourlyRancher_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.HourlyRancherDetail[]` | ❌ | ❌ | ✅ | Details about hourly Rancher |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Hours of Rancher |
+| `reference` | `string` | ❌ | ❌ | ✅ | Instance reference |
+| `region` | `string` | ❌ | ❌ | ✅ | Instance region |
+| `savingsPlanIds` | `string[]` | ❌ | ✅ | ✅ | Savings Plan IDs |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyRancherDetail`
+
+_HourlyRancherDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Hours of Rancher |
+| `rancherId` | `string` | ❌ | ❌ | ✅ | Rancher ID |
+| `resourceId` | `string` | ❌ | ❌ | ✅ | Resource ID |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.HourlyResources`
+
+_HourlyResources_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instance` | `cloud.billingView.HourlyInstance[]` | ❌ | ❌ | ✅ | Details about hourly instances |
+| `instanceBandwidth` | `cloud.billingView.HourlyInstanceBandwidth[]` | ❌ | ❌ | ✅ | Details about instances bandwidth consumption |
+| `instanceOption` | `cloud.billingView.HourlyInstanceOption[]` | ❌ | ❌ | ✅ | Details about hourly instances options |
+| `managedKubernetesService` | `cloud.billingView.HourlyManagedKubernetesService[]` | ❌ | ❌ | ✅ | Details about managed kubernetes services |
+| `quantum` | `cloud.billingView.HourlyQuantum` | ❌ | ❌ | ✅ | Details about hourly quantums |
+| `rancher` | `cloud.billingView.HourlyRancher[]` | ❌ | ❌ | ✅ | Details about hourly Rancher |
+| `snapshot` | `cloud.billingView.HourlySnapshot[]` | ❌ | ❌ | ✅ | Details about hourly snapshots |
+| `storage` | `cloud.billingView.HourlyStorage[]` | ❌ | ❌ | ✅ | Details about hourly storage |
+| `volume` | `cloud.billingView.HourlyVolume[]` | ❌ | ❌ | ✅ | Details about hourly volumes |
+
+### `cloud.billingView.HourlySnapshot`
+
+_HourlySnapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `instance` | `cloud.billingView.InstanceSnapshot` | ❌ | ✅ | ✅ | Instance snapshot details |
+| `region` | `string` | ❌ | ❌ | ✅ | Region |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+| `volume` | `cloud.billingView.VolumeSnapshot` | ❌ | ✅ | ✅ | Volume snapshot details |
+
+### `cloud.billingView.HourlyStorage`
+
+_HourlyStorage_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bucketName` | `string` | ❌ | ✅ | ✅ | Bucket Name |
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `incomingBandwidth` | `cloud.billingView.BandwidthStorage` | ❌ | ✅ | ✅ | Storage incoming bandwidth details |
+| `incomingInternalBandwidth` | `cloud.billingView.BandwidthStorage` | ❌ | ✅ | ✅ | Storage incoming internal bandwidth details |
+| `outgoingBandwidth` | `cloud.billingView.BandwidthStorage` | ❌ | ✅ | ✅ | Storage outgoing bandwidth details |
+| `outgoingInternalBandwidth` | `cloud.billingView.BandwidthStorage` | ❌ | ✅ | ✅ | Storage outgoing internal bandwidth details |
+| `region` | `string` | ❌ | ❌ | ✅ | Region |
+| `retrievalFees` | `cloud.billingView.RetrievalFees` | ❌ | ✅ | ✅ | Storage retrieval fee details |
+| `stored` | `cloud.billingView.StoredStorage` | ❌ | ✅ | ✅ | Information about stored data |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+| `type` | `cloud.billingView.StorageTypeEnum` | ❌ | ❌ | ✅ | Storage type |
+
+### `cloud.billingView.HourlyVolume`
+
+_HourlyVolume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.HourlyVolumeDetail[]` | ❌ | ❌ | ✅ | Detail about volume consumption |
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Total GiBh of volume |
+| `region` | `string` | ❌ | ❌ | ✅ | Region |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+| `type` | `string` | ❌ | ❌ | ✅ | Volume type |
+
+### `cloud.billingView.HourlyVolumeDetail`
+
+_HourlyVolumeDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | GiBh of volume |
+| `resourceId` | `string` | ❌ | ❌ | ✅ | Resource ID |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+| `volumeId` | `string` | ❌ | ❌ | ✅ | Volume ID |
+
+### `cloud.billingView.InstanceSnapshot`
+
+_InstanceSnapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | GiBh stored |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.MonthlyCertification`
+
+_MonthlyCertification_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `details` | `cloud.billingView.MonthlyCertificationDetail[]` | ❌ | ❌ | ✅ | Details about certifications |
+| `reference` | `string` | ❌ | ❌ | ✅ | Certification reference |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.MonthlyCertificationDetail`
+
+_MonthlyCertificationDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activation` | `datetime` | ❌ | ❌ | ✅ | Certification activation |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.MonthlyInstance`
+
+_MonthlyInstance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.MonthlyInstanceDetail[]` | ❌ | ❌ | ✅ | Details about monthly instances |
+| `reference` | `string` | ❌ | ❌ | ✅ | Instance reference |
+| `region` | `string` | ❌ | ❌ | ✅ | Instance region |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.MonthlyInstanceDetail`
+
+_MonthlyInstanceDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activation` | `datetime` | ❌ | ❌ | ✅ | Monthly instance activation |
+| `instanceId` | `string` | ❌ | ❌ | ✅ | Instance ID |
+| `resourceId` | `string` | ❌ | ❌ | ✅ | Resource ID |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.MonthlyInstanceOption`
+
+_MonthlyInstanceOption_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `details` | `cloud.billingView.MonthlyInstanceOptionDetail[]` | ❌ | ❌ | ✅ | Details about monthly instances |
+| `reference` | `string` | ❌ | ❌ | ✅ | Instance reference |
+| `region` | `string` | ❌ | ❌ | ✅ | Instance region |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.MonthlyInstanceOptionDetail`
+
+_MonthlyInstanceOptionDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceId` | `string` | ❌ | ❌ | ✅ | Instance ID |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.MonthlyResources`
+
+_MonthlyResources_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `certification` | `cloud.billingView.MonthlyCertification[]` | ❌ | ❌ | ✅ | Details about certifications |
+| `instance` | `cloud.billingView.MonthlyInstance[]` | ❌ | ❌ | ✅ | Details about monthly instances |
+| `instanceOption` | `cloud.billingView.MonthlyInstanceOption[]` | ❌ | ❌ | ✅ | Details about monthly instances options |
+| `savingsPlan` | `cloud.billingView.MonthlySavingsPlan[]` | ❌ | ❌ | ✅ | Details about savings plan subscriptions |
+
+### `cloud.billingView.MonthlySavingsPlan`
+
+_MonthlySavingsPlan_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `details` | `cloud.plan.Detail[]` | ❌ | ❌ | ✅ | Detailed listing of all flat fees |
+| `flavor` | `string` | ❌ | ❌ | ✅ | Flavor of the savings plan |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price of the flat fee part of associated savings plans |
+
+### `cloud.billingView.Quantity`
+
+_Quantity_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `cloud.billingView.UnitQuantityEnum` | ❌ | ❌ | ✅ | Quantity unit |
+| `value` | `double` | ❌ | ❌ | ✅ | Quantity value |
+
+### `cloud.billingView.RegionalizedResource`
+
+_RegionalizedResource_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `components` | `cloud.billingView.Component[]` | ❌ | ❌ | ✅ | List of components |
+| `deploymentMode` | `common.RegionTypeEnum` | ❌ | ✅ | ✅ | Specifies the deployment mode of the region where the resource is deployed (for example, 1-AZ or 3-AZ). Products that are grouped by project or have no region do not include a deployment mode |
+| `region` | `string` | ❌ | ❌ | ✅ | Region of the resource |
+
+### `cloud.billingView.RetrievalFees`
+
+_RetrievalFees_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | Total retrieval fees in GiB |
+| `resourceIds` | `string[]` | ❌ | ❌ | ✅ | List of resource IDs |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.StorageTypeEnum`
+
+_StorageTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `pca`
+- `pcs`
+- `storage-coldarchive`
+- `storage-glacier-ir`
+- `storage-high-perf`
+- `storage-standard`
+- `storage-standard-ia`
+
+### `cloud.billingView.StoredStorage`
+
+_StoredStorage_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | GiBh stored |
+| `resourceIds` | `string[]` | ❌ | ❌ | ✅ | List of resource IDs |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.billingView.TypedResources`
+
+_TypedResources_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `resources` | `cloud.billingView.RegionalizedResource[]` | ❌ | ❌ | ✅ | Resources per region |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of the resources |
+
+### `cloud.billingView.UnitQuantityEnum`
+
+_UnitQuantity_
+
+**Enum** (`enumType: string`):
+
+- `GiB`
+- `GiBh`
+- `Hour`
+- `Minute`
+- `Second`
+- `Unit`
+
+### `cloud.billingView.UsedCredit`
+
+_UsedCredit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Credit description |
+| `id` | `long` | ❌ | ❌ | ✅ | Credit ID |
+| `usedAmount` | `double` | ❌ | ❌ | ✅ | Total credit used |
+
+### `cloud.billingView.UsedCredits`
+
+_UsedCredits_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `details` | `cloud.billingView.UsedCredit[]` | ❌ | ❌ | ✅ | Details about credits that will be used |
+| `totalCredit` | `double` | ❌ | ❌ | ✅ | Total credit that will be used to pay the bill |
+
+### `cloud.billingView.VolumeSnapshot`
+
+_VolumeSnapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quantity` | `cloud.billingView.Quantity` | ❌ | ❌ | ✅ | GiBh stored |
+| `totalPrice` | `double` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.capabilities.Availability`
+
+_Public Cloud products availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `plans` | `cloud.capabilities.AvailabilityPlan[]` | ❌ | ❌ | ✅ | Plan availability |
+| `products` | `cloud.capabilities.AvailabilityProduct[]` | ❌ | ❌ | ✅ | Product availability |
+
+### `cloud.capabilities.AvailabilityPlan`
+
+_Public Cloud plan availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `string` | ❌ | ❌ | ✅ | Plan code |
+| `regions` | `cloud.capabilities.AvailabilityRegion[]` | ❌ | ❌ | ✅ | Plan is available on those regions |
+
+### `cloud.capabilities.AvailabilityProduct`
+
+_Public Cloud product availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Product name |
+| `regions` | `cloud.capabilities.AvailabilityRegion[]` | ❌ | ❌ | ✅ | Product is available on those regions |
+
+### `cloud.capabilities.AvailabilityRegion`
+
+_Details about a region_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZones` | `string[]` | ❌ | ❌ | ✅ | Availability zones of the region |
+| `continentCode` | `cloud.RegionContinentEnum` | ❌ | ❌ | ✅ | Region continent code |
+| `countryCode` | `countryCode2LettersEnum` | ❌ | ❌ | ✅ | Region country code |
+| `datacenter` | `string` | ❌ | ❌ | ✅ | Location of the datacenter where the region is |
+| `enabled` | `boolean` | ❌ | ❌ | ✅ | Region is enabled |
+| `name` | `string` | ❌ | ❌ | ✅ | Region name |
+| `type` | `cloud.RegionTypeEnum` | ❌ | ❌ | ✅ | Region type |
+
+### `cloud.common.VoucherValidity`
+
+_Voucher validity range_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `from` | `datetime` | ❌ | ✅ | ❌ | Valid from |
+| `to` | `datetime` | ❌ | ✅ | ❌ | Valid to |
+
+### `cloud.containerRegistry.Capability`
+
+_The container registry capability for a single region_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `plans` | `cloud.containerRegistry.Plan[]` | ❌ | ❌ | ✅ | Available plans in the region |
+| `regionName` | `string` | ❌ | ❌ | ✅ | The region name |
+| `regionType` | `common.RegionTypeEnum` | ❌ | ❌ | ✅ | The type of region ("REGION-1-AZ" or "REGION-3-AZ") |
+
+### `cloud.containerRegistry.Features`
+
+_Features list, enabled or not_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `vulnerability` | `boolean` | ❌ | ❌ | ✅ | Vulnerability scanning |
+
+### `cloud.containerRegistry.IPRestrictions`
+
+_Container registry Get IP Restrictions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | IP Restrictions creation date |
+| `description` | `string` | ❌ | ❌ | ❌ | The Description of Whitelisted IpBlock |
+| `ipBlock` | `ipBlock` | ❌ | ❌ | ❌ | Whitelisted IpBlock |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | IP Restrictions update date |
+
+### `cloud.containerRegistry.Limits`
+
+_Limitation of a docker registry_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `imageStorage` | `long` | ❌ | ❌ | ✅ | Docker image storage limits in bytes |
+| `parallelRequest` | `long` | ❌ | ❌ | ✅ | Parallel requests on Docker image API (/v2 Docker registry API) |
+
+### `cloud.containerRegistry.OIDCConfiguration`
+
+_Docker registry OIDC Configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `adminGroup` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration AdminGroup |
+| `autoOnboard` | `boolean` | ❌ | ✅ | ❌ | The OIDC Configuration AutoOnboard |
+| `clientId` | `string` | ✅ | ❌ | ❌ | The OIDC Configuration ClientID |
+| `clientSecret` | `password` | ✅ | ✅ | ❌ | The OIDC Configuration Client Secret |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The OIDC Configuration creation date |
+| `endpoint` | `string` | ✅ | ❌ | ❌ | The OIDC Configuration Endpoint |
+| `groupFilter` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration GroupFilter |
+| `groupsClaim` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration GroupsClaim |
+| `id` | `string` | ❌ | ❌ | ✅ | The OIDC Configuration ID |
+| `name` | `string` | ✅ | ❌ | ❌ | The OIDC Configuration Name |
+| `scope` | `string` | ✅ | ❌ | ❌ | The OIDC Configuration comma-separated list of Scopes |
+| `status` | `cloud.containerRegistry.OIDCStatusEnum` | ❌ | ❌ | ✅ | The OIDC Configuration status |
+| `updatedAt` | `datetime` | ❌ | ✅ | ✅ | The OIDC Configuration last update date |
+| `userClaim` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration UserClaim |
+| `verifyCert` | `boolean` | ❌ | ✅ | ❌ | The OIDC Configuration VerifyCert |
+
+### `cloud.containerRegistry.OIDCPost`
+
+_Docker registry Post OIDC configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deleteUsers` | `boolean` | ❌ | ✅ | ❌ | Delete all previously created users to allow OIDC configuration |
+| `provider` | `cloud.containerRegistry.OIDCConfiguration` | ✅ | ❌ | ❌ | The OIDC provider configuration |
+
+### `cloud.containerRegistry.OIDCPut`
+
+_Docker registry Put OIDC Configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `adminGroup` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration AdminGroup |
+| `autoOnboard` | `boolean` | ❌ | ✅ | ❌ | The OIDC Configuration AutoOnboard |
+| `clientId` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration ClientID |
+| `clientSecret` | `password` | ❌ | ✅ | ❌ | The OIDC Configuration Client Secret |
+| `endpoint` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration Endpoint |
+| `groupFilter` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration GroupFilter |
+| `groupsClaim` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration GroupsClaim |
+| `name` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration Name |
+| `scope` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration comma-separated list of Scopes |
+| `userClaim` | `string` | ❌ | ✅ | ❌ | The OIDC Configuration UserClaim |
+| `verifyCert` | `boolean` | ❌ | ✅ | ❌ | The OIDC Configuration VerifyCert |
+
+### `cloud.containerRegistry.OIDCStatusEnum`
+
+_Status of the registry's oidc configuration_
+
+**Enum** (`enumType: string`):
+
+- `DELETING`
+- `ERROR`
+- `INSTALLING`
+- `PATCHING`
+- `READY`
+- `UPDATING`
+
+### `cloud.containerRegistry.Plan`
+
+_Plan of the registry_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `string` | ❌ | ❌ | ✅ | Plan code from catalog |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Plan creation date |
+| `features` | `cloud.containerRegistry.Features` | ❌ | ❌ | ✅ | Features of the plan |
+| `id` | `string` | ❌ | ❌ | ✅ | Plan ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Plan name |
+| `registryLimits` | `cloud.containerRegistry.Limits` | ❌ | ❌ | ✅ | Container registry limits |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Plan last update date |
+
+### `cloud.containerRegistry.PlanUpdate`
+
+_Missing description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `planID` | `string` | ✅ | ❌ | ❌ | Plan ID to apply to the registry |
+
+### `cloud.containerRegistry.Registry`
+
+_Managed docker registry_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Registry creation date |
+| `iamEnabled` | `boolean` | ❌ | ❌ | ✅ | OVHcloud IAM enabled |
+| `id` | `string` | ❌ | ❌ | ✅ | Registry ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Registry name |
+| `projectID` | `string` | ❌ | ❌ | ✅ | Project ID of your registry |
+| `region` | `string` | ❌ | ❌ | ✅ | Region of the registry. |
+| `size` | `long` | ❌ | ❌ | ✅ | Current size of the registry (bytes) |
+| `status` | `cloud.containerRegistry.StatusEnum` | ❌ | ❌ | ✅ | Registry status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Registry last update date |
+| `url` | `string` | ❌ | ❌ | ✅ | Access url of the registry |
+| `version` | `string` | ❌ | ❌ | ✅ | Version of your registry |
+
+### `cloud.containerRegistry.StatusEnum`
+
+_Status of the registry_
+
+**Enum** (`enumType: string`):
+
+- `DELETED`
+- `DELETING`
+- `ERROR`
+- `INSTALLING`
+- `READY`
+- `RESTORING`
+- `SUSPENDED`
+- `SUSPENDING`
+- `UPDATING`
+
+### `cloud.containerRegistry.User`
+
+_Docker registry user_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `email` | `string` | ❌ | ❌ | ✅ | User email |
+| `id` | `string` | ❌ | ❌ | ✅ | User ID |
+| `password` | `password` | ❌ | ✅ | ✅ | User password |
+| `user` | `string` | ❌ | ❌ | ✅ | User name |
+
+### `cloud.containerRegistry.iamPost`
+
+_Docker registry Post IAM configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deleteUsers` | `boolean` | ❌ | ✅ | ❌ | Delete all previously created users to allow IAM activation |
+
+### `cloud.flavor.Capability`
+
+_Flavor capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ✅ | Is the capability enabled |
+| `name` | `cloud.flavor.CapabilityNameEnum` | ❌ | ❌ | ✅ | Name of the capability |
+
+### `cloud.flavor.CapabilityNameEnum`
+
+_Enum values for flavor capabilities names_
+
+**Enum** (`enumType: string`):
+
+- `failoverip`
+- `resize`
+- `snapshot`
+- `volume`
+
+### `cloud.flavor.Flavor`
+
+_Flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `available` | `boolean` | ❌ | ❌ | ✅ | Available in stock |
+| `capabilities` | `cloud.flavor.Capability[]` | ❌ | ❌ | ✅ | Capabilities of the flavor |
+| `disk` | `long` | ❌ | ❌ | ✅ | Number of disks |
+| `id` | `string` | ❌ | ❌ | ✅ | Flavor id |
+| `inboundBandwidth` | `long` | ❌ | ✅ | ✅ | Max capacity of inbound traffic in Mbit/s |
+| `name` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `osType` | `string` | ❌ | ❌ | ✅ | OS to install on |
+| `outboundBandwidth` | `long` | ❌ | ✅ | ✅ | Max capacity of outbound traffic in Mbit/s |
+| `planCodes` | `cloud.flavor.FlavorPlanCodes` | ❌ | ❌ | ✅ | Plan codes to order instances |
+| `quota` | `long` | ❌ | ❌ | ✅ | Number instance you can spawn with your actual quota |
+| `ram` | `long` | ❌ | ❌ | ✅ | Ram quantity (Gio) |
+| `region` | `string` | ❌ | ❌ | ✅ | Flavor region |
+| `type` | `string` | ❌ | ❌ | ✅ | Flavor type |
+| `vcpus` | `long` | ❌ | ❌ | ✅ | Number of VCPUs |
+
+### `cloud.flavor.FlavorPlanCodes`
+
+_FlavorPlanCodes_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hourly` | `string` | ❌ | ✅ | ✅ | Plan code to order hourly instance |
+| `license` | `string` | ❌ | ✅ | ✅ | Plan code of associated license |
+| `monthly` | `string` | ❌ | ✅ | ✅ | Plan code to order monthly instance |
+
+### `cloud.image.Image`
+
+_Image_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Image creation date |
+| `flavorType` | `string` | ❌ | ✅ | ✅ | Image usable only for this type of flavor if not null |
+| `id` | `string` | ❌ | ❌ | ✅ | Image id |
+| `minDisk` | `long` | ❌ | ❌ | ✅ | Minimum disks required to use image |
+| `minRam` | `long` | ❌ | ❌ | ✅ | Minimum RAM required to use image |
+| `name` | `string` | ❌ | ❌ | ✅ | Image name |
+| `planCode` | `string` | ❌ | ✅ | ✅ | Order plan code |
+| `region` | `string` | ❌ | ❌ | ✅ | Image region |
+| `size` | `double` | ❌ | ❌ | ✅ | Image size (in GiB) |
+| `status` | `string` | ❌ | ❌ | ✅ | Image status |
+| `tags` | `string[]` | ❌ | ✅ | ✅ | Tags about the image |
+| `type` | `string` | ❌ | ❌ | ✅ | Image type |
+| `user` | `string` | ❌ | ❌ | ✅ | User to connect with |
+| `visibility` | `string` | ❌ | ❌ | ✅ | Image visibility |
+
+### `cloud.image.OSTypeEnum`
+
+_OSTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `baremetal-linux`
+- `bsd`
+- `linux`
+- `windows`
+
+### `cloud.instance.Access`
+
+_Access_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `login` | `string` | ❌ | ❌ | ✅ | Login |
+| `password` | `password` | ❌ | ❌ | ✅ | Password |
+| `type` | `string` | ❌ | ❌ | ✅ | Application access type |
+| `url` | `string` | ❌ | ❌ | ✅ | Url |
+
+### `cloud.instance.Action`
+
+_Action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `group` | `cloud.aggregated.InstanceActionGroupEnum` | ❌ | ❌ | ✅ | Action group |
+| `name` | `string` | ❌ | ❌ | ✅ | Action name |
+
+### `cloud.instance.ApplicationAccess`
+
+_ApplicationAccess_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accesses` | `cloud.instance.Access[]` | ❌ | ❌ | ✅ | List of credentials |
+| `status` | `cloud.instance.ApplicationAccessStateEnum` | ❌ | ❌ | ✅ | Application status |
+
+### `cloud.instance.ApplicationAccessStateEnum`
+
+_ApplicationAccessStateEnum_
+
+**Enum** (`enumType: string`):
+
+- `installing`
+- `ok`
+
+### `cloud.instance.AssociateFloatingIp`
+
+_Parameters to associate an existing floating IP to an instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `floatingIpId` | `uuid` | ✅ | ❌ | ❌ | Floating IP ID |
+| `gateway` | `cloud.network.CreateGatewaySummary` | ❌ | ✅ | ❌ | Parameters to create a gateway if required |
+| `ip` | `ip` | ✅ | ❌ | ❌ | Private instance IP to associate the floating IP with |
+
+### `cloud.instance.AutoBackup`
+
+_Autobackup params at instance creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cron` | `string` | ❌ | ❌ | ❌ | Unix Cron pattern (eg: '0 0 * * *') |
+| `rotation` | `long` | ❌ | ❌ | ❌ | Number of backup to keep |
+
+### `cloud.instance.CreateFloatingIp`
+
+_Parameters to create a floating IP for an instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gateway` | `cloud.network.CreateGatewaySummary` | ❌ | ✅ | ❌ | Parameters to create a gateway if required |
+| `ip` | `ip` | ✅ | ❌ | ❌ | Private instance IP to associate the floating IP with |
+
+### `cloud.instance.CreateInput`
+
+_Instance creation input_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `autobackup` | `cloud.Instance.AutoBackup` | ❌ | ✅ | ❌ | Create an autobackup workflow after instance start up |
+| `availabilityZone` | `string` | ❌ | ✅ | ❌ | The availability zone where the instance will be created |
+| `billingPeriod` | `cloud.instance.CreateInput.BillingPeriodEnum` | ✅ | ❌ | ❌ | Billing period |
+| `bootFrom` | `cloud.instance.CreateInput.BootFrom` | ✅ | ❌ | ❌ | Boot the instance from an image or a volume |
+| `bulk` | `long` | ❌ | ❌ | ❌ | Create multiple instances |
+| `flavor` | `cloud.instance.CreateInput.Flavor` | ✅ | ❌ | ❌ | Flavor information |
+| `group` | `cloud.instance.CreateInput.Group` | ❌ | ✅ | ❌ | Start instance in group |
+| `name` | `string` | ❌ | ❌ | ❌ | Instance name |
+| `network` | `cloud.instance.CreateInput.Network` | ✅ | ❌ | ❌ | Networks information |
+| `sshKey` | `cloud.instance.CreateInput.SshKey` | ❌ | ✅ | ❌ | Existing SSH Keypair |
+| `sshKeyCreate` | `cloud.instance.CreateInput.SshKeyCreate` | ❌ | ✅ | ❌ | Information to create a new SSH Keypair |
+| `userData` | `string` | ❌ | ✅ | ❌ | Configuration information or scripts to use upon launch |
+| `volume` | `cloud.instance.CreateInput.Volume` | ❌ | ✅ | ❌ | Volume to create and/or attach to the instance |
+
+### `cloud.instance.CreateInput.BillingPeriodEnum`
+
+_Billing period_
+
+**Enum** (`enumType: string`):
+
+- `hourly`
+- `monthly`
+
+### `cloud.instance.CreateInput.BootFrom`
+
+_Boot the instance from an image or a volume. Both cannot be null._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `imageId` | `uuid` | ❌ | ✅ | ❌ | Instance image id |
+| `imageRegionName` | `string` | ❌ | ✅ | ❌ | Region of the instance image |
+| `volumeId` | `uuid` | ❌ | ✅ | ❌ | Specify a volume id to boot from it |
+
+### `cloud.instance.CreateInput.Flavor`
+
+_Flavor information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ❌ | Instance flavor id |
+
+### `cloud.instance.CreateInput.Group`
+
+_Start instance in group_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ❌ | Group id |
+
+### `cloud.instance.CreateInput.Network`
+
+_Networks information for instance creation. Either a public or private network must be specified. Both cannot be null._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `private` | `cloud.instance.CreateInput.Network.Private` | ❌ | ✅ | ❌ | Private network information |
+| `public` | `boolean` | ❌ | ❌ | ❌ | Set the new instance as public |
+
+### `cloud.instance.CreateInput.Network.Private`
+
+_Private network information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `floatingIp` | `cloud.instance.CreateInput.Network.Private.FloatingIp` | ❌ | ✅ | ❌ | Existing floating IP |
+| `floatingIpCreate` | `cloud.instance.CreateInput.Network.Private.FloatingIpCreate` | ❌ | ✅ | ❌ | Information to create a new floating IP |
+| `gateway` | `cloud.instance.CreateInput.Network.Private.Gateway` | ❌ | ✅ | ❌ | Existing gateway |
+| `gatewayCreate` | `cloud.instance.CreateInput.Network.Private.GatewayCreate` | ❌ | ✅ | ❌ | Information to create a new gateway |
+| `ip` | `ipv4` | ❌ | ✅ | ❌ | Instance IP in the private network |
+| `network` | `cloud.instance.CreateInput.Network.Private.Network` | ❌ | ✅ | ❌ | Existing private network |
+| `networkCreate` | `cloud.instance.CreateInput.Network.Private.NetworkCreate` | ❌ | ✅ | ❌ | Information to create a new private network |
+
+### `cloud.instance.CreateInput.Network.Private.FloatingIp`
+
+_Existing floating IP_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ❌ | Floating IP ID |
+
+### `cloud.instance.CreateInput.Network.Private.FloatingIpCreate`
+
+_Information to create a new floating IP_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Floating IP description |
+
+### `cloud.instance.CreateInput.Network.Private.Gateway`
+
+_Existing gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ❌ | Gateway ID |
+
+### `cloud.instance.CreateInput.Network.Private.GatewayCreate`
+
+_Information to create a new gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `model` | `cloud.instance.CreateInput.Network.Private.GatewayCreate.ModelEnum` | ❌ | ❌ | ❌ | Gateway model |
+| `name` | `string` | ❌ | ❌ | ❌ | Gateway name |
+
+### `cloud.instance.CreateInput.Network.Private.GatewayCreate.ModelEnum`
+
+_Gateway model_
+
+**Enum** (`enumType: string`):
+
+- `l`
+- `m`
+- `s`
+
+### `cloud.instance.CreateInput.Network.Private.Network`
+
+_Existing private network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ❌ | Network ID |
+| `subnetId` | `uuid` | ❌ | ❌ | ❌ | Existing Subnet ID |
+
+### `cloud.instance.CreateInput.Network.Private.NetworkCreate`
+
+_Information to create a new private network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | Network name |
+| `subnet` | `cloud.instance.CreateInput.Network.Private.NetworkCreate.Subnet` | ❌ | ❌ | ❌ | New subnet information |
+| `vlanId` | `long` | ❌ | ✅ | ❌ | Network vlan ID |
+
+### `cloud.instance.CreateInput.Network.Private.NetworkCreate.Subnet`
+
+_New subnet information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cidr` | `ipv4Block` | ❌ | ❌ | ❌ | Subnet range in CIDR notation |
+| `enableDhcp` | `boolean` | ❌ | ❌ | ❌ | Enable DHCP on the private network |
+| `enableGatewayIP` | `boolean` | ❌ | ✅ | ❌ | Enable gateway IP |
+| `ipVersion` | `long` | ❌ | ❌ | ❌ | IP version |
+
+### `cloud.instance.CreateInput.SshKey`
+
+_Existing SSH Keypair_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | SSH Keypair name |
+
+### `cloud.instance.CreateInput.SshKeyCreate`
+
+_Information to create a new SSH Keypair_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | SSH key name |
+| `publicKey` | `string` | ❌ | ❌ | ❌ | SSH public key |
+
+### `cloud.instance.CreateInput.Volume`
+
+_Volume to create and/or attach to the instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ✅ | ❌ | Existing volume ID to attach |
+| `name` | `string` | ❌ | ✅ | ❌ | Volume name for new volume creation |
+| `size` | `long` | ❌ | ✅ | ❌ | Volume size (in GiB) for new volume creation |
+| `type` | `cloud.volume.VolumeTypeEnum` | ❌ | ✅ | ❌ | Volume type for new volume creation |
+
+### `cloud.instance.CreateSnapshot`
+
+_Creates instance snapshots with support for both local and distant region deployment. Creates a snapshot locally in the current region, and optionally creates an additional snapshot in a distant region when distant region parameters are provided._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `distantRegionName` | `string` | ❌ | ✅ | ❌ | Name of the remote region where the distant snapshot will be created (optional) |
+| `distantSnapshotName` | `string` | ❌ | ✅ | ❌ | Name for the snapshot that will be created in the distant region (optional) |
+| `snapshotName` | `string` | ❌ | ❌ | ❌ | Name for the snapshot that will be created in the current region |
+
+### `cloud.instance.IPAddressTypeEnum`
+
+_IPAddressTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `floating`
+- `private`
+- `public`
+
+### `cloud.instance.Instance`
+
+_Instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZone` | `string` | ❌ | ✅ | ✅ | Availability zone of the instance |
+| `created` | `datetime` | ❌ | ❌ | ✅ | Instance creation date |
+| `currentMonthOutgoingTraffic` | `long` | ❌ | ✅ | ✅ | Instance outgoing network traffic for the current month (in bytes) |
+| `flavor` | `cloud.flavor.Flavor` | ❌ | ✅ | ✅ | Instance flavor |
+| `flavorId` | `string` | ❌ | ❌ | ✅ | Instance flavor id |
+| `id` | `string` | ❌ | ❌ | ✅ | Instance id |
+| `image` | `cloud.image.Image` | ❌ | ✅ | ✅ | Instance image |
+| `imageId` | `string` | ❌ | ❌ | ✅ | Instance image id |
+| `ipAddresses` | `cloud.instance.IpAddress[]` | ❌ | ❌ | ✅ | Instance IP addresses |
+| `monthlyBilling` | `cloud.instance.MonthlyBilling` | ❌ | ✅ | ✅ | Instance monthly billing status |
+| `name` | `string` | ❌ | ❌ | ✅ | Instance name |
+| `operationIds` | `string[]` | ❌ | ❌ | ✅ | Ids of pending public cloud operations |
+| `planCode` | `string` | ❌ | ✅ | ✅ | Order plan code |
+| `region` | `string` | ❌ | ❌ | ✅ | Instance id |
+| `rescuePassword` | `password` | ❌ | ✅ | ✅ | Rescue password if instance is in RESCUE status |
+| `sshKey` | `cloud.sshkey.SshKeyDetail` | ❌ | ✅ | ✅ | Instance SSH key |
+| `sshKeyId` | `string` | ❌ | ✅ | ✅ | Instance ssh key id |
+| `status` | `cloud.instance.InstanceStatusEnum` | ❌ | ❌ | ✅ | Instance status |
+
+### `cloud.instance.InstanceAddress`
+
+_IP address_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ip` | ❌ | ❌ | ✅ | IP address |
+| `subnet` | `cloud.instance.InstanceAddressSubnet` | ❌ | ✅ | ✅ | Subnet of the address |
+| `type` | `cloud.instance.IPAddressTypeEnum` | ❌ | ✅ | ✅ | Address type |
+| `version` | `long` | ❌ | ❌ | ✅ | IP version |
+
+### `cloud.instance.InstanceAddressSubnet`
+
+_Subnet of the address_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gatewayIP` | `ip` | ❌ | ✅ | ✅ | Subnet gateway ip |
+| `id` | `string` | ❌ | ❌ | ✅ | Subnet id |
+| `name` | `string` | ❌ | ❌ | ✅ | Subnet name |
+| `network` | `cloud.instance.InstanceAddressSubnetNetwork` | ❌ | ❌ | ✅ | Subnet network |
+
+### `cloud.instance.InstanceAddressSubnetNetwork`
+
+_Network of the subnet_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Network id |
+| `name` | `string` | ❌ | ❌ | ✅ | Network name |
+
+### `cloud.instance.InstanceBackup`
+
+_Backups of the instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `string` | ❌ | ❌ | ✅ | backup creation date (format RFC3339) |
+| `id` | `string` | ❌ | ❌ | ✅ | Backup id |
+| `name` | `string` | ❌ | ❌ | ✅ | Backup name |
+| `region` | `string` | ❌ | ❌ | ✅ | Region of the backup |
+
+### `cloud.instance.InstanceFlavor`
+
+_Flavor of the instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Flavor id |
+| `name` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `specs` | `cloud.instance.InstanceFlavorSpecs` | ❌ | ❌ | ✅ | Flavor specs |
+
+### `cloud.instance.InstanceFlavorSpecBandwidth`
+
+_Bandwidth of the flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `private` | `cloud.instance.InstanceFlavorSpecWithUnit` | ❌ | ❌ | ✅ | Private bandwidth |
+| `public` | `cloud.instance.InstanceFlavorSpecWithUnit` | ❌ | ❌ | ✅ | Public bandwidth |
+
+### `cloud.instance.InstanceFlavorSpecWithUnit`
+
+_Spec with unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ | Spec unit |
+| `value` | `long` | ❌ | ❌ | ✅ | Spec value |
+
+### `cloud.instance.InstanceFlavorSpecs`
+
+_Specs of the flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bandwidth` | `cloud.instance.InstanceFlavorSpecBandwidth` | ❌ | ❌ | ✅ | Flavor bandwidth |
+| `cpu` | `cloud.instance.InstanceFlavorSpecWithUnit` | ❌ | ❌ | ✅ | Flavor CPU |
+| `ram` | `cloud.instance.InstanceFlavorSpecWithUnit` | ❌ | ❌ | ✅ | Flavor RAM |
+| `storage` | `cloud.instance.InstanceFlavorSpecWithUnit` | ❌ | ❌ | ✅ | Flavor storage |
+
+### `cloud.instance.InstanceImage`
+
+_Instance Image_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deprecated` | `boolean` | ❌ | ❌ | ✅ | Is image deprecated |
+| `id` | `string` | ❌ | ❌ | ✅ | Image id |
+| `name` | `string` | ❌ | ❌ | ✅ | Image name |
+
+### `cloud.instance.InstanceList`
+
+_Instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actions` | `cloud.instance.Action[]` | ❌ | ✅ | ✅ | Actions that can be done on the instance |
+| `addresses` | `cloud.instance.InstanceAddress[]` | ❌ | ❌ | ✅ | Instance IP addresses |
+| `attachedVolumes` | `cloud.instance.InstanceSummaryVolumeValue[]` | ❌ | ❌ | ✅ | Volumes attached to the instance |
+| `availabilityZone` | `string` | ❌ | ✅ | ✅ | Availability zone of the instance |
+| `backups` | `cloud.instance.InstanceBackup[]` | ❌ | ✅ | ✅ | Instance Backups |
+| `flavor` | `cloud.instance.InstanceFlavor` | ❌ | ✅ | ✅ | Instance flavor |
+| `flavorId` | `uuid` | ❌ | ❌ | ✅ | Flavor id |
+| `flavorName` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Instance id |
+| `image` | `cloud.instance.InstanceImage` | ❌ | ✅ | ✅ | Instance image |
+| `imageId` | `uuid` | ❌ | ✅ | ✅ | Image id |
+| `login` | `string` | ❌ | ✅ | ✅ | User and address to SSH to your instance |
+| `name` | `string` | ❌ | ❌ | ✅ | Instance name |
+| `pendingTask` | `boolean` | ❌ | ✅ | ✅ | A task is pending for the instance |
+| `pricings` | `cloud.instance.InstancePrice[]` | ❌ | ✅ | ✅ | Instance Price |
+| `region` | `string` | ❌ | ❌ | ✅ | Instance region |
+| `regionType` | `cloud.RegionTypeEnum` | ❌ | ❌ | ✅ | Type of the region |
+| `sshKey` | `string` | ❌ | ❌ | ✅ | Instance SSH key name |
+| `status` | `cloud.instance.InstanceStatusEnum` | ❌ | ❌ | ✅ | Instance status |
+| `taskState` | `cloud.instance.InstanceSummaryTaskStateEnum` | ❌ | ❌ | ✅ | Instance task state |
+| `volumes` | `cloud.instance.InstanceVolume[]` | ❌ | ✅ | ✅ | Instance volumes |
+
+### `cloud.instance.InstancePrice`
+
+_Price of the instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `includeVat` | `boolean` | ❌ | ❌ | ✅ | is vat included in price |
+| `price` | `order.Price` | ❌ | ❌ | ✅ | Instance price |
+| `status` | `cloud.instance.InstancePriceStatusEnum` | ❌ | ❌ | ✅ | Instance price status |
+| `type` | `cloud.instance.InstancePriceTypeEnum` | ❌ | ❌ | ✅ | Instance price type |
+
+### `cloud.instance.InstancePriceStatusEnum`
+
+_Instance price status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `enabled`
+
+### `cloud.instance.InstancePriceTypeEnum`
+
+_Instance price type_
+
+**Enum** (`enumType: string`):
+
+- `hour`
+- `licence`
+- `licenceMonth`
+- `month`
+
+### `cloud.instance.InstanceSnapshot`
+
+_InstanceSnapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `snapshotId` | `string` | ❌ | ❌ | ✅ | Snapshot ID |
+
+### `cloud.instance.InstanceStatusEnum`
+
+_InstanceStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `ACTIVE`
+- `BUILD`
+- `BUILDING`
+- `DELETED`
+- `DELETING`
+- `ERROR`
+- `HARD_REBOOT`
+- `MIGRATING`
+- `PASSWORD`
+- `PAUSED`
+- `REBOOT`
+- `REBUILD`
+- `RESCUE`
+- `RESCUED`
+- `RESCUING`
+- `RESIZE`
+- `RESIZED`
+- `RESUMING`
+- `REVERT_RESIZE`
+- `SHELVED`
+- `SHELVED_OFFLOADED`
+- `SHELVING`
+- `SHUTOFF`
+- `SNAPSHOTTING`
+- `SOFT_DELETED`
+- `STOPPED`
+- `SUSPENDED`
+- `UNKNOWN`
+- `UNRESCUING`
+- `UNSHELVING`
+- `VERIFY_RESIZE`
+
+### `cloud.instance.InstanceSummaryTaskStateEnum`
+
+_Enum values for taskState of an instance_
+
+**Enum** (`enumType: string`):
+
+- ``
+- `block_device_mapping`
+- `deleting`
+- `image_backup`
+- `image_pending_upload`
+- `image_snapshot`
+- `image_snapshot_pending`
+- `image_uploading`
+- `migrating`
+- `networking`
+- `pausing`
+- `powering-off`
+- `powering-on`
+- `reboot_pending`
+- `reboot_pending_hard`
+- `reboot_started`
+- `reboot_started_hard`
+- `reboot_starting`
+- `rebooting`
+- `rebooting_hard`
+- `rebooting_pending_hard`
+- `rebooting_started_hard`
+- `rebuild_block_device_mapping`
+- `rebuild_spawning`
+- `rebuilding`
+- `rescuing`
+- `resize_confirming`
+- `resize_finish`
+- `resize_migrated`
+- `resize_migrating`
+- `resize_prep`
+- `resize_reverting`
+- `restoring`
+- `resuming`
+- `scheduling`
+- `shelving`
+- `shelving_image_pending_upload`
+- `shelving_image_uploading`
+- `shelving_offloading`
+- `soft_deleting`
+- `spawning`
+- `starting`
+- `stopping`
+- `suspending`
+- `unknown`
+- `unpausing`
+- `unrescuing`
+- `unshelving`
+- `updating_password`
+
+### `cloud.instance.InstanceSummaryVolumeValue`
+
+_Volumes attached to your instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Volume Id |
+
+### `cloud.instance.InstanceVnc`
+
+_InstanceVnc_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `type` | `string` | ❌ | ❌ | ✅ | VNC type |
+| `url` | `string` | ❌ | ❌ | ✅ | VNC url |
+
+### `cloud.instance.InstanceVolume`
+
+_Volumes attached to your instance_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Volume id |
+| `name` | `string` | ❌ | ✅ | ✅ | Volume name |
+| `size` | `long` | ❌ | ✅ | ✅ | Volume size in GB |
+
+### `cloud.instance.IpAddress`
+
+_IpAddress_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gatewayIp` | `ip` | ❌ | ✅ | ✅ | Gateway IP |
+| `ip` | `string` | ❌ | ❌ | ✅ | Instance IP address |
+| `networkId` | `string` | ❌ | ❌ | ✅ | Network ID |
+| `type` | `string` | ❌ | ❌ | ✅ | Instance IP address type |
+| `version` | `long` | ❌ | ❌ | ✅ | IP version |
+
+### `cloud.instance.MonthlyBilling`
+
+_MonthlyBilling_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `since` | `datetime` | ❌ | ❌ | ✅ | Monthly billing activated since |
+| `status` | `cloud.instance.MonthlyBillingStatusEnum` | ❌ | ❌ | ✅ | Monthly billing status |
+
+### `cloud.instance.MonthlyBillingStatusEnum`
+
+_MonthlyBillingStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `activationPending`
+- `ok`
+
+### `cloud.instance.MonthlyInstanceBulkParams`
+
+_Instance with region to set as monthly billing_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instanceId` | `uuid` | ❌ | ❌ | ❌ | Instance id |
+| `region` | `string` | ❌ | ❌ | ❌ | Region name |
+
+### `cloud.instance.NetworkBulkParams`
+
+_NetworkBulkParams_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `networkId` | `string` | ❌ | ❌ | ❌ | Private or public network Id |
+
+### `cloud.instance.NetworkParams`
+
+_NetworkParams_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ip` | ❌ | ✅ | ❌ | Static ip (Can only be defined for private networks) |
+| `networkId` | `string` | ❌ | ❌ | ❌ | Private or public network Id |
+
+### `cloud.instance.RebootTypeEnum`
+
+_RebootTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `hard`
+- `soft`
+
+### `cloud.instance.Reinstall`
+
+_Instance reinstall input_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `imageId` | `string` | ❌ | ❌ | ❌ | Image ID |
+| `imageRegionName` | `string` | ✅ | ❌ | ❌ | Region of the image to reinstall |
+
+### `cloud.instance.RescueAdminPassword`
+
+_RescueAdminPassword_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `adminPassword` | `password` | ❌ | ✅ | ✅ | Admin password to connect to your rescue server with |
+
+### `cloud.instance.Snapshot`
+
+_Instance snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `imageId` | `string` | ❌ | ❌ | ✅ | Instance image id |
+| `operationId` | `string` | ❌ | ❌ | ✅ | Id of pending public cloud operation |
+
+### `cloud.instanceInterface.FixedIp`
+
+_FixedIp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `string` | ❌ | ❌ | ✅ | Ip |
+| `subnetId` | `string` | ❌ | ❌ | ✅ | Subnetwork Id |
+
+### `cloud.instanceInterface.Interface`
+
+_Interface_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fixedIps` | `cloud.instanceInterface.FixedIp[]` | ❌ | ❌ | ✅ | List of ips of the interface |
+| `id` | `string` | ❌ | ❌ | ✅ | Interface unique identifier |
+| `macAddress` | `string` | ❌ | ❌ | ✅ | Mac address |
+| `networkId` | `string` | ❌ | ❌ | ✅ | Network id |
+| `state` | `string` | ❌ | ❌ | ✅ | Openstack state |
+| `type` | `string` | ❌ | ❌ | ✅ | Network type |
+
+### `cloud.instancegroup.InstanceGroup`
+
+_InstanceGroup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Instance group id |
+| `instance_ids` | `string[]` | ❌ | ❌ | ✅ | Instances ids |
+| `name` | `string` | ❌ | ❌ | ✅ | Instance group name |
+| `region` | `string` | ❌ | ❌ | ✅ | region |
+| `type` | `cloud.instancegroup.InstanceGroupTypeEnum` | ❌ | ❌ | ✅ | Instance group type |
+
+### `cloud.instancegroup.InstanceGroupTypeEnum`
+
+_InstanceGroupTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `affinity`
+- `anti-affinity`
+
+### `cloud.ip.CloudIp`
+
+_CloudIp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Ip id |
+| `ip` | `ipBlock` | ❌ | ✅ | ✅ | Ip |
+| `status` | `cloud.ip.IpStatusEnum` | ❌ | ❌ | ✅ | Ip status |
+| `type` | `string` | ❌ | ❌ | ✅ | Ip type |
+
+### `cloud.ip.FailoverIp`
+
+_FailoverIp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `block` | `ipBlock` | ❌ | ✅ | ✅ | IP block |
+| `continentCode` | `string` | ❌ | ✅ | ✅ | Ip continent |
+| `geoloc` | `string` | ❌ | ✅ | ✅ | Ip location |
+| `id` | `string` | ❌ | ❌ | ✅ | Ip id |
+| `ip` | `ip` | ❌ | ✅ | ✅ | Ip |
+| `progress` | `long` | ❌ | ❌ | ✅ | Current operation progress in percent |
+| `routedTo` | `string` | ❌ | ✅ | ✅ | Instance where ip is routed to |
+| `status` | `cloud.ip.IpStatusEnum` | ❌ | ❌ | ✅ | Ip status |
+| `subType` | `cloud.ip.IpSubTypeEnum` | ❌ | ❌ | ✅ | IP sub type |
+
+### `cloud.ip.IpStatusEnum`
+
+_IpStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `ok`
+- `operationPending`
+
+### `cloud.ip.IpSubTypeEnum`
+
+_IpSubTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `cloud`
+- `ovh`
+
+### `cloud.keymanager.Certificate`
+
+_Key-manager certificate secret container_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the certificate |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the certificate |
+| `region` | `string` | ❌ | ❌ | ✅ | Certificate region |
+| `secrets` | `cloud.keymanager.SecretRef[]` | ❌ | ❌ | ✅ | List of secrets in certificate container |
+
+### `cloud.keymanager.CertificateCreate`
+
+_Input to create a certificate_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `certificate` | `password` | ✅ | ❌ | ❌ | Content of the certificate |
+| `intermediates` | `password` | ❌ | ❌ | ❌ | Content of the intermediates certificates if any |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the certificate |
+| `privateKey` | `password` | ✅ | ❌ | ❌ | Private key |
+| `privateKeyPassphrase` | `password` | ❌ | ❌ | ❌ | Private key passphrase if any |
+
+### `cloud.keymanager.Secret`
+
+_secret_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the secret |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the secret |
+| `region` | `string` | ❌ | ❌ | ✅ | Secret region |
+
+### `cloud.keymanager.SecretRef`
+
+_Secret reference_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the secret |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the secret |
+
+### `cloud.kube.Cluster`
+
+_Managed Kubernetes cluster description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `auditLogsSubscribed` | `boolean` | ❌ | ❌ | ✅ | True if cluster auditlogs forward has been subscribed |
+| `controlPlaneIsUpToDate` | `boolean` | ❌ | ❌ | ✅ | True if control-plane is up to date |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Cluster creation date |
+| `customization` | `cloud.ProjectKubeCustomization` | ❌ | ✅ | ✅ | Kubernetes cluster customization |
+| `id` | `string` | ❌ | ❌ | ✅ | Cluster ID |
+| `ipAllocationPolicy` | `cloud.ProjectKubeIpAllocationPolicy` | ❌ | ✅ | ✅ | IP allocation policy |
+| `isUpToDate` | `boolean` | ❌ | ❌ | ✅ | True if all nodes and control-plane are up to date |
+| `kubeProxyMode` | `cloud.kube.KubeProxyModeEnum` | ❌ | ✅ | ✅ | Selected mode for kube-proxy |
+| `loadBalancersSubnetId` | `uuid` | ❌ | ✅ | ✅ | OpenStack subnet ID that the load balancers will use. Optional, can be updated with endpoint /cloud/project/{serviceName}/kube/{kubeId}/updateLoadBalancersSubnetId, can only be set if privateNetworkId and nodesSubnetId are also set |
+| `name` | `string` | ❌ | ❌ | ✅ | Cluster name |
+| `nextUpgradeVersions` | `string[]` | ❌ | ✅ | ✅ | Kubernetes versions available for upgrade |
+| `nodesSubnetId` | `string` | ❌ | ✅ | ✅ | OpenStack subnet ID that the cluster nodes will use. Optional, can only be set on cluster creation or reset, can only be set if privateNetworkId is also set. If unspecified, it will be selected automatically when the first node is created. |
+| `nodesUrl` | `string` | ❌ | ❌ | ✅ | Cluster nodes URL |
+| `plan` | `string` | ❌ | ❌ | ✅ | The cluster plan |
+| `privateNetworkConfiguration` | `cloud.kube.PrivateNetworkConfiguration` | ❌ | ✅ | ✅ | The private network configuration. This field is optional. |
+| `privateNetworkId` | `string` | ❌ | ✅ | ✅ | OpenStack private network ID that the cluster will use. Optional, can only be set on cluster creation or reset. If unspecified, the cluster will use the public network. |
+| `region` | `string` | ❌ | ❌ | ✅ | Cluster region. Example: GRA11. |
+| `status` | `cloud.kube.ClusterStatusEnum` | ❌ | ❌ | ✅ | Cluster status |
+| `updatePolicy` | `string` | ❌ | ❌ | ✅ | Cluster update policy |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Cluster last update date |
+| `url` | `string` | ❌ | ❌ | ✅ | Management URL of your cluster |
+| `version` | `string` | ❌ | ❌ | ✅ | Kubernetes version of your cluster |
+
+### `cloud.kube.ClusterStatusEnum`
+
+_Enum values for Status_
+
+**Enum** (`enumType: string`):
+
+- `DELETED`
+- `DELETING`
+- `ERROR`
+- `INSTALLING`
+- `MAINTENANCE`
+- `READY`
+- `REDEPLOYING`
+- `REOPENING`
+- `RESETTING`
+- `SUSPENDED`
+- `SUSPENDING`
+- `UNKNOWN`
+- `UPDATING`
+- `USER_ERROR`
+- `USER_QUOTA_ERROR`
+- `USER_WEBHOOK_PREVENTING_OPERATIONS_ERROR`
+
+### `cloud.kube.EtcdUsage`
+
+_Etcd usage and quota for a given cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quota` | `long` | ❌ | ❌ | ✅ | Maximum allowed size of etcd data for the cluster (bytes) |
+| `usage` | `long` | ❌ | ❌ | ✅ | Size of etcd data used by the cluster (bytes) |
+
+### `cloud.kube.Flavor`
+
+_a flavor kind_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `category` | `cloud.kube.FlavorCategoryEnum` | ❌ | ❌ | ✅ | Flavor family |
+| `gpus` | `long` | ❌ | ❌ | ✅ | Number of GPUs |
+| `name` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `ram` | `long` | ❌ | ❌ | ✅ | Ram quantity (GB) |
+| `state` | `cloud.kube.FlavorStateEnum` | ❌ | ❌ | ✅ | Flavor state |
+| `vCPUs` | `long` | ❌ | ❌ | ✅ | Number of VCPUs |
+
+### `cloud.kube.FlavorCategoryEnum`
+
+_Enum values for category_
+
+**Enum** (`enumType: string`):
+
+- `a`
+- `b`
+- `c`
+- `d`
+- `g`
+- `h`
+- `i`
+- `l`
+- `r`
+- `t`
+
+### `cloud.kube.FlavorStateEnum`
+
+_Enum values for State_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `unavailable`
+
+### `cloud.kube.KubeProxyIpvsSchedulerEnum`
+
+_Enum values for scheduler parameter of cluster kubeProxy custom ipvs config_
+
+**Enum** (`enumType: string`):
+
+- `dh`
+- `lc`
+- `nq`
+- `rr`
+- `sed`
+- `sh`
+
+### `cloud.kube.KubeProxyModeEnum`
+
+_Enum values for cluster kubeProxyMode_
+
+**Enum** (`enumType: string`):
+
+- `iptables`
+- `ipvs`
+
+### `cloud.kube.Kubeconfig`
+
+_Kubeconfig description_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `content` | `password` | ❌ | ❌ | ✅ | kubeconfig file |
+
+### `cloud.kube.Node`
+
+_Node installed on your cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `deletedAt` | `datetime` | ❌ | ✅ | ✅ | Node deletion date |
+| `deployedAt` | `datetime` | ❌ | ✅ | ✅ | Node deployment date |
+| `flavor` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `id` | `string` | ❌ | ❌ | ✅ | Node ID |
+| `instanceId` | `string` | ❌ | ✅ | ✅ | Public Cloud instance id |
+| `isUpToDate` | `boolean` | ❌ | ❌ | ✅ | True if the node is up to date |
+| `name` | `string` | ❌ | ❌ | ✅ | Node name |
+| `nodePoolId` | `string` | ❌ | ❌ | ✅ | NodePool parent id |
+| `projectId` | `string` | ❌ | ❌ | ✅ | Project id |
+| `status` | `cloud.kube.NodeStatusEnum` | ❌ | ❌ | ✅ | Status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Node last update date |
+| `version` | `string` | ❌ | ❌ | ✅ | Node version |
+
+### `cloud.kube.NodePool`
+
+_NodePool created on your cluster to manage your nodes_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `antiAffinity` | `boolean` | ❌ | ❌ | ✅ | Enable anti affinity groups for nodes in the pool |
+| `attachFloatingIps` | `cloud.kube.NodePoolAttachFloatingIps` | ❌ | ✅ | ✅ | Parameters for optional node exposition via a floating IP per node |
+| `autoscale` | `boolean` | ❌ | ❌ | ✅ | Enable auto-scaling for the pool |
+| `autoscaling` | `cloud.kube.NodePoolAutoscaling` | ❌ | ❌ | ✅ | Autoscaling customization parameters |
+| `availabilityZones` | `string[]` | ❌ | ✅ | ✅ | List of availability zones where nodes will be created (only 1 zone is supported for now) |
+| `availableNodes` | `long` | ❌ | ❌ | ✅ | Number of nodes which are actually ready in the pool |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date |
+| `currentNodes` | `long` | ❌ | ❌ | ✅ | Number of nodes present in the pool |
+| `desiredNodes` | `long` | ❌ | ❌ | ✅ | Number of nodes you desire in the pool |
+| `flavor` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `id` | `string` | ❌ | ❌ | ✅ | NodePool ID |
+| `maxNodes` | `long` | ❌ | ❌ | ✅ | Number of nodes you desire in the pool |
+| `minNodes` | `long` | ❌ | ❌ | ✅ | Number of nodes you desire in the pool |
+| `monthlyBilled` | `boolean` | ❌ | ❌ | ✅ | Enable monthly billing on all nodes in the pool |
+| `name` | `string` | ❌ | ❌ | ✅ | NodePool resource name |
+| `projectId` | `string` | ❌ | ❌ | ✅ | Project id |
+| `sizeStatus` | `cloud.kube.NodePoolSizeStatusEnum` | ❌ | ❌ | ✅ | Status describing the state between number of nodes wanted and available ones |
+| `status` | `cloud.kube.NodePoolStatusEnum` | ❌ | ❌ | ✅ | Current status |
+| `template` | `cloud.kube.NodePoolTemplate` | ❌ | ❌ | ✅ | Template of nodes metadata and spec to create in the pool |
+| `upToDateNodes` | `long` | ❌ | ❌ | ✅ | Number of nodes with latest version installed in the pool |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date |
+
+### `cloud.kube.NodePoolAttachFloatingIps`
+
+_Parameters for optional node exposition via a floating IP per node_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ✅ | Enable node exposition via floating IP per node |
+
+### `cloud.kube.NodePoolAutoscaling`
+
+_Autoscaling customization parameters_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `scaleDownUnneededTimeSeconds` | `long` | ❌ | ❌ | ✅ | How long a node should be unneeded before it is eligible for scale down |
+| `scaleDownUnreadyTimeSeconds` | `long` | ❌ | ❌ | ✅ | How long an unready node should be unneeded before it is eligible for scale down |
+| `scaleDownUtilizationThreshold` | `double` | ❌ | ❌ | ✅ | Sum of cpu or memory of all pods running on the node divided by node's corresponding allocatable resource, below which a node can be considered for scale down |
+
+### `cloud.kube.NodePoolSizeStatusEnum`
+
+_Enum values for NodePool size Status_
+
+**Enum** (`enumType: string`):
+
+- `CAPACITY_OK`
+- `OVER_CAPACITY`
+- `UNDER_CAPACITY`
+
+### `cloud.kube.NodePoolStatusEnum`
+
+_Enum values for NodePool Status_
+
+**Enum** (`enumType: string`):
+
+- `DELETED`
+- `DELETING`
+- `DOWNSCALING`
+- `ERROR`
+- `INSTALLING`
+- `MAINTENANCE`
+- `READY`
+- `REDEPLOYING`
+- `REOPENING`
+- `RESETTING`
+- `SUSPENDED`
+- `SUSPENDING`
+- `UNKNOWN`
+- `UPDATING`
+- `UPSCALING`
+- `USER_ERROR`
+- `USER_NODE_NOT_FOUND_ERROR`
+- `USER_NODE_SUSPENDED_SERVICE`
+- `USER_QUOTA_ERROR`
+- `USER_WEBHOOK_PREVENTING_OPERATIONS_ERROR`
+
+### `cloud.kube.NodePoolTemplate`
+
+_Managed Kubernetes nodepool template_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `metadata` | `cloud.kube.NodePoolTemplateMetadata` | ✅ | ❌ | ❌ | Metadata of each nodes in the pool |
+| `spec` | `cloud.kube.NodePoolTemplateSpec` | ✅ | ❌ | ❌ | Spec of each nodes in the pool |
+
+### `cloud.kube.NodePoolTemplateMetadata`
+
+_Metadata of each nodes in the pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `annotations` | `map[string]string` | ✅ | ❌ | ❌ | Annotations to apply to each nodes |
+| `finalizers` | `string[]` | ✅ | ❌ | ❌ | Finalizers to apply to each nodes |
+| `labels` | `map[string]string` | ✅ | ❌ | ❌ | Labels to apply to each nodes |
+
+### `cloud.kube.NodePoolTemplateSpec`
+
+_Spec of each nodes in the pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `taints` | `cloud.kube.Taint[]` | ✅ | ❌ | ❌ | Taints to apply to each nodes |
+| `unschedulable` | `boolean` | ✅ | ❌ | ❌ | If true, set nodes as un-schedulable |
+
+### `cloud.kube.NodeStatusEnum`
+
+_Enum values for Status_
+
+**Enum** (`enumType: string`):
+
+- `DELETED`
+- `DELETING`
+- `ERROR`
+- `FLAVOR_OUT_OF_STOCK_ERROR`
+- `INSTALLING`
+- `MAINTENANCE`
+- `READY`
+- `REDEPLOYING`
+- `REOPENING`
+- `RESETTING`
+- `SUSPENDED`
+- `SUSPENDING`
+- `UNKNOWN`
+- `UPDATING`
+- `USER_ERROR`
+- `USER_NODE_NOT_FOUND_ERROR`
+- `USER_NODE_SUSPENDED_SERVICE`
+- `USER_QUOTA_ERROR`
+- `USER_WEBHOOK_PREVENTING_OPERATIONS_ERROR`
+
+### `cloud.kube.OpenIdConnect`
+
+_Managed Kubernetes oidc integration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `caContent` | `string` | ❌ | ✅ | ✅ | Content of the certificate for the CA, in base64 format, that signed your identity provider's web certificate. Defaults to the host's root CAs. |
+| `clientId` | `string` | ❌ | ❌ | ✅ | Client ID |
+| `groupsClaim` | `string[]` | ❌ | ✅ | ✅ | JWT claim to use as the user's group. If the claim is present it must be an array of strings. |
+| `groupsPrefix` | `string` | ❌ | ✅ | ✅ | Prefix prepended to group claims to prevent clashes with existing names (such as system: groups). For example, the value oidc: will create group names like oidc:engineering and oidc:infra. |
+| `issuerUrl` | `string` | ❌ | ❌ | ✅ | Issuer URL |
+| `requiredClaim` | `string[]` | ❌ | ✅ | ✅ | key=value pairs that describe required claims in the ID Token. If set, the claims are verified to be present in the ID Token with a matching value. |
+| `signingAlgorithms` | `cloud.kube.OpenIdConnectSigningAlgorithmsEnum[]` | ❌ | ✅ | ✅ | The signing algorithms accepted. Default is "RS256". |
+| `usernameClaim` | `string` | ❌ | ✅ | ✅ | JWT claim to use as the user name. By default sub, which is expected to be a unique identifier of the end user. Admins can choose other claims, such as email or name, depending on their provider. However, claims other than email will be prefixed with the issuer URL to prevent naming clashes with other plugins. |
+| `usernamePrefix` | `string` | ❌ | ✅ | ✅ | Prefix prepended to username claims to prevent clashes with existing names (such as system: users). For example, the value oidc: will create usernames like oidc:jane.doe. If this field isn't set and oidcUsernameClaim is a value other than email the prefix defaults to ( Issuer URL )# where ( Issuer URL ) is the value of oidcIssuerUrl. The value - can be used to disable all prefixing. |
+
+### `cloud.kube.OpenIdConnectSigningAlgorithmsEnum`
+
+_Enum values for OpenIdConnect signing algorithms_
+
+**Enum** (`enumType: string`):
+
+- `ES256`
+- `ES384`
+- `ES512`
+- `PS256`
+- `PS384`
+- `PS512`
+- `RS256`
+- `RS384`
+- `RS512`
+
+### `cloud.kube.PrivateNetworkConfiguration`
+
+_Managed Kubernetes cluster private networking configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `defaultVrackGateway` | `string` | ❌ | ❌ | ❌ | If defined, all egress traffic will be routed towards this IP address, which should belong to the private network. Empty string means disabled. |
+| `privateNetworkRoutingAsDefault` | `boolean` | ❌ | ✅ | ❌ | Defines whether routing should default to using the nodes' private interface, instead of their public interface. Default is false. |
+
+### `cloud.kube.ResetWorkerNodesPolicyEnum`
+
+_Enum values for worker nodes reset policy_
+
+**Enum** (`enumType: string`):
+
+- `delete`
+- `reinstall`
+
+### `cloud.kube.ResponseMessage`
+
+_A generic object for response message_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `message` | `string` | ❌ | ❌ | ✅ | The response message. |
+
+### `cloud.kube.Taint`
+
+_Kubernetes taint object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `effect` | `cloud.kube.TaintEffectEnum` | ✅ | ❌ | ❌ | The effect of the taint on pods that do not tolerate the taint. Valid effects are NoSchedule, PreferNoSchedule and NoExecute |
+| `key` | `string` | ✅ | ❌ | ❌ | The taint key to be applied to a node |
+| `value` | `string` | ✅ | ❌ | ❌ | The taint value corresponding to the taint key |
+
+### `cloud.kube.TaintEffectEnum`
+
+_Enum values for taint effects_
+
+**Enum** (`enumType: string`):
+
+- `NoExecute`
+- `NoSchedule`
+- `PreferNoSchedule`
+
+### `cloud.kube.UpdatePolicyEnum`
+
+_Enum values for UpdatePolicy_
+
+**Enum** (`enumType: string`):
+
+- `ALWAYS_UPDATE`
+- `MINIMAL_DOWNTIME`
+- `NEVER_UPDATE`
+
+### `cloud.kube.UpdateStrategyEnum`
+
+_Enum values for UpdateStrategy_
+
+**Enum** (`enumType: string`):
+
+- `LATEST_PATCH`
+- `NEXT_MINOR`
+
+### `cloud.kube.VersionEnum`
+
+_List of available versions for installation_
+
+**Enum** (`enumType: string`):
+
+- `1.31`
+- `1.32`
+- `1.33`
+- `1.34`
+- `1.35`
+
+### `cloud.loadbalancing.AssociateFloatingIp`
+
+_Parameters to associate an existing floating IP to a loadbalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `floatingIpId` | `uuid` | ✅ | ❌ | ❌ | Floating IP ID |
+| `gateway` | `cloud.network.CreateGatewaySummary` | ❌ | ✅ | ❌ | Parameters to create a gateway if required |
+| `ip` | `ip` | ✅ | ❌ | ❌ | Private loadbalancer IP to associate the floating IP with |
+
+### `cloud.loadbalancing.CreateFloatingIp`
+
+_Parameters to create a floating IP for a loadbalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gateway` | `cloud.network.CreateGatewaySummary` | ❌ | ✅ | ❌ | Parameters to create a gateway if required |
+| `ip` | `ip` | ✅ | ❌ | ❌ | Private loadbalancer IP to associate the floating IP with |
+
+### `cloud.loadbalancing.CreateListener`
+
+_Input to create a loadbalancer listener_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedCidrs` | `ipv4Block[]` | ❌ | ❌ | ❌ | The allowed CIDRs |
+| `certificateId` | `uuid` | ❌ | ❌ | ❌ | The ID of the secret containing the certificate |
+| `defaultPoolId` | `uuid` | ❌ | ❌ | ❌ | The ID of the default pool |
+| `description` | `string` | ❌ | ❌ | ❌ | The description of the listener |
+| `loadbalancerId` | `uuid` | ✅ | ❌ | ❌ | The ID of the loadbalancer |
+| `name` | `string` | ✅ | ❌ | ❌ | The name of the listener |
+| `port` | `long` | ✅ | ❌ | ❌ | Port to listen on |
+| `protocol` | `cloud.loadbalancing.ListenerProtocolEnum` | ✅ | ❌ | ❌ | Protocol of the listener |
+| `timeoutClientData` | `long` | ❌ | ❌ | ❌ | Timeout client data of the listener |
+| `timeoutMemberData` | `long` | ❌ | ❌ | ❌ | Timeout member data of the listener |
+| `tlsVersions` | `cloud.loadbalancing.ListenerTlsVersionEnum[]` | ❌ | ❌ | ❌ | TLS versions of the listener |
+
+### `cloud.loadbalancing.EditListener`
+
+_Edit a loadbalancer listener_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedCidrs` | `ipv4Block[]` | ❌ | ❌ | ❌ | The allowed CIDRs |
+| `certificateId` | `string` | ❌ | ❌ | ❌ | ID of the secret containing the certificate |
+| `defaultPoolId` | `uuid` | ❌ | ❌ | ❌ | ID of the default pool |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the listener |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the listener |
+
+### `cloud.loadbalancing.Flavor`
+
+_Flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Flavor id |
+| `name` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `region` | `string` | ❌ | ❌ | ✅ | Region name |
+
+### `cloud.loadbalancing.HealthMonitor`
+
+_HealthMonitor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `delay` | `long` | ✅ | ❌ | ❌ | Duration between sending probes to members, in seconds |
+| `httpConfiguration` | `cloud.loadbalancing.HealthMonitorHTTPConfiguration` | ❌ | ✅ | ❌ | Monitor HTTP configuration |
+| `id` | `uuid` | ❌ | ❌ | ✅ | The ID of the pool |
+| `maxRetries` | `long` | ✅ | ❌ | ❌ | Number of successful checks before changing the operating status of the member to ONLINE |
+| `maxRetriesDown` | `long` | ❌ | ✅ | ❌ | Number of allowed check failures before changing the operating status of the member to ERROR |
+| `monitorType` | `cloud.loadbalancing.LoadBalancerHealthMonitorTypeEnum` | ✅ | ❌ | ❌ | Type of the monitor |
+| `name` | `string` | ✅ | ❌ | ❌ | The name of the resource |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | The operating status of the resource |
+| `poolId` | `uuid` | ✅ | ❌ | ❌ | The ID of the pool |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | The provisioning status of the resource |
+| `timeout` | `long` | ✅ | ❌ | ❌ | Maximum time, in seconds, that a monitor waits to connect before it times out. This value must be less than the delay value |
+
+### `cloud.loadbalancing.HealthMonitorCreate`
+
+_Create a health monitor on loadbalancer creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `delay` | `long` | ✅ | ❌ | ❌ | Duration between sending probes to members, in seconds |
+| `httpConfiguration` | `cloud.loadbalancing.HealthMonitorHTTPConfiguration` | ❌ | ✅ | ❌ | Monitor HTTP configuration |
+| `maxRetries` | `long` | ✅ | ❌ | ❌ | Number of successful checks before changing the operating status of the member to ONLINE |
+| `maxRetriesDown` | `long` | ❌ | ✅ | ❌ | Number of allowed check failures before changing the operating status of the member to ERROR |
+| `monitorType` | `cloud.loadbalancing.LoadBalancerHealthMonitorTypeEnum` | ✅ | ❌ | ❌ | Type of the monitor |
+| `name` | `string` | ✅ | ❌ | ❌ | The name of the resource |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | The operating status of the resource |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | The provisioning status of the resource |
+| `timeout` | `long` | ✅ | ❌ | ❌ | Maximum time, in seconds, that a monitor waits to connect before it times out. This value must be less than the delay value |
+
+### `cloud.loadbalancing.HealthMonitorHTTPConfiguration`
+
+_HTTP configuration for loadbalancer health monitor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `domainName` | `string` | ❌ | ❌ | ❌ | Domain name, which be injected into the HTTP Host Header to the backend server for HTTP health check |
+| `expectedCodes` | `string` | ❌ | ❌ | ❌ | Status codes expected in response from the member to declare it healthy; The list of HTTP status codes expected in response from the member to declare it healthy. Specify one of the following values: * A single value, such as 200; * A list, such as 200, 202; * A range, such as 200-204 |
+| `httpMethod` | `cloud.loadbalancing.LoadBalancerHealthMonitorHTTPMethodEnum` | ✅ | ❌ | ❌ | HTTP method that the health monitor uses for requests |
+| `httpVersion` | `cloud.loadbalancing.LoadBalancerHealthMonitorHTTPVersionEnum` | ❌ | ✅ | ❌ | HTTP version that the health monitor uses for requests |
+| `urlPath` | `string` | ❌ | ❌ | ❌ | HTTP URL path of the request sent by the monitor to test the health of a backend member |
+
+### `cloud.loadbalancing.L7Policy`
+
+_L7 policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `cloud.loadbalancing.L7PolicyActionEnum` | ✅ | ❌ | ❌ | The L7 policy action |
+| `description` | `string` | ❌ | ❌ | ❌ | A human-readable description for the resource |
+| `id` | `uuid` | ❌ | ❌ | ✅ |  |
+| `listenerId` | `uuid` | ✅ | ❌ | ❌ | The ID of the listener. |
+| `name` | `string` | ❌ | ❌ | ❌ | Human-readable name of the resource |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | Operating status of the resource |
+| `position` | `long` | ❌ | ❌ | ❌ | The position of this policy on the listener. Positions start at 1 |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | provisioning status of the resource |
+| `redirectHttpCode` | `cloud.loadbalancing.L7PolicyRedirectHTTPCodeEnum` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to the specified URL or Prefix URL with the HTTP response code. Valid if action is "redirect_to" or "redirect_prefix" |
+| `redirectPoolId` | `uuid` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to the pool with this ID. Only valid if action is "redirect_to_pool" |
+| `redirectPrefix` | `string` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to this Prefix URL. Only valid if action is "redirect_prefix" |
+| `redirectUrl` | `string` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to this URL. Only valid if action is "redirect_to_url" |
+
+### `cloud.loadbalancing.L7PolicyActionEnum`
+
+_Loadbalancer L7 policy_
+
+**Enum** (`enumType: string`):
+
+- `redirectPrefix`
+- `redirectToPool`
+- `redirectToURL`
+- `reject`
+
+### `cloud.loadbalancing.L7PolicyRedirectHTTPCodeEnum`
+
+_Loadbalancer L7 policy redirect HTTP code_
+
+**Enum** (`enumType: long`):
+
+- `301`
+- `302`
+- `303`
+- `307`
+- `308`
+
+### `cloud.loadbalancing.L7PolicyUpdate`
+
+_L7 policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `cloud.loadbalancing.L7PolicyActionEnum` | ✅ | ❌ | ❌ | The L7 policy action |
+| `description` | `string` | ❌ | ❌ | ❌ | A human-readable description for the resource |
+| `listenerId` | `uuid` | ❌ | ❌ | ❌ | The ID of the listener. |
+| `name` | `string` | ❌ | ❌ | ❌ | Human-readable name of the resource |
+| `position` | `long` | ❌ | ❌ | ❌ | The position of this policy on the listener. Positions start at 1 |
+| `redirectHttpCode` | `long` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to the specified URL or Prefix URL with the HTTP response code. Valid if action is "redirect_to" or "redirect_prefix" |
+| `redirectPoolId` | `uuid` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to the pool with this ID. Only valid if action is "redirect_to_pool" |
+| `redirectPrefix` | `string` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to this Prefix URL. Only valid if action is "redirect_prefix" |
+| `redirectUrl` | `string` | ❌ | ✅ | ❌ | Requests matching this policy will be redirected to this URL. Only valid if action is "redirect_to_url" |
+
+### `cloud.loadbalancing.L7Rule`
+
+_L7 rule_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `compareType` | `cloud.loadbalancing.L7RuleCompareTypeEnum` | ✅ | ❌ | ❌ | The comparison type for the L7 rule |
+| `id` | `uuid` | ❌ | ❌ | ✅ | The ID of the L7 rule |
+| `invert` | `boolean` | ❌ | ❌ | ❌ | When true the logic of the rule is inverted. For example, with invert set to true, equal to would become not equal to |
+| `key` | `string` | ❌ | ❌ | ❌ | The key to use for the comparison. For example, the name of the cookie to evaluate |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | Operating status of the resource |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | provisioning status of the resource |
+| `ruleType` | `cloud.loadbalancing.L7RuleTypeEnum` | ✅ | ❌ | ❌ | The L7 rule type |
+| `value` | `string` | ✅ | ❌ | ❌ | The value to use for the comparison. For example, the file type to compare |
+
+### `cloud.loadbalancing.L7RuleCompareTypeEnum`
+
+_Loadbalancer L7 rule compare type_
+
+**Enum** (`enumType: string`):
+
+- `contains`
+- `endsWith`
+- `equalTo`
+- `regex`
+- `startsWith`
+
+### `cloud.loadbalancing.L7RuleTypeEnum`
+
+_Loadbalancer L7 rule type_
+
+**Enum** (`enumType: string`):
+
+- `cookie`
+- `fileType`
+- `header`
+- `hostName`
+- `path`
+- `sslConnHasCert`
+- `sslDNField`
+- `sslVerifyResult`
+
+### `cloud.loadbalancing.Listener`
+
+_Listener_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedCidrs` | `ipv4Block[]` | ❌ | ✅ | ✅ | The allowed CIDRs |
+| `certificateId` | `uuid` | ❌ | ✅ | ✅ | The ID of the secret containing the certificate |
+| `defaultPoolId` | `uuid` | ❌ | ✅ | ✅ | The ID of the default pool |
+| `description` | `string` | ❌ | ✅ | ✅ | Description of the listener |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the resource |
+| `loadBalancerIds` | `uuid[]` | ❌ | ❌ | ✅ | A list of load balancer IDs |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the resource |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | Operating status of the listener |
+| `port` | `long` | ❌ | ❌ | ✅ | Port to listen on |
+| `protocol` | `cloud.loadbalancing.ListenerProtocolEnum` | ❌ | ❌ | ✅ | Protocol of the listener |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | Provisioning status of the listener |
+| `timeoutClientData` | `long` | ❌ | ✅ | ✅ | Timeout client data of the listener |
+| `timeoutMemberData` | `long` | ❌ | ✅ | ✅ | Timeout member data of the listener |
+| `tlsVersions` | `cloud.loadbalancing.ListenerTlsVersionEnum[]` | ❌ | ✅ | ✅ | TLS versions of the listener |
+
+### `cloud.loadbalancing.ListenerProtocolEnum`
+
+_Loadbalancer listener protocol_
+
+**Enum** (`enumType: string`):
+
+- `http`
+- `https`
+- `prometheus`
+- `sctp`
+- `tcp`
+- `terminatedHTTPS`
+- `udp`
+
+### `cloud.loadbalancing.ListenerTlsVersionEnum`
+
+_Loadbalancer listener TLS versions_
+
+**Enum** (`enumType: string`):
+
+- `SSLv3`
+- `TLSv1`
+- `TLSv1.1`
+- `TLSv1.2`
+- `TLSv1.3`
+
+### `cloud.loadbalancing.LoadBalancer`
+
+_LoadBalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The UTC date and timestamp when the resource was created |
+| `flavorId` | `uuid` | ❌ | ❌ | ✅ | ID of the flavor |
+| `floatingIp` | `cloud.loadbalancing.LoadBalancer.FloatingIp` | ❌ | ✅ | ✅ | Information about floating IP |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the resource |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the resource |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | Operating status of the resource |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | Provisioning status of the resource |
+| `region` | `string` | ❌ | ❌ | ✅ | Region of the resource |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | UTC date and timestamp when the resource was created |
+| `vipAddress` | `ip` | ❌ | ❌ | ✅ | IP address of the Virtual IP |
+| `vipNetworkId` | `uuid` | ❌ | ❌ | ✅ | Openstack ID of the network for the Virtual IP |
+| `vipSubnetId` | `uuid` | ❌ | ❌ | ✅ | ID of the subnet for the Virtual IP |
+
+### `cloud.loadbalancing.LoadBalancer.FloatingIp`
+
+_LoadBalancerFloatingIp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the resource |
+| `ip` | `ip` | ❌ | ❌ | ✅ | IP Address of the resource |
+
+### `cloud.loadbalancing.LoadBalancerHealthMonitorHTTPMethodEnum`
+
+_Load balancer Healthmonitor HTTP Method_
+
+**Enum** (`enumType: string`):
+
+- `CONNECT`
+- `DELETE`
+- `GET`
+- `HEAD`
+- `OPTIONS`
+- `PATCH`
+- `POST`
+- `PUT`
+- `TRACE`
+
+### `cloud.loadbalancing.LoadBalancerHealthMonitorHTTPVersionEnum`
+
+_Load balancer Healthmonitor HTTP Version_
+
+**Enum** (`enumType: string`):
+
+- `1.0`
+- `1.1`
+
+### `cloud.loadbalancing.LoadBalancerHealthMonitorTypeEnum`
+
+_Load balancer Healthmonitor type_
+
+**Enum** (`enumType: string`):
+
+- `http`
+- `https`
+- `ping`
+- `sctp`
+- `tcp`
+- `tls-hello`
+- `udp-connect`
+
+### `cloud.loadbalancing.LoadBalancerOperatingStatusEnum`
+
+_Load balancer operating status_
+
+**Enum** (`enumType: string`):
+
+- `degraded`
+- `draining`
+- `error`
+- `noMonitor`
+- `offline`
+- `online`
+
+### `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum`
+
+_Load balancer provisioning status_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `creating`
+- `deleted`
+- `deleting`
+- `error`
+- `updating`
+
+### `cloud.loadbalancing.Loadbalancer.CreateInput`
+
+_Create a loadbalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `flavorId` | `uuid` | ✅ | ❌ | ❌ | Loadbalancer flavor id |
+| `listeners` | `cloud.loadbalancing.loadbalancer.ListenerCreate[]` | ❌ | ❌ | ❌ | Listeners to create with the loadbalancer |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the member |
+| `network` | `cloud.loadbalancing.loadbalancer.CreateInput.Network` | ✅ | ❌ | ❌ | Network information to create the loadbalancer |
+
+### `cloud.loadbalancing.LoadbalancerEdit`
+
+_Edit a loadbalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the loadbalancer |
+| `flavorId` | `uuid` | ❌ | ❌ | ❌ | Loadbalancer new flavor id |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the member |
+
+### `cloud.loadbalancing.Pool`
+
+_Pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `algorithm` | `cloud.loadbalancing.PoolAlgorithmEnum` | ❌ | ❌ | ✅ | Algorithm of the pool |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the resource |
+| `listenerId` | `uuid` | ❌ | ✅ | ✅ | ID of the listener |
+| `loadbalancerId` | `uuid` | ❌ | ❌ | ✅ | ID of the loadbalancer |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the resource |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | Operating status of the resource |
+| `protocol` | `cloud.loadbalancing.PoolProtocolEnum` | ❌ | ❌ | ✅ | Protocol of the pool |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | Provisioning status of the resource |
+| `sessionPersistence` | `cloud.loadbalancing.PoolSessionPersistence` | ❌ | ✅ | ✅ | Information about session persistence |
+
+### `cloud.loadbalancing.PoolAlgorithmEnum`
+
+_Pool algorithm_
+
+**Enum** (`enumType: string`):
+
+- `leastConnections`
+- `roundRobin`
+- `sourceIP`
+
+### `cloud.loadbalancing.PoolCreate`
+
+_Pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `algorithm` | `cloud.loadbalancing.PoolAlgorithmEnum` | ✅ | ❌ | ❌ | Algorithm of the pool |
+| `listenerId` | `uuid` | ❌ | ❌ | ❌ | ID of the listener |
+| `loadbalancerId` | `uuid` | ❌ | ❌ | ❌ | ID of the loadbalancer |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the resource |
+| `protocol` | `cloud.loadbalancing.PoolProtocolEnum` | ✅ | ❌ | ❌ | Protocol of the pool |
+| `sessionPersistence` | `cloud.loadbalancing.PoolSessionPersistence` | ❌ | ✅ | ❌ | Information about session persistence |
+
+### `cloud.loadbalancing.PoolProtocolEnum`
+
+_Pool protocol_
+
+**Enum** (`enumType: string`):
+
+- `http`
+- `https`
+- `proxy`
+- `proxyV2`
+- `sctp`
+- `tcp`
+- `udp`
+
+### `cloud.loadbalancing.PoolSessionPersistence`
+
+_PoolSessionPersistence_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cookieName` | `string` | ❌ | ❌ | ❌ | Cookie name, only applicable to session persistence through cookie |
+| `type` | `cloud.loadbalancing.PoolSessionPersistenceTypeEnum` | ❌ | ❌ | ❌ | Type of session persistence |
+
+### `cloud.loadbalancing.PoolSessionPersistenceTypeEnum`
+
+_Pool session persistence type_
+
+**Enum** (`enumType: string`):
+
+- `appCookie`
+- `disabled`
+- `httpCookie`
+- `sourceIP`
+
+### `cloud.loadbalancing.PoolUpdate`
+
+_Parameters to update a load balancer pool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `algorithm` | `cloud.loadbalancing.PoolAlgorithmEnum` | ❌ | ✅ | ❌ | Algorithm of the pool |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the resource |
+| `sessionPersistence` | `cloud.loadbalancing.PoolSessionPersistence` | ❌ | ✅ | ❌ |  |
+
+### `cloud.loadbalancing.UpdateHealthMonitor`
+
+_Health monitor for LoadBalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `delay` | `long` | ❌ | ❌ | ❌ | Duration between sending probes to members, in seconds |
+| `httpConfiguration` | `cloud.loadbalancing.HealthMonitorHTTPConfiguration` | ❌ | ❌ | ❌ | Monitor HTTP configuration |
+| `maxRetries` | `long` | ❌ | ❌ | ❌ | Number of successful checks before changing the operating status of the member to ONLINE |
+| `maxRetriesDown` | `long` | ❌ | ❌ | ❌ | Number of allowed check failures before changing the operating status of the member to ERROR |
+| `name` | `string` | ❌ | ❌ | ❌ | The name of the resource |
+| `timeout` | `long` | ❌ | ❌ | ❌ | Maximum time, in seconds, that a monitor waits to connect before it times out. This value must be less than the delay value |
+
+### `cloud.loadbalancing.loadbalancer.CreateInput.Network`
+
+_Network information to create a loadbalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `private` | `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private` | ✅ | ❌ | ❌ | Information to private network |
+
+### `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private`
+
+_Network information to create a loadbalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `floatingIp` | `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.FloatingIp` | ❌ | ❌ | ❌ | Floating IP to associate |
+| `floatingIpCreate` | `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.FloatingIpCreate` | ❌ | ❌ | ❌ | Floating IP to create |
+| `gateway` | `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.Gateway` | ❌ | ❌ | ❌ | Gateway to associate |
+| `gatewayCreate` | `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.GatewayCreate` | ❌ | ❌ | ❌ | Gateway to create |
+| `network` | `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.Network` | ✅ | ❌ | ❌ | Network to associate |
+
+### `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.FloatingIp`
+
+_Information to attach floatingIp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ✅ | ❌ | ❌ | ID of the floatingIp |
+
+### `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.FloatingIpCreate`
+
+_Information to create floatingIp_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ✅ | ❌ | ❌ | Description for the floatingIp |
+
+### `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.Gateway`
+
+_Information to attach Gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ✅ | ❌ | ❌ | ID of the gateway |
+
+### `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.GatewayCreate`
+
+_Information to create a Gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `model` | `cloud.network.GatewayModelEnum` | ✅ | ❌ | ❌ | Model of the gateway |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the gateway |
+
+### `cloud.loadbalancing.loadbalancer.CreateInput.Network.Private.Network`
+
+_Network information to associate a network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ✅ | ❌ | ❌ | Private network ID |
+| `subnetId` | `uuid` | ✅ | ❌ | ❌ | Subnet ID |
+
+### `cloud.loadbalancing.loadbalancer.ListenerCreate`
+
+_Create a listener on loadbalancer creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allowedCidrs` | `ipv4Block[]` | ❌ | ❌ | ❌ | The allowed CIDRs |
+| `description` | `string` | ❌ | ❌ | ❌ | The description of the listener |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the listener |
+| `pool` | `cloud.loadbalancing.loadbalancer.PoolCreate` | ❌ | ❌ | ❌ | Listener pool |
+| `port` | `long` | ✅ | ❌ | ❌ | Listener port |
+| `protocol` | `cloud.loadbalancing.ListenerProtocolEnum` | ✅ | ❌ | ❌ | Protocol for the listener |
+| `secretId` | `uuid` | ❌ | ❌ | ❌ | Secret ID to get certificate for SSL listener creation |
+| `timeoutClientData` | `long` | ❌ | ❌ | ❌ | Timeout client data of the listener |
+| `timeoutMemberData` | `long` | ❌ | ❌ | ❌ | Timeout member data of the listener |
+| `tlsVersions` | `cloud.loadbalancing.ListenerTlsVersionEnum[]` | ❌ | ❌ | ❌ | TLS versions of the listener |
+
+### `cloud.loadbalancing.loadbalancer.MemberCreate`
+
+_Create a member on loadbalancer creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `ip` | ✅ | ❌ | ❌ | IP address of the resource |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the member |
+| `protocolPort` | `long` | ✅ | ❌ | ❌ | Protocol port number for the resource |
+| `weight` | `long` | ❌ | ✅ | ❌ | Weight of a member determines the portion of requests or connections it services compared to the other members of the pool. Between 1 and 256. |
+
+### `cloud.loadbalancing.loadbalancer.PoolCreate`
+
+_Create a pool on loadbalancer creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `algorithm` | `cloud.loadbalancing.PoolAlgorithmEnum` | ✅ | ❌ | ❌ | Pool algorithm to split traffic between members |
+| `healthMonitor` | `cloud.loadbalancing.HealthMonitorCreate` | ❌ | ✅ | ❌ | Pool health monitor |
+| `members` | `cloud.loadbalancing.loadbalancer.MemberCreate[]` | ❌ | ❌ | ❌ | Pool members |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the pool |
+| `protocol` | `cloud.loadbalancing.PoolProtocolEnum` | ✅ | ❌ | ❌ | Protocol for the pool |
+| `sessionPersistence` | `cloud.loadbalancing.PoolSessionPersistence` | ❌ | ❌ | ❌ | Pool session persistence |
+
+### `cloud.loadbalancing.loadbalancer.Stats`
+
+_Loadbalancer statistics_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `activeConnections` | `long` | ❌ | ❌ | ✅ | Number of currently active connections |
+| `bytesIn` | `long` | ❌ | ❌ | ✅ | Total bytes received |
+| `bytesOut` | `long` | ❌ | ❌ | ✅ | Total bytes sent |
+| `requestErrors` | `long` | ❌ | ❌ | ✅ | Total requests that were unable to be fulfilled |
+| `totalConnections` | `long` | ❌ | ❌ | ✅ | Total connections handled |
+
+### `cloud.loadbalancing.pool.CreateMembers`
+
+_Pool Members_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `members` | `cloud.loadbalancing.pool.Member[]` | ✅ | ❌ | ❌ | Members of a pool |
+
+### `cloud.loadbalancing.pool.Member`
+
+_Member_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `ip` | ✅ | ❌ | ❌ | IP address of the resource |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the resource |
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the resource |
+| `operatingStatus` | `cloud.loadbalancing.LoadBalancerOperatingStatusEnum` | ❌ | ❌ | ✅ | Operating status of the resource |
+| `protocolPort` | `long` | ✅ | ❌ | ❌ | Protocol port number for the resource |
+| `provisioningStatus` | `cloud.loadbalancing.LoadBalancerProvisioningStatusEnum` | ❌ | ❌ | ✅ | Provisioning status of the resource |
+| `weight` | `long` | ❌ | ✅ | ❌ | Weight of a member determines the portion of requests or connections it services compared to the other members of the pool |
+
+### `cloud.loadbalancing.pool.MemberUpdate`
+
+_Parameters to update a pool member_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the resource |
+| `weight` | `long` | ❌ | ✅ | ❌ | Weight of a member determines the portion of requests or connections it services compared to the other members of the pool |
+
+### `cloud.network.CreateGateway`
+
+_Input to create a gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `model` | `cloud.network.GatewayModelEnum` | ✅ | ❌ | ❌ | Model of the gateway |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the gateway |
+| `network` | `cloud.network.CreateNetworkForGatewaySummary` | ✅ | ❌ | ❌ | Information to create the network for the gateway |
+
+### `cloud.network.CreateGatewaySummary`
+
+_Parameters to create a gateway from another resource creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `model` | `cloud.network.GatewayModelEnum` | ✅ | ❌ | ❌ | Model of the gateway |
+| `name` | `string` | ✅ | ❌ | ❌ | Gateway name |
+
+### `cloud.network.CreateNetwork`
+
+_Parameters to create a network with a gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gateway` | `cloud.network.CreateGatewaySummary` | ❌ | ✅ | ❌ |  |
+| `name` | `string` | ✅ | ❌ | ❌ | Network name |
+| `subnet` | `cloud.network.CreateSubnetSummary` | ❌ | ✅ | ❌ |  |
+| `vlanId` | `long` | ❌ | ❌ | ❌ | VLAN id, between 1 and 4095 |
+
+### `cloud.network.CreateNetworkForGatewaySummary`
+
+_Parameters to create a network from another resource creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the network |
+| `subnet` | `cloud.network.CreateSubnetForGatewaySummary` | ✅ | ❌ | ❌ | Subnet of the network |
+| `vlanId` | `long` | ❌ | ❌ | ❌ | VLAN id, between 1 and 4095 |
+
+### `cloud.network.CreateSubnet`
+
+_Parameters to create a subnet_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allocationPools` | `cloud.project.AllocationPool[]` | ❌ | ❌ | ❌ | List of ip pools allocated in subnet |
+| `cidr` | `ipBlock` | ✅ | ❌ | ❌ | Subnet range in CIDR notation |
+| `dnsNameServers` | `ip[]` | ❌ | ❌ | ❌ | DNS nameservers |
+| `enableDhcp` | `boolean` | ✅ | ❌ | ❌ | Enable DHCP for the subnet |
+| `enableGatewayIp` | `boolean` | ✅ | ❌ | ❌ | Set a gateway IP for the subnet |
+| `gatewayIp` | `ip` | ❌ | ❌ | ❌ | Gateway IP |
+| `hostRoutes` | `cloud.network.HostRoute[]` | ❌ | ❌ | ❌ | Host routes |
+| `ipVersion` | `long` | ✅ | ❌ | ❌ | IP version |
+| `name` | `string` | ✅ | ❌ | ❌ | Subnet name |
+| `useDefaultPublicDNSResolver` | `boolean` | ❌ | ✅ | ❌ | Use default DNS |
+
+### `cloud.network.CreateSubnetForGatewaySummary`
+
+_Parameters to create a subnet from another resource creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allocationPools` | `cloud.project.AllocationPool[]` | ❌ | ❌ | ❌ | List of ip pools allocated in subnet |
+| `cidr` | `ipBlock` | ✅ | ❌ | ❌ | Subnet range in CIDR notation |
+| `dnsNameServers` | `ip[]` | ❌ | ❌ | ❌ | DNS nameservers |
+| `enableDhcp` | `boolean` | ✅ | ❌ | ❌ | Enable DHCP for the subnet |
+| `gatewayIp` | `ip` | ❌ | ❌ | ❌ | Gateway IP |
+| `hostRoutes` | `cloud.network.HostRoute[]` | ❌ | ❌ | ❌ | Host routes |
+| `ipVersion` | `long` | ✅ | ❌ | ❌ | IP version |
+| `name` | `string` | ❌ | ❌ | ❌ | Subnet name |
+| `useDefaultPublicDNSResolver` | `boolean` | ❌ | ✅ | ❌ | Use default DNS |
+
+### `cloud.network.CreateSubnetSummary`
+
+_Parameters to create a subnet from another resource creation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allocationPools` | `cloud.project.AllocationPool[]` | ❌ | ❌ | ❌ | List of ip pools allocated in subnet |
+| `cidr` | `ipBlock` | ✅ | ❌ | ❌ | Subnet range in CIDR notation |
+| `dnsNameServers` | `ip[]` | ❌ | ❌ | ❌ | DNS nameservers |
+| `enableDhcp` | `boolean` | ✅ | ❌ | ❌ | Enable DHCP for the subnet |
+| `enableGatewayIp` | `boolean` | ✅ | ❌ | ❌ | Set a gateway ip for the subnet |
+| `gatewayIp` | `ip` | ❌ | ❌ | ❌ | Gateway IP |
+| `hostRoutes` | `cloud.network.HostRoute[]` | ❌ | ❌ | ❌ | Host routes |
+| `ipVersion` | `long` | ✅ | ❌ | ❌ | IP version |
+| `name` | `string` | ❌ | ❌ | ❌ | Subnet name |
+| `useDefaultPublicDNSResolver` | `boolean` | ❌ | ✅ | ❌ | Use default DNS |
+
+### `cloud.network.Gateway`
+
+_Gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `externalInformation` | `cloud.network.gateway.ExternalInformation` | ❌ | ✅ | ✅ | External information |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the gateway |
+| `interfaces` | `cloud.network.gateway.Interface[]` | ❌ | ❌ | ✅ | Interfaces list of the gateway |
+| `model` | `cloud.network.GatewayModelEnum` | ❌ | ❌ | ✅ | Model of the gateway |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the gateway |
+| `region` | `string` | ❌ | ❌ | ✅ | Gateway region |
+| `status` | `cloud.network.GatewayStatusEnum` | ❌ | ❌ | ✅ | Status of the gateway |
+| `type` | `cloud.project.gateway.TypeEnum` | ❌ | ❌ | ✅ | Type fo the gateway |
+
+### `cloud.network.GatewayModelEnum`
+
+_GatewayModelEnum_
+
+**Enum** (`enumType: string`):
+
+- `2xl`
+- `3xl`
+- `l`
+- `m`
+- `s`
+- `xl`
+
+### `cloud.network.GatewayStatusEnum`
+
+_GatewayStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `building`
+- `down`
+- `error`
+
+### `cloud.network.HostRoute`
+
+_HostRoute_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `destination` | `ipBlock` | ❌ | ❌ | ❌ | Host route destination (eg: 192.168.1.0/24) |
+| `nextHop` | `ip` | ❌ | ❌ | ❌ | Host route next hop (eg: 192.168.1.254) |
+
+### `cloud.network.IPPool`
+
+_IPPool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dhcp` | `boolean` | ❌ | ❌ | ✅ | Enable DHCP |
+| `end` | `ip` | ❌ | ❌ | ✅ | Last IP for this region (eg: 192.168.1.24) |
+| `network` | `ipBlock` | ❌ | ❌ | ✅ | Global network with cidr (eg: 192.168.1.0/24) |
+| `region` | `string` | ❌ | ❌ | ✅ | Region where this subnet will be created |
+| `start` | `ip` | ❌ | ❌ | ✅ | First IP for this region (eg: 192.168.1.12) |
+
+### `cloud.network.Network`
+
+_Network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Network id |
+| `name` | `string` | ❌ | ❌ | ✅ | Network name |
+| `regions` | `cloud.network.NetworkRegion[]` | ❌ | ❌ | ✅ | Details about private network in region |
+| `status` | `cloud.network.NetworkStatusEnum` | ❌ | ❌ | ✅ | Network status |
+| `type` | `cloud.network.NetworkTypeEnum` | ❌ | ✅ | ✅ | Network type |
+| `vlanId` | `long` | ❌ | ❌ | ✅ | Network VLAN id |
+
+### `cloud.network.NetworkRegion`
+
+_NetworkRegion_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `openstackId` | `string` | ❌ | ✅ | ✅ | Network id on openstack region |
+| `region` | `string` | ❌ | ❌ | ✅ | Network region |
+| `status` | `cloud.network.NetworkRegionStatusEnum` | ❌ | ❌ | ✅ | Network region status |
+
+### `cloud.network.NetworkRegionStatusEnum`
+
+_NetworkRegionStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `ACTIVE`
+- `BUILDING`
+
+### `cloud.network.NetworkStatusEnum`
+
+_NetworkStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `ACTIVE`
+- `BUILDING`
+- `DELETING`
+- `ERROR`
+
+### `cloud.network.NetworkTypeEnum`
+
+_NetworkTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `private`
+- `public`
+
+### `cloud.network.NetworkVisibilityEnum`
+
+_NetworkVisibilityEnum_
+
+**Enum** (`enumType: string`):
+
+- `private`
+- `public`
+
+### `cloud.network.Subnet`
+
+_Subnet_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cidr` | `ipBlock` | ❌ | ❌ | ✅ | Subnet CIDR |
+| `dhcpEnabled` | `boolean` | ❌ | ❌ | ✅ | Is DHCP enabled for the subnet |
+| `gatewayIp` | `ip` | ❌ | ✅ | ✅ | Gateway IP in the subnet |
+| `id` | `string` | ❌ | ❌ | ✅ | Subnet id |
+| `ipPools` | `cloud.network.IPPool[]` | ❌ | ❌ | ✅ | List of ip pools allocated in subnet |
+
+### `cloud.network.UpdateGateway`
+
+_Input to update a gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `model` | `cloud.network.GatewayModelEnum` | ✅ | ❌ | ❌ | Model of the gateway |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the gateway |
+
+### `cloud.network.gateway.CreateInterface`
+
+_Input to create a new interface for a gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `subnetId` | `uuid` | ✅ | ❌ | ❌ | Subnet id to add |
+
+### `cloud.network.gateway.ExternalInformation`
+
+_External information of the gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ips` | `cloud.network.gateway.IpSubnet[]` | ❌ | ❌ | ✅ | External ips of the gateway |
+| `networkId` | `uuid` | ❌ | ❌ | ✅ | External network ID of the gateway |
+| `snatEnabled` | `boolean` | ❌ | ❌ | ✅ | SNAT enabled for the gateway |
+
+### `cloud.network.gateway.Interface`
+
+_Interface of the gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the interface |
+| `ip` | `ip` | ❌ | ❌ | ✅ | IP of the interface |
+| `networkId` | `uuid` | ❌ | ❌ | ✅ | Network ID of the interface |
+| `subnet` | `cloud.network.gateway.Subnet` | ❌ | ✅ | ✅ | Gateway subnet |
+| `subnetId` | `uuid` | ❌ | ❌ | ✅ | Subnet ID of the interface |
+
+### `cloud.network.gateway.IpSubnet`
+
+_IP and subnet information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ip` | ❌ | ❌ | ✅ | External IP of the gateway |
+| `subnetId` | `uuid` | ❌ | ❌ | ✅ | Subnet ID of the ip |
+
+### `cloud.network.gateway.Subnet`
+
+_Subnet attached to gateway_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cidr` | `ipBlock` | ❌ | ❌ | ✅ | Cidr of the subnet |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Subnet id |
+| `name` | `string` | ❌ | ❌ | ✅ | Subnet name |
+
+### `cloud.order.Order`
+
+_Cloud Order_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ✅ | Order creation date |
+| `orderId` | `long` | ❌ | ❌ | ✅ | Order id |
+| `planCode` | `string` | ❌ | ❌ | ✅ | Order plan code |
+| `serviceName` | `string` | ❌ | ✅ | ✅ | Service created |
+| `status` | `cloud.order.StatusEnum` | ❌ | ❌ | ✅ |  |
+
+### `cloud.order.StatusEnum`
+
+_Order status_
+
+**Enum** (`enumType: string`):
+
+- `delivered`
+- `delivering`
+- `unknown`
+- `unpaid`
+
+### `cloud.order.rule.Availability`
+
+_Public Cloud products availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `plans` | `cloud.order.rule.AvailabilityPlan[]` | ❌ | ❌ | ✅ | Plan availability |
+| `products` | `cloud.order.rule.AvailabilityProduct[]` | ❌ | ❌ | ✅ | Product availability |
+
+### `cloud.order.rule.AvailabilityPlan`
+
+_Public Cloud plan availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `string` | ❌ | ❌ | ✅ | Plan code |
+| `regions` | `string[]` | ❌ | ❌ | ✅ | Plan is available on those regions |
+
+### `cloud.order.rule.AvailabilityProduct`
+
+_Public Cloud product availability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Product name |
+| `regions` | `string[]` | ❌ | ❌ | ✅ | Product is available on those regions |
+
+### `cloud.plan.Detail`
+
+_Fee detail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | The plan id |
+| `period` | `cloud.usage.Period` | ❌ | ❌ | ✅ | Plan period |
+| `planName` | `string` | ❌ | ✅ | ✅ | Name of the plan |
+| `size` | `double` | ❌ | ❌ | ✅ | The plan size (ex: number of instances) |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price of the plan, computed from size and unit price |
+| `unitPrice` | `order.Price` | ❌ | ❌ | ✅ | Unit price of the plan |
+
+### `cloud.plan.Fees`
+
+_Details of fees for all plan subscriptions for this flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `flatFee` | `cloud.plan.FlatFee` | ❌ | ❌ | ✅ | Description of the flat fee for the plan |
+| `overQuota` | `cloud.plan.OverQuota` | ❌ | ❌ | ✅ | Detailed of fees when the consumption exceeds the size of the plans |
+| `savedAmount` | `order.Price` | ❌ | ❌ | ✅ | Total amount saved by using plans |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price of plan subscriptions for this flavor |
+
+### `cloud.plan.FlatFee`
+
+_Details of fees regardless of the consumption_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `details` | `cloud.plan.Detail[]` | ❌ | ❌ | ✅ | Detailed listing of all flat fees |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price of the flat fee part of associated plans |
+
+### `cloud.plan.Flavor`
+
+_Consumption details by flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fees` | `cloud.plan.Fees` | ❌ | ❌ | ✅ | Fees associated to the plans for this flavor |
+| `flavor` | `string` | ❌ | ❌ | ✅ | The flavor for the plans |
+| `periods` | `cloud.plan.PlanPeriod[]` | ❌ | ❌ | ✅ | Listing of all periods concerning this flavor saving plans : every change in usage or plans will make a new period |
+| `subscriptions` | `cloud.plan.Subscription[]` | ❌ | ❌ | ✅ | List of existing plan subscriptions for the flavor |
+
+### `cloud.plan.OverQuota`
+
+_Details of fees when the consumption exceeds the size of the plans_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ids` | `uuid[]` | ❌ | ❌ | ✅ | List of plan ids |
+| `quantity` | `double` | ❌ | ❌ | ✅ | Quantity consumed over the size of the plans |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price of the over quota, computed from quantity and unit price |
+| `unitPrice` | `order.Price` | ❌ | ❌ | ✅ | Unit price for the over quota |
+
+### `cloud.plan.Period`
+
+_Period_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `from` | `datetime` | ❌ | ❌ | ✅ | Start of the period |
+| `to` | `datetime` | ❌ | ❌ | ✅ | End of the period |
+
+### `cloud.plan.PlanPeriod`
+
+_Consumption period for a flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `begin` | `datetime` | ❌ | ❌ | ✅ | Begin date of the period |
+| `consumptionSize` | `long` | ❌ | ❌ | ✅ | Size of the plan consumed |
+| `coverage` | `string` | ❌ | ❌ | ✅ | Human readable percentage of usages covered by the plan |
+| `cumulPlanSize` | `long` | ❌ | ❌ | ✅ | Size of all plans combined |
+| `end` | `datetime` | ❌ | ❌ | ✅ | End date of the period |
+| `plansIds` | `uuid[]` | ❌ | ❌ | ✅ | List of plans Ids |
+| `resourceIds` | `string[]` | ❌ | ❌ | ✅ | List of resource IDs that could be covered by this plan |
+| `utilization` | `string` | ❌ | ❌ | ✅ | Human readable percentage of the savings plan utilization |
+
+### `cloud.plan.Subscription`
+
+_Plan subscription for a flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `begin` | `datetime` | ❌ | ❌ | ✅ | Start date of the savings plan |
+| `end` | `datetime` | ❌ | ❌ | ✅ | End date of the savings plan |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Id of the plan |
+| `size` | `long` | ❌ | ❌ | ✅ | Size of the plans |
+
+### `cloud.project.AllocationPool`
+
+_AllocationPool_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `end` | `ip` | ❌ | ❌ | ❌ | Last IP for the pool (eg: 192.168.1.24) |
+| `start` | `ip` | ❌ | ❌ | ❌ | First IP for the pool (eg: 192.168.1.12) |
+
+### `cloud.project.ApplicationLoadBalancer`
+
+_A load balancer to handle application workload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `cloud.project.loadbalancer.Address` | ❌ | ❌ | ✅ | Address to reach the load balancer |
+| `configuration` | `cloud.project.loadbalancer.ConfigurationVersion` | ❌ | ❌ | ✅ | Information about version of the configuration |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date and time of the load balancer |
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the load balancer |
+| `egressAddress` | `cloud.project.loadbalancer.Addresses` | ❌ | ❌ | ✅ | IPs used by the load balancer to contact backend's servers |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the load balancer |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the load balancer |
+| `openstackRegion` | `string` | ❌ | ❌ | ✅ | Openstack region where the load balancer is hosted |
+| `region` | `string` | ❌ | ❌ | ✅ | Region where the load balancer is hosted |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ❌ | ❌ | Size of the load balancer |
+| `status` | `cloud.project.loadbalancer.StatusEnum` | ❌ | ❌ | ✅ | Status of a load balancer |
+
+### `cloud.project.ApplicationLoadBalancerCreation`
+
+_A load balancer to handle application workload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the load balancer |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the load balancer |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the load balancer |
+| `networking` | `cloud.project.loadbalancer.networking.NetworkingCreation` | ❌ | ✅ | ❌ | Networking definition |
+| `openstackRegion` | `string` | ❌ | ❌ | ❌ | Openstack Region where the load balancer is hosted |
+| `region` | `string` | ✅ | ❌ | ❌ | Region where the load balancer is hosted |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ✅ | ❌ | Size of the load balancer |
+
+### `cloud.project.Bill`
+
+_Project bill_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `billId` | `string` | ❌ | ❌ | ❌ | Bill id |
+| `type` | `cloud.project.BillTypeEnum` | ❌ | ❌ | ❌ | Bill type |
+
+### `cloud.project.BillTypeEnum`
+
+_Possible values for bill type_
+
+**Enum** (`enumType: string`):
+
+- `creditPurchased`
+- `monthlyConsumption`
+- `monthlyInstanceActivation`
+
+### `cloud.project.Certificate`
+
+_A Certificate to use in your NFVs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expireAt` | `datetime` | ❌ | ❌ | ✅ | Date after when the certificate is not valid |
+| `fingerprint` | `string` | ❌ | ❌ | ✅ | Fingerprint of the cert (prefixed by hashing algorithm used) |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique ID of the certificate |
+| `issuer` | `string` | ❌ | ❌ | ✅ | Issue of the certificate (extract from certificate) |
+| `kind` | `cloud.project.CertificateKindEnum` | ❌ | ❌ | ✅ | Kind of certificate |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the certificate |
+| `serialNumber` | `string` | ❌ | ❌ | ✅ | Serial number of the certificate (extract from certificate) |
+| `serverAlternativeNames` | `cloud.project.certificate.ServerAlternativeName[]` | ❌ | ❌ | ✅ | List of SANs (extract from certificate) |
+| `status` | `cloud.project.CertificateStatusEnum` | ❌ | ❌ | ✅ | Certificate status, to quickly know it can safely be used |
+| `subject` | `string` | ❌ | ❌ | ✅ | Subject of the certificate (extract from certificate) |
+| `validAt` | `datetime` | ❌ | ❌ | ✅ | Date after when the certificate is valid |
+| `version` | `long` | ❌ | ❌ | ✅ | Version of certificate (incremented every time you push a new certificate with the same name) |
+
+### `cloud.project.CertificateAdd`
+
+_Add a new certificate_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `import` | `cloud.project.certificate.Import` | ❌ | ✅ | ❌ | Import an existing certificate |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the certificate |
+
+### `cloud.project.CertificateKindEnum`
+
+_Certificate kind_
+
+**Enum** (`enumType: string`):
+
+- `IMPORTED`
+
+### `cloud.project.CertificateStatusEnum`
+
+_Certificate status_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `NOT_YET_VALID`
+- `OK`
+- `REVOKED`
+
+### `cloud.project.EligibilityAction`
+
+_Possible eligibility actions_
+
+**Enum** (`enumType: string`):
+
+- `addPaymentMethod`
+- `askIncreaseProjectsQuota`
+- `challengePaymentMethod`
+- `verifyPaypal`
+
+### `cloud.project.EligibilityInfo`
+
+_Eligibility information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actionsRequired` | `cloud.project.EligibilityAction[]` | ❌ | ✅ | ❌ | Actions to perform to be eligible |
+| `minimumCredit` | `order.Price` | ❌ | ✅ | ❌ | Cloud project order |
+| `paymentMethodsAuthorized` | `cloud.project.PaymentMethodAuthorized[]` | ❌ | ✅ | ❌ | Payment method accepted to order Public Cloud project |
+| `voucher` | `cloud.project.NewProjectInfoVoucher` | ❌ | ✅ | ❌ | Information about voucher code |
+
+### `cloud.project.FloatingIp`
+
+_A floating ip_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `associatedEntity` | `cloud.project.floatingIp.AssociatedEntity` | ❌ | ✅ | ✅ | Associated entity with the floating ip |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the floating ip |
+| `ip` | `ip` | ❌ | ❌ | ✅ | Value of the floating ip |
+| `networkId` | `uuid` | ❌ | ❌ | ✅ | ID of the network |
+| `region` | `string` | ❌ | ✅ | ✅ | Floating ip region |
+| `status` | `cloud.project.floatingIp.StatusEnum` | ❌ | ❌ | ✅ | Status of the floating ip |
+
+### `cloud.project.LoadBalancer`
+
+_A load balancer to handle workload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `cloud.project.loadbalancer.Address` | ❌ | ❌ | ✅ | Address to reach the load balancer |
+| `configuration` | `cloud.project.loadbalancer.ConfigurationVersion` | ❌ | ❌ | ✅ | Information about version of the configuration |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date and time of the load balancer |
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the load balancer |
+| `egressAddress` | `cloud.project.loadbalancer.Addresses` | ❌ | ❌ | ✅ | IPs used by the load balancer to contact backend's servers |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the load balancer |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the load balancer |
+| `networking` | `cloud.project.loadbalancer.networking.Networking` | ❌ | ❌ | ✅ | Networking definition |
+| `openstackRegion` | `string` | ❌ | ❌ | ✅ | Openstack region where the load balancer is hosted |
+| `region` | `string` | ❌ | ❌ | ✅ | Region where the load balancer is hosted |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ❌ | ❌ | Size of the load balancer |
+| `status` | `cloud.project.loadbalancer.StatusEnum` | ❌ | ❌ | ✅ | Status of a load balancer |
+
+### `cloud.project.LoadBalancerCreation`
+
+_A load balancer to handle workload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the load balancer |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the load balancer |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the load balancer |
+| `networking` | `cloud.project.loadbalancer.networking.NetworkingCreation` | ❌ | ✅ | ❌ | Networking definition |
+| `openstackRegion` | `string` | ❌ | ❌ | ❌ | Openstack Region where the load balancer is hosted |
+| `region` | `string` | ✅ | ❌ | ❌ | Region where the load balancer is hosted |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ✅ | ❌ | Size of the load balancer |
+
+### `cloud.project.Network`
+
+_Network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Network id |
+| `name` | `string` | ❌ | ❌ | ✅ | Network name |
+| `region` | `string` | ❌ | ✅ | ✅ | Network region |
+| `status` | `cloud.network.NetworkStatusEnum` | ❌ | ❌ | ✅ | Network status |
+| `subnetIds` | `string[]` | ❌ | ❌ | ✅ | Network subnet ids |
+| `visibility` | `cloud.network.NetworkVisibilityEnum` | ❌ | ❌ | ✅ | Network visibility |
+| `vlanId` | `long` | ❌ | ✅ | ✅ | Network VLAN id |
+
+### `cloud.project.NetworkLoadBalancer`
+
+_A network load balancer for TCP/UDP workloads_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `address` | `cloud.project.loadbalancer.Address` | ❌ | ❌ | ✅ | Address to reach the load balancer |
+| `configuration` | `cloud.project.loadbalancer.ConfigurationVersion` | ❌ | ❌ | ✅ | Information about version of the configuration |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date and time of the load balancer |
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the load balancer |
+| `egressAddress` | `cloud.project.loadbalancer.Addresses` | ❌ | ❌ | ✅ | IPs used by the load balancer to contact backend's servers |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the load balancer |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the load balancer |
+| `openstackRegion` | `string` | ❌ | ❌ | ✅ | Openstack region where the load balancer is hosted |
+| `region` | `string` | ❌ | ❌ | ✅ | Region where the load balancer is hosted |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ❌ | ❌ | Size of the load balancer |
+| `status` | `cloud.project.loadbalancer.StatusEnum` | ❌ | ❌ | ✅ | Status of a load balancer |
+
+### `cloud.project.NetworkLoadBalancerCreation`
+
+_A network load balancer for TCP/UDP workloads_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | Description of the load balancer |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the load balancer |
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the load balancer |
+| `networking` | `cloud.project.loadbalancer.networking.NetworkingCreation` | ❌ | ✅ | ❌ | Networking definition |
+| `openstackRegion` | `string` | ❌ | ❌ | ❌ | Openstack Region where the load balancer is hosted |
+| `region` | `string` | ✅ | ❌ | ❌ | Region where the load balancer is hosted |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ✅ | ❌ | Size of the load balancer |
+
+### `cloud.project.NewProjectInfoVoucher`
+
+_Information about voucher_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `credit` | `order.Price` | ❌ | ❌ | ❌ | Credit added thanks to the voucher |
+| `paymentMethodRequired` | `boolean` | ❌ | ❌ | ❌ | A valid registered payment method is required to use the voucher |
+
+### `cloud.project.PaymentMethodAuthorized`
+
+_List of accepted payment methods_
+
+**Enum** (`enumType: string`):
+
+- `bankAccount`
+- `credit`
+- `creditCard`
+- `paypal`
+- `rupay`
+- `sepaDirectDebit`
+
+### `cloud.project.ProductAgreements`
+
+_Product agreements_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `agreementsToValidate` | `long[]` | ❌ | ✅ | ❌ | Agreements to validate |
+| `agreementsValidated` | `long[]` | ❌ | ✅ | ❌ | Agreements already validated |
+
+### `cloud.project.ProductNameEnum`
+
+_Possible values for cloud project product name_
+
+**Enum** (`enumType: string`):
+
+- `registry`
+
+### `cloud.project.ProjectStatus`
+
+_Possible values for project status_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleted`
+- `deleting`
+- `ok`
+- `suspended`
+
+### `cloud.project.ProjectStatusEnum`
+
+_Possible values for project status_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleted`
+- `deleting`
+- `ok`
+- `suspended`
+
+### `cloud.project.Subnet`
+
+_Subnet_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `allocationPools` | `cloud.project.AllocationPool[]` | ❌ | ❌ | ✅ | List of ip pools allocated in subnet |
+| `cidr` | `ipBlock` | ❌ | ❌ | ✅ | Subnet CIDR |
+| `dhcpEnabled` | `boolean` | ❌ | ❌ | ✅ | If DHCP is enabled on subnet |
+| `dnsNameServers` | `ip[]` | ❌ | ❌ | ✅ | DNS nameservers |
+| `gatewayIp` | `ip` | ❌ | ✅ | ✅ | Gateway IP |
+| `hostRoutes` | `cloud.network.HostRoute[]` | ❌ | ❌ | ✅ | Subnet host routes |
+| `id` | `string` | ❌ | ❌ | ✅ | Subnet id |
+| `ipVersion` | `long` | ❌ | ❌ | ✅ | IP Version (4 or 6) |
+| `name` | `string` | ❌ | ❌ | ✅ | Subnet name |
+
+### `cloud.project.ai.AuthorizationStatus`
+
+_Authorization status_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `authorized` | `boolean` | ❌ | ❌ | ✅ | True if project is authorized to use AI Solutions Platform |
+
+### `cloud.project.ai.BasicAuthCredentialsInput`
+
+_AI Solutions basic auth credentials input_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `password` | `password` | ✅ | ❌ | ❌ | Basic Auth Password |
+| `username` | `string` | ✅ | ❌ | ❌ | Basic Auth Username |
+
+### `cloud.project.ai.Command`
+
+_AI Solutions CLI command_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `command` | `string` | ❌ | ❌ | ✅ | AI Solutions CLI command |
+
+### `cloud.project.ai.DataStore`
+
+_AI Solutions data store container Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alias` | `string` | ❌ | ❌ | ✅ | Data store alias |
+| `endpoint` | `string` | ❌ | ✅ | ✅ | Data store endpoint URL |
+| `owner` | `cloud.project.ai.DataStoreOwnerEnum` | ❌ | ❌ | ✅ | Owner type of the datastore |
+| `type` | `cloud.project.ai.DataStoreTypeEnum` | ❌ | ❌ | ✅ | Type of the datastore |
+
+### `cloud.project.ai.DataStoreAuth`
+
+_AI Solutions data store auth_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessKey` | `string` | ❌ | ✅ | ✅ | Access key to the datastore |
+| `region` | `string` | ❌ | ✅ | ✅ | Region of the datastore |
+| `s3Url` | `string` | ❌ | ✅ | ✅ | S3™ compatible URL of the datastore |
+| `secretKey` | `password` | ❌ | ✅ | ✅ | Secret key to the datastore |
+| `token` | `password` | ❌ | ✅ | ✅ | Swift (or S3™ compatible) Auth token |
+| `url` | `string` | ❌ | ✅ | ✅ | Swift storage URL |
+
+### `cloud.project.ai.DataStoreCredentialsInput`
+
+_AI Solutions data store credentials Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `git` | `cloud.project.ai.GitCredentialsInput` | ❌ | ✅ | ❌ | Git data store credentials |
+| `s3` | `cloud.project.ai.S3CredentialsInput` | ❌ | ✅ | ❌ | S3™ compatible data store credentials |
+
+### `cloud.project.ai.DataStoreInput`
+
+_AI Solutions data store container Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alias` | `string` | ✅ | ❌ | ❌ | Data store alias |
+| `credentials` | `cloud.project.ai.DataStoreCredentialsInput` | ✅ | ❌ | ❌ | Data store credentials |
+| `endpoint` | `string` | ✅ | ❌ | ❌ | Datastore endpoint |
+| `owner` | `cloud.project.ai.DataStoreOwnerEnum` | ✅ | ❌ | ❌ | Data store owner |
+| `prefix` | `string` | ❌ | ✅ | ❌ | Data store prefix |
+| `type` | `cloud.project.ai.DataStoreTypeEnum` | ✅ | ❌ | ❌ | Data store type |
+
+### `cloud.project.ai.DataStoreOwnerEnum`
+
+_Data Store Owner_
+
+**Enum** (`enumType: string`):
+
+- `customer`
+- `ovhcloud`
+
+### `cloud.project.ai.DataStoreTypeEnum`
+
+_Data Store Type_
+
+**Enum** (`enumType: string`):
+
+- `git`
+- `s3`
+- `swift`
+
+### `cloud.project.ai.Env`
+
+_AI Solutions Instance Env Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the environment variable to set inside the AI Solutions instance |
+| `value` | `string` | ❌ | ✅ | ❌ | Value of the environment variable to set inside the AI Solutions instance |
+
+### `cloud.project.ai.GenericResponse`
+
+_Basic model with a single message field_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `message` | `string` | ❌ | ❌ | ✅ |  |
+
+### `cloud.project.ai.GitCredentialsInput`
+
+_AI Solutions data store git credentials input_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `basicAuth` | `cloud.project.ai.BasicAuthCredentialsInput` | ❌ | ✅ | ❌ | Basic Auth data store credentials |
+| `sshKeypair` | `cloud.project.ai.SshCredentialsInput` | ❌ | ✅ | ❌ | SSH data store credentials |
+
+### `cloud.project.ai.Info`
+
+_Information about the state of this entity_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `code` | `cloud.project.ai.InfoCodeEnum` | ❌ | ❌ | ✅ | Info code identifier |
+| `message` | `string` | ❌ | ❌ | ✅ | Formatted message |
+
+### `cloud.project.ai.InfoCodeEnum`
+
+_Code enum for Info object_
+
+**Enum** (`enumType: string`):
+
+- `APP_CREATE_ERROR`
+- `APP_ERROR`
+- `APP_FAILED`
+- `APP_INITIALIZING`
+- `APP_INTERRUPTED_BY_PLATFORM`
+- `APP_INTERRUPTED_BY_USER`
+- `APP_QUEUED`
+- `APP_RUNNING`
+- `APP_SCALING`
+- `APP_STOPPED`
+- `APP_STOPPING`
+- `COMPATIBILITY`
+- `DATASYNC_AUTHENTICATE_FAILED`
+- `DATASYNC_DATA_STORE_NOT_FOUND`
+- `DATASYNC_DONE`
+- `DATASYNC_ERROR`
+- `DATASYNC_FAILED`
+- `DATASYNC_INTERRUPTED`
+- `DATASYNC_INVALID_CONTAINER`
+- `DATASYNC_PROGRESS_FAILED_FORBIDDEN`
+- `DATASYNC_PROGRESS_FAILED_INVALID_CREDENTIALS`
+- `DATASYNC_PROGRESS_FAILED_NOT_FOUND`
+- `DATASYNC_PROGRESS_FAILED_TRANSIENT_ERROR`
+- `DATASYNC_PROGRESS_FAILED_UNKNOWN_ERROR`
+- `DATASYNC_QUEUED`
+- `DATASYNC_RETRY_ERROR`
+- `DATASYNC_RUNNING`
+- `JOB_CREATE_CONTAINER_CONFIG_ERROR`
+- `JOB_CREATE_CONTAINER_ERROR`
+- `JOB_DONE`
+- `JOB_ERROR`
+- `JOB_EVICTED`
+- `JOB_FAILED`
+- `JOB_FAILED_WITH_MESSAGE`
+- `JOB_FINALIZING`
+- `JOB_IMAGE_INSPECT_ERROR`
+- `JOB_IMAGE_PULL`
+- `JOB_IMAGE_PULL_BACKOFF`
+- `JOB_INITIALIZING`
+- `JOB_INTERRUPTED`
+- `JOB_INTERRUPTED_BY_PLATFORM`
+- `JOB_INTERRUPTING`
+- `JOB_INVALID_IMAGE_NAME`
+- `JOB_PENDING`
+- `JOB_QUEUED`
+- `JOB_REGISTRY_UNAVAILABLE`
+- `JOB_RUNNING`
+- `JOB_SYNC_FAILED`
+- `JOB_TIMEOUT`
+- `NOTEBOOK_FAILED`
+- `NOTEBOOK_FAILED_WITH_MESSAGE`
+- `NOTEBOOK_FINALIZING`
+- `NOTEBOOK_INITIALIZING`
+- `NOTEBOOK_PENDING`
+- `NOTEBOOK_RUNNING`
+- `NOTEBOOK_STARTING`
+- `NOTEBOOK_STOPPED`
+- `NOTEBOOK_STOPPING`
+- `NOTEBOOK_SYNC_FAILED`
+
+### `cloud.project.ai.Label`
+
+_AI Solutions Label Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the label to update/add |
+| `value` | `string` | ❌ | ✅ | ❌ | Value of the label to update/add, is there is no value the label is deleted |
+
+### `cloud.project.ai.LogLine`
+
+_Log line_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `content` | `string` | ❌ | ✅ | ✅ | Content of the log |
+| `timestamp` | `datetime` | ❌ | ✅ | ✅ | Datetime of the log |
+
+### `cloud.project.ai.Logs`
+
+_Instance Logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `lastActivity` | `datetime` | ❌ | ✅ | ✅ | Last activity date |
+| `logs` | `cloud.project.ai.LogLine[]` | ❌ | ❌ | ✅ | Logs lines |
+
+### `cloud.project.ai.OrderEnum`
+
+_Possible value to order result_
+
+**Enum** (`enumType: string`):
+
+- `asc`
+- `desc`
+
+### `cloud.project.ai.Resources`
+
+_AI Solutions Resource Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpu` | `long` | ❌ | ❌ | ✅ | Number of vCPU resources requested |
+| `ephemeralStorage` | `long` | ❌ | ❌ | ✅ | The amount of ephemeral storage in bytes |
+| `flavor` | `string` | ❌ | ❌ | ✅ | Current instance flavor |
+| `flavorCount` | `long` | ❌ | ✅ | ✅ | Number of desired units of the chosen flavor |
+| `gpu` | `long` | ❌ | ❌ | ✅ | Number of GPU resources requested |
+| `gpuBrand` | `string` | ❌ | ✅ | ✅ | The GPU Brand |
+| `gpuMemory` | `long` | ❌ | ✅ | ✅ | The GPU Memory in bits |
+| `gpuModel` | `string` | ❌ | ✅ | ✅ | The GPU Model |
+| `memory` | `long` | ❌ | ❌ | ✅ | The amount of memory in bytes |
+| `privateNetwork` | `long` | ❌ | ❌ | ✅ | The guarantee private bandwidth in bytes per seconds |
+| `publicNetwork` | `long` | ❌ | ❌ | ✅ | The guarantee public bandwidth in bytes per seconds |
+
+### `cloud.project.ai.ResourcesInput`
+
+_AI Solutions Resource Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpu` | `long` | ❌ | ✅ | ❌ | Number of vCPU resources requested |
+| `ephemeralStorage` | `long` | ❌ | ✅ | ❌ | The amount of ephemeral storage in bytes |
+| `flavor` | `string` | ❌ | ✅ | ❌ | Instance flavor |
+| `flavorCount` | `long` | ❌ | ✅ | ❌ | Number of desired units of the chosen flavor |
+| `gpu` | `long` | ❌ | ✅ | ❌ | Number of GPU resources requested |
+| `gpuBrand` | `string` | ❌ | ✅ | ❌ | The GPU Brand |
+| `gpuMemory` | `long` | ❌ | ✅ | ❌ | The GPU Memory in bytes |
+| `gpuModel` | `string` | ❌ | ✅ | ❌ | The GPU Model |
+| `memory` | `long` | ❌ | ✅ | ❌ | The amount of memory in bytes |
+| `privateNetwork` | `long` | ❌ | ✅ | ❌ | The private network bandwidth in bits per seconds |
+| `publicNetwork` | `long` | ❌ | ✅ | ❌ | The public network bandwidth in bits per seconds |
+
+### `cloud.project.ai.S3CredentialsInput`
+
+_AI Solutions S3™ compatible credentials_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessKey` | `string` | ✅ | ❌ | ❌ | S3™ compatible Access Key |
+| `region` | `string` | ✅ | ❌ | ❌ | S3™ compatible Region |
+| `secretKey` | `password` | ✅ | ❌ | ❌ | S3™ compatible Private Key |
+
+### `cloud.project.ai.ShutdownStrategyEnum`
+
+_Shutdown strategy of an instance_
+
+**Enum** (`enumType: string`):
+
+- `Restart`
+- `Stop`
+
+### `cloud.project.ai.SshCredentialsInput`
+
+_AI Solutions SSH credentials input_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `privateKey` | `password` | ✅ | ❌ | ❌ | SSH private key |
+| `publicKey` | `string` | ❌ | ❌ | ❌ | SSH public key |
+
+### `cloud.project.ai.TokenRoleEnum`
+
+_Role granted with an application token_
+
+**Enum** (`enumType: string`):
+
+- `ai_training_operator`
+- `ai_training_read`
+- `quantum_operator`
+- `quantum_reader`
+
+### `cloud.project.ai.VolumePermissionEnum`
+
+_Permissions to apply on a volume_
+
+**Enum** (`enumType: string`):
+
+- `RO`
+- `RW`
+- `RWD`
+
+### `cloud.project.ai.app.App`
+
+_AI Solutions Platform App Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | App creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | App Id |
+| `spec` | `cloud.project.ai.app.AppSpec` | ❌ | ❌ | ✅ | App spec |
+| `status` | `cloud.project.ai.app.AppStatus` | ❌ | ❌ | ✅ | App Container Status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | App last update date |
+| `user` | `string` | ❌ | ❌ | ✅ | App user owner |
+
+### `cloud.project.ai.app.AppImageInput`
+
+_AI App Image object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `url` | `string` | ✅ | ❌ | ❌ | URL of the Docker image |
+
+### `cloud.project.ai.app.AppSpec`
+
+_AI Solutions App Spec Object to create an app_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `command` | `string[]` | ❌ | ✅ | ✅ | App command |
+| `defaultHttpPort` | `long` | ❌ | ✅ | ✅ | Default port to access the http service inside the app |
+| `deploymentStrategy` | `cloud.project.ai.app.DeploymentStrategy` | ❌ | ✅ | ✅ | AI App deployment strategy |
+| `envVars` | `cloud.project.ai.job.JobEnv[]` | ❌ | ✅ | ✅ | List of environment variable to be set inside the app |
+| `grpcPort` | `long` | ❌ | ✅ | ✅ | GRPC Port that we want to expose in case workload HTTP & gRPC servers cannot be multiplexed to listen on the same port |
+| `image` | `string` | ❌ | ❌ | ✅ | App image |
+| `labels` | `map[string]string` | ❌ | ✅ | ✅ | Labels for the app |
+| `livenessProbe` | `cloud.project.ai.app.Probe` | ❌ | ✅ | ✅ | App liveness probe |
+| `name` | `string` | ❌ | ❌ | ✅ | App name |
+| `partnerId` | `string` | ❌ | ✅ | ✅ | Partner ID |
+| `probe` | `cloud.project.ai.app.Probe` | ❌ | ✅ | ✅ | App readiness probe |
+| `region` | `string` | ❌ | ❌ | ✅ | Host region of the app |
+| `resources` | `cloud.project.ai.Resources` | ❌ | ❌ | ✅ | App resources |
+| `scalingStrategy` | `cloud.project.ai.app.ScalingStrategy` | ❌ | ✅ | ✅ | App scaling strategy |
+| `unsecureHttp` | `boolean` | ❌ | ✅ | ✅ | True if app api port can be accessed without any authentication token, false otherwise |
+| `volumes` | `cloud.project.ai.volume.Volume[]` | ❌ | ✅ | ✅ | App Data linked |
+
+### `cloud.project.ai.app.AppSpecInput`
+
+_AI Solutions App Spec Object to create a app_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `command` | `string[]` | ❌ | ✅ | ❌ | App command |
+| `defaultHttpPort` | `long` | ❌ | ✅ | ❌ | Default port to access http service inside the app |
+| `deploymentStrategy` | `cloud.project.ai.app.DeploymentStrategy` | ❌ | ✅ | ❌ | AI App deployment strategy |
+| `envVars` | `cloud.project.ai.job.JobEnv[]` | ❌ | ✅ | ❌ | List of environment variable to be set inside the app |
+| `grpcPort` | `long` | ❌ | ✅ | ❌ | GRPC Port that we want to expose in case workload HTTP & gRPC servers cannot be multiplexed to listen on the same port |
+| `image` | `string` | ✅ | ❌ | ❌ | Docker or capability image to use in the app. App capability images must comply with the pattern 'image-id:version' |
+| `labels` | `map[string]string` | ❌ | ✅ | ❌ | Labels are used to scope tokens, labels prefixed by 'ovh/' are owned by the platform and overridden |
+| `livenessProbe` | `cloud.project.ai.app.ProbeInput` | ❌ | ✅ | ❌ | App liveness probe |
+| `name` | `string` | ❌ | ❌ | ❌ | App name |
+| `partnerId` | `string` | ❌ | ✅ | ❌ | Partner ID |
+| `probe` | `cloud.project.ai.app.ProbeInput` | ❌ | ✅ | ❌ | App readiness probe |
+| `region` | `string` | ✅ | ❌ | ❌ | Host region of the app |
+| `resources` | `cloud.project.ai.ResourcesInput` | ✅ | ❌ | ❌ | App resources |
+| `scalingStrategy` | `cloud.project.ai.app.ScalingStrategyInput` | ❌ | ✅ | ❌ | App scaling strategy |
+| `unsecureHttp` | `boolean` | ❌ | ✅ | ❌ | Whether if app api port can be accessed without any authentication token |
+| `volumes` | `cloud.project.ai.volume.Volume[]` | ❌ | ✅ | ❌ | App Data linked |
+
+### `cloud.project.ai.app.AppStateEnum`
+
+_State of the application_
+
+**Enum** (`enumType: string`):
+
+- `DELETED`
+- `DELETING`
+- `ERROR`
+- `FAILED`
+- `INITIALIZING`
+- `QUEUED`
+- `RUNNING`
+- `SCALING`
+- `STANDBY`
+- `STOPPED`
+- `STOPPING`
+
+### `cloud.project.ai.app.AppStateHistory`
+
+_AI Solutions App State History Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ✅ | Date when the status occurred |
+| `state` | `cloud.project.ai.app.AppStateEnum` | ❌ | ❌ | ✅ | State of the app |
+
+### `cloud.project.ai.app.AppStatus`
+
+_AI Solutions App Status Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availableReplicas` | `long` | ❌ | ❌ | ✅ | Number of available replicas |
+| `dataSync` | `cloud.project.ai.volume.DataSync[]` | ❌ | ❌ | ✅ | Status about the datasync linked to the app |
+| `grpcAddress` | `string` | ❌ | ✅ | ✅ | Address to reach when you want to access the App's gRPC services |
+| `history` | `cloud.project.ai.app.AppStateHistory[]` | ❌ | ❌ | ✅ | Job state history |
+| `info` | `cloud.project.ai.Info` | ❌ | ❌ | ✅ | Information about the app |
+| `infoUrl` | `string` | ❌ | ✅ | ✅ | App info url |
+| `internalServiceIp` | `ip` | ❌ | ✅ | ✅ | Internal IP address of the app service |
+| `lastTransitionDate` | `datetime` | ❌ | ✅ | ✅ | Date of the last app state change |
+| `monitoringUrl` | `string` | ❌ | ✅ | ✅ | App resource usage url |
+| `state` | `cloud.project.ai.app.AppStateEnum` | ❌ | ✅ | ✅ | State of the app |
+| `url` | `string` | ❌ | ✅ | ✅ | App access url |
+| `volumes` | `cloud.project.ai.volume.VolumeStatus[]` | ❌ | ✅ | ✅ | App Data linked |
+
+### `cloud.project.ai.app.AutomaticScalingStrategyCustomMetrics`
+
+_Scale an AI Deploy App based on a custom metric provided by a customer-exposed API_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `aggregationType` | `cloud.project.ai.app.CustomMetricsAggregationTypeEnum` | ❌ | ❌ | ✅ | aggregation type we apply on the custom metric used to scaled an AI Deploy App |
+| `apiUrl` | `string` | ❌ | ❌ | ✅ | Full URL of the API operation to call to get the metric value. Specific <SELF> placeholder can be given whenever metrics API is served by the deployed app itself. e.g : "http://<SELF>:6000/metrics" |
+| `format` | `cloud.project.ai.app.CustomMetricsFormatEnum` | ❌ | ❌ | ✅ | format of the custom metric used to scaled an AI Deploy App |
+| `targetValue` | `double` | ❌ | ❌ | ✅ | Target value to scale on |
+| `valueLocation` | `string` | ❌ | ❌ | ✅ | The location of the metric value in the response payload. The value is format specific, see https://keda.sh/docs/2.16/scalers/metrics-api/#trigger-specification for details |
+
+### `cloud.project.ai.app.AutomaticScalingStrategyCustomMetricsInput`
+
+_Scale an AI Deploy App based on a custom metric provided by a customer-exposed API_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `aggregationType` | `cloud.project.ai.app.CustomMetricsAggregationTypeEnum` | ❌ | ❌ | ❌ | aggregation type we apply on the custom metric used to scaled an AI Deploy App |
+| `apiUrl` | `string` | ❌ | ❌ | ❌ | Full URL of the API operation to call to get the metric value. Specific <SELF> placeholder can be given whenever metrics API is served by the deployed app itself. e.g : "http://<SELF>:6000/metrics" |
+| `format` | `cloud.project.ai.app.CustomMetricsFormatEnum` | ❌ | ❌ | ❌ | format of the custom metric used to scaled an AI Deploy App |
+| `targetValue` | `double` | ❌ | ❌ | ❌ | Target value to scale on |
+| `valueLocation` | `string` | ❌ | ❌ | ❌ | The location of the metric value in the response payload. The value is format specific, see https://keda.sh/docs/2.16/scalers/metrics-api/#trigger-specification for details |
+
+### `cloud.project.ai.app.CustomMetricsAggregationTypeEnum`
+
+_Aggregation type for the custom metrics we want to deploy an AI deploy App on_
+
+**Enum** (`enumType: string`):
+
+- `AVERAGE`
+- `MAX`
+- `MIN`
+- `SUM`
+
+### `cloud.project.ai.app.CustomMetricsFormatEnum`
+
+_format of the custom metric used to scaled an AI Deploy App_
+
+**Enum** (`enumType: string`):
+
+- `JSON`
+- `PROMETHEUS`
+- `XML`
+- `YAML`
+
+### `cloud.project.ai.app.DeploymentStrategy`
+
+_AI Solutions AI App deployment strategy object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxSurge` | `string` | ❌ | ✅ | ❌ | Maximum number of replicas that can be created over the desired number of Pods (can be expressed as a percentage of the desired pods, suffixed with '%') |
+| `maxUnavailable` | `string` | ❌ | ✅ | ❌ | Maximum number of replicas that can be unavailable during the update process (can be expressed as a percentage of the desired pods, suffixed with '%') |
+| `progressDeadlineSeconds` | `long` | ❌ | ✅ | ❌ | Number of seconds you want to wait for your Deployment to progress before the system reports back that the Deployment has failed progressing |
+| `terminationGracePeriodSeconds` | `long` | ❌ | ✅ | ❌ | Number of seconds we allow an app's replica to shutdown gracefully before we terminate it. Defaults to 30 seconds |
+
+### `cloud.project.ai.app.Probe`
+
+_AI Solutions App Probe Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `failureThreshold` | `long` | ❌ | ✅ | ✅ | Minimum consecutive failures for the probe to be considered failed after having succeeded. Defaults to 3. Minimum value is 1. |
+| `initialDelaySeconds` | `long` | ❌ | ✅ | ✅ | Number of seconds after the container has started before liveness probes are initiated. |
+| `path` | `string` | ❌ | ✅ | ✅ | Path to access to check for readiness |
+| `periodSeconds` | `long` | ❌ | ✅ | ✅ | How often (in seconds) to perform the probe. Default to 10 seconds. Minimum value is 1. |
+| `port` | `long` | ❌ | ✅ | ✅ | Port to access to check for readiness |
+| `successThreshold` | `long` | ❌ | ✅ | ✅ | Minimum consecutive successes for the probe to be considered successful after having failed. Defaults to 1. Must be 1 for liveness and startup. Minimum value is 1. |
+| `timeoutSeconds` | `long` | ❌ | ✅ | ✅ | Number of seconds after which the probe times out. Defaults to 1 second. Minimum value is 1. |
+
+### `cloud.project.ai.app.ProbeInput`
+
+_AI Solutions App Probe Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `failureThreshold` | `long` | ❌ | ✅ | ❌ | Minimum consecutive failures for the probe to be considered failed after having succeeded. Defaults to 3. Minimum value is 1. |
+| `initialDelaySeconds` | `long` | ❌ | ✅ | ❌ | Number of seconds after the container has started before liveness probes are initiated. |
+| `path` | `string` | ❌ | ✅ | ❌ | Path to access to check for readiness |
+| `periodSeconds` | `long` | ❌ | ✅ | ❌ | How often (in seconds) to perform the probe. Default to 10 seconds. Minimum value is 1. |
+| `port` | `long` | ❌ | ✅ | ❌ | Port to access to check for readiness |
+| `successThreshold` | `long` | ❌ | ✅ | ❌ | Minimum consecutive successes for the probe to be considered successful after having failed. Defaults to 1. Must be 1 for liveness and startup. Minimum value is 1. |
+| `timeoutSeconds` | `long` | ❌ | ✅ | ❌ | Number of seconds after which the probe times out. Defaults to 1 second. Minimum value is 1. |
+
+### `cloud.project.ai.app.ScalingAutomaticStrategy`
+
+_AI Solutions App automatic scaling strategy object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `averageUsageTarget` | `long` | ❌ | ✅ | ✅ | The average resource usage threshold that the app upscale or downscale will be triggered from, in percent |
+| `cooldownPeriodSeconds` | `long` | ❌ | ✅ | ✅ | Number of seconds to wait before scaling app to 0 whenever there are no more HTTP/gRPC requests made to it. Only applies when replicasMin=0 |
+| `customMetrics` | `cloud.project.ai.app.AutomaticScalingStrategyCustomMetrics` | ❌ | ✅ | ✅ | parameters to scale the AI Deploy App based on a custom metric provided by a customer-exposed API |
+| `replicasMax` | `long` | ❌ | ❌ | ✅ | Maximum number of replicas |
+| `replicasMin` | `long` | ❌ | ✅ | ✅ | Minimum number of replicas |
+| `resourceType` | `cloud.project.ai.app.ScalingAutomaticStrategyResourceTypeEnum` | ❌ | ✅ | ✅ | Type of the resource to base the automatic scaling on |
+| `scaleDownStabilizationWindowSeconds` | `long` | ❌ | ✅ | ✅ | Number of seconds for which past recommendations should be considered while scaling down. Must be greater than or equal to zero and less than or equal to 3600 (one hour). |
+| `scaleUpStabilizationWindowSeconds` | `long` | ❌ | ✅ | ✅ | Number of seconds for which past recommendations should be considered while scaling up. Must be greater than or equal to zero and less than or equal to 3600 (one hour). |
+
+### `cloud.project.ai.app.ScalingAutomaticStrategyInput`
+
+_AI Solutions App automatic scaling strategy object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `averageUsageTarget` | `long` | ❌ | ✅ | ❌ | The average resource usage threshold that the app upscale or downscale will be triggered from, in percent |
+| `cooldownPeriodSeconds` | `long` | ❌ | ✅ | ❌ | Number of seconds to wait before scaling app to 0 whenever there are no more HTTP/gRPC requests made to it. Only applies when replicasMin=0 |
+| `customMetrics` | `cloud.project.ai.app.AutomaticScalingStrategyCustomMetricsInput` | ❌ | ✅ | ❌ | parameters to scale the AI Deploy App based on a custom metric provided by a customer-exposed API |
+| `replicasMax` | `long` | ❌ | ❌ | ❌ | Maximum number of replicas |
+| `replicasMin` | `long` | ❌ | ❌ | ❌ | Minimum number of replicas |
+| `resourceType` | `cloud.project.ai.app.ScalingAutomaticStrategyResourceTypeEnum` | ❌ | ✅ | ❌ | Type of the resource to base the automatic scaling on |
+| `scaleDownStabilizationWindowSeconds` | `long` | ❌ | ✅ | ❌ | Number of seconds for which past recommendations should be considered while scaling down. Must be greater than or equal to zero and less than or equal to 3600 (one hour). |
+| `scaleUpStabilizationWindowSeconds` | `long` | ❌ | ✅ | ❌ | Number of seconds for which past recommendations should be considered while scaling up. Must be greater than or equal to zero and less than or equal to 3600 (one hour). |
+
+### `cloud.project.ai.app.ScalingAutomaticStrategyResourceTypeEnum`
+
+_Resource type for App automatic scaling strategy_
+
+**Enum** (`enumType: string`):
+
+- `CPU`
+- `RAM`
+
+### `cloud.project.ai.app.ScalingFixedStrategy`
+
+_AI Solutions App Status Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `replicas` | `long` | ❌ | ❌ | ✅ | Number of wanted replicas |
+
+### `cloud.project.ai.app.ScalingFixedStrategyInput`
+
+_AI Solutions App Status Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `replicas` | `long` | ❌ | ❌ | ❌ | Number of wanted replicas |
+
+### `cloud.project.ai.app.ScalingStrategy`
+
+_AI Solutions App Scaling Strategy Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `cloud.project.ai.app.ScalingAutomaticStrategy` | ❌ | ✅ | ✅ | Strategy setting a variable number of replicas, based on an average resource usage threshold |
+| `fixed` | `cloud.project.ai.app.ScalingFixedStrategy` | ❌ | ✅ | ✅ | Strategy setting a fix number of replicas |
+
+### `cloud.project.ai.app.ScalingStrategyInput`
+
+_AI Solutions App Scaling Strategy Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `cloud.project.ai.app.ScalingAutomaticStrategyInput` | ❌ | ✅ | ❌ | Strategy setting a variable number of replicas, based on an average resource usage threshold (conflicts with 'fixed' property when both are not null) |
+| `fixed` | `cloud.project.ai.app.ScalingFixedStrategyInput` | ❌ | ✅ | ❌ | Strategy setting a fix number of replicas (conflicts with 'automatic' property when both are not null) |
+
+### `cloud.project.ai.app.UpdateInput`
+
+_AI Solutions AI App update object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `command` | `string[]` | ❌ | ✅ | ❌ | App command and arguments. Pass empty list to reset |
+| `cpu` | `long` | ❌ | ✅ | ❌ | Number of CPU resources requested (applies to CPU flavors) |
+| `defaultHttpPort` | `long` | ❌ | ✅ | ❌ | Default port to access http service inside the app |
+| `deploymentStrategy` | `cloud.project.ai.app.DeploymentStrategy` | ❌ | ✅ | ❌ | Deployment strategy to use when updating this AI App |
+| `envVars` | `cloud.project.ai.Env[]` | ❌ | ✅ | ❌ | Environment variables to be patched (empty/null value to remove) |
+| `flavor` | `string` | ❌ | ✅ | ❌ | App instance flavor |
+| `flavorCount` | `long` | ❌ | ✅ | ❌ | Number of desired units of the chosen flavor |
+| `gpu` | `long` | ❌ | ✅ | ❌ | Number of GPU resources requested (applies to GPU flavors) |
+| `grpcPort` | `long` | ❌ | ✅ | ❌ | GRPC Port that we want to expose in case workload HTTP & gRPC servers cannot be multiplexed to listen on the same port |
+| `livenessProbe` | `cloud.project.ai.app.ProbeInput` | ❌ | ✅ | ❌ | App liveness probe |
+| `probe` | `cloud.project.ai.app.ProbeInput` | ❌ | ✅ | ❌ | App readiness probe |
+| `url` | `string` | ❌ | ✅ | ❌ | URL of the Docker image for this AI deployment |
+
+### `cloud.project.ai.capabilities.Features`
+
+_AI Solutions Features_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `lab` | `boolean` | ❌ | ❌ | ✅ | Inform if the AI Solutions is in Lab mode or not |
+| `registry` | `boolean` | ❌ | ❌ | ✅ | Capability to add registry |
+
+### `cloud.project.ai.capabilities.Flavor`
+
+_AI Solutions Flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `default` | `boolean` | ❌ | ❌ | ✅ | Is the flavor the default one for a flavor type |
+| `description` | `string` | ❌ | ❌ | ✅ | Flavor description |
+| `gpuInformation` | `cloud.project.ai.capabilities.flavor.GpuInformation` | ❌ | ✅ | ✅ | Describe GPU information |
+| `id` | `string` | ❌ | ❌ | ✅ | Flavor id |
+| `max` | `long` | ❌ | ❌ | ✅ | Maximum amount available for a job / notebook |
+| `resourcesPerUnit` | `cloud.project.ai.capabilities.flavor.ResourcesPerUnit` | ❌ | ❌ | ✅ | Describe the amount of resources given per unit of the flavor |
+| `type` | `cloud.project.ai.capabilities.FlavorTypeEnum` | ❌ | ❌ | ✅ | Flavor type |
+
+### `cloud.project.ai.capabilities.FlavorTypeEnum`
+
+_Flavor Type_
+
+**Enum** (`enumType: string`):
+
+- `cpu`
+- `gpu`
+
+### `cloud.project.ai.capabilities.LicensingTypeEnum`
+
+_Licensing Type_
+
+**Enum** (`enumType: string`):
+
+- `per-app`
+- `per-replica`
+- `per-resource`
+- `per-second-bracket`
+
+### `cloud.project.ai.capabilities.Preset`
+
+_AI Solutions Preset image_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `capabilities` | `cloud.project.ai.capabilities.PresetCapabilities` | ❌ | ❌ | ✅ | Preset capabilities |
+| `descriptions` | `string[]` | ❌ | ❌ | ✅ | Preset description |
+| `docUrl` | `cloud.project.ai.capabilities.PresetDocumentationUrl[]` | ❌ | ❌ | ✅ | URL toward the preset image documentation |
+| `id` | `string` | ❌ | ❌ | ✅ | Preset id |
+| `logoUrl` | `string` | ❌ | ❌ | ✅ | URL toward the logo to illustrate the preset |
+| `name` | `string` | ❌ | ❌ | ✅ | Preset name |
+| `partner` | `cloud.project.ai.job.Partner` | ❌ | ❌ | ✅ | Partner name |
+| `snippet` | `string` | ❌ | ❌ | ✅ | Snippet example of the doc |
+| `type` | `cloud.project.ai.capabilities.PresetTypeEnum` | ❌ | ❌ | ✅ | Preset type |
+
+### `cloud.project.ai.capabilities.PresetCapabilities`
+
+_AI Solutions Preset image enabled features_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `exec` | `boolean` | ❌ | ❌ | ✅ | Exec enabled |
+| `flavorTypes` | `cloud.project.ai.capabilities.FlavorTypeEnum[]` | ❌ | ❌ | ✅ | Flavor types |
+| `log` | `boolean` | ❌ | ❌ | ✅ | Log enabled |
+| `resources` | `cloud.project.ai.capabilities.PresetResources` | ❌ | ❌ | ✅ | Resources requirements |
+| `ssh` | `boolean` | ❌ | ❌ | ✅ | SSH enabled |
+| `volume` | `boolean` | ❌ | ❌ | ✅ | Volume enabled |
+
+### `cloud.project.ai.capabilities.PresetDocumentationUrl`
+
+_AI Solutions Preset image_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Documentation Name |
+| `url` | `string` | ❌ | ❌ | ✅ | Documentation URL |
+
+### `cloud.project.ai.capabilities.PresetResources`
+
+_AI Solutions Preset resources requirements_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxGpu` | `long` | ❌ | ❌ | ✅ | Maximum number of GPUs supported |
+
+### `cloud.project.ai.capabilities.PresetTypeEnum`
+
+_Preset Type_
+
+**Enum** (`enumType: string`):
+
+- `app`
+- `job`
+- `notebook`
+
+### `cloud.project.ai.capabilities.ProjectQuotas`
+
+_AI Solutions Project Quotas_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `resources` | `map[string]long` | ❌ | ❌ | ✅ | Project's quotas per compute-type resource (e.g CPU/GPU) |
+| `storage` | `long` | ❌ | ❌ | ✅ | Storage quota (in bits) that is allocated to the project |
+
+### `cloud.project.ai.capabilities.Region`
+
+_AI Solutions Region_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cliInstallUrl` | `string` | ❌ | ❌ | ✅ | Client Install Url |
+| `documentationUrl` | `string` | ❌ | ❌ | ✅ | Documentation Url |
+| `id` | `string` | ❌ | ❌ | ✅ | Region id |
+| `registryUrl` | `string` | ❌ | ❌ | ✅ | Region Registry Url |
+| `version` | `string` | ❌ | ❌ | ✅ | Region version |
+
+### `cloud.project.ai.capabilities.app.Image`
+
+_AI Solutions App image object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Short description of the image |
+| `docUrl` | `string` | ❌ | ❌ | ✅ | URL of the image documentation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique identifier of the image |
+| `licensing` | `cloud.project.ai.capabilities.LicensingTypeEnum` | ❌ | ❌ | ✅ | Type of licensing |
+| `logoUrl` | `string` | ❌ | ❌ | ✅ | URL of the logo of the image |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the image |
+| `partnerId` | `string` | ❌ | ❌ | ✅ | ID of the partner providing the image |
+| `partnerName` | `string` | ❌ | ❌ | ✅ | Name of the partner providing the image |
+| `versions` | `string[]` | ❌ | ❌ | ✅ | List of available versions of this image |
+
+### `cloud.project.ai.capabilities.flavor.GpuInformation`
+
+_AI Solutions Global GPU information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gpuBrand` | `string` | ❌ | ❌ | ✅ | The GPU Brand |
+| `gpuMemory` | `long` | ❌ | ❌ | ✅ | The GPU Memory in bits |
+| `gpuModel` | `string` | ❌ | ❌ | ✅ | The GPU Model |
+
+### `cloud.project.ai.capabilities.flavor.ResourcesPerUnit`
+
+_AI Solutions Global Resource per flavor unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cpu` | `long` | ❌ | ❌ | ✅ | The amount of cpu for one unit of the flavor |
+| `ephemeralStorage` | `long` | ❌ | ❌ | ✅ | The amount of ephemeral storage in bytes |
+| `gpu` | `long` | ❌ | ❌ | ✅ | The amount of gpu for one unit of the flavor |
+| `memory` | `long` | ❌ | ❌ | ✅ | The amount of memory in bytes |
+| `privateNetwork` | `long` | ❌ | ❌ | ✅ | The guarantee private bandwidth in bytes per seconds |
+| `publicNetwork` | `long` | ❌ | ❌ | ✅ | The guarantee public bandwidth in bytes per seconds |
+
+### `cloud.project.ai.capabilities.job.Image`
+
+_AI Solutions Job image object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Short description of the image |
+| `docUrl` | `string` | ❌ | ❌ | ✅ | URL of the image documentation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique identifier of the image |
+| `logoUrl` | `string` | ❌ | ❌ | ✅ | URL of the logo of the image |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the image |
+| `versions` | `string[]` | ❌ | ❌ | ✅ | List of available versions of this image |
+
+### `cloud.project.ai.capabilities.notebook.Editor`
+
+_AI Solutions Notebook editor object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Short description of the editor |
+| `docUrl` | `string` | ❌ | ❌ | ✅ | URL of the editor documentation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique identifier of the editor |
+| `logoUrl` | `string` | ❌ | ❌ | ✅ | URL of the logo of the editor |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the editor |
+| `versions` | `string[]` | ❌ | ❌ | ✅ | List of available versions of this editor |
+
+### `cloud.project.ai.capabilities.notebook.Framework`
+
+_AI Solutions Notebook framework object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Short description of the framework |
+| `docUrl` | `string` | ❌ | ❌ | ✅ | URL of the framework documentation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique identifier of the framework |
+| `logoUrl` | `string` | ❌ | ❌ | ✅ | URL of the logo of the framework |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the framework |
+| `savedPaths` | `string[]` | ❌ | ✅ | ✅ | List of paths that are automatically saved |
+| `supportedQpus` | `string[]` | ❌ | ✅ | ✅ | List of the QPU flavors that are supported by this framework |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of given framework eg. ai, quantum, quantum-qpu |
+| `versions` | `string[]` | ❌ | ❌ | ✅ | List of available versions of this framework |
+
+### `cloud.project.ai.job.Job`
+
+_AI Solutions Job Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Job creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Job Id |
+| `spec` | `cloud.project.ai.job.JobSpec` | ❌ | ❌ | ✅ | Job specifications |
+| `status` | `cloud.project.ai.job.JobStatus` | ❌ | ❌ | ✅ | Job status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Job update date |
+| `user` | `string` | ❌ | ❌ | ✅ | Job user owner |
+
+### `cloud.project.ai.job.JobEnv`
+
+_AI Solutions Job Env Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the environment variable to set inside the job |
+| `value` | `string` | ✅ | ❌ | ❌ | Value of the environment variable to set inside the job |
+
+### `cloud.project.ai.job.JobSpec`
+
+_AI Solutions Job Spec Object to create a job_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `command` | `string[]` | ❌ | ✅ | ✅ | Job command |
+| `defaultHttpPort` | `long` | ❌ | ✅ | ✅ | Port use as the default one to access http service inside job |
+| `envVars` | `cloud.project.ai.job.JobEnv[]` | ❌ | ✅ | ✅ | List of environment variable to be set inside job |
+| `grpcPort` | `long` | ❌ | ✅ | ✅ | GRPC Port that we want to expose in case workload HTTP & gRPC servers cannot be multiplexed to listen on the same port |
+| `image` | `string` | ❌ | ❌ | ✅ | Job image |
+| `labels` | `map[string]string` | ❌ | ✅ | ✅ | Labels for the job |
+| `name` | `string` | ❌ | ❌ | ✅ | Job name |
+| `partnerId` | `string` | ❌ | ✅ | ✅ | Partner ID |
+| `readUser` | `string` | ❌ | ✅ | ✅ | User ID to use to access the job |
+| `region` | `string` | ❌ | ❌ | ✅ | Host region of the job |
+| `resources` | `cloud.project.ai.Resources` | ❌ | ❌ | ✅ | Job resources |
+| `shutdown` | `cloud.project.ai.ShutdownStrategyEnum` | ❌ | ✅ | ✅ | Shutdown strategy (if any) |
+| `sshPublicKeys` | `string[]` | ❌ | ✅ | ✅ | SSH keys authorized to access to the job container |
+| `timeout` | `long` | ❌ | ✅ | ✅ | Maximum time to spend before killing the job |
+| `timeoutAutoRestart` | `boolean` | ❌ | ✅ | ✅ | Whether job should be restarted after timeout |
+| `unsecureHttp` | `boolean` | ❌ | ✅ | ✅ | Whether job api port can be accessed without any authentication token |
+| `volumes` | `cloud.project.ai.volume.Volume[]` | ❌ | ✅ | ✅ | Job Data linked |
+
+### `cloud.project.ai.job.JobSpecInput`
+
+_AI Solutions Job Spec Object to create a job_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `command` | `string[]` | ❌ | ✅ | ❌ | Job command |
+| `defaultHttpPort` | `long` | ❌ | ✅ | ❌ | Port use as the default one to access http service inside job |
+| `envVars` | `cloud.project.ai.job.JobEnv[]` | ❌ | ✅ | ❌ | List of environment variable to be set inside job |
+| `grpcPort` | `long` | ❌ | ✅ | ❌ | GRPC Port that we want to expose in case workload HTTP & gRPC servers cannot be multiplexed to listen on the same port |
+| `image` | `string` | ✅ | ❌ | ❌ | Job image |
+| `labels` | `map[string]string` | ❌ | ✅ | ❌ | Labels are used to scope tokens, labels prefixed by 'ovh/' are owned by the platform and overridden |
+| `name` | `string` | ❌ | ❌ | ❌ | Job name |
+| `partnerId` | `string` | ❌ | ✅ | ❌ | Partner ID |
+| `readUser` | `string` | ❌ | ✅ | ❌ | User ID to use to access the job |
+| `region` | `string` | ✅ | ❌ | ❌ | Host region of the job |
+| `resources` | `cloud.project.ai.ResourcesInput` | ✅ | ❌ | ❌ | Job resources |
+| `shutdown` | `cloud.project.ai.ShutdownStrategyEnum` | ❌ | ✅ | ✅ | Shutdown strategy (if any) |
+| `sshPublicKeys` | `string[]` | ❌ | ✅ | ❌ | SSH keys authorized to access to the job container |
+| `timeout` | `long` | ❌ | ✅ | ❌ | Maximum time to spend before killing the job |
+| `timeoutAutoRestart` | `boolean` | ❌ | ✅ | ❌ | Whether job is set to be restarted after timeout |
+| `unsecureHttp` | `boolean` | ❌ | ✅ | ❌ | Whether job api port can be accessed without any authentication token |
+| `volumes` | `cloud.project.ai.volume.Volume[]` | ❌ | ✅ | ❌ | Job Data linked |
+
+### `cloud.project.ai.job.JobStateEnum`
+
+_State of the job_
+
+**Enum** (`enumType: string`):
+
+- `DONE`
+- `ERROR`
+- `FAILED`
+- `FINALIZING`
+- `INITIALIZING`
+- `INTERRUPTED`
+- `INTERRUPTING`
+- `PENDING`
+- `QUEUED`
+- `RESTARTING`
+- `RUNNING`
+- `SYNC_FAILED`
+- `TIMEOUT`
+
+### `cloud.project.ai.job.JobStatus`
+
+_AI Solutions Job Status Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dataSync` | `cloud.project.ai.volume.DataSync[]` | ❌ | ❌ | ✅ | Status about the datasync linked to the job |
+| `duration` | `long` | ❌ | ✅ | ✅ | Duration of the job |
+| `exitCode` | `long` | ❌ | ✅ | ✅ | Exit code of the job |
+| `externalIp` | `ip` | ❌ | ✅ | ✅ | External IP of the job |
+| `finalizedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the job was finalized |
+| `grpcAddress` | `string` | ❌ | ✅ | ✅ | Address to reach when you want to access the Job's gRPC services |
+| `history` | `cloud.project.ai.job.JobStatusHistory[]` | ❌ | ❌ | ✅ | Job state history |
+| `info` | `cloud.project.ai.Info` | ❌ | ❌ | ✅ | Information about the job |
+| `infoUrl` | `string` | ❌ | ✅ | ✅ | Job info url |
+| `initializingAt` | `datetime` | ❌ | ✅ | ✅ | Date when the job was initialized |
+| `ip` | `ip` | ❌ | ✅ | ✅ | IP of the job |
+| `lastTransitionDate` | `datetime` | ❌ | ✅ | ✅ | Date of the last transition |
+| `monitoringUrl` | `string` | ❌ | ✅ | ✅ | Job resource usage url |
+| `queuedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the job was queued |
+| `sshUrl` | `string` | ❌ | ✅ | ✅ | SSH Url fot the job |
+| `startedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the job was started |
+| `state` | `cloud.project.ai.job.JobStateEnum` | ❌ | ✅ | ✅ | State of the job |
+| `stoppedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the job was stop |
+| `timeoutAt` | `datetime` | ❌ | ✅ | ✅ | Date when the job is planned to timeout |
+| `url` | `string` | ❌ | ✅ | ✅ | Job access url |
+| `volumes` | `cloud.project.ai.volume.VolumeStatus[]` | ❌ | ✅ | ✅ | Job Data linked |
+
+### `cloud.project.ai.job.JobStatusHistory`
+
+_AI Solutions Job Status History Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `date` | `datetime` | ❌ | ❌ | ✅ | Date when the status occurred |
+| `state` | `cloud.project.ai.job.JobStateEnum` | ❌ | ❌ | ✅ | State of the job |
+
+### `cloud.project.ai.job.Partner`
+
+_AI Solutions Partner Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `flavor` | `string` | ❌ | ❌ | ✅ | Partner flavor |
+| `id` | `string` | ❌ | ❌ | ✅ | Partner ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Partner name |
+
+### `cloud.project.ai.job.PresetImage`
+
+_A Image of a preset data science image_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Model Image Description |
+| `id` | `string` | ❌ | ❌ | ✅ | Image id |
+| `link` | `string` | ❌ | ✅ | ✅ | Link to the Opensource Model |
+| `logo` | `string` | ❌ | ✅ | ✅ | Framework logo |
+| `name` | `string` | ❌ | ❌ | ✅ | Model Image Name |
+
+### `cloud.project.ai.notebook.Backup`
+
+_AI Solutions Platform Notebook Backup Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Backup creation date |
+| `evictionDate` | `datetime` | ❌ | ✅ | ✅ | date at which the notebook backup will be evicted/deleted according to applicable notebook workspace backup retention policy |
+| `id` | `string` | ❌ | ❌ | ✅ | Backup Id |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Backup last update date |
+
+### `cloud.project.ai.notebook.Editor`
+
+_AI Solutions Data Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Short description of the code editor |
+| `docUrl` | `string` | ❌ | ❌ | ✅ | URL toward the code editor documentation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique identifier of the code editor |
+| `logoUrl` | `string` | ❌ | ❌ | ✅ | URL toward the logo to illustrate the editor |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the code editor |
+| `version` | `string` | ❌ | ❌ | ✅ | Version of the code editor |
+
+### `cloud.project.ai.notebook.Framework`
+
+_AI Solutions Data Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Short description of the framework |
+| `docUrl` | `string` | ❌ | ❌ | ✅ | URL toward the framework documentation |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique identifier of the framework |
+| `logoUrl` | `string` | ❌ | ❌ | ✅ | URL toward the logo to illustrate the framework |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the framework |
+| `versions` | `string[]` | ❌ | ❌ | ✅ | Available versions for the framework (default is the first one) |
+
+### `cloud.project.ai.notebook.Notebook`
+
+_AI Solutions Platform Notebook Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Notebook creation date |
+| `id` | `string` | ❌ | ❌ | ✅ | Notebook Id |
+| `spec` | `cloud.project.ai.notebook.NotebookSpec` | ❌ | ❌ | ✅ | Notebook spec |
+| `status` | `cloud.project.ai.notebook.NotebookStatus` | ❌ | ❌ | ✅ | Notebook Container Status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Notebook last update date |
+| `user` | `string` | ❌ | ❌ | ✅ | Notebook user owner |
+
+### `cloud.project.ai.notebook.NotebookEnv`
+
+_AI Solutions Framework Object to create a notebook_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `editorId` | `string` | ✅ | ❌ | ❌ | Code editor to use |
+| `frameworkId` | `string` | ✅ | ❌ | ❌ | Framework name |
+| `frameworkVersion` | `string` | ❌ | ✅ | ❌ | Framework version to use |
+
+### `cloud.project.ai.notebook.NotebookForkInfo`
+
+_AI Solutions Forked Notebook Information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ✅ | ❌ | Forked notebook name |
+
+### `cloud.project.ai.notebook.NotebookSpec`
+
+_AI Solutions Notebook Spec Object to create a notebook_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `env` | `cloud.project.ai.notebook.NotebookEnv` | ❌ | ❌ | ✅ | Environment to deploy in this notebook |
+| `envVars` | `cloud.project.ai.job.JobEnv[]` | ❌ | ❌ | ✅ | List of environment variables to be set inside the notebook |
+| `flavor` | `string` | ❌ | ✅ | ✅ | Current notebook flavor |
+| `labels` | `map[string]string` | ❌ | ✅ | ✅ | Labels for the notebook |
+| `name` | `string` | ❌ | ❌ | ✅ | Notebook name |
+| `quantumResources` | `cloud.project.quantum.QuantumResources` | ❌ | ✅ | ✅ | Quantum resources |
+| `region` | `string` | ❌ | ❌ | ✅ | Host region of the notebook |
+| `resources` | `cloud.project.ai.Resources` | ❌ | ❌ | ✅ | Notebook resources |
+| `shutdown` | `cloud.project.ai.ShutdownStrategyEnum` | ❌ | ✅ | ✅ | Shutdown strategy (if any) |
+| `sshPublicKeys` | `string[]` | ❌ | ✅ | ✅ | SSH keys authorized to access the notebook |
+| `timeoutAutoRestart` | `boolean` | ❌ | ✅ | ✅ | Whether notebook is set to be restarted after timeout |
+| `unsecureHttp` | `boolean` | ❌ | ✅ | ✅ | Whether notebook api port can be accessed without any authentication token |
+| `volumes` | `cloud.project.ai.volume.Volume[]` | ❌ | ✅ | ✅ | Notebook Data linked |
+
+### `cloud.project.ai.notebook.NotebookSpecInput`
+
+_AI Solutions Notebook Spec Object to create a notebook_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `env` | `cloud.project.ai.notebook.NotebookEnv` | ✅ | ❌ | ❌ | Environment to deploy in this notebook |
+| `envVars` | `cloud.project.ai.job.JobEnv[]` | ❌ | ✅ | ❌ | List of environment variables to be set inside the notebook |
+| `labels` | `map[string]string` | ❌ | ✅ | ❌ | Labels are used to scope tokens, labels prefixed by 'ovh/' are owned by the platform and overridden |
+| `name` | `string` | ❌ | ❌ | ❌ | Notebook name |
+| `quantumResources` | `cloud.project.quantum.QuantumResourcesInput` | ❌ | ✅ | ❌ | Quantum resources |
+| `region` | `string` | ✅ | ❌ | ❌ | Host region of the notebook |
+| `resources` | `cloud.project.ai.ResourcesInput` | ✅ | ❌ | ❌ | Notebook resources |
+| `shutdown` | `cloud.project.ai.ShutdownStrategyEnum` | ❌ | ✅ | ✅ | Shutdown strategy (if any) |
+| `sshPublicKeys` | `string[]` | ❌ | ✅ | ❌ | SSH keys authorized to access the notebook |
+| `timeoutAutoRestart` | `boolean` | ❌ | ✅ | ❌ | Whether notebook is set to be restarted after timeout |
+| `unsecureHttp` | `boolean` | ❌ | ✅ | ❌ | Whether notebook api port can be accessed without any authentication token |
+| `volumes` | `cloud.project.ai.volume.Volume[]` | ❌ | ✅ | ❌ | Notebook Data linked |
+
+### `cloud.project.ai.notebook.NotebookStateEnum`
+
+_State of the notebook_
+
+**Enum** (`enumType: string`):
+
+- `DELETING`
+- `ERROR`
+- `FAILED`
+- `RESTARTING`
+- `RUNNING`
+- `STARTING`
+- `STOPPED`
+- `STOPPING`
+- `SYNC_FAILED`
+
+### `cloud.project.ai.notebook.NotebookStatus`
+
+_AI Solutions Notebook Status Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dataSync` | `cloud.project.ai.volume.DataSync[]` | ❌ | ❌ | ✅ | Status about the datasync linked to the job |
+| `duration` | `long` | ❌ | ✅ | ✅ | Duration of the notebook in seconds |
+| `grpcAddress` | `string` | ❌ | ✅ | ✅ | Address to reach when you want to access the Notebook's gRPC services |
+| `info` | `cloud.project.ai.Info` | ❌ | ❌ | ✅ | Information about the notebook |
+| `infoUrl` | `string` | ❌ | ✅ | ✅ | Notebook info url |
+| `lastJobStatus` | `cloud.project.ai.job.JobStatus` | ❌ | ❌ | ✅ | Status for the last job run |
+| `lastStartedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the notebook was last started |
+| `lastStoppedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the notebook was last stopped |
+| `monitoringUrl` | `string` | ❌ | ✅ | ✅ | Notebook resource usage url |
+| `sshUrl` | `string` | ❌ | ✅ | ✅ | SSH Url for the notebook |
+| `state` | `cloud.project.ai.notebook.NotebookStateEnum` | ❌ | ✅ | ✅ | State of the notebook |
+| `url` | `string` | ❌ | ✅ | ✅ | Notebook access url |
+| `volumes` | `cloud.project.ai.volume.VolumeStatus[]` | ❌ | ✅ | ✅ | Notebook Data linked |
+| `workspace` | `cloud.project.ai.notebook.NotebookWorkspace` | ❌ | ✅ | ✅ | State of the notebook workspace |
+
+### `cloud.project.ai.notebook.NotebookUpdate`
+
+_AI Solutions Notebook Spec Object to update a notebook_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `frameworkVersion` | `string` | ❌ | ✅ | ❌ | Framework version |
+| `labels` | `map[string]string` | ❌ | ✅ | ❌ | Labels for the notebook |
+| `name` | `string` | ❌ | ✅ | ❌ | Notebook name |
+| `quantumResources` | `cloud.project.quantum.QuantumResourcesInput` | ❌ | ✅ | ❌ | Quantum resources |
+| `resources` | `cloud.project.ai.ResourcesInput` | ❌ | ✅ | ❌ | Notebook resources |
+| `sshPublicKeys` | `string[]` | ❌ | ✅ | ❌ | SSH keys authorized to access the notebook |
+| `timeoutAutoRestart` | `boolean` | ❌ | ✅ | ❌ | Whether notebook is set to be restarted after timeout |
+| `unsecureHttp` | `boolean` | ❌ | ✅ | ❌ | Whether notebook api port can be accessed without any authentication token |
+| `volumes` | `cloud.project.ai.volume.Volume[]` | ❌ | ✅ | ❌ | Notebook Data linked |
+
+### `cloud.project.ai.notebook.NotebookWorkspace`
+
+_AI Solutions Notebook Workspace Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `storageFree` | `long` | ❌ | ❌ | ✅ | The number of storage bytes free of charges for notebook workspace |
+| `storageUsed` | `long` | ❌ | ❌ | ✅ | The number of storage bytes currently used to persist notebook workspace |
+
+### `cloud.project.ai.notebook.NotebookWorkspaceBackupRetentionPolicy`
+
+_Representation of a notebook workspace backup retention policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `lifetimeEvictionThreshold` | `long` | ❌ | ❌ | ✅ | Position in the backup history from which the lifetime-based eviction can be applied to a workspace backup |
+| `lifetimeInDays` | `long` | ❌ | ❌ | ✅ | Maximum number of retention days for a given notebook's workspace backups which is at or after lifetime_eviction_threshold index in history |
+| `retainedNumber` | `long` | ❌ | ❌ | ✅ | The number of retained workspace backups for a given notebook |
+
+### `cloud.project.ai.notebook.NotebookWorkspaceBackupRetentionPolicyInput`
+
+_Representation of an override of a notebook workspace backup retention policy_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `lifetimeEvictionThreshold` | `long` | ❌ | ✅ | ❌ | Position in the backup history from which the lifetime-based eviction can be applied to a workspace backup |
+| `lifetimeInDays` | `long` | ❌ | ✅ | ❌ | Maximum number of retention days for a given notebook's workspace backups which is at or after lifetime_eviction_threshold index in history |
+| `retainedNumber` | `long` | ❌ | ✅ | ❌ | The number of retained workspace backups for a given notebook |
+
+### `cloud.project.ai.partner.Contract`
+
+_Representation of a partner's contract with logged in user's tenant_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `signedAt` | `datetime` | ❌ | ✅ | ✅ | Contract signature date for the logged in user's tenant |
+| `termsOfService` | `map[string]cloud.project.ai.partner.ContractTermsLocale` | ❌ | ❌ | ✅ | Map of terms of service details per locale |
+
+### `cloud.project.ai.partner.ContractTermsLocale`
+
+_Representation of a partner's contract on a given language_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `url` | `string` | ❌ | ❌ | ✅ | Contract file URL for a given language |
+
+### `cloud.project.ai.partner.Partner`
+
+_Representation of a partner_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contract` | `cloud.project.ai.partner.Contract` | ❌ | ✅ | ✅ | Partner contract with logged in user's tenant |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Partner creation date |
+| `description` | `string` | ❌ | ❌ | ✅ | Partner Description |
+| `id` | `string` | ❌ | ❌ | ✅ | Partner Id |
+| `name` | `string` | ❌ | ❌ | ✅ | Partner Name |
+
+### `cloud.project.ai.registry.Registry`
+
+_Representation of a registry_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Registry creation date |
+| `id` | `string` | ❌ | ❌ | ✅ | Registry Id |
+| `password` | `password` | ✅ | ✅ | ❌ | Docker registry password |
+| `region` | `string` | ✅ | ❌ | ❌ | Region where the registry is available |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Registry update date |
+| `url` | `string` | ✅ | ✅ | ❌ | Docker registry URL |
+| `user` | `string` | ❌ | ❌ | ✅ | Registry user creator |
+| `username` | `string` | ✅ | ✅ | ❌ | Docker registry username |
+
+### `cloud.project.ai.registry.RegistryUpdateInput`
+
+_Docker registry update object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `password` | `password` | ❌ | ✅ | ❌ | Docker registry password |
+| `url` | `string` | ❌ | ✅ | ❌ | Docker registry URL |
+| `username` | `string` | ❌ | ✅ | ❌ | Docker registry username |
+
+### `cloud.project.ai.token.Token`
+
+_AI Solutions Application Token_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Application token creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Application token Id |
+| `spec` | `cloud.project.ai.token.TokenSpec` | ❌ | ❌ | ✅ | Application token spec |
+| `status` | `cloud.project.ai.token.TokenStatus` | ❌ | ❌ | ✅ | Application token status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Application token update date |
+
+### `cloud.project.ai.token.TokenSpec`
+
+_AI Solutions Application Token Spec Object to create a notebook_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `labelSelector` | `string` | ❌ | ✅ | ❌ | Application token label selector |
+| `name` | `string` | ✅ | ❌ | ❌ | Application token name |
+| `region` | `string` | ✅ | ❌ | ❌ | Public Cloud Storage Region |
+| `role` | `cloud.project.ai.TokenRoleEnum` | ✅ | ❌ | ❌ | Role granted by this application token |
+
+### `cloud.project.ai.token.TokenStatus`
+
+_AI Solutions Application Token Status Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `value` | `password` | ❌ | ✅ | ✅ | Application token value to use as a Bearer |
+| `version` | `long` | ❌ | ❌ | ✅ | Application token version |
+
+### `cloud.project.ai.volume.DataStore`
+
+_AI Solutions data store container Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `alias` | `string` | ✅ | ❌ | ❌ | Data store alias |
+| `archive` | `string` | ❌ | ✅ | ❌ | Name of the tar archive that needs to be saved |
+| `container` | `string` | ✅ | ❌ | ❌ | Data store container to attach |
+| `internal` | `boolean` | ❌ | ✅ | ❌ | True if data is stored on OVHcloud AI's internal storage |
+| `prefix` | `string` | ❌ | ✅ | ❌ | Prefix to fetch only part of the volume |
+
+### `cloud.project.ai.volume.DataSync`
+
+_AI Solutions Data Sync_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Data Sync creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Data Sync Id |
+| `spec` | `cloud.project.ai.volume.DataSyncSpec` | ❌ | ❌ | ✅ | Data Sync specifications |
+| `status` | `cloud.project.ai.volume.DataSyncStatus` | ❌ | ❌ | ✅ | Data Sync status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Data Sync update date |
+
+### `cloud.project.ai.volume.DataSyncEnum`
+
+_Data Sync Direction_
+
+**Enum** (`enumType: string`):
+
+- `pull`
+- `push`
+
+### `cloud.project.ai.volume.DataSyncProgressStateEnum`
+
+_State of the progress sync_
+
+**Enum** (`enumType: string`):
+
+- `DONE`
+- `ERROR`
+- `FAILED`
+- `FORBIDDEN`
+- `INTERRUPTED`
+- `INVALID_CREDENTIALS`
+- `NOT_FOUND`
+- `QUEUED`
+- `RUNNING`
+- `TRANSIENT_ERROR`
+- `UNKNOWN_ERROR`
+
+### `cloud.project.ai.volume.DataSyncSpec`
+
+_AI Solutions Data Sync Spec_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `direction` | `cloud.project.ai.volume.DataSyncEnum` | ❌ | ❌ | ❌ | Direction of the sync |
+| `manual` | `boolean` | ❌ | ❌ | ✅ | True if the user has created the object |
+| `volume` | `uuid` | ❌ | ✅ | ❌ | Only sync this volume |
+
+### `cloud.project.ai.volume.DataSyncStateEnum`
+
+_State of the data sync_
+
+**Enum** (`enumType: string`):
+
+- `DONE`
+- `ERROR`
+- `FAILED`
+- `INTERRUPTED`
+- `QUEUED`
+- `RUNNING`
+
+### `cloud.project.ai.volume.DataSyncStatus`
+
+_AI Solutions Data Sync Status_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the data sync ended |
+| `info` | `cloud.project.ai.Info` | ❌ | ❌ | ✅ | Information about the data sync |
+| `progress` | `cloud.project.ai.volume.Progress[]` | ❌ | ❌ | ✅ | Progress status of the data sync |
+| `queuedAt` | `datetime` | ❌ | ❌ | ✅ | Date when the data sync was queued |
+| `startedAt` | `datetime` | ❌ | ✅ | ✅ | Date when the data sync was started |
+| `state` | `cloud.project.ai.volume.DataSyncStateEnum` | ❌ | ❌ | ✅ | State of the data sync |
+
+### `cloud.project.ai.volume.Progress`
+
+_AI Solutions Progress Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `completed` | `long` | ❌ | ❌ | ✅ | Number of completed files |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Progress creation date |
+| `deleted` | `long` | ❌ | ❌ | ✅ | Number of deleted files |
+| `direction` | `cloud.project.ai.volume.DataSyncEnum` | ❌ | ❌ | ✅ | Direction of the progress sync |
+| `eta` | `long` | ❌ | ✅ | ✅ | ETA to finish in seconds. Deprecated |
+| `failed` | `long` | ❌ | ❌ | ✅ | Number of failed files |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Progress Id |
+| `info` | `string` | ❌ | ❌ | ✅ | Volume information |
+| `processed` | `long` | ❌ | ❌ | ✅ | Number of processed files |
+| `skipped` | `long` | ❌ | ❌ | ✅ | Number of skipped files |
+| `state` | `cloud.project.ai.volume.DataSyncProgressStateEnum` | ❌ | ❌ | ✅ | State of the progress sync |
+| `total` | `long` | ❌ | ❌ | ✅ | Total number of files |
+| `transferredBytes` | `long` | ❌ | ❌ | ✅ | Transferred size in bytes |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Progress update date |
+
+### `cloud.project.ai.volume.PublicGit`
+
+_AI Solutions public Git repository Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `url` | `string` | ✅ | ❌ | ❌ | URL of the public git repository |
+
+### `cloud.project.ai.volume.PublicSwift`
+
+_AI Solutions public Swift container Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `url` | `string` | ✅ | ❌ | ❌ | URL of the public swift container |
+
+### `cloud.project.ai.volume.Standalone`
+
+_AI Solutions No Source Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ✅ | ❌ | Name of the volume |
+
+### `cloud.project.ai.volume.Volume`
+
+_AI Solutions Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cache` | `boolean` | ❌ | ❌ | ❌ | Enable/disable volume caching |
+| `container` | `string` | ❌ | ✅ | ❌ | Public Cloud Storage container to attach |
+| `dataStore` | `cloud.project.ai.volume.DataStore` | ❌ | ✅ | ❌ | Volume details for data store containers. Deprecated: Use volumeSource.dataStore instead |
+| `id` | `uuid` | ❌ | ✅ | ✅ | Volume Id. Deprecated: moved to status.volumes[] |
+| `mountPath` | `string` | ✅ | ❌ | ❌ | Path where to mount the data inside the container |
+| `permission` | `cloud.project.ai.VolumePermissionEnum` | ✅ | ❌ | ❌ | Permissions to use on the mounted volume |
+| `prefix` | `string` | ❌ | ✅ | ❌ | Prefix to fetch only part of the volume |
+| `publicGit` | `cloud.project.ai.volume.PublicGit` | ❌ | ✅ | ❌ | Volume details for public git repositories. Deprecated: Use volumeSource.publicGit instead |
+| `publicSwift` | `cloud.project.ai.volume.PublicSwift` | ❌ | ✅ | ❌ | Volume details for public swift containers. Deprecated: Use volumeSource.publicSwift instead |
+| `region` | `string` | ❌ | ✅ | ❌ | Public Cloud Storage Region |
+| `standalone` | `cloud.project.ai.volume.Standalone` | ❌ | ✅ | ❌ | Volume details for volumes that do not have a datasource. Deprecated: Use volumeSource.standalone instead |
+| `targetDataStore` | `cloud.project.ai.volume.DataStore` | ❌ | ✅ | ❌ | Target volume details for data store containers. Deprecated: Use volumeTarget.targetDataStore instead |
+| `volumeSource` | `cloud.project.ai.volume.VolumeSource` | ❌ | ✅ | ❌ | Source volume details |
+| `volumeTarget` | `cloud.project.ai.volume.VolumeTarget` | ❌ | ✅ | ❌ | Target volume details |
+
+### `cloud.project.ai.volume.VolumeSource`
+
+_AI Solutions VolumeSource Object. Describes a source (object store) volume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dataStore` | `cloud.project.ai.volume.DataStore` | ❌ | ✅ | ❌ | Volume details for data store containers |
+| `publicGit` | `cloud.project.ai.volume.PublicGit` | ❌ | ✅ | ❌ | Volume details for public git repositories |
+| `publicSwift` | `cloud.project.ai.volume.PublicSwift` | ❌ | ✅ | ❌ | Volume details for public swift containers |
+| `standalone` | `cloud.project.ai.volume.Standalone` | ❌ | ✅ | ❌ | Volume details for volumes that do not have a datasource |
+
+### `cloud.project.ai.volume.VolumeStatus`
+
+_AI Solutions Volume Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Volume Id |
+| `mountPath` | `string` | ❌ | ❌ | ✅ | Path where the data is mounted inside the container |
+| `userVolumeId` | `uuid` | ❌ | ❌ | ✅ | User volume Id |
+
+### `cloud.project.ai.volume.VolumeTarget`
+
+_AI Solutions VolumeTarget Object. Describes a target (object store) volume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `targetDataStore` | `cloud.project.ai.volume.DataStore` | ❌ | ✅ | ❌ | Volume details for data store containers |
+
+### `cloud.project.certificate.Import`
+
+_Import external certificate_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cert` | `text` | ✅ | ❌ | ❌ | PEM encoded certificate |
+| `chain` | `text` | ❌ | ✅ | ❌ | Optional PEM encoded certificate chain |
+| `key` | `password` | ✅ | ❌ | ❌ | PEM encoded certificate private key |
+
+### `cloud.project.certificate.ServerAlternativeName`
+
+_Certificate SAN_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `cloud.project.certificate.ServerAlternativeNameKindEnum` | ❌ | ❌ | ✅ | SAN kind |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the given kind |
+
+### `cloud.project.certificate.ServerAlternativeNameKindEnum`
+
+_SAN kind_
+
+**Enum** (`enumType: string`):
+
+- `DNS`
+- `EMAIL`
+- `IP`
+- `URI`
+
+### `cloud.project.database.Availability`
+
+_Availability of databases engines on cloud projects_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backup` | `cloud.project.database.BackupTypeEnum` | ❌ | ❌ | ✅ | Defines the type of backup. DEPRECATED: use backups.enable |
+| `backupRetentionDays` | `long` | ❌ | ❌ | ✅ | Backup retention time of the availability in days. DEPRECATED: use backups.retentionDays |
+| `backups` | `cloud.project.database.availability.Backups` | ❌ | ❌ | ✅ | Defines backups strategy for the availability |
+| `category` | `cloud.project.database.engine.CategoryEnum` | ❌ | ❌ | ✅ | Category of the engine |
+| `default` | `boolean` | ❌ | ❌ | ✅ | Whether this availability can be used by default |
+| `endOfLife` | `date` | ❌ | ✅ | ✅ | End of life of the product. DEPRECATED: use lifecycle.endOfLife |
+| `engine` | `string` | ❌ | ❌ | ✅ | Database engine name |
+| `flavor` | `string` | ❌ | ❌ | ✅ | Flavor name. DEPRECATED: use specifications.flavor |
+| `lifecycle` | `cloud.project.database.availability.Lifecycle` | ❌ | ❌ | ✅ | Defines the lifecycle of the availability |
+| `maxDiskSize` | `long` | ❌ | ❌ | ✅ | Maximum possible disk size in GB. DEPRECATED: use specifications.storage.maximum |
+| `maxNodeNumber` | `long` | ❌ | ❌ | ✅ | Maximum nodes of the cluster. DEPRECATED: use specifications.nodes.maximum |
+| `minDiskSize` | `long` | ❌ | ❌ | ✅ | Minimum possible disk size in GB. DEPRECATED: use specifications.storage.minimum |
+| `minNodeNumber` | `long` | ❌ | ❌ | ✅ | Minimum nodes of the cluster. DEPRECATED: use specifications.nodes.minimum |
+| `network` | `cloud.project.database.NetworkTypeEnum` | ❌ | ❌ | ✅ | Type of network. DEPRECATED: use specifications.network |
+| `plan` | `string` | ❌ | ❌ | ✅ | Plan name |
+| `planCode` | `string` | ❌ | ❌ | ✅ | Billing plan code |
+| `planCodeStorage` | `string` | ❌ | ❌ | ✅ | Billing plan code for storage |
+| `region` | `string` | ❌ | ❌ | ✅ | Region name |
+| `specifications` | `cloud.project.database.availability.Specifications` | ❌ | ❌ | ✅ | Defines the technical specifications of the availability |
+| `startDate` | `date` | ❌ | ❌ | ✅ | Date of the release of the product. DEPRECATED: use lifecycle.startDate |
+| `status` | `cloud.project.database.availability.StatusEnum` | ❌ | ❌ | ✅ | Status of the availability. DEPRECATED: use lifecycle.status |
+| `stepDiskSize` | `long` | ❌ | ❌ | ✅ | Flex disk size step in GB. DEPRECATED: use specifications.storage.step |
+| `upstreamEndOfLife` | `date` | ❌ | ✅ | ✅ | End of life of the upstream product. DEPRECATED: use lifecycle |
+| `version` | `string` | ❌ | ❌ | ✅ | Version name |
+
+### `cloud.project.database.Backup`
+
+_Cloud database backup definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the backup |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the backup |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Backup ID |
+| `region` | `string` | ❌ | ❌ | ✅ | Region where the backup is stored. DEPRECATED: use regions |
+| `regions` | `cloud.project.database.backup.Region[]` | ❌ | ❌ | ✅ | Regions where the backup are stored |
+| `size` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Size of the backup |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the backup |
+| `type` | `cloud.project.database.BackupTypeEnum` | ❌ | ❌ | ✅ | Type of backup |
+
+### `cloud.project.database.BackupTypeEnum`
+
+_Type of backup for the cluster_
+
+**Enum** (`enumType: string`):
+
+- `automatic`
+- `manual`
+- `none`
+- `pitr`
+- `snapshot`
+
+### `cloud.project.database.Capabilities`
+
+_Capabilities available for the databases engines on cloud projects_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `disks` | `string[]` | ❌ | ❌ | ✅ | Disks available |
+| `engines` | `cloud.project.database.capabilities.Engine[]` | ❌ | ❌ | ✅ | Database engines available |
+| `flavors` | `cloud.project.database.capabilities.Flavor[]` | ❌ | ❌ | ✅ | Flavors available |
+| `options` | `cloud.project.database.capabilities.Option[]` | ❌ | ❌ | ✅ | Options available |
+| `plans` | `cloud.project.database.capabilities.Plan[]` | ❌ | ❌ | ✅ | Plans available |
+| `regions` | `string[]` | ❌ | ❌ | ✅ | Regions available |
+
+### `cloud.project.database.EngineEnum`
+
+_Possible names of the engines_
+
+**Enum** (`enumType: string`):
+
+- `cassandra`
+- `clickhouse`
+- `grafana`
+- `kafka`
+- `kafkaConnect`
+- `kafkaMirrorMaker`
+- `m3aggregator`
+- `m3db`
+- `mongodb`
+- `mysql`
+- `opensearch`
+- `postgresql`
+- `redis`
+- `valkey`
+
+### `cloud.project.database.IpRestriction`
+
+_Ip Restriction definition for cloud project databases (DEPRECATED)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the ip restriction |
+| `ip` | `ipBlock` | ❌ | ❌ | ✅ | Whitelisted IP |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the ip restriction |
+
+### `cloud.project.database.IpRestrictionCreation`
+
+_Ip Restriction creation definition for cloud project databases (DEPRECATED)_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the ip restriction |
+| `ip` | `ipBlock` | ❌ | ❌ | ❌ | Whitelisted IP |
+
+### `cloud.project.database.NetworkTypeEnum`
+
+_Type of network in which the databases cluster are_
+
+**Enum** (`enumType: string`):
+
+- `private`
+- `public`
+
+### `cloud.project.database.Service`
+
+_Cloud database service definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupTime` | `time` | ❌ | ❌ | ❌ | Time on which backups start every day. DEPRECATED: use backups.time |
+| `backups` | `cloud.project.database.service.Backup` | ❌ | ✅ | ❌ | Information related to the backups, null if the engine does not support backups |
+| `capabilities` | `map[cloud.project.database.service.CapabilityEnum]cloud.project.database.service.CapabilityActions` | ❌ | ❌ | ✅ | Capabilities of the services |
+| `category` | `cloud.project.database.engine.CategoryEnum` | ❌ | ❌ | ✅ | Category of the engine |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the cluster |
+| `deletionProtection` | `boolean` | ❌ | ✅ | ❌ | Enable deletion protection |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the cluster |
+| `disk` | `cloud.project.database.service.Disk` | ❌ | ❌ | ❌ | Disk attributes of the cluster. DEPRECATED: use storage |
+| `enablePrometheus` | `boolean` | ❌ | ✅ | ❌ | Enable Prometheus |
+| `endpoints` | `cloud.project.database.service.Endpoint[]` | ❌ | ❌ | ✅ | List of all endpoints of the service |
+| `engine` | `cloud.project.database.EngineEnum` | ❌ | ❌ | ✅ | Name of the engine of the service |
+| `flavor` | `string` | ❌ | ❌ | ❌ | The VM flavor used for this cluster |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `ipRestrictions` | `cloud.project.database.service.IpRestriction[]` | ❌ | ❌ | ❌ | IP Blocks authorized to access to the cluster |
+| `maintenanceTime` | `time` | ❌ | ❌ | ❌ | Time on which maintenances can start every day |
+| `networkId` | `uuid` | ❌ | ✅ | ✅ | Private network ID in which the cluster is |
+| `networkType` | `cloud.project.database.NetworkTypeEnum` | ❌ | ❌ | ✅ | Type of network of the cluster |
+| `nodeNumber` | `long` | ❌ | ❌ | ❌ | Number of nodes in the cluster. DEPRECATED: use nodes |
+| `nodes` | `cloud.project.database.service.Node[]` | ❌ | ❌ | ✅ | Nodes of the cluster |
+| `plan` | `string` | ❌ | ❌ | ❌ | Plan of the cluster |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the cluster |
+| `storage` | `cloud.project.database.service.Storage` | ❌ | ✅ | ❌ | Storage attributes of the cluster |
+| `subnetId` | `uuid` | ❌ | ✅ | ✅ | Private subnet ID in which the cluster is |
+| `version` | `string` | ❌ | ❌ | ❌ | Version of the engine deployed on the cluster |
+
+### `cloud.project.database.ServiceCreation`
+
+_Cloud databases cluster definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backup` | `cloud.project.database.service.creation.BackupFork` | ❌ | ✅ | ❌ | Backup from which the new service is created. DEPRECATED: use forkFrom |
+| `backupTime` | `time` | ❌ | ✅ | ❌ | Time on which backups start every day. DEPRECATED: use backups.time |
+| `backups` | `cloud.project.database.service.Backup` | ❌ | ✅ | ❌ | Information related to the backups, null if the engine does not support backups |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the cluster |
+| `disk` | `cloud.project.database.service.Disk` | ❌ | ❌ | ❌ | Disk attributes of the cluster |
+| `forkFrom` | `cloud.project.database.service.creation.ForkFrom` | ❌ | ✅ | ❌ | Backup from which the new service is created |
+| `ipRestrictions` | `cloud.project.database.service.IpRestriction[]` | ❌ | ❌ | ❌ | IP Blocks authorized to access to the cluster |
+| `maintenanceTime` | `time` | ❌ | ✅ | ❌ | Time on which maintenances can start every day |
+| `networkId` | `uuid` | ❌ | ✅ | ❌ | Private network ID in which the cluster is |
+| `nodesList` | `cloud.project.database.service.NodeCreation[]` | ❌ | ✅ | ❌ | List of nodes in the cluster, not compatible with nodesPattern |
+| `nodesPattern` | `cloud.project.database.service.NodePattern` | ❌ | ✅ | ❌ | Pattern definition of the nodes in the cluster, not compatible with nodesList |
+| `plan` | `string` | ❌ | ❌ | ❌ | Plan of the cluster |
+| `subnetId` | `uuid` | ❌ | ✅ | ❌ | Private subnet ID in which the cluster is |
+| `version` | `string` | ❌ | ❌ | ❌ | Version of the engine deployed on the cluster |
+
+### `cloud.project.database.ServiceWithoutPrometheus`
+
+_Cloud database service definition without prometheus enabler_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupTime` | `time` | ❌ | ❌ | ❌ | Time on which backups start every day. DEPRECATED: use backups.time |
+| `backups` | `cloud.project.database.service.Backup` | ❌ | ✅ | ❌ | Information related to the backups, null if the engine does not support backups |
+| `capabilities` | `map[cloud.project.database.service.CapabilityEnum]cloud.project.database.service.CapabilityActions` | ❌ | ❌ | ✅ | Capabilities of the services |
+| `category` | `cloud.project.database.engine.CategoryEnum` | ❌ | ❌ | ✅ | Category of the engine |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the cluster |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the cluster |
+| `disk` | `cloud.project.database.service.Disk` | ❌ | ❌ | ❌ | Disk attributes of the cluster. DEPRECATED: use storage |
+| `endpoints` | `cloud.project.database.service.Endpoint[]` | ❌ | ❌ | ✅ | List of all endpoints of the service |
+| `engine` | `cloud.project.database.EngineEnum` | ❌ | ❌ | ✅ | Name of the engine of the service |
+| `flavor` | `string` | ❌ | ❌ | ❌ | The VM flavor used for this cluster |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `ipRestrictions` | `cloud.project.database.service.IpRestriction[]` | ❌ | ❌ | ❌ | IP Blocks authorized to access to the cluster |
+| `maintenanceTime` | `time` | ❌ | ❌ | ❌ | Time on which maintenances can start every day |
+| `networkId` | `uuid` | ❌ | ✅ | ✅ | Private network ID in which the cluster is |
+| `networkType` | `cloud.project.database.NetworkTypeEnum` | ❌ | ❌ | ✅ | Type of network of the cluster |
+| `nodeNumber` | `long` | ❌ | ❌ | ❌ | Number of nodes in the cluster. DEPRECATED: use nodes |
+| `nodes` | `cloud.project.database.service.Node[]` | ❌ | ❌ | ✅ | Nodes of the cluster |
+| `plan` | `string` | ❌ | ❌ | ❌ | Plan of the cluster |
+| `region` | `string` | ❌ | ✅ | ❌ | Region of the cluster |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the cluster |
+| `storage` | `cloud.project.database.service.Storage` | ❌ | ✅ | ❌ | Storage attributes of the cluster |
+| `subnetId` | `uuid` | ❌ | ✅ | ✅ | Private subnet ID in which the cluster is |
+| `version` | `string` | ❌ | ❌ | ❌ | Version of the engine deployed on the cluster |
+
+### `cloud.project.database.StatusEnum`
+
+_Possible state of the job_
+
+**Enum** (`enumType: string`):
+
+- `CREATING`
+- `DELETING`
+- `DRAINED`
+- `ERROR`
+- `LOCKED`
+- `LOCKED_PENDING`
+- `LOCKED_UPDATING`
+- `PENDING`
+- `READY`
+- `SHELVED`
+- `TO_DRAIN`
+- `UPDATING`
+
+### `cloud.project.database.TemporaryWriteDeadline`
+
+_Cloud databases temporary write deadline definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `until` | `datetime` | ❌ | ❌ | ✅ | Date on which the temporary write permissions would be lifted |
+
+### `cloud.project.database.TypeEnum`
+
+_Type of data returned in the capabilities options_
+
+**Enum** (`enumType: string`):
+
+- `boolean`
+- `double`
+- `duration`
+- `long`
+- `string`
+
+### `cloud.project.database.availability.ActionEnum`
+
+_Possible action to restrict availabilities_
+
+**Enum** (`enumType: string`):
+
+- `fork`
+- `read`
+- `update`
+
+### `cloud.project.database.availability.Backups`
+
+_Backups availability of databases engines on cloud projects_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `available` | `boolean` | ❌ | ❌ | ✅ | Defines whether the backups are available for this offer |
+| `retentionDays` | `long` | ❌ | ✅ | ✅ | Number of retention days for the backups |
+
+### `cloud.project.database.availability.Lifecycle`
+
+_Availability of databases engines on cloud projects_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endOfLife` | `date` | ❌ | ✅ | ✅ | End of life of the product |
+| `endOfSale` | `date` | ❌ | ✅ | ✅ | End of sale of the product |
+| `startDate` | `date` | ❌ | ❌ | ✅ | Date of the release of the product |
+| `status` | `cloud.project.database.availability.StatusEnum` | ❌ | ❌ | ✅ | Status of the availability |
+
+### `cloud.project.database.availability.Specifications`
+
+_Specifications of the availability of databases engines on cloud projects_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `flavor` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `network` | `cloud.project.database.NetworkTypeEnum` | ❌ | ❌ | ✅ | Type of network |
+| `nodes` | `cloud.project.database.availability.specifications.Nodes` | ❌ | ❌ | ✅ | Specification of the nodes |
+| `storage` | `cloud.project.database.availability.specifications.Storage` | ❌ | ✅ | ✅ | Specification of the storage |
+
+### `cloud.project.database.availability.StatusEnum`
+
+_Possible status for the availability_
+
+**Enum** (`enumType: string`):
+
+- `BETA`
+- `DEPRECATED`
+- `END_OF_LIFE`
+- `END_OF_SALE`
+- `STABLE`
+- `UNAVAILABLE`
+
+### `cloud.project.database.availability.TargetEnum`
+
+_Possible target to restrict availabilities_
+
+**Enum** (`enumType: string`):
+
+- `flavor`
+- `plan`
+- `self`
+- `version`
+
+### `cloud.project.database.availability.specifications.Nodes`
+
+_Specifications of the nodes for availabilities of databases engines on cloud projects_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maximum` | `long` | ❌ | ❌ | ✅ | Maximum number of nodes of the availability |
+| `minimum` | `long` | ❌ | ❌ | ✅ | Minimum number of nodes of the availability |
+
+### `cloud.project.database.availability.specifications.Storage`
+
+_Specifications of the storage for availabilities of databases engines on cloud projects_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maximum` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Maximum storage of the availability |
+| `minimum` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Minimum storage of the availability |
+| `step` | `complexType.UnitAndValue<long>` | ❌ | ✅ | ✅ | Memory step that can be added between minimum and maximum |
+
+### `cloud.project.database.backup.Region`
+
+_Cloud database backup region definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the region where the backup is stored |
+
+### `cloud.project.database.capabilities.Engine`
+
+_Specific database engine capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `category` | `cloud.project.database.engine.CategoryEnum` | ❌ | ❌ | ✅ | Category of the engine |
+| `defaultVersion` | `string` | ❌ | ❌ | ✅ | Default version used for the engine |
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the engine |
+| `name` | `string` | ❌ | ❌ | ✅ | Engine name |
+| `sslModes` | `string[]` | ❌ | ❌ | ✅ | SSL modes for this engine |
+| `storage` | `cloud.project.database.capabilities.engine.storage.StrategyEnum` | ❌ | ❌ | ✅ | Storage strategy of the engine |
+| `versions` | `string[]` | ❌ | ❌ | ✅ | Versions available for this engine |
+
+### `cloud.project.database.capabilities.Flavor`
+
+_Cloud Database flavor definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `core` | `long` | ❌ | ❌ | ✅ | Flavor core number. DEPRECATED: use specifications.core |
+| `generation` | `string` | ❌ | ❌ | ✅ | Flavor generation (e.g. gen1, gen2, gen3) used to group plans in the order funnel |
+| `lifecycle` | `cloud.project.database.availability.Lifecycle` | ❌ | ❌ | ✅ | Defines the lifecycle of the flavor |
+| `memory` | `long` | ❌ | ❌ | ✅ | Flavor ram size in GB. DEPRECATED: use specifications.memory |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the flavor |
+| `order` | `long` | ❌ | ❌ | ✅ | Display order |
+| `specifications` | `cloud.project.database.capabilities.flavor.Specifications` | ❌ | ❌ | ✅ | Technical specifications of the flavor |
+| `storage` | `long` | ❌ | ❌ | ✅ | Flavor disk size in GB. DEPRECATED: use specifications.storage |
+| `tags` | `string[]` | ❌ | ❌ | ✅ | Display tags |
+
+### `cloud.project.database.capabilities.Integration`
+
+_Integration capability between database engines_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `destinationEngine` | `cloud.project.database.EngineEnum` | ❌ | ❌ | ✅ | Destination engine for the integration |
+| `parameters` | `cloud.project.database.capabilities.integration.Parameter[]` | ❌ | ✅ | ✅ | Parameters for the integration capability |
+| `sourceEngine` | `cloud.project.database.EngineEnum` | ❌ | ❌ | ✅ | Source engine for the integration |
+| `type` | `cloud.project.database.service.integration.TypeEnum` | ❌ | ❌ | ✅ | Type of the integration |
+
+### `cloud.project.database.capabilities.Option`
+
+_Cloud Database option definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the option |
+| `type` | `cloud.project.database.TypeEnum` | ❌ | ❌ | ✅ | Type of the option |
+
+### `cloud.project.database.capabilities.Plan`
+
+_Cloud Database plan definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupRetention` | `duration` | ❌ | ❌ | ✅ | Automatic backup retention duration |
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the plan |
+| `lifecycle` | `cloud.project.database.availability.Lifecycle` | ❌ | ❌ | ✅ | Defines the lifecycle of the availability |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the plan |
+| `order` | `long` | ❌ | ❌ | ✅ | Display order |
+| `tags` | `string[]` | ❌ | ❌ | ✅ | Display tags |
+
+### `cloud.project.database.capabilities.advancedConfiguration.Property`
+
+_Specific database engine capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the property |
+| `maximum` | `double` | ❌ | ✅ | ✅ | Maximum value for the property if numeric and applicable |
+| `minimum` | `double` | ❌ | ✅ | ✅ | Minimum value for the property if numeric and applicable |
+| `name` | `string` | ❌ | ❌ | ✅ | Property name |
+| `type` | `cloud.project.database.capabilities.advancedConfiguration.property.TypeEnum` | ❌ | ❌ | ✅ | Data type of the property |
+| `values` | `string[]` | ❌ | ✅ | ✅ | Possible values for the property if string and applicable |
+
+### `cloud.project.database.capabilities.advancedConfiguration.property.TypeEnum`
+
+_Possible type of the advanced configuration properties_
+
+**Enum** (`enumType: string`):
+
+- `boolean`
+- `double`
+- `long`
+- `string`
+
+### `cloud.project.database.capabilities.engine.storage.StrategyEnum`
+
+_Possible storage strategy for an engine_
+
+**Enum** (`enumType: string`):
+
+- `distributed`
+- `n/a`
+- `replicated`
+
+### `cloud.project.database.capabilities.flavor.Specifications`
+
+_Cloud Database flavor specifications definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `core` | `long` | ❌ | ❌ | ✅ | Flavor core number |
+| `memory` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Flavor ram size |
+| `storage` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Flavor disk size |
+
+### `cloud.project.database.capabilities.integration.Parameter`
+
+_Integration capability parameter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the integration parameter |
+| `type` | `cloud.project.database.capabilities.integration.parameter.TypeEnum` | ❌ | ❌ | ✅ | Type of the integration parameter |
+
+### `cloud.project.database.capabilities.integration.parameter.TypeEnum`
+
+_Possible type of an integration capability parameter_
+
+**Enum** (`enumType: string`):
+
+- `integer`
+- `string`
+
+### `cloud.project.database.clickhouse.QueryStatistics`
+
+_Cloud database clickhouse query statistics response body definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `queries` | `cloud.project.database.clickhouse.querystatistics.Query[]` | ❌ | ❌ | ✅ | Statistics of the queries |
+
+### `cloud.project.database.clickhouse.querystatistics.Query`
+
+_Cloud database clickhouse single query statistic definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `calls` | `long` | ❌ | ❌ | ✅ | Number of times this function has been called |
+| `database` | `string` | ❌ | ❌ | ✅ | Name of the database |
+| `maxTime` | `long` | ❌ | ❌ | ✅ | Maximum query duration in milliseconds |
+| `meanTime` | `long` | ❌ | ❌ | ✅ | Average query duration in milliseconds |
+| `minTime` | `long` | ❌ | ❌ | ✅ | Minimum query duration in milliseconds |
+| `p95Time` | `long` | ❌ | ❌ | ✅ | Query duration 95th percentile in milliseconds |
+| `query` | `text` | ❌ | ❌ | ✅ | Normalized query |
+| `rows` | `double` | ❌ | ❌ | ✅ | Average number of rows per call |
+| `stddevTime` | `long` | ❌ | ❌ | ✅ | Query duration standard deviation in milliseconds |
+| `totalTime` | `long` | ❌ | ❌ | ✅ | Total duration of all calls in milliseconds |
+
+### `cloud.project.database.engine.CategoryEnum`
+
+_Different categories of engines_
+
+**Enum** (`enumType: string`):
+
+- `analysis`
+- `operational`
+- `streaming`
+
+### `cloud.project.database.kafka.Permissions`
+
+_Cloud databases kafka permissions definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `names` | `string[]` | ❌ | ❌ | ✅ | Names of the topic permissions (DEPRECATED) |
+| `schemaRegistry` | `string[]` | ❌ | ❌ | ✅ | Names of the schema registry permissions |
+| `topic` | `string[]` | ❌ | ❌ | ✅ | Names of the topic permissions |
+
+### `cloud.project.database.kafka.SchemaRegistryAcl`
+
+_Cloud databases kafka schema registry acl definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Acl ID |
+| `permission` | `string` | ✅ | ❌ | ❌ | Permission to give to this username on this resource. Permissions values can be retrieved using /cloud/project/{serviceName}/database/kafka/{clusterId}/permissions |
+| `resource` | `string` | ✅ | ❌ | ❌ | Resource affected by this acl |
+| `username` | `string` | ✅ | ❌ | ❌ | Username affected by this acl |
+
+### `cloud.project.database.kafka.Service`
+
+_Cloud database kafka service definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupTime` | `time` | ❌ | ❌ | ❌ | Time on which backups start every day |
+| `backups` | `cloud.project.database.service.Backup` | ❌ | ✅ | ❌ | Information related to the backups, null if the engine does not support backups |
+| `capabilities` | `map[cloud.project.database.service.CapabilityEnum]cloud.project.database.service.CapabilityActions` | ❌ | ❌ | ✅ | Capabilities of the services |
+| `category` | `cloud.project.database.engine.CategoryEnum` | ❌ | ❌ | ✅ | Category of the engine |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the cluster |
+| `deletionProtection` | `boolean` | ❌ | ✅ | ❌ | Enable deletion protection |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the cluster |
+| `disk` | `cloud.project.database.service.Disk` | ❌ | ❌ | ❌ | Disk attributes of the cluster. DEPRECATED: use storage |
+| `enablePrometheus` | `boolean` | ❌ | ✅ | ❌ | Enable Prometheus |
+| `endpoints` | `cloud.project.database.service.Endpoint[]` | ❌ | ❌ | ✅ | List of all endpoints of the service |
+| `engine` | `cloud.project.database.EngineEnum` | ❌ | ❌ | ✅ | Name of the engine of the service |
+| `flavor` | `string` | ❌ | ❌ | ❌ | The VM flavor used for this cluster |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `ipRestrictions` | `cloud.project.database.service.IpRestriction[]` | ❌ | ❌ | ❌ | IP Blocks authorized to access to the cluster |
+| `maintenanceTime` | `time` | ❌ | ❌ | ❌ | Time on which maintenances can start every day |
+| `networkId` | `uuid` | ❌ | ✅ | ✅ | Private network ID in which the cluster is |
+| `networkType` | `cloud.project.database.NetworkTypeEnum` | ❌ | ❌ | ✅ | Type of network of the cluster |
+| `nodeNumber` | `long` | ❌ | ❌ | ❌ | Number of nodes in the cluster. DEPRECATED: useNodes |
+| `nodes` | `cloud.project.database.service.Node[]` | ❌ | ❌ | ✅ | Nodes of the cluster |
+| `plan` | `string` | ❌ | ❌ | ❌ | Plan of the cluster |
+| `restApi` | `boolean` | ❌ | ❌ | ❌ | Defines whether the REST API is enabled on the cluster |
+| `schemaRegistry` | `boolean` | ❌ | ❌ | ❌ | Defines whether the schema registry is enabled on the cluster |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the cluster |
+| `storage` | `cloud.project.database.service.Storage` | ❌ | ✅ | ❌ | Storage attributes of the cluster |
+| `subnetId` | `uuid` | ❌ | ✅ | ✅ | Private subnet ID in which the cluster is |
+| `version` | `string` | ❌ | ❌ | ❌ | Version of the engine deployed on the cluster |
+
+### `cloud.project.database.kafka.Topic`
+
+_Cloud database kafka topic definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Topic ID |
+| `minInsyncReplicas` | `long` | ❌ | ❌ | ❌ | Minimum insync replica accepted for this topic |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the topic |
+| `partitions` | `long` | ❌ | ❌ | ❌ | Number of partitions for this topic |
+| `replication` | `long` | ❌ | ❌ | ❌ | Number of replication for this topic |
+| `retentionBytes` | `long` | ❌ | ❌ | ❌ | Number of bytes for the retention of the data for this topic |
+| `retentionHours` | `long` | ❌ | ❌ | ❌ | Number of hours for the retention of the data for this topic |
+
+### `cloud.project.database.kafka.TopicAcl`
+
+_Cloud databases kafka topic acl definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Acl ID |
+| `permission` | `string` | ✅ | ❌ | ❌ | Permission to give to this username on this topic. Permissions values can be retrieved using /cloud/project/{serviceName}/database/kafka/{clusterId}/permissions |
+| `topic` | `string` | ✅ | ❌ | ❌ | Topic affected by this acl |
+| `username` | `string` | ✅ | ❌ | ❌ | Username affected by this acl |
+
+### `cloud.project.database.kafka.TopicCreation`
+
+_Cloud database kafka topic creation definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Topic ID |
+| `minInsyncReplicas` | `long` | ❌ | ❌ | ❌ | Minimum insync replica accepted for this topic |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the topic |
+| `partitions` | `long` | ❌ | ❌ | ❌ | Number of partitions for this topic |
+| `replication` | `long` | ❌ | ❌ | ❌ | Number of replication for this topic |
+| `retentionBytes` | `long` | ❌ | ❌ | ❌ | Number of bytes for the retention of the data for this topic |
+| `retentionHours` | `long` | ❌ | ❌ | ❌ | Number of hours for the retention of the data for this topic |
+
+### `cloud.project.database.kafka.user.Access`
+
+_Cloud databases kafka user access definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cert` | `text` | ❌ | ❌ | ✅ | User cert |
+| `key` | `password` | ❌ | ❌ | ✅ | User key for the cert |
+
+### `cloud.project.database.kafkaConnect.Connector`
+
+_KafkaConnect connector definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `configuration` | `map[string]string` | ✅ | ❌ | ❌ | Configuration of the connector |
+| `connectorId` | `uuid` | ❌ | ❌ | ✅ | Connector capability ID |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Connector ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the connector |
+| `status` | `cloud.project.database.kafkaConnect.connector.StatusEnum` | ❌ | ❌ | ✅ | Status of the connector |
+
+### `cloud.project.database.kafkaConnect.ConnectorCreation`
+
+_KafkaConnect connector definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `configuration` | `map[string]string` | ✅ | ❌ | ❌ | Configuration of the connector |
+| `connectorId` | `uuid` | ✅ | ❌ | ❌ | Connector capability ID |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the connector |
+
+### `cloud.project.database.kafkaConnect.capabilities.Connector`
+
+_KafkaConnect connector capability definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `author` | `string` | ❌ | ❌ | ✅ | Name of the connector's author |
+| `documentationUrl` | `string` | ❌ | ❌ | ✅ | URL of the official documentation of the connector |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Connector ID |
+| `latest` | `boolean` | ❌ | ❌ | ✅ | Defines whether this connector and version is the latest available |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the connector |
+| `preview` | `boolean` | ❌ | ❌ | ✅ | Defines whether the connector is in preview |
+| `type` | `cloud.project.database.kafkaConnect.capabilities.connector.TypeEnum` | ❌ | ❌ | ✅ | Type of connector |
+| `version` | `string` | ❌ | ❌ | ✅ | Version of the connector |
+
+### `cloud.project.database.kafkaConnect.capabilities.connector.Transform`
+
+_KafkaConnect connector transform definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the transform |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Pretty name of the transform |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the transform |
+| `required` | `boolean` | ❌ | ❌ | ✅ | Defines whether the transform is required |
+| `transformType` | `string` | ❌ | ❌ | ✅ | Transform type this transform relates to |
+| `type` | `cloud.project.database.kafkaConnect.connector.property.TypeEnum` | ❌ | ❌ | ✅ | Type of data of the transform |
+| `values` | `string[]` | ❌ | ✅ | ✅ | Possible values for the transform if applicable |
+
+### `cloud.project.database.kafkaConnect.capabilities.connector.TypeEnum`
+
+_Possible types for the kafka connectors_
+
+**Enum** (`enumType: string`):
+
+- `sink`
+- `source`
+
+### `cloud.project.database.kafkaConnect.capabilities.connector.configuration.Property`
+
+_KafkaConnect connector config property definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `defaultValue` | `string` | ❌ | ✅ | ✅ | Defines the default value is exists |
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the property |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Pretty name of the property |
+| `group` | `string` | ❌ | ❌ | ✅ | Group to which belongs the property |
+| `importance` | `cloud.project.database.kafkaConnect.capabilities.connector.property.ImportanceEnum` | ❌ | ❌ | ✅ | Importance of the property |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the property |
+| `required` | `boolean` | ❌ | ❌ | ✅ | Defines whether the property is required |
+| `type` | `cloud.project.database.kafkaConnect.connector.property.TypeEnum` | ❌ | ❌ | ✅ | Type of data of the property |
+| `values` | `string[]` | ❌ | ✅ | ✅ | Possible values for the property if string and applicable |
+
+### `cloud.project.database.kafkaConnect.capabilities.connector.property.ImportanceEnum`
+
+_Possible importance for the kafka connectors properties_
+
+**Enum** (`enumType: string`):
+
+- `high`
+- `low`
+- `medium`
+
+### `cloud.project.database.kafkaConnect.connector.StatusEnum`
+
+_Possible state of connector_
+
+**Enum** (`enumType: string`):
+
+- `CREATING`
+- `FAILED`
+- `PAUSED`
+- `RUNNING`
+- `UNASSIGNED`
+
+### `cloud.project.database.kafkaConnect.connector.Task`
+
+_KafkaConnect connector definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `long` | ❌ | ❌ | ✅ | Task ID |
+| `status` | `cloud.project.database.kafkaConnect.connector.task.StatusEnum` | ❌ | ❌ | ✅ | Status of the task |
+| `trace` | `text` | ❌ | ❌ | ✅ | Trace of the task |
+
+### `cloud.project.database.kafkaConnect.connector.property.TypeEnum`
+
+_Possible types for the kafka connectors properties_
+
+**Enum** (`enumType: string`):
+
+- `boolean`
+- `class`
+- `double`
+- `int16`
+- `int32`
+- `int64`
+- `list`
+- `password`
+- `string`
+- `transform`
+
+### `cloud.project.database.kafkaConnect.connector.task.StatusEnum`
+
+_Possible state of connector task_
+
+**Enum** (`enumType: string`):
+
+- `FAILED`
+- `PAUSED`
+- `RUNNING`
+
+### `cloud.project.database.m3db.Namespace`
+
+_M3db Namespace definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Namespace ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the namespace |
+| `resolution` | `duration` | ❌ | ✅ | ❌ | Resolution for an aggregated namespace |
+| `retention` | `cloud.project.database.m3db.namespace.Retention` | ❌ | ❌ | ❌ | Retention configuration |
+| `snapshotEnabled` | `boolean` | ❌ | ✅ | ❌ | Defines whether M3db will create snapshot files for this namespace |
+| `type` | `cloud.project.database.m3db.namespace.TypeEnum` | ❌ | ❌ | ✅ | Type of namespace |
+| `writesToCommitLogEnabled` | `boolean` | ❌ | ✅ | ❌ | Defines whether M3db will include writes to this namespace in the commit log |
+
+### `cloud.project.database.m3db.NamespaceCreation`
+
+_M3db Namespace creation definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Namespace ID |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the namespace |
+| `resolution` | `duration` | ✅ | ❌ | ❌ | Resolution for an aggregated namespace |
+| `retention` | `cloud.project.database.m3db.namespace.RetentionCreation` | ❌ | ❌ | ❌ | Retention configuration |
+| `snapshotEnabled` | `boolean` | ❌ | ✅ | ❌ | Defines whether M3db will create snapshot files for this namespace |
+| `type` | `cloud.project.database.m3db.namespace.TypeEnum` | ✅ | ❌ | ❌ | Type of namespace |
+| `writesToCommitLogEnabled` | `boolean` | ❌ | ✅ | ❌ | Defines whether M3db will include writes to this namespace in the commit log |
+
+### `cloud.project.database.m3db.User`
+
+_M3db User definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `group` | `string` | ❌ | ❌ | ❌ | Group of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.m3db.UserCreation`
+
+_User creation definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `group` | `string` | ❌ | ❌ | ❌ | Group of the user |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the user |
+
+### `cloud.project.database.m3db.UserWithPassword`
+
+_M3db User definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `group` | `string` | ❌ | ❌ | ✅ | Group of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `password` | `password` | ❌ | ❌ | ✅ | Password of the user |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.m3db.namespace.Retention`
+
+_M3db namespace retention definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `blockDataExpirationDuration` | `duration` | ❌ | ✅ | ❌ | Controls how long we wait before expiring stale data |
+| `blockSizeDuration` | `duration` | ❌ | ❌ | ✅ | Controls how long to keep a block in memory before flushing to a fileset on disk |
+| `bufferFutureDuration` | `duration` | ❌ | ✅ | ❌ | Controls how far into the future writes to the namespace will be accepted |
+| `bufferPastDuration` | `duration` | ❌ | ✅ | ❌ | Controls how far into the past writes to the namespace will be accepted |
+| `periodDuration` | `duration` | ❌ | ✅ | ❌ | Controls the duration of time that M3DB will retain data for the namespace |
+
+### `cloud.project.database.m3db.namespace.RetentionCreation`
+
+_M3db namespace retention definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `blockDataExpirationDuration` | `duration` | ❌ | ✅ | ❌ | Controls how long we wait before expiring stale data |
+| `blockSizeDuration` | `duration` | ❌ | ✅ | ❌ | Controls how long to keep a block in memory before flushing to a fileset on disk |
+| `bufferFutureDuration` | `duration` | ❌ | ✅ | ❌ | Controls how far into the future writes to the namespace will be accepted |
+| `bufferPastDuration` | `duration` | ❌ | ✅ | ❌ | Controls how far into the past writes to the namespace will be accepted |
+| `periodDuration` | `duration` | ❌ | ✅ | ❌ | Controls the duration of time that M3DB will retain data for the namespace |
+
+### `cloud.project.database.m3db.namespace.TypeEnum`
+
+_Possible type of the service integration_
+
+**Enum** (`enumType: string`):
+
+- `aggregated`
+- `unaggregated`
+
+### `cloud.project.database.mongodb.PrometheusEndpoint`
+
+_Prometheus Endpoint for MongoDB_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `srvDomain` | `string` | ❌ | ❌ | ✅ | Prometheus SRV domain for mongodb cluster |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the Prometheus access |
+
+### `cloud.project.database.mysql.Migration`
+
+_Cloud database MySQL migration definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `sourceHost` | `string` | ✅ | ❌ | ❌ | Source MySQL host |
+| `sourcePassword` | `password` | ✅ | ❌ | ❌ | Source MySQL user password |
+| `sourcePort` | `long` | ✅ | ❌ | ❌ | Source MySQL port |
+| `sourceSsl` | `boolean` | ✅ | ❌ | ❌ | Source MySQL ssl enabler |
+| `sourceUsername` | `string` | ✅ | ❌ | ❌ | Source MySQL username |
+
+### `cloud.project.database.mysql.MigrationResult`
+
+_Cloud database MySQL migration result definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `error` | `string` | ❌ | ❌ | ✅ | Error message |
+| `message` | `string` | ❌ | ❌ | ✅ | Information message |
+| `method` | `string` | ❌ | ❌ | ✅ | Method used for the migration |
+| `status` | `cloud.project.database.mysql.migration.StatusEnum` | ❌ | ❌ | ✅ | Status of the migration |
+
+### `cloud.project.database.mysql.QueryStatistics`
+
+_Cloud database MySQL query statistics response body definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `queries` | `cloud.project.database.mysql.querystatistics.Query[]` | ❌ | ❌ | ✅ | Statistics of the queries |
+
+### `cloud.project.database.mysql.migration.CheckResult`
+
+_Cloud database MySQL migration check result definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `result` | `string` | ❌ | ❌ | ✅ | Migration result message |
+| `status` | `cloud.project.database.mysql.migration.StatusEnum` | ❌ | ❌ | ✅ | Status of the migration check task |
+| `success` | `boolean` | ❌ | ❌ | ✅ | Success status of the migration check |
+
+### `cloud.project.database.mysql.migration.StatusEnum`
+
+_Possible state of the mysql migration_
+
+**Enum** (`enumType: string`):
+
+- `done`
+- `failed`
+- `running`
+- `syncing`
+- `waiting`
+
+### `cloud.project.database.mysql.querystatistics.Query`
+
+_Cloud database MySQL single query statistic definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `avgTimerWait` | `double` | ❌ | ❌ | ✅ | Average wait time of the summarized timed events, in milliseconds |
+| `countStar` | `long` | ❌ | ❌ | ✅ | Number of summarized events. This value includes all events, whether timed or nontimed |
+| `digest` | `string` | ❌ | ❌ | ✅ | Digest of the summarized events |
+| `digestText` | `text` | ❌ | ❌ | ✅ | Text of the summarized digest events |
+| `firstSeen` | `datetime` | ❌ | ❌ | ✅ | First appearance of the events |
+| `lastSeen` | `datetime` | ❌ | ❌ | ✅ | Last appearance of the events |
+| `maxTimerWait` | `double` | ❌ | ❌ | ✅ | Maximum wait time of the summarized timed events, in milliseconds |
+| `minTimerWait` | `double` | ❌ | ❌ | ✅ | Mininum wait time of the summarized timed events, in milliseconds |
+| `quantile95` | `long` | ❌ | ❌ | ✅ | 95th percentile of the statement latency, in picoseconds |
+| `quantile99` | `long` | ❌ | ❌ | ✅ | 99th percentile of the statement latency, in picoseconds |
+| `quantile999` | `long` | ❌ | ❌ | ✅ | 99.9th percentile of the statement latency, in picoseconds |
+| `querySampleSeen` | `datetime` | ❌ | ❌ | ✅ | Datetime when the querySampleText column was seen |
+| `querySampleText` | `text` | ❌ | ❌ | ✅ | Sample SQL statement that produces the digest value in the row |
+| `querySampleTimerWait` | `double` | ❌ | ❌ | ✅ | Wait time for the sample statement in the querySampleText column, in milliseconds |
+| `schemaName` | `string` | ❌ | ❌ | ✅ | SchemaName of the summarized events |
+| `sumCreatedTmpDiskTables` | `long` | ❌ | ❌ | ✅ | Number of internal on-disk temporary tables created |
+| `sumCreatedTmpTables` | `long` | ❌ | ❌ | ✅ | Number of internal temporary tables created |
+| `sumErrors` | `long` | ❌ | ❌ | ✅ | Number of errors |
+| `sumLockTime` | `double` | ❌ | ❌ | ✅ | Sum of lock time of the summarized timed events, in milliseconds |
+| `sumNoGoodIndexUsed` | `long` | ❌ | ❌ | ✅ | Sum of not good indexes of the summarized timed events |
+| `sumNoIndexUsed` | `long` | ❌ | ❌ | ✅ | Sum of no indexes of the summarized timed events |
+| `sumRowsAffected` | `long` | ❌ | ❌ | ✅ | Sum of rows affected of the summarized timed events |
+| `sumRowsExamined` | `long` | ❌ | ❌ | ✅ | Sum of rows examined of the summarized timed events |
+| `sumRowsSent` | `long` | ❌ | ❌ | ✅ | Sum of rows sent of the summarized timed events |
+| `sumSelectFullJoin` | `long` | ❌ | ❌ | ✅ | Sum of select full join of the summarized timed events |
+| `sumSelectFullRangeJoin` | `long` | ❌ | ❌ | ✅ | Sum of select full range join of the summarized timed events |
+| `sumSelectRange` | `long` | ❌ | ❌ | ✅ | Sum of select range of the summarized timed events |
+| `sumSelectRangeCheck` | `long` | ❌ | ❌ | ✅ | Sum of select range check of the summarized timed events |
+| `sumSelectScan` | `long` | ❌ | ❌ | ✅ | Sum of select scan of the summarized timed events |
+| `sumSortMergePasses` | `long` | ❌ | ❌ | ✅ | Sum of sorted merge passes of the summarized timed events |
+| `sumSortRange` | `long` | ❌ | ❌ | ✅ | Sum of sorted range of the summarized timed events |
+| `sumSortRows` | `long` | ❌ | ❌ | ✅ | Sum of sorted rows of the summarized timed events |
+| `sumSortScan` | `long` | ❌ | ❌ | ✅ | Sum of sort scan of the summarized timed events |
+| `sumTimerWait` | `double` | ❌ | ❌ | ✅ | Sum of wait time of the summarized timed events, in milliseconds |
+| `sumWarnings` | `long` | ❌ | ❌ | ✅ | Number of warnings |
+
+### `cloud.project.database.opensearch.Index`
+
+_Cloud database opensearch index definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the index |
+| `documents` | `long` | ❌ | ❌ | ✅ | Number of documents hold by the index |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Index ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the index |
+| `replicasNumber` | `long` | ❌ | ❌ | ✅ | Number of replicas of the index |
+| `shardsNumber` | `long` | ❌ | ❌ | ✅ | Number of shards of the index |
+| `size` | `long` | ❌ | ❌ | ✅ | Size of the index |
+
+### `cloud.project.database.opensearch.Pattern`
+
+_Cloud database opensearch pattern definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Pattern ID |
+| `maxIndexCount` | `long` | ❌ | ❌ | ❌ | Maximum number of index for this pattern |
+| `pattern` | `string` | ✅ | ❌ | ❌ | Pattern format |
+
+### `cloud.project.database.opensearch.Permissions`
+
+_Cloud database opensearch permissions definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `names` | `string[]` | ❌ | ❌ | ✅ | Possible values for the permissions |
+
+### `cloud.project.database.opensearch.Service`
+
+_Cloud database opensearch service definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `aclsEnabled` | `boolean` | ❌ | ❌ | ❌ | Defines whether the acls are enabled on the cluster |
+| `backupTime` | `time` | ❌ | ❌ | ❌ | Time on which backups start every day. DEPRECATED: use backups.time |
+| `backups` | `cloud.project.database.service.Backup` | ❌ | ✅ | ❌ | Information related to the backups, null if the engine does not support backups |
+| `capabilities` | `map[cloud.project.database.service.CapabilityEnum]cloud.project.database.service.CapabilityActions` | ❌ | ❌ | ✅ | Capabilities of the services |
+| `category` | `cloud.project.database.engine.CategoryEnum` | ❌ | ❌ | ✅ | Category of the engine |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the cluster |
+| `deletionProtection` | `boolean` | ❌ | ✅ | ❌ | Enable deletion protection |
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the cluster |
+| `disk` | `cloud.project.database.service.Disk` | ❌ | ❌ | ❌ | Disk attributes of the cluster. DEPRECATED: use storage |
+| `enablePrometheus` | `boolean` | ❌ | ✅ | ❌ | Enable Prometheus |
+| `endpoints` | `cloud.project.database.service.Endpoint[]` | ❌ | ❌ | ✅ | List of all endpoints of the service |
+| `engine` | `cloud.project.database.EngineEnum` | ❌ | ❌ | ✅ | Name of the engine of the service |
+| `flavor` | `string` | ❌ | ❌ | ❌ | The VM flavor used for this cluster |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `ipRestrictions` | `cloud.project.database.service.IpRestriction[]` | ❌ | ❌ | ❌ | IP Blocks authorized to access to the cluster |
+| `maintenanceTime` | `time` | ❌ | ❌ | ❌ | Time on which maintenances can start every day |
+| `networkId` | `uuid` | ❌ | ✅ | ✅ | Private network ID in which the cluster is |
+| `networkType` | `cloud.project.database.NetworkTypeEnum` | ❌ | ❌ | ✅ | Type of network of the cluster |
+| `nodeNumber` | `long` | ❌ | ❌ | ❌ | Number of nodes in the cluster. DEPRECATED: use nodes |
+| `nodes` | `cloud.project.database.service.Node[]` | ❌ | ❌ | ✅ | Nodes of the cluster |
+| `plan` | `string` | ❌ | ❌ | ❌ | Plan of the cluster |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the cluster |
+| `storage` | `cloud.project.database.service.Storage` | ❌ | ✅ | ❌ | Storage attributes of the cluster |
+| `subnetId` | `uuid` | ❌ | ✅ | ✅ | Private subnet ID in which the cluster is |
+| `version` | `string` | ❌ | ❌ | ❌ | Version of the engine deployed on the cluster |
+
+### `cloud.project.database.opensearch.User`
+
+_Opensearch user definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `acls` | `cloud.project.database.opensearch.UserAcl[]` | ❌ | ❌ | ❌ | Acls of the user |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.opensearch.UserAcl`
+
+_Opensearch user acl definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `pattern` | `string` | ✅ | ❌ | ❌ | Pattern of the ACL |
+| `permission` | `string` | ✅ | ❌ | ❌ | Permission of the ACL |
+
+### `cloud.project.database.opensearch.UserCreation`
+
+_Opensearch user creation definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `acls` | `cloud.project.database.opensearch.UserAcl[]` | ❌ | ❌ | ❌ | Acls of the user |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the user |
+
+### `cloud.project.database.opensearch.UserWithPassword`
+
+_Opensearch user definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `acls` | `cloud.project.database.opensearch.UserAcl[]` | ❌ | ❌ | ✅ | Acls of the user |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `password` | `password` | ❌ | ❌ | ✅ | Password of the user |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.postgresql.ConnectionPool`
+
+_Cloud database postgresql connection pool response body definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseId` | `uuid` | ❌ | ❌ | ❌ | Database used for the connection pool |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the connection pool |
+| `mode` | `cloud.project.database.postgresql.connectionpool.ModeEnum` | ❌ | ❌ | ❌ | Connection mode to the connection pool |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the connection pool |
+| `port` | `long` | ❌ | ❌ | ✅ | Port of the connection pool |
+| `size` | `long` | ❌ | ❌ | ❌ | Size of the connection pool |
+| `sslMode` | `cloud.project.database.postgresql.connectionpool.SslModeEnum` | ❌ | ✅ | ✅ | Ssl connection mode for the pool |
+| `uri` | `string` | ❌ | ❌ | ✅ | Connection URI to the pool |
+| `userId` | `uuid` | ❌ | ✅ | ❌ | User authorized to connect to the pool, if none all the users are allowed |
+
+### `cloud.project.database.postgresql.ConnectionPoolCreation`
+
+_Cloud database postgresql connection pool creation body definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `databaseId` | `uuid` | ✅ | ❌ | ❌ | Database used for the connection pool |
+| `mode` | `cloud.project.database.postgresql.connectionpool.ModeEnum` | ✅ | ❌ | ❌ | Connection mode to the connection pool |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the connection pool |
+| `size` | `long` | ✅ | ❌ | ❌ | Size of the connection pool |
+| `userId` | `uuid` | ❌ | ✅ | ❌ | User authorized to connect to the pool, if none all the users are allowed |
+
+### `cloud.project.database.postgresql.QueryStatistics`
+
+_Cloud database postgresql query statistics response body definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `queries` | `cloud.project.database.postgresql.querystatistics.Query[]` | ❌ | ❌ | ✅ | Statistics of the queries |
+
+### `cloud.project.database.postgresql.connectionpool.ModeEnum`
+
+_Possible modes for the connection pools_
+
+**Enum** (`enumType: string`):
+
+- `session`
+- `statement`
+- `transaction`
+
+### `cloud.project.database.postgresql.connectionpool.SslModeEnum`
+
+_Possible ssl modes for the connection pools_
+
+**Enum** (`enumType: string`):
+
+- `require`
+
+### `cloud.project.database.postgresql.querystatistics.Query`
+
+_Cloud database postgresql single query statistic definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `blkReadTime` | `double` | ❌ | ❌ | ✅ | Time spent reading data file blocks by backends in this database, in milliseconds |
+| `blkWriteTime` | `double` | ❌ | ❌ | ✅ | Time spent writing data file blocks by backends in this database, in milliseconds |
+| `calls` | `long` | ❌ | ❌ | ✅ | Number of times this function has been called |
+| `databaseName` | `string` | ❌ | ❌ | ✅ | Name of the database |
+| `localBlksDirtied` | `long` | ❌ | ❌ | ✅ | Total number of local blocks dirtied by the statement |
+| `localBlksHit` | `long` | ❌ | ❌ | ✅ | Total number of local block cache hits by the statement |
+| `localBlksRead` | `long` | ❌ | ❌ | ✅ | Total number of local blocks read by the statement |
+| `localBlksWritten` | `long` | ❌ | ❌ | ✅ | Total number of local blocks written by the statement |
+| `maxPlanTime` | `double` | ❌ | ❌ | ✅ | Maximum time spent planning the statement, in milliseconds |
+| `maxTime` | `double` | ❌ | ❌ | ✅ | Maximum time spent for the statement, in milliseconds |
+| `meanPlanTime` | `double` | ❌ | ❌ | ✅ | Mean time spent planning the statement, in milliseconds |
+| `meanTime` | `double` | ❌ | ❌ | ✅ | Mean time spent for the statement, in milliseconds |
+| `minPlanTime` | `double` | ❌ | ❌ | ✅ | Minimum time spent planning the statement, in milliseconds |
+| `minTime` | `double` | ❌ | ❌ | ✅ | Minimum time spent for the statement, in milliseconds |
+| `query` | `text` | ❌ | ❌ | ✅ | Text of a representative statement |
+| `rows` | `long` | ❌ | ❌ | ✅ | Total number of rows retrieved or affected by the statement |
+| `sharedBlksDirtied` | `long` | ❌ | ❌ | ✅ | Total number of shared blocks dirtied by the statement |
+| `sharedBlksHit` | `long` | ❌ | ❌ | ✅ | Total number of shared block cache hits by the statement |
+| `sharedBlksRead` | `long` | ❌ | ❌ | ✅ | Total number of shared blocks read by the statement |
+| `sharedBlksWritten` | `long` | ❌ | ❌ | ✅ | Total number of shared blocks written by the statement |
+| `stddevPlanTime` | `double` | ❌ | ❌ | ✅ | Population standard deviation of time spent planning the statement, in milliseconds |
+| `stddevTime` | `double` | ❌ | ❌ | ✅ | Population standard deviation of time spent for the statement, in milliseconds |
+| `tempBlksRead` | `long` | ❌ | ❌ | ✅ | Total number of temp blocks read by the statement |
+| `tempBlksWritten` | `long` | ❌ | ❌ | ✅ | Total number of temp blocks written by the statement |
+| `totalPlanTime` | `double` | ❌ | ❌ | ✅ | Total time spent planning the statement, in milliseconds |
+| `totalTime` | `double` | ❌ | ❌ | ✅ | Total time spent for the statement, in milliseconds |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user who executed the statement |
+| `walBytes` | `complexType.UnitAndValue<long>` | ❌ | ❌ | ✅ | Total amount of WAL generated by the statement in bytes |
+| `walFpi` | `long` | ❌ | ❌ | ✅ | Total number of WAL full page images generated by the statement |
+| `walRecords` | `long` | ❌ | ❌ | ✅ | Total number of WAL records generated by the statement |
+
+### `cloud.project.database.redis.User`
+
+_Redis user definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `categories` | `string[]` | ❌ | ❌ | ❌ | Categories of the user |
+| `channels` | `string[]` | ❌ | ❌ | ❌ | Channels of the user |
+| `commands` | `string[]` | ❌ | ❌ | ❌ | Commands of the user |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `keys` | `string[]` | ❌ | ❌ | ❌ | Keys of the user |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.redis.UserCreation`
+
+_Redis user definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `categories` | `string[]` | ❌ | ❌ | ❌ | Categories of the user |
+| `channels` | `string[]` | ❌ | ❌ | ❌ | Channels of the user |
+| `commands` | `string[]` | ❌ | ❌ | ❌ | Commands of the user |
+| `keys` | `string[]` | ❌ | ❌ | ❌ | Keys of the user |
+| `name` | `string` | ✅ | ❌ | ❌ | Name of the user |
+
+### `cloud.project.database.redis.UserWithPassword`
+
+_Redis user with password definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `categories` | `string[]` | ❌ | ❌ | ✅ | Categories of the user |
+| `channels` | `string[]` | ❌ | ❌ | ✅ | Channels of the user |
+| `commands` | `string[]` | ❌ | ❌ | ✅ | Commands of the user |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `keys` | `string[]` | ❌ | ❌ | ✅ | Keys of the user |
+| `password` | `password` | ❌ | ❌ | ✅ | Password of the user |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.service.Backup`
+
+_Cloud database service backups definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `pitr` | `datetime` | ❌ | ✅ | ✅ | Date until PITR is available |
+| `regions` | `string[]` | ❌ | ❌ | ❌ | Regions on which the backups are stored |
+| `retentionDays` | `long` | ❌ | ✅ | ✅ | Number of retention days for the backups |
+| `time` | `time` | ❌ | ❌ | ❌ | Time on which backups start every day |
+
+### `cloud.project.database.service.CapabilityActions`
+
+_Cloud database service capability actions definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `create` | `cloud.project.database.service.capability.StateEnum` | ❌ | ✅ | ✅ | Defines if the capability can be created |
+| `delete` | `cloud.project.database.service.capability.StateEnum` | ❌ | ✅ | ✅ | Defines if the capability can be deleted |
+| `read` | `cloud.project.database.service.capability.StateEnum` | ❌ | ✅ | ✅ | Defines if the capability can be read |
+| `update` | `cloud.project.database.service.capability.StateEnum` | ❌ | ✅ | ✅ | Defines if the capability can be updated |
+
+### `cloud.project.database.service.CapabilityEnum`
+
+_List of capabilities available for services_
+
+**Enum** (`enumType: string`):
+
+- `advancedConfiguration`
+- `backupRestore`
+- `backupTime`
+- `backups`
+- `certificates`
+- `connectionPools`
+- `connector`
+- `currentQueries`
+- `currentQueriesCancel`
+- `databases`
+- `deletionProtection`
+- `enableWrites`
+- `fork`
+- `indexes`
+- `integrations`
+- `ipRestrictions`
+- `maintenanceApply`
+- `maintenanceTime`
+- `maintenances`
+- `namespaces`
+- `nodes`
+- `patterns`
+- `prometheus`
+- `prometheusCredentialsReset`
+- `queryStatistics`
+- `queryStatisticsReset`
+- `replication`
+- `restApi`
+- `schemaRegistry`
+- `service`
+- `serviceDisk`
+- `serviceFlavor`
+- `serviceIpRestriction`
+- `topic`
+- `topicAcl`
+- `userAccess`
+- `userAcls`
+- `userCredentialsReset`
+- `users`
+
+### `cloud.project.database.service.Certificates`
+
+_Certificates definition for cloud project databases_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ca` | `text` | ❌ | ❌ | ✅ | CA certificate used for the service |
+
+### `cloud.project.database.service.CurrentQueries`
+
+_Cloud database current queries_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `queries` | `cloud.project.database.service.currentqueries.Query[]` | ❌ | ❌ | ✅ | Current queries list |
+
+### `cloud.project.database.service.DataPoint`
+
+_A single value from a metric_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `timestamp` | `long` | ❌ | ❌ | ✅ | Timestamp in seconds since epoch time |
+| `value` | `double` | ❌ | ❌ | ✅ | Value of this datapoint |
+
+### `cloud.project.database.service.Database`
+
+_Defines the database object in a cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `default` | `boolean` | ❌ | ❌ | ✅ | Defines if the database has been created by default |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Database ID |
+| `name` | `string` | ✅ | ❌ | ❌ | Database name |
+
+### `cloud.project.database.service.Disk`
+
+_Defines the disk attributes of a service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `size` | `long` | ❌ | ❌ | ❌ | Service disk size  |
+| `type` | `string` | ❌ | ❌ | ✅ | Service disk size  |
+
+### `cloud.project.database.service.Endpoint`
+
+_Defines the endpoint object in a cluster_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `component` | `cloud.project.database.service.endpoint.ComponentEnum` | ❌ | ❌ | ✅ | Type of component the URI relates to |
+| `domain` | `string` | ❌ | ❌ | ✅ | Domain of the cluster |
+| `path` | `string` | ❌ | ✅ | ✅ | Path of the endpoint |
+| `port` | `long` | ❌ | ✅ | ✅ | Connection port for the endpoint |
+| `scheme` | `string` | ❌ | ✅ | ✅ | Scheme used to generate the URI |
+| `ssl` | `boolean` | ❌ | ❌ | ✅ | Defines whether the endpoint uses SSL |
+| `sslMode` | `string` | ❌ | ✅ | ✅ | SSL mode used to connect to the service if the SSL is enabled |
+| `uri` | `string` | ❌ | ✅ | ✅ | URI of the endpoint |
+
+### `cloud.project.database.service.HostMetric`
+
+_Metrics datapoints from a specific host_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dataPoints` | `cloud.project.database.service.DataPoint[]` | ❌ | ❌ | ✅ | List of metric's samples |
+| `hostname` | `string` | ❌ | ❌ | ✅ | Name of the originating host |
+
+### `cloud.project.database.service.Integration`
+
+_Cloud database service integration definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `destinationServiceId` | `uuid` | ✅ | ❌ | ❌ | ID of the destination service |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `parameters` | `map[string]string` | ❌ | ✅ | ❌ | Parameters for the integration |
+| `sourceServiceId` | `uuid` | ✅ | ❌ | ❌ | ID of the source service |
+| `status` | `cloud.project.database.service.integration.StatusEnum` | ❌ | ❌ | ✅ | Current status of the integration |
+| `type` | `cloud.project.database.service.integration.TypeEnum` | ❌ | ❌ | ❌ | Type of the integration |
+
+### `cloud.project.database.service.IpRestriction`
+
+_Ip Restriction definition for cloud project databases_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Description of the ip restriction |
+| `ip` | `ipBlock` | ❌ | ❌ | ❌ | Whitelisted IP |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the ip restriction |
+
+### `cloud.project.database.service.LogEntry`
+
+_A single log entry_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hostname` | `string` | ❌ | ❌ | ✅ | Host from which the log is coming from |
+| `message` | `string` | ❌ | ❌ | ✅ | The log message |
+| `timestamp` | `long` | ❌ | ❌ | ✅ | Timestamp in seconds since epoch time |
+
+### `cloud.project.database.service.Maintenance`
+
+_Cloud database service maintenance definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `appliedAt` | `datetime` | ❌ | ✅ | ✅ | Date of the application of the maintenance |
+| `description` | `string` | ❌ | ❌ | ✅ | Description of the maintenance |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the maintenance |
+| `scheduledAt` | `datetime` | ❌ | ✅ | ✅ | Date of the planification of the maintenance |
+| `status` | `cloud.project.database.service.maintenance.StatusEnum` | ❌ | ❌ | ✅ | Status of the maintenance |
+
+### `cloud.project.database.service.Metric`
+
+_Metric definition for cloud project databases_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `metrics` | `cloud.project.database.service.HostMetric[]` | ❌ | ❌ | ✅ | Metric values for each cluster's host |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the metric |
+| `units` | `cloud.project.database.service.MetricUnitEnum` | ❌ | ❌ | ✅ | Unit of the metric |
+
+### `cloud.project.database.service.MetricPeriodEnum`
+
+_Supported metrics query period_
+
+**Enum** (`enumType: string`):
+
+- `lastDay`
+- `lastHour`
+- `lastMonth`
+- `lastWeek`
+- `lastYear`
+
+### `cloud.project.database.service.MetricUnitEnum`
+
+_Supported unit types for metrics_
+
+**Enum** (`enumType: string`):
+
+- `BYTES`
+- `BYTES_PER_SECOND`
+- `GIGABYTES`
+- `GIGABYTES_PER_HOUR`
+- `MEGABYTES`
+- `MEGABYTES_PER_SECOND`
+- `MILLISECONDS`
+- `PERCENT`
+- `SCALAR`
+- `SCALAR_PER_SECOND`
+- `SECONDS`
+- `UNKNOWN`
+
+### `cloud.project.database.service.Node`
+
+_Cloud databases cluster node definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the node |
+| `flavor` | `string` | ❌ | ❌ | ✅ | Flavor of the node |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Node ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the node |
+| `port` | `long` | ❌ | ❌ | ✅ | Connection port for the node |
+| `region` | `string` | ❌ | ❌ | ✅ | Region of the node |
+| `role` | `cloud.project.database.service.node.RoleEnum` | ❌ | ✅ | ❌ | Role of the node |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the node |
+
+### `cloud.project.database.service.NodeCreation`
+
+_Cloud databases cluster new node definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the node |
+| `flavor` | `string` | ❌ | ❌ | ❌ | Flavor of the node |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Node ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the node |
+| `port` | `long` | ❌ | ❌ | ✅ | Connection port for the node |
+| `region` | `string` | ❌ | ❌ | ❌ | Region of the node |
+| `role` | `cloud.project.database.service.node.RoleEnum` | ❌ | ✅ | ❌ | Role of the node |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the node |
+
+### `cloud.project.database.service.NodePattern`
+
+_Node pattern definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `flavor` | `string` | ❌ | ❌ | ❌ | Flavor of the nodes |
+| `number` | `long` | ❌ | ❌ | ❌ | Number of nodes to create |
+| `region` | `string` | ❌ | ❌ | ❌ | Region of the nodes |
+
+### `cloud.project.database.service.PrometheusAccess`
+
+_Prometheus credentials_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `password` | `password` | ❌ | ❌ | ✅ | Password of the Prometheus access |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the Prometheus access |
+
+### `cloud.project.database.service.PrometheusEndpoint`
+
+_Prometheus Endpoint_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `targets` | `cloud.project.database.service.prometheus.Target[]` | ❌ | ❌ | ✅ | Endpoint target for Prometheus |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the Prometheus access |
+
+### `cloud.project.database.service.Replication`
+
+_Cloud database service replication definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `emitHeartbeats` | `boolean` | ❌ | ❌ | ❌ | Defines whether heartbeats are emitted |
+| `enabled` | `boolean` | ✅ | ❌ | ❌ | Defines whether the replication is actived |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Service ID |
+| `replicationPolicyClass` | `cloud.project.database.service.replication.PolicyClassEnum` | ❌ | ❌ | ❌ | ReplicationPolicyClass used for the replication |
+| `sourceIntegration` | `uuid` | ❌ | ❌ | ✅ | ID of the integration source |
+| `syncGroupOffsets` | `boolean` | ❌ | ❌ | ❌ | Defines whether the group offsets must be sync |
+| `syncInterval` | `long` | ❌ | ❌ | ❌ | Defines the interval in second between 2 sync |
+| `targetIntegration` | `uuid` | ❌ | ❌ | ✅ | ID of the integration target |
+| `topicExcludeList` | `string[]` | ❌ | ❌ | ❌ | Patterns of the topics to exclude from the replication |
+| `topics` | `string[]` | ❌ | ❌ | ❌ | Patterns of the topics to replicate |
+
+### `cloud.project.database.service.ReplicationCreation`
+
+_Cloud database service replication definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `emitHeartbeats` | `boolean` | ❌ | ❌ | ❌ | Defines whether heartbeats are emitted |
+| `enabled` | `boolean` | ✅ | ❌ | ❌ | Defines whether the replication is actived |
+| `replicationPolicyClass` | `cloud.project.database.service.replication.PolicyClassEnum` | ❌ | ❌ | ❌ | ReplicationPolicyClass used for the replication |
+| `sourceIntegration` | `uuid` | ✅ | ❌ | ❌ | ID of the integration source |
+| `syncGroupOffsets` | `boolean` | ❌ | ❌ | ❌ | Defines whether the group offsets must be sync |
+| `syncInterval` | `long` | ❌ | ❌ | ❌ | Defines the interval in second between 2 sync |
+| `targetIntegration` | `uuid` | ✅ | ❌ | ❌ | ID of the integration target |
+| `topicExcludeList` | `string[]` | ❌ | ❌ | ❌ | Patterns of the topics to exclude from the replication |
+| `topics` | `string[]` | ❌ | ❌ | ❌ | Patterns of the topics to replicate |
+
+### `cloud.project.database.service.Restore`
+
+_Cloud database service restore specification_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `pointInTime` | `datetime` | ✅ | ❌ | ❌ | point in time to restore from |
+
+### `cloud.project.database.service.Storage`
+
+_Defines the storage attributes of a service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `size` | `complexType.UnitAndValueWritable<long>` | ❌ | ❌ | ❌ | Service storage size |
+| `type` | `string` | ❌ | ❌ | ✅ | Service storage type |
+
+### `cloud.project.database.service.User`
+
+_User definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.service.UserCreation`
+
+_User creation definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the user |
+
+### `cloud.project.database.service.UserWithPassword`
+
+_User with password definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `password` | `password` | ❌ | ❌ | ✅ | Password of the user |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.service.UserWithPasswordAndRoles`
+
+_User with password definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `password` | `password` | ❌ | ❌ | ❌ | Password of the user |
+| `roles` | `string[]` | ❌ | ❌ | ❌ | Roles the user belongs to |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.service.UserWithRoles`
+
+_User definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Date of the creation of the user |
+| `id` | `uuid` | ❌ | ❌ | ✅ | User ID |
+| `roles` | `string[]` | ❌ | ❌ | ❌ | Roles the user belongs to |
+| `status` | `cloud.project.database.StatusEnum` | ❌ | ❌ | ✅ | Current status of the user |
+| `username` | `string` | ❌ | ❌ | ✅ | Name of the user |
+
+### `cloud.project.database.service.UserWithRolesCreation`
+
+_User creation definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | Name of the user |
+| `roles` | `string[]` | ❌ | ❌ | ❌ | Roles the user belongs to |
+
+### `cloud.project.database.service.capability.StateEnum`
+
+_State of the service capability for the service_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `cloud.project.database.service.creation.BackupFork`
+
+_Defines the source to fork a cluster from a backup. DEPRECATED: use forkFrom_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ❌ | Backup ID (not compatible with pointInTime) |
+| `pointInTime` | `datetime` | ❌ | ❌ | ❌ | Point in time to restore from (not compatible with id) |
+| `serviceId` | `uuid` | ✅ | ❌ | ❌ | Service ID to which the backups belong to |
+
+### `cloud.project.database.service.creation.ForkFrom`
+
+_Defines the source to fork a cluster from a backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backupId` | `uuid` | ❌ | ❌ | ❌ | Backup ID (not compatible with pointInTime) |
+| `pointInTime` | `datetime` | ❌ | ❌ | ❌ | Point in time to restore from (not compatible with id) |
+| `serviceId` | `uuid` | ✅ | ❌ | ❌ | Service ID to which the backups belong to |
+
+### `cloud.project.database.service.currentqueries.Query`
+
+_Cloud database service current queries query definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `applicationName` | `string` | ❌ | ❌ | ✅ | Application name |
+| `backendStart` | `datetime` | ❌ | ✅ | ✅ | Backend start timestamp |
+| `backendType` | `string` | ❌ | ✅ | ✅ | Backend type |
+| `backendXid` | `long` | ❌ | ✅ | ✅ | XID for current backend |
+| `backendXmin` | `long` | ❌ | ✅ | ✅ | Xmin for current backend |
+| `clientHostname` | `string` | ❌ | ✅ | ✅ | Client hostname |
+| `clientIp` | `ip` | ❌ | ✅ | ✅ | Client ip address |
+| `clientPort` | `long` | ❌ | ✅ | ✅ | Client port |
+| `databaseId` | `long` | ❌ | ✅ | ✅ | Database ID |
+| `databaseName` | `string` | ❌ | ❌ | ✅ | Database name |
+| `leaderPid` | `long` | ❌ | ✅ | ✅ | Leader process ID |
+| `pid` | `long` | ❌ | ❌ | ✅ | Connection process ID |
+| `query` | `string` | ❌ | ❌ | ✅ | Current query running on this connection |
+| `queryDuration` | `double` | ❌ | ❌ | ✅ | Duration of the query in seconds |
+| `queryStart` | `datetime` | ❌ | ✅ | ✅ | Query start timestamp |
+| `state` | `cloud.project.database.service.currentqueries.StateEnum` | ❌ | ❌ | ✅ | Connection state |
+| `stateChange` | `datetime` | ❌ | ✅ | ✅ | Connection state change timestamp |
+| `transactionStart` | `datetime` | ❌ | ✅ | ✅ | Transaction start timestamp |
+| `userId` | `long` | ❌ | ✅ | ✅ | User ID |
+| `userName` | `string` | ❌ | ❌ | ✅ | User name |
+| `waitEvent` | `string` | ❌ | ✅ | ✅ | Connection wait event |
+| `waitEventType` | `cloud.project.database.service.currentqueries.WaitEventTypeEnum` | ❌ | ✅ | ✅ | Connection wait event type |
+
+### `cloud.project.database.service.currentqueries.StateEnum`
+
+_Possible state of a query_
+
+**Enum** (`enumType: string`):
+
+- `ACTIVE`
+- `DISABLED`
+- `FASTPATH_FUNCTION_CALL`
+- `IDLE`
+- `IDLE_IN_TRANSACTION`
+- `IDLE_IN_TRANSACTION_ABORTED`
+
+### `cloud.project.database.service.currentqueries.WaitEventTypeEnum`
+
+_Possible event type on which the backend is waiting_
+
+**Enum** (`enumType: string`):
+
+- `ACTIVITY`
+- `BUFFER_PIN`
+- `CLIENT`
+- `EXTENSION`
+- `IO`
+- `IPC`
+- `LOCK`
+- `LWLOCK`
+- `TIMEOUT`
+
+### `cloud.project.database.service.currentqueries.query.CancelRequest`
+
+_Cloud database service current queries query cancel request_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `pid` | `long` | ❌ | ❌ | ❌ | Database server connection ID |
+| `terminate` | `boolean` | ❌ | ❌ | ❌ | Request immediate termination instead of soft cancel |
+
+### `cloud.project.database.service.currentqueries.query.CancelResponse`
+
+_Cloud database service current queries query cancel response_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `success` | `boolean` | ❌ | ❌ | ✅ | Status reported by the database server |
+
+### `cloud.project.database.service.endpoint.ComponentEnum`
+
+_Defines all the values for the component in the service endpoints_
+
+**Enum** (`enumType: string`):
+
+- `cassandra`
+- `clickhouse`
+- `clickhouseHttps`
+- `clickhouseMysql`
+- `grafana`
+- `graphite`
+- `influxdb`
+- `kafka`
+- `kafkaConnect`
+- `kafkaRestApi`
+- `kafkaSASL`
+- `kafkaSchemaRegistry`
+- `kibana`
+- `m3coordinator`
+- `mongodb`
+- `mongodbAnalytics`
+- `mongodbSrv`
+- `mongodbSrvAnalytics`
+- `mysql`
+- `mysqlRead`
+- `mysqlx`
+- `opensearch`
+- `postgresql`
+- `postgresqlRead`
+- `postgresqlReadReplica`
+- `prometheusRead`
+- `prometheusWrite`
+- `redis`
+- `valkey`
+
+### `cloud.project.database.service.integration.StatusEnum`
+
+_Possible state of the integration_
+
+**Enum** (`enumType: string`):
+
+- `READY`
+
+### `cloud.project.database.service.integration.TypeEnum`
+
+_Possible type of the service integration_
+
+**Enum** (`enumType: string`):
+
+- `grafanaDashboard`
+- `grafanaDatasource`
+- `kafkaConnect`
+- `kafkaLogs`
+- `kafkaMirrorMaker`
+- `m3aggregator`
+- `m3dbMetrics`
+- `opensearchLogs`
+- `postgresqlMetrics`
+
+### `cloud.project.database.service.maintenance.StatusEnum`
+
+_Possible status of a service maintenance_
+
+**Enum** (`enumType: string`):
+
+- `APPLIED`
+- `APPLYING`
+- `ERROR`
+- `PENDING`
+- `SCHEDULED`
+
+### `cloud.project.database.service.node.RoleEnum`
+
+_Node role values_
+
+**Enum** (`enumType: string`):
+
+- `ANALYTICS`
+- `STANDARD`
+
+### `cloud.project.database.service.prometheus.Target`
+
+_Prometheus endpoint target_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `host` | `string` | ❌ | ❌ | ✅ | Hostname of the prometheus target |
+| `port` | `long` | ❌ | ❌ | ✅ | Port of the prometheus target |
+
+### `cloud.project.database.service.replication.PolicyClassEnum`
+
+_Possible type of the service integration_
+
+**Enum** (`enumType: string`):
+
+- `org.apache.kafka.connect.mirror.DefaultReplicationPolicy`
+- `org.apache.kafka.connect.mirror.IdentityReplicationPolicy`
+
+### `cloud.project.floatingIp.AssociatedEntity`
+
+_Associated entity with a floating ip_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gatewayId` | `uuid` | ❌ | ❌ | ✅ | ID of the gateway |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ID of the port |
+| `ip` | `ip` | ❌ | ❌ | ✅ | IP of the port |
+| `type` | `cloud.project.floatingIp.associatedEntity.TypeEnum` | ❌ | ❌ | ✅ | Type of the port |
+
+### `cloud.project.floatingIp.StatusEnum`
+
+_Status of a floating ip_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `down`
+- `error`
+
+### `cloud.project.floatingIp.associatedEntity.TypeEnum`
+
+_Type of the associated entity_
+
+**Enum** (`enumType: string`):
+
+- `dhcp`
+- `instance`
+- `loadbalancer`
+- `routerInterface`
+- `unknown`
+
+### `cloud.project.gateway.TypeEnum`
+
+_Type of the gateway_
+
+**Enum** (`enumType: string`):
+
+- `private`
+- `public`
+
+### `cloud.project.loadbalancer.ActionDispatch`
+
+_HTTP load balancer dispatch action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | The backend name |
+| `target` | `string` | ✅ | ❌ | ❌ | Target name |
+
+### `cloud.project.loadbalancer.ActionRedirect`
+
+_HTTP load balancer redirect action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `location` | `string` | ✅ | ❌ | ❌ | Location url |
+| `name` | `string` | ✅ | ❌ | ❌ | The backend name |
+| `statusCode` | `cloud.project.loadbalancer.action.RedirectStatusCodeEnum` | ✅ | ❌ | ❌ | StatusCode for redirect action |
+
+### `cloud.project.loadbalancer.ActionReject`
+
+_HTTP load balancer reject action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | The action name |
+| `statusCode` | `cloud.project.loadbalancer.action.RejectStatusCodeEnum` | ✅ | ❌ | ❌ | StatusCode for reject action |
+
+### `cloud.project.loadbalancer.ActionRewrite`
+
+_HTTP load balancer rewrite action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `location` | `string` | ✅ | ❌ | ❌ | Location url |
+| `name` | `string` | ✅ | ❌ | ❌ | The backend name |
+
+### `cloud.project.loadbalancer.Actions`
+
+_HTTP load balancer actions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dispatch` | `cloud.project.loadbalancer.ActionDispatch[]` | ❌ | ✅ | ❌ | List of dispatch actions |
+| `redirect` | `cloud.project.loadbalancer.ActionRedirect[]` | ❌ | ✅ | ❌ | List of redirect actions |
+| `reject` | `cloud.project.loadbalancer.ActionReject[]` | ❌ | ✅ | ❌ | List of reject actions |
+| `rewrite` | `cloud.project.loadbalancer.ActionRewrite[]` | ❌ | ✅ | ❌ | List of rewrite actions |
+
+### `cloud.project.loadbalancer.Address`
+
+_Address to reach the load balancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ipv4` | `ipv4` | ❌ | ❌ | ✅ | IP version 4 |
+| `ipv6` | `ipv6` | ❌ | ✅ | ✅ | IP version 6 |
+
+### `cloud.project.loadbalancer.Addresses`
+
+_IP list split in version 4 and 6_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ipv4` | `ipv4Block[]` | ❌ | ❌ | ✅ | IP version 4 list |
+| `ipv6` | `ipv6Block[]` | ❌ | ✅ | ✅ | IP version 6 list |
+
+### `cloud.project.loadbalancer.ApplicationConfiguration`
+
+_An application load balancer configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actions` | `cloud.project.loadbalancer.Actions` | ❌ | ✅ | ✅ | All actions |
+| `certificates` | `string[]` | ❌ | ❌ | ✅ | List of certificate ID |
+| `conditions` | `cloud.project.loadbalancer.Condition[]` | ❌ | ✅ | ✅ | List of conditions |
+| `entryPoints` | `cloud.project.loadbalancer.EntryPoint[]` | ❌ | ❌ | ✅ | List of entryPoints |
+| `networking` | `cloud.project.loadbalancer.configuration.networking.Networking` | ❌ | ❌ | ✅ | networking configuration |
+| `targets` | `cloud.project.loadbalancer.Target[]` | ❌ | ✅ | ✅ | List of targets |
+| `version` | `long` | ❌ | ❌ | ✅ | Identifier and version of the configuration |
+
+### `cloud.project.loadbalancer.ApplicationConfigurationCreation`
+
+_An application load balancer configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actions` | `cloud.project.loadbalancer.Actions` | ❌ | ✅ | ❌ | All actions |
+| `certificates` | `string[]` | ❌ | ❌ | ❌ | List of certificate ID |
+| `conditions` | `cloud.project.loadbalancer.Condition[]` | ❌ | ✅ | ❌ | List of conditions |
+| `entryPoints` | `cloud.project.loadbalancer.EntryPoint[]` | ❌ | ❌ | ❌ | List of entryPoints |
+| `networking` | `cloud.project.loadbalancer.configuration.networking.Networking` | ❌ | ✅ | ❌ | networking configuration |
+| `targets` | `cloud.project.loadbalancer.Target[]` | ❌ | ✅ | ❌ | List of targets |
+| `version` | `long` | ❌ | ❌ | ✅ | Identifier and version of the configuration |
+
+### `cloud.project.loadbalancer.ApplicationLoadBalancerSizeCapability`
+
+_Application load balancer size capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bandwidth` | `long` | ❌ | ❌ | ✅ | Bandwidth allowed in Mb/s |
+| `maximumConnection` | `long` | ❌ | ❌ | ✅ | Maximum connection allowed on the load balancer |
+| `requestsPerSecond` | `long` | ❌ | ❌ | ✅ | Number of requests allowed per second |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ❌ | ✅ | Size of the load balancer |
+
+### `cloud.project.loadbalancer.Backend`
+
+_A load balancer backend_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `balancer` | `cloud.project.loadbalancer.backend.BalancerAlgorithmEnum` | ❌ | ✅ | ❌ | Use a specific balancer algorithm |
+| `name` | `string` | ✅ | ❌ | ❌ | The backend name |
+| `proxyProtocol` | `cloud.project.loadbalancer.backend.ProxyProtocolEnum` | ❌ | ✅ | ❌ | Use proxy protocol on backend |
+| `servers` | `cloud.project.loadbalancer.Server[]` | ✅ | ❌ | ❌ | List of server in backend |
+| `sticky` | `boolean` | ❌ | ✅ | ❌ | Enable sticky session, only usable with http-mode frontends |
+
+### `cloud.project.loadbalancer.BackendSelector`
+
+_Select a load balancer backend_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | The backend name |
+
+### `cloud.project.loadbalancer.Condition`
+
+_A condition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ❌ | ✅ | ❌ | The condition name |
+| `match` | `cloud.project.loadbalancer.condition.MatchEnum` | ✅ | ❌ | ❌ | Criterion matching operation |
+| `name` | `string` | ✅ | ❌ | ❌ | The condition name |
+| `negate` | `boolean` | ❌ | ✅ | ❌ | Negate the condition |
+| `type` | `cloud.project.loadbalancer.condition.TypeEnum` | ✅ | ❌ | ❌ | Criterion used to chose the appropriate action |
+| `values` | `string[]` | ✅ | ❌ | ❌ | The list of values to match |
+
+### `cloud.project.loadbalancer.Configuration`
+
+_A load balancer configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backends` | `cloud.project.loadbalancer.Backend[]` | ❌ | ❌ | ✅ | List of backends |
+| `certificates` | `string[]` | ❌ | ❌ | ✅ | List of certificate ID |
+| `frontends` | `cloud.project.loadbalancer.Frontend[]` | ❌ | ❌ | ✅ | List of frontends |
+| `networking` | `cloud.project.loadbalancer.configuration.networking.Networking` | ❌ | ❌ | ✅ | networking configuration |
+| `version` | `long` | ❌ | ❌ | ✅ | Identifier and version of the configuration |
+
+### `cloud.project.loadbalancer.ConfigurationCreation`
+
+_A load balancer configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backends` | `cloud.project.loadbalancer.Backend[]` | ❌ | ❌ | ❌ | List of backends |
+| `certificates` | `string[]` | ❌ | ❌ | ❌ | List of certificate ID |
+| `frontends` | `cloud.project.loadbalancer.Frontend[]` | ❌ | ❌ | ❌ | List of frontends |
+| `networking` | `cloud.project.loadbalancer.configuration.networking.Networking` | ❌ | ✅ | ❌ | networking configuration |
+| `version` | `long` | ❌ | ❌ | ✅ | Identifier and version of the configuration |
+
+### `cloud.project.loadbalancer.ConfigurationVersion`
+
+_Information about version of the configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `applied` | `long` | ❌ | ❌ | ✅ | Applied version of the configuration |
+| `latest` | `long` | ❌ | ❌ | ✅ | Latest version of the configuration |
+
+### `cloud.project.loadbalancer.EntryPoint`
+
+_A load balancer entryPoint_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `defaultTarget` | `string` | ❌ | ✅ | ❌ | The default target name |
+| `disableH2` | `boolean` | ❌ | ✅ | ❌ | Disable HTTP2 |
+| `name` | `string` | ✅ | ❌ | ❌ | The frontend name |
+| `portRanges` | `cloud.project.loadbalancer.PortRange[]` | ❌ | ✅ | ❌ | Port ranges to listen |
+| `ports` | `long[]` | ❌ | ✅ | ❌ | Ports to listen |
+| `rules` | `cloud.project.loadbalancer.Rule[]` | ❌ | ❌ | ❌ | List of rules |
+| `tls` | `boolean` | ❌ | ❌ | ❌ |  |
+
+### `cloud.project.loadbalancer.Frontend`
+
+_A load balancer frontend_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `backends` | `cloud.project.loadbalancer.BackendSelector[]` | ✅ | ❌ | ❌ | Selector for backend |
+| `mode` | `cloud.project.loadbalancer.frontend.ModeEnum` | ❌ | ✅ | ❌ | Load balancing mode |
+| `name` | `string` | ✅ | ❌ | ❌ | The frontend name |
+| `port` | `long` | ❌ | ✅ | ❌ | Port to listen (deprecated: see ports) |
+| `portRanges` | `cloud.project.loadbalancer.PortRange[]` | ❌ | ✅ | ❌ | Port ranges to listen |
+| `ports` | `long[]` | ❌ | ✅ | ❌ | Ports to listen |
+| `tls` | `boolean` | ❌ | ❌ | ❌ |  |
+| `whitelist` | `ipBlock[]` | ❌ | ❌ | ❌ | IP range to whitelist |
+
+### `cloud.project.loadbalancer.LoadBalancerSizeCapability`
+
+_Network load balancer size capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bandwidth` | `long` | ❌ | ❌ | ✅ | Bandwidth allowed in Mb/s |
+| `maximumConnection` | `long` | ❌ | ❌ | ✅ | Maximum connection allowed on the load balancer |
+| `newConnectionPerSecond` | `long` | ❌ | ❌ | ✅ | Number of new connection allowed per second |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ❌ | ✅ | Size of the load balancer |
+
+### `cloud.project.loadbalancer.PortRange`
+
+_A port range_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `end` | `long` | ❌ | ❌ | ❌ | Port range end |
+| `start` | `long` | ❌ | ❌ | ❌ | Port range start |
+
+### `cloud.project.loadbalancer.Region`
+
+_Region information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `region` | `string` | ❌ | ❌ | ✅ | Region name |
+
+### `cloud.project.loadbalancer.Rule`
+
+_A entrypoint rule_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `string` | ✅ | ❌ | ❌ | The action name |
+| `conditions` | `string[]` | ❌ | ✅ | ❌ | The list of condition to match |
+
+### `cloud.project.loadbalancer.Server`
+
+_A load balancer backend server_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `ip` | `ip` | ✅ | ❌ | ❌ | IP address of a server |
+| `name` | `string` | ✅ | ❌ | ❌ | Server name |
+| `noCheck` | `boolean` | ❌ | ✅ | ❌ | Disable health check |
+| `port` | `long` | ✅ | ❌ | ❌ | Port that the server listen |
+| `weight` | `long` | ❌ | ✅ | ❌ | Weight of the server in the backend |
+
+### `cloud.project.loadbalancer.SizeEnum`
+
+_Size of the load balancer_
+
+**Enum** (`enumType: string`):
+
+- `L`
+- `M`
+- `S`
+
+### `cloud.project.loadbalancer.Stats`
+
+_Loadbalancer stats_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `concurrentFlows` | `double` | ❌ | ❌ | ✅ | Concurrent connections |
+| `httpRequestsPerSecond` | `double` | ❌ | ✅ | ✅ | HTTP requests made |
+| `status` | `cloud.project.loadbalancer.stats.StatusEnum` | ❌ | ❌ | ✅ | Main loadbalancer status |
+| `targets` | `cloud.project.loadbalancer.stats.Target[]` | ❌ | ❌ | ✅ | Targets state |
+| `tcpConnectionsPerSecond` | `double` | ❌ | ❌ | ✅ | New connections opened per second |
+| `throughput` | `cloud.project.loadbalancer.stats.Throughput` | ❌ | ❌ | ✅ | Throughput consumed on the entrypoints |
+
+### `cloud.project.loadbalancer.StatusEnum`
+
+_Status of a load balancer_
+
+**Enum** (`enumType: string`):
+
+- `APPLYING`
+- `CREATED`
+- `DELETING`
+- `ERROR`
+- `FROZEN`
+- `RUNNING`
+
+### `cloud.project.loadbalancer.Target`
+
+_A load balancer target_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `balancer` | `cloud.project.loadbalancer.target.BalancerAlgorithmEnum` | ❌ | ✅ | ❌ | Use a specific balancer algorithm |
+| `name` | `string` | ✅ | ❌ | ❌ | The backend name |
+| `proxyProtocol` | `cloud.project.loadbalancer.target.ProxyProtocolEnum` | ❌ | ✅ | ❌ | Use proxy protocol on target |
+| `servers` | `cloud.project.loadbalancer.Server[]` | ✅ | ❌ | ❌ | List of server in target |
+| `sticky` | `boolean` | ❌ | ✅ | ❌ | Enable sticky session, only usable with http-mode frontends |
+
+### `cloud.project.loadbalancer.action.RedirectStatusCodeEnum`
+
+_Available status code for Redirect action_
+
+**Enum** (`enumType: string`):
+
+- `301`
+- `302`
+- `303`
+- `307`
+- `308`
+
+### `cloud.project.loadbalancer.action.RejectStatusCodeEnum`
+
+_Available status code for Reject action_
+
+**Enum** (`enumType: string`):
+
+- `200`
+- `400`
+- `403`
+- `405`
+- `408`
+- `429`
+- `500`
+- `502`
+- `503`
+- `504`
+
+### `cloud.project.loadbalancer.backend.BalancerAlgorithmEnum`
+
+_Available load balancer backend balancer algorithm_
+
+**Enum** (`enumType: string`):
+
+- `first`
+- `leastconn`
+- `roundrobin`
+- `source`
+- `static-rr`
+
+### `cloud.project.loadbalancer.backend.ProxyProtocolEnum`
+
+_Available load balancer backend proxy-protocol_
+
+**Enum** (`enumType: string`):
+
+- `v1`
+- `v2`
+- `v2-cn`
+- `v2-ssl`
+
+### `cloud.project.loadbalancer.condition.MatchEnum`
+
+_Matching operator_
+
+**Enum** (`enumType: string`):
+
+- `end-with`
+- `exists`
+- `is`
+- `regex`
+- `start-with`
+
+### `cloud.project.loadbalancer.condition.TypeEnum`
+
+_Matching field_
+
+**Enum** (`enumType: string`):
+
+- `cookie`
+- `header`
+- `host`
+- `method`
+- `path`
+- `query-param`
+- `source`
+
+### `cloud.project.loadbalancer.configuration.networking.Egress`
+
+_Networking configuration egress definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ✅ | ❌ | vrack networking id |
+| `kind` | `cloud.project.loadbalancer.networking.egress.KindEnum` | ✅ | ❌ | ❌ | networking egress kind definition |
+
+### `cloud.project.loadbalancer.configuration.networking.Ingress`
+
+_Networking configuration ingress definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `cloud.project.loadbalancer.networking.ingress.KindEnum` | ✅ | ❌ | ❌ | networking configuration ingress kind definition |
+
+### `cloud.project.loadbalancer.configuration.networking.Networking`
+
+_Networking configuration object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `egress` | `cloud.project.loadbalancer.configuration.networking.Egress` | ❌ | ✅ | ❌ | Networking configuration definition for egress |
+| `ingress` | `cloud.project.loadbalancer.configuration.networking.Ingress` | ❌ | ✅ | ❌ | Networking configuration definition for ingress |
+
+### `cloud.project.loadbalancer.frontend.ModeEnum`
+
+_Available load balancer frontend mode_
+
+**Enum** (`enumType: string`):
+
+- `TCP`
+
+### `cloud.project.loadbalancer.networking.Egress`
+
+_Networking Egress definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ✅ | ❌ | vrack networking id |
+| `kind` | `cloud.project.loadbalancer.networking.egress.KindEnum` | ✅ | ❌ | ❌ | networking egress kind definition |
+
+### `cloud.project.loadbalancer.networking.EgressCreation`
+
+_Networking Egress definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `cloud.project.loadbalancer.networking.egress.KindEnum` | ✅ | ❌ | ❌ | networking egress kind definition |
+
+### `cloud.project.loadbalancer.networking.Ingress`
+
+_Networking Ingress definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `cloud.project.loadbalancer.networking.ingress.KindEnum` | ❌ | ❌ | ✅ | networking ingress kind definition |
+
+### `cloud.project.loadbalancer.networking.IngressCreation`
+
+_Networking Ingress definition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `cloud.project.loadbalancer.networking.ingress.KindEnum` | ✅ | ❌ | ❌ | networking ingress kind definition |
+
+### `cloud.project.loadbalancer.networking.Networking`
+
+_Networking object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `egress` | `cloud.project.loadbalancer.networking.Egress` | ❌ | ❌ | ✅ | Networking definition for egress |
+| `ingress` | `cloud.project.loadbalancer.networking.Ingress` | ❌ | ❌ | ✅ | Networking definition for ingress |
+
+### `cloud.project.loadbalancer.networking.NetworkingCreation`
+
+_Networking creation object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `egress` | `cloud.project.loadbalancer.networking.EgressCreation` | ❌ | ✅ | ❌ | Networking definition for egress |
+| `ingress` | `cloud.project.loadbalancer.networking.IngressCreation` | ❌ | ✅ | ❌ | Networking definition for ingress |
+
+### `cloud.project.loadbalancer.networking.egress.KindEnum`
+
+_Networking kind_
+
+**Enum** (`enumType: string`):
+
+- `public`
+- `vrack`
+
+### `cloud.project.loadbalancer.networking.ingress.KindEnum`
+
+_Networking kind_
+
+**Enum** (`enumType: string`):
+
+- `public`
+
+### `cloud.project.loadbalancer.stats.StatusEnum`
+
+_Status of availability of loadbalancer_
+
+**Enum** (`enumType: string`):
+
+- `HEALTHY`
+- `NOT_AVAILABLE`
+
+### `cloud.project.loadbalancer.stats.Target`
+
+_Loadbalancer target stats_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Target name |
+| `servers` | `cloud.project.loadbalancer.stats.target.Server[]` | ❌ | ❌ | ✅ | Concurrent connections |
+
+### `cloud.project.loadbalancer.stats.Throughput`
+
+_Loadbalancer bandwidth stats_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `in` | `double` | ❌ | ❌ | ✅ | Consumed inbound bandwidth (bytes/s) |
+| `out` | `double` | ❌ | ❌ | ✅ | Consumed outbound bandwidth (bytes/s) |
+
+### `cloud.project.loadbalancer.stats.target.Server`
+
+_Loadbalancer target server stats_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Target name |
+| `status` | `cloud.project.loadbalancer.stats.target.server.StatusEnum` | ❌ | ❌ | ✅ | Server status |
+
+### `cloud.project.loadbalancer.stats.target.server.StatusEnum`
+
+_Status of target's server_
+
+**Enum** (`enumType: string`):
+
+- `ERROR`
+- `HEALTHY`
+- `INIT`
+- `L4_CONNECTION_ERROR`
+- `L4_TIMEOUT_ERROR`
+- `L7_PROTOCOL_ERROR`
+- `L7_RESPONSE_ERROR`
+- `L7_TIMEOUT`
+- `UNKNOWN`
+
+### `cloud.project.loadbalancer.target.BalancerAlgorithmEnum`
+
+_Available load balancer target balancer algorithm_
+
+**Enum** (`enumType: string`):
+
+- `first`
+- `leastconn`
+- `roundrobin`
+- `source`
+- `static-rr`
+
+### `cloud.project.loadbalancer.target.ProxyProtocolEnum`
+
+_Available load balancer target proxy-protocol_
+
+**Enum** (`enumType: string`):
+
+- `v1`
+- `v2`
+- `v2-cn`
+- `v2-ssl`
+
+### `cloud.project.networkloadbalancer.ActionReject`
+
+_network load balancer reject action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ✅ | ❌ | ❌ | The action name |
+| `type` | `cloud.project.networkloadbalancer.action.RejectTypeEnum` | ✅ | ❌ | ❌ | type of reject action |
+
+### `cloud.project.networkloadbalancer.Actions`
+
+_Network Loadbalancer action_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `dispatch` | `cloud.project.loadbalancer.ActionDispatch[]` | ❌ | ✅ | ❌ | List of dispatch actions |
+| `reject` | `cloud.project.networkloadbalancer.ActionReject[]` | ❌ | ✅ | ❌ | List of reject actions |
+
+### `cloud.project.networkloadbalancer.Condition`
+
+_A condition_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `key` | `string` | ❌ | ✅ | ❌ | The condition name |
+| `match` | `cloud.project.loadbalancer.condition.MatchEnum` | ✅ | ❌ | ❌ | Criterion matching operation |
+| `name` | `string` | ✅ | ❌ | ❌ | The condition name |
+| `negate` | `boolean` | ❌ | ✅ | ❌ | Negate the condition |
+| `type` | `cloud.project.networkloadbalancer.condition.TypeEnum` | ✅ | ❌ | ❌ | Criterion used to chose the appropriate action |
+| `values` | `string[]` | ✅ | ❌ | ❌ | The list of values to match |
+
+### `cloud.project.networkloadbalancer.Configuration`
+
+_A network load balancer configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actions` | `cloud.project.networkloadbalancer.Actions` | ❌ | ✅ | ✅ | All actions |
+| `conditions` | `cloud.project.networkloadbalancer.Condition[]` | ❌ | ✅ | ✅ | List of conditions |
+| `entryPoints` | `cloud.project.networkloadbalancer.EntryPoint[]` | ❌ | ❌ | ✅ | List of entryPoints |
+| `networking` | `cloud.project.loadbalancer.configuration.networking.Networking` | ❌ | ❌ | ✅ | networking configuration |
+| `targets` | `cloud.project.loadbalancer.Target[]` | ❌ | ✅ | ✅ | List of targets |
+| `version` | `long` | ❌ | ❌ | ✅ | Identifier and version of the configuration |
+
+### `cloud.project.networkloadbalancer.ConfigurationCreation`
+
+_A network load balancer configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `actions` | `cloud.project.networkloadbalancer.Actions` | ❌ | ✅ | ❌ | All actions |
+| `conditions` | `cloud.project.networkloadbalancer.Condition[]` | ❌ | ✅ | ❌ | List of conditions |
+| `entryPoints` | `cloud.project.networkloadbalancer.EntryPoint[]` | ❌ | ❌ | ❌ | List of entryPointss |
+| `networking` | `cloud.project.loadbalancer.configuration.networking.Networking` | ❌ | ✅ | ❌ | networking configuration |
+| `targets` | `cloud.project.loadbalancer.Target[]` | ❌ | ✅ | ❌ | List of targets |
+| `version` | `long` | ❌ | ❌ | ✅ | Identifier and version of the configuration |
+
+### `cloud.project.networkloadbalancer.EntryPoint`
+
+_A network load balancer entryPoint_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `defaultTarget` | `string` | ❌ | ✅ | ❌ | The default target name |
+| `name` | `string` | ✅ | ❌ | ❌ | The frontend name |
+| `portRanges` | `cloud.project.loadbalancer.PortRange[]` | ❌ | ✅ | ❌ | Port ranges to listen |
+| `ports` | `long[]` | ❌ | ✅ | ❌ | Ports to listen |
+| `rules` | `cloud.project.loadbalancer.Rule[]` | ❌ | ❌ | ❌ | List of rules |
+
+### `cloud.project.networkloadbalancer.LoadBalancerSizeCapability`
+
+_Network load balancer size capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bandwidth` | `long` | ❌ | ❌ | ✅ | Bandwidth allowed in Mb/s |
+| `maximumConnection` | `long` | ❌ | ❌ | ✅ | Maximum connection allowed on the load balancer |
+| `newConnectionPerSecond` | `long` | ❌ | ❌ | ✅ | Maximum number of connections opened per second |
+| `size` | `cloud.project.loadbalancer.SizeEnum` | ❌ | ❌ | ✅ | Size of the load balancer |
+
+### `cloud.project.networkloadbalancer.action.RejectTypeEnum`
+
+_Available type of Reject action_
+
+**Enum** (`enumType: string`):
+
+- `deny`
+- `drop`
+
+### `cloud.project.networkloadbalancer.condition.TypeEnum`
+
+_Matching field_
+
+**Enum** (`enumType: string`):
+
+- `source`
+
+### `cloud.project.quantum.QuantumResources`
+
+_Quantum Resource Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `qpuFlavorId` | `string` | ❌ | ✅ | ✅ | ID of the QPU flavor |
+
+### `cloud.project.quantum.QuantumResourcesInput`
+
+_Quantum Resource Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `qpuFlavorId` | `string` | ❌ | ✅ | ❌ | ID of the QPU flavor |
+
+### `cloud.project.quantum.capabilities.QPUFlavor`
+
+_Quantum QPU flavor object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Short description of the QPU flavor |
+| `id` | `string` | ❌ | ❌ | ✅ | Unique identifier of the QPU flavor |
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the QPU flavor |
+| `qubits` | `long` | ❌ | ❌ | ✅ | Qubits capacity of the QPU flavor |
+
+### `cloud.project.quantum.capabilities.Region`
+
+_Quantum Region_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cliInstallUrl` | `string` | ❌ | ❌ | ✅ | Client Install Url |
+| `documentationUrl` | `string` | ❌ | ❌ | ✅ | Documentation Url |
+| `id` | `string` | ❌ | ❌ | ✅ | Region id |
+| `registryUrl` | `string` | ❌ | ❌ | ✅ | Region Registry Url |
+| `version` | `string` | ❌ | ❌ | ✅ | Region version |
+
+### `cloud.quota.AllowedQuota`
+
+_Quotas_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `compute` | `cloud.quota.ComputeQuota` | ❌ | ❌ | ✅ | Quotas for compute |
+| `name` | `string` | ❌ | ❌ | ✅ | Name |
+| `network` | `cloud.quota.NetworkQuota` | ❌ | ❌ | ✅ | Quotas for network |
+| `volume` | `cloud.quota.VolumeQuota` | ❌ | ❌ | ✅ | Quotas for volume |
+
+### `cloud.quota.CategoryEnum`
+
+_Possible values for quota category_
+
+**Enum** (`enumType: string`):
+
+- `instance`
+- `keymanager`
+- `keypair`
+- `loadbalancer`
+- `network`
+- `share`
+- `volume`
+
+### `cloud.quota.ComputeQuota`
+
+_Quotas for compute_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `cores` | `long` | ❌ | ❌ | ✅ | Maximum total cores allowed in your project |
+| `instances` | `long` | ❌ | ❌ | ✅ | Maximum number of instances allowed in your project |
+| `ram` | `long` | ❌ | ❌ | ✅ | Maximum total ram allowed in your project |
+
+### `cloud.quota.InstanceUsageQuotas`
+
+_Quotas on instances_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxCores` | `long` | ❌ | ❌ | ✅ | Maximum total cores allowed in your project |
+| `maxInstances` | `long` | ❌ | ❌ | ✅ | Maximum total cores allowed in your project |
+| `maxRam` | `long` | ❌ | ❌ | ✅ |  |
+| `usedCores` | `long` | ❌ | ❌ | ✅ | Current used cores number |
+| `usedInstances` | `long` | ❌ | ❌ | ✅ | Current used instances |
+| `usedRAM` | `long` | ❌ | ❌ | ✅ | Current used ram |
+
+### `cloud.quota.KeymanagerQuotas`
+
+_Quotas on keymanager_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxSecrets` | `long` | ❌ | ❌ | ✅ | Maximum number of secrets allowed in your project |
+| `usedSecrets` | `long` | ❌ | ❌ | ✅ | Current number of used secrets |
+
+### `cloud.quota.KeypairQuotas`
+
+_Quotas on keypairs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxCount` | `long` | ❌ | ❌ | ✅ | Maximum keypairs count allowed in your project |
+
+### `cloud.quota.LoadbalancerQuotas`
+
+_Quotas on loadbalancer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxLoadbalancers` | `long` | ❌ | ❌ | ✅ | Maximum number of loadbalancers allowed in your project |
+| `usedLoadbalancers` | `long` | ❌ | ❌ | ✅ | Current number of used loadbalancers |
+
+### `cloud.quota.NetworkQuota`
+
+_Quotas for network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `networks` | `long` | ❌ | ❌ | ✅ | Maximum number of networks allowed in your project |
+| `ports` | `long` | ❌ | ❌ | ✅ | Maximum number of ports allowed in your project |
+| `subnets` | `long` | ❌ | ❌ | ✅ | Maximum number of subnets allowed in your project |
+
+### `cloud.quota.NetworkQuotas`
+
+_Quotas on network_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxFloatingIPs` | `long` | ❌ | ❌ | ✅ | Maximum number of floating ips allowed in your project |
+| `maxGateways` | `long` | ❌ | ❌ | ✅ | Maximum number of gateways allowed in your project |
+| `maxNetworks` | `long` | ❌ | ❌ | ✅ | Maximum networks allowed in your project |
+| `maxSubnets` | `long` | ❌ | ❌ | ✅ | Maximum subnets allowed in your project |
+| `usedFloatingIPs` | `long` | ❌ | ❌ | ✅ | Current number of used floating ips |
+| `usedGateways` | `long` | ❌ | ❌ | ✅ | Current number of used gateways |
+| `usedNetworks` | `long` | ❌ | ❌ | ✅ | Current used networks |
+| `usedSubnets` | `long` | ❌ | ❌ | ✅ | Current used subnets |
+
+### `cloud.quota.Quotas`
+
+_Quotas_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `instance` | `cloud.quota.InstanceUsageQuotas` | ❌ | ✅ | ✅ | Quotas on instances |
+| `keymanager` | `cloud.quota.KeymanagerQuotas` | ❌ | ✅ | ✅ | Quotas on keymanager |
+| `keypair` | `cloud.quota.KeypairQuotas` | ❌ | ✅ | ✅ | Quotas on keypairs |
+| `loadbalancer` | `cloud.quota.LoadbalancerQuotas` | ❌ | ✅ | ✅ | Quotas on loadbalancer |
+| `network` | `cloud.quota.NetworkQuotas` | ❌ | ✅ | ✅ | Quotas on network |
+| `region` | `string` | ❌ | ❌ | ✅ | Region |
+| `share` | `cloud.quota.share.Quota` | ❌ | ✅ | ✅ | Quotas on shares |
+| `volume` | `cloud.quota.VolumeUsageQuotas` | ❌ | ✅ | ✅ | Quotas on volumes |
+
+### `cloud.quota.VolumeQuota`
+
+_Quotas for volume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `gigabytes` | `long` | ❌ | ❌ | ✅ | Maximum total volume capacity allowed in your project |
+| `snapshots` | `long` | ❌ | ❌ | ✅ | Maximum number of snapshots allowed in your project |
+| `volumes` | `long` | ❌ | ❌ | ✅ | Maximum number of volumes allowed in your project |
+
+### `cloud.quota.VolumeUsageQuotas`
+
+_Quotas on volumes_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxBackupGigabytes` | `long` | ❌ | ❌ | ✅ | Maximum total volume backup capacity allowed in your project |
+| `maxGigabytes` | `long` | ❌ | ❌ | ✅ | Maximum total volume capacity allowed in your project |
+| `maxVolumeBackupCount` | `long` | ❌ | ❌ | ✅ | Maximum volumes backup count |
+| `maxVolumeCount` | `long` | ❌ | ❌ | ✅ | Maximum volumes count |
+| `usedBackupGigabytes` | `long` | ❌ | ❌ | ✅ | Current used volume backup gigabytes |
+| `usedGigabytes` | `long` | ❌ | ❌ | ✅ | Current used volume gigabytes |
+| `volumeBackupCount` | `long` | ❌ | ❌ | ✅ | Current volumes backup count |
+| `volumeCount` | `long` | ❌ | ❌ | ✅ | Current volumes count |
+
+### `cloud.quota.share.Quota`
+
+_Share Quota_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `maxShareBackupGigabytes` | `long` | ❌ | ❌ | ✅ | Maximum share backup gigabytes |
+| `maxShareBackups` | `long` | ❌ | ❌ | ✅ | Maximum number of share backups |
+| `maxShareSizePerShare` | `long` | ❌ | ❌ | ✅ | Maximum share size of a share |
+| `maxShareSizeTotal` | `long` | ❌ | ❌ | ✅ | Maximum share total size for project |
+| `maxShareSnapshots` | `long` | ❌ | ❌ | ✅ | Maximum number of share snapshots |
+| `maxSharesNumber` | `long` | ❌ | ❌ | ✅ | Maximum number of shares in the quota |
+| `usedShareBackupGigabytes` | `long` | ❌ | ❌ | ✅ | Used share backup gigabytes |
+| `usedShareBackups` | `long` | ❌ | ❌ | ✅ | Used number of share backups |
+| `usedShareSizeTotal` | `long` | ❌ | ❌ | ✅ | Used share total size for project |
+| `usedShareSnapshots` | `long` | ❌ | ❌ | ✅ | Used number of share snapshot |
+| `usedSharesNumber` | `long` | ❌ | ❌ | ✅ | Used number of shares in the quota |
+
+### `cloud.quota.storage.Quota`
+
+_Cloud Storage Quota_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `bytesUsed` | `long` | ❌ | ❌ | ✅ | Quota used in bytes |
+| `containerCount` | `long` | ❌ | ❌ | ✅ | Number of containers on account |
+| `objectCount` | `long` | ❌ | ❌ | ✅ | Number of objects on account |
+| `quotaBytes` | `long` | ❌ | ✅ | ✅ | Quota in bytes |
+
+### `cloud.quota.storage.QuotaUpdate`
+
+_Update storage quota_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `quotaBytes` | `long` | ✅ | ❌ | ❌ | New quota in bytes |
+
+### `cloud.region.Flavor`
+
+_Region flavor_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `disk` | `long` | ❌ | ❌ | ✅ | Flavor disk size in GB |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Flavor ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Flavor name |
+| `ram` | `long` | ❌ | ❌ | ✅ | Flavor ram size in MB |
+| `region` | `string` | ❌ | ❌ | ✅ | Flavor region |
+| `vcpus` | `long` | ❌ | ❌ | ✅ | Flavor VCPUs number |
+
+### `cloud.region.SSHKey`
+
+_Region SSHKey_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fingerPrint` | `string` | ❌ | ❌ | ✅ | SSHKey fingerPrint |
+| `id` | `string` | ❌ | ❌ | ✅ | SSHKey ID |
+| `name` | `string` | ❌ | ❌ | ✅ | SSHKey name |
+| `publicKey` | `string` | ❌ | ❌ | ✅ | SSHKey publicKey |
+| `region` | `string` | ❌ | ❌ | ✅ | SSHKey region |
+
+### `cloud.region.Volume`
+
+_Region volume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `attachedTo` | `cloud.region.volume.AttachedTo[]` | ❌ | ❌ | ✅ | Volume attached to list |
+| `availabilityZone` | `string` | ❌ | ✅ | ✅ | Availability zone of the volume |
+| `backups` | `cloud.region.volume.Backup[]` | ❌ | ❌ | ✅ | Volume backups |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Volume ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Volume name |
+| `size` | `long` | ❌ | ❌ | ✅ | Volume size |
+| `snapshots` | `cloud.region.volume.Snapshot[]` | ❌ | ❌ | ✅ | Volume snapshots |
+| `status` | `cloud.volume.VolumeStatusEnum` | ❌ | ❌ | ✅ | Volume status |
+| `type` | `cloud.volume.VolumeTypeEnum` | ❌ | ❌ | ✅ | Volume type |
+
+### `cloud.region.Volume.BulkDeleteSnapshots`
+
+_Bulk delete volume snapshots either all or a selection of ids_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deleteAll` | `boolean` | ❌ | ❌ | ❌ | Delete all snapshots related to a volume, cannot be used along side a list of IDs |
+| `snapshotIds` | `uuid[]` | ❌ | ✅ | ❌ | Snapshot IDs to delete, cannot be used along side the deleteAll boolean set to true |
+
+### `cloud.region.Volume.Create`
+
+_Region volume create_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZone` | `string` | ❌ | ✅ | ❌ | Availability zone to create the volume on |
+| `backupId` | `uuid` | ❌ | ❌ | ❌ | Backup ID |
+| `description` | `string` | ❌ | ❌ | ❌ | Volume description |
+| `imageId` | `uuid` | ❌ | ❌ | ❌ | Image ID |
+| `instanceId` | `uuid` | ❌ | ❌ | ❌ | Instance ID |
+| `name` | `string` | ❌ | ❌ | ❌ | Volume name |
+| `size` | `long` | ❌ | ❌ | ❌ | Volume size |
+| `snapshotId` | `uuid` | ❌ | ❌ | ❌ | Snapshot ID |
+| `type` | `cloud.volume.VolumeTypeEnum` | ❌ | ❌ | ❌ | Type of the volume |
+
+### `cloud.region.Volume.Create.Response`
+
+_Region volume create response_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `action` | `string` | ❌ | ❌ | ✅ | The action of the operation |
+| `completedAt` | `datetime` | ❌ | ✅ | ✅ | The completed date of the operation |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The creation date of the operation |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Operation ID |
+| `progress` | `long` | ❌ | ❌ | ✅ | Volume status |
+| `regions` | `string[]` | ❌ | ❌ | ✅ | List of regions |
+| `resourceId` | `uuid` | ❌ | ✅ | ✅ | Id of the resource |
+| `startedAt` | `datetime` | ❌ | ✅ | ✅ | Datetime of the operation creation |
+| `status` | `string` | ❌ | ❌ | ✅ | Volume status |
+| `subOperations` | `cloud.region.Volume.Create.resource[]` | ❌ | ✅ | ✅ | Sub-operations of the operation |
+
+### `cloud.region.Volume.Create.resource`
+
+_A resource of the volume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `resourceId` | `string` | ❌ | ❌ | ✅ | Affected resource of the sub-operation |
+| `resourceType` | `string` | ❌ | ✅ | ✅ | The started date of the sub-operation |
+
+### `cloud.region.Volume.Update`
+
+_Region volume update_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ✅ | ❌ | New volume description |
+| `name` | `string` | ❌ | ✅ | ❌ | New volume name |
+| `size` | `long` | ❌ | ✅ | ❌ | New volume size |
+| `type` | `cloud.volume.VolumeTypeEnum` | ❌ | ✅ | ❌ | New volume type |
+
+### `cloud.region.VolumeType`
+
+_Volume type_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the volume type |
+
+### `cloud.region.volume.AttachedTo`
+
+_Region volume attached to_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `uuid` | ❌ | ❌ | ✅ | Instance ID |
+
+### `cloud.region.volume.Backup`
+
+_Region volume backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Backup creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Backup ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Backup name |
+| `size` | `long` | ❌ | ❌ | ✅ | Backup size in GiB |
+| `status` | `cloud.volumeBackup.VolumeBackupStatusEnum` | ❌ | ❌ | ✅ | Backup status |
+
+### `cloud.region.volume.Snapshot`
+
+_Region volume snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Snapshot creation date |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Snapshot ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Snapshot name |
+| `size` | `long` | ❌ | ❌ | ✅ | Snapshot size in GiB |
+| `status` | `cloud.volume.SnapshotStatusEnum` | ❌ | ❌ | ✅ | Snapshot status |
+
+### `cloud.role.Permission`
+
+_Role permissions_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `label` | `string` | ❌ | ❌ | ✅ | Permission label |
+| `roles` | `string[]` | ❌ | ❌ | ✅ | Roles having this permission |
+
+### `cloud.role.Role`
+
+_Role_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ✅ | Role Description |
+| `id` | `string` | ❌ | ❌ | ✅ | Role id |
+| `name` | `string` | ❌ | ❌ | ✅ | Role Name |
+| `permissions` | `string[]` | ❌ | ❌ | ✅ | Permissions granted by this role |
+
+### `cloud.role.Roles`
+
+_OpenStack role_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `roles` | `cloud.role.Role[]` | ❌ | ❌ | ✅ | OpenStack roles |
+| `services` | `cloud.role.Service[]` | ❌ | ❌ | ✅ | OpenStack services |
+
+### `cloud.role.Service`
+
+_OpenStack service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of the service |
+| `permissions` | `cloud.role.Permission[]` | ❌ | ❌ | ✅ | List of permissions |
+
+### `cloud.share.Capability`
+
+_Capability_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `enabled` | `boolean` | ❌ | ❌ | ✅ | Whether the capability is enabled or not |
+| `name` | `string` | ❌ | ❌ | ✅ | Capability name |
+
+### `cloud.share.ExportLocationObject`
+
+_Object_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Export location id |
+| `path` | `string` | ❌ | ❌ | ✅ | Export location mount path |
+
+### `cloud.share.ProtocolEnum`
+
+_Share protocol_
+
+**Enum** (`enumType: string`):
+
+- `NFS`
+
+### `cloud.share.Share`
+
+_Share_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZone` | `string` | ❌ | ✅ | ✅ | Availability zone |
+| `capabilities` | `cloud.share.Capability[]` | ❌ | ✅ | ✅ | Share capabilities |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The date and timestamp when the resource was created |
+| `description` | `string` | ❌ | ❌ | ✅ | Share description |
+| `exportLocations` | `cloud.share.ExportLocationObject[]` | ❌ | ✅ | ✅ | Share export locations |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Share ID |
+| `isPublic` | `boolean` | ❌ | ❌ | ✅ | Whether the share is public |
+| `name` | `string` | ❌ | ❌ | ✅ | Share name |
+| `networkId` | `uuid` | ❌ | ✅ | ✅ | Private network ID |
+| `protocol` | `cloud.share.ProtocolEnum` | ❌ | ❌ | ✅ | Share protocol |
+| `region` | `string` | ❌ | ❌ | ✅ | Region |
+| `shareNetworkId` | `uuid` | ❌ | ✅ | ✅ | Share network ID |
+| `size` | `long` | ❌ | ❌ | ✅ | Share size in GB |
+| `status` | `cloud.share.StatusEnum` | ❌ | ❌ | ✅ | Share status |
+| `subnetId` | `uuid` | ❌ | ✅ | ✅ | Subnet ID |
+| `type` | `cloud.share.TypeEnum` | ❌ | ❌ | ✅ | Share type |
+
+### `cloud.share.Share.Create`
+
+_Create a share_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `availabilityZone` | `string` | ❌ | ✅ | ❌ | Availability zone for the share (required in 3AZ regions) |
+| `description` | `string` | ❌ | ✅ | ❌ | Share description |
+| `name` | `string` | ❌ | ✅ | ❌ | Share name |
+| `networkId` | `uuid` | ❌ | ❌ | ❌ | Network ID |
+| `size` | `long` | ❌ | ❌ | ❌ | Share size in GB |
+| `snapshotId` | `uuid` | ❌ | ✅ | ❌ | Snapshot ID to create the share from |
+| `subnetId` | `uuid` | ❌ | ❌ | ❌ | Subnet ID |
+| `type` | `cloud.share.TypeEnum` | ✅ | ❌ | ❌ | Share type |
+
+### `cloud.share.ShareUpdate`
+
+_Input Object used to create a share_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `description` | `string` | ❌ | ❌ | ❌ | Share description |
+| `name` | `string` | ❌ | ❌ | ❌ | Share name |
+| `newSize` | `long` | ❌ | ❌ | ❌ | New share size in GB |
+
+### `cloud.share.StatusEnum`
+
+_Share status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `awaiting_transfer`
+- `backup_creating`
+- `backup_restoring`
+- `backup_restoring_error`
+- `creating`
+- `creating_from_snapshot`
+- `deleted`
+- `deleting`
+- `error`
+- `error_deleting`
+- `extending`
+- `extending_error`
+- `inactive`
+- `manage_error`
+- `manage_starting`
+- `migrating`
+- `migrating_to`
+- `replication_change`
+- `reverting`
+- `reverting_error`
+- `shrinking`
+- `shrinking_error`
+- `shrinking_possible_data_loss_error`
+- `unmanage_error`
+- `unmanage_starting`
+- `unmanaged`
+
+### `cloud.share.TypeEnum`
+
+_Share type_
+
+**Enum** (`enumType: string`):
+
+- `standard-1az`
+
+### `cloud.share.acl.ACL`
+
+_Share ACL_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessLevel` | `cloud.share.acl.AccessLevelEnum` | ❌ | ❌ | ✅ | ACL Access Level |
+| `accessTo` | `string` | ❌ | ❌ | ✅ | ACL Access Resource |
+| `accessType` | `cloud.share.acl.AccessTypeEnum` | ❌ | ❌ | ✅ | ACL Access Type |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The date and timestamp when the resource was created |
+| `id` | `uuid` | ❌ | ❌ | ✅ | ACL ID |
+| `status` | `cloud.share.acl.StatusEnum` | ❌ | ❌ | ✅ | ACL Status |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | The date and timestamp when the resource was updated for the last time |
+
+### `cloud.share.acl.ACLCreate`
+
+_Share ACL_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `accessLevel` | `cloud.share.acl.AccessLevelEnum` | ❌ | ❌ | ❌ | ACL Access Level |
+| `accessTo` | `string` | ❌ | ❌ | ❌ | ACL Access Resource |
+
+### `cloud.share.acl.AccessLevelEnum`
+
+_ACL Access Level_
+
+**Enum** (`enumType: string`):
+
+- `ro`
+- `rw`
+
+### `cloud.share.acl.AccessTypeEnum`
+
+_ACL Access Type_
+
+**Enum** (`enumType: string`):
+
+- `ip`
+
+### `cloud.share.acl.StatusEnum`
+
+_ACL Status_
+
+**Enum** (`enumType: string`):
+
+- `active`
+- `applying`
+- `denying`
+- `error`
+- `queued_to_apply`
+- `queued_to_deny`
+
+### `cloud.share.snapshot.Snapshot`
+
+_Share snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | The date and timestamp when the resource was created |
+| `description` | `string` | ❌ | ✅ | ❌ | Snapshot description |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Snapshot ID |
+| `name` | `string` | ❌ | ✅ | ❌ | Snapshot name |
+| `shareId` | `uuid` | ❌ | ❌ | ✅ | Share ID |
+| `shareProtocol` | `cloud.share.ProtocolEnum` | ❌ | ✅ | ✅ | Share protocol |
+| `shareSize` | `long` | ❌ | ❌ | ✅ | Share size in GB |
+| `size` | `long` | ❌ | ❌ | ✅ | Snapshot size in GB |
+| `status` | `cloud.share.snapshot.StatusEnum` | ❌ | ❌ | ✅ | Snapshot status |
+
+### `cloud.share.snapshot.StatusEnum`
+
+_Snapshot Status_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `creating`
+- `deleting`
+- `error`
+- `error_deleting`
+- `manage_error`
+- `manage_starting`
+- `restoring`
+- `unmanage_error`
+- `unmanage_starting`
+
+### `cloud.sshkey.SshKey`
+
+_SshKey_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | SSH key id |
+| `name` | `string` | ❌ | ❌ | ✅ | SSH key name |
+| `publicKey` | `string` | ❌ | ❌ | ✅ | SSH public key |
+| `regions` | `string[]` | ❌ | ❌ | ✅ | SSH key regions |
+
+### `cloud.sshkey.SshKeyDetail`
+
+_SshKeyDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `fingerPrint` | `string` | ❌ | ❌ | ✅ | SSH key fingerprint |
+| `id` | `string` | ❌ | ❌ | ✅ | SSH key id |
+| `name` | `string` | ❌ | ❌ | ✅ | SSH key name |
+| `publicKey` | `string` | ❌ | ❌ | ✅ | SSH public key |
+| `regions` | `string[]` | ❌ | ❌ | ✅ | SSH key regions |
+
+### `cloud.storage.AddContainerPolicy`
+
+_Add storage policy for container_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `objectKey` | `string` | ❌ | ❌ | ❌ | Container object key |
+| `roleName` | `cloud.storage.PolicyRoleEnum` | ✅ | ❌ | ❌ | Policy role |
+
+### `cloud.storage.ArchiveColdArchiveContainer`
+
+_Archive a ColdArchiveContainer_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `lockedUntilDays` | `long` | ❌ | ✅ | ❌ | Archive is locked (cannot be deleted) for the given number of days |
+
+### `cloud.storage.Container`
+
+_Container_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `archive` | `boolean` | ❌ | ✅ | ✅ | Whether this is an archive container or not |
+| `containerType` | `cloud.storage.TypeEnum` | ❌ | ✅ | ✅ | Container type |
+| `id` | `string` | ❌ | ❌ | ✅ | Storage id |
+| `name` | `string` | ❌ | ❌ | ✅ | Storage name |
+| `region` | `string` | ❌ | ❌ | ✅ |  |
+| `storedBytes` | `long` | ❌ | ❌ | ✅ | Total bytes stored |
+| `storedObjects` | `long` | ❌ | ❌ | ✅ | Total objects stored |
+
+### `cloud.storage.ContainerAccess`
+
+_ContainerAccess_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `endpoints` | `cloud.storage.Endpoint[]` | ❌ | ❌ | ✅ | Storage access endpoints |
+| `token` | `string` | ❌ | ❌ | ✅ | Storage access token |
+
+### `cloud.storage.ContainerDetail`
+
+_ContainerDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `archive` | `boolean` | ❌ | ❌ | ✅ | Whether this is an archive container or not |
+| `containerType` | `cloud.storage.TypeEnum` | ❌ | ❌ | ✅ | Container type |
+| `cors` | `string[]` | ❌ | ❌ | ✅ | Origins allowed to make Cross Origin Requests |
+| `name` | `string` | ❌ | ❌ | ✅ | Container name |
+| `objects` | `cloud.storage.ContainerObject[]` | ❌ | ❌ | ✅ | Objects stored in container |
+| `public` | `boolean` | ❌ | ❌ | ✅ | Public container (DEPRECATED: see containerType) |
+| `region` | `string` | ❌ | ❌ | ✅ | Container region |
+| `staticUrl` | `string` | ❌ | ❌ | ✅ | Container static URL |
+| `storedBytes` | `long` | ❌ | ❌ | ✅ | Total bytes stored |
+| `storedObjects` | `long` | ❌ | ❌ | ✅ | Total objects stored |
+
+### `cloud.storage.ContainerObject`
+
+_ContainerObject_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `contentType` | `string` | ❌ | ❌ | ✅ | Object content type |
+| `lastModified` | `datetime` | ❌ | ❌ | ✅ | Last modification date |
+| `name` | `string` | ❌ | ❌ | ✅ | Object name |
+| `retrievalDelay` | `long` | ❌ | ❌ | ✅ | Object retrieval delay (when unsealing) |
+| `retrievalState` | `cloud.storage.RetrievalStateEnum` | ❌ | ❌ | ✅ | Object retrieval state |
+| `size` | `long` | ❌ | ❌ | ✅ | Object size |
+
+### `cloud.storage.ContainerObjectTempURL`
+
+_ContainerObjectTempURL_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | Temporary URL expiration date |
+| `getURL` | `string` | ❌ | ❌ | ✅ | Temporary URL to get object |
+
+### `cloud.storage.EncryptionAlgorithmEnum`
+
+_Encryption algorithm_
+
+**Enum** (`enumType: string`):
+
+- `AES256`
+- `plaintext`
+
+### `cloud.storage.Endpoint`
+
+_Endpoint_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `region` | `string` | ❌ | ❌ | ✅ | Endpoint region |
+| `url` | `string` | ❌ | ❌ | ✅ | Endpoint URL |
+
+### `cloud.storage.LifecycleRule`
+
+_Object Storage lifecycle configuration rule_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `abortIncompleteMultipartUpload` | `cloud.StorageLifecycleRuleAbortIncompleteMultipartUpload` | ❌ | ✅ | ❌ | Abort incomplete multipart upload configuration |
+| `expiration` | `cloud.StorageLifecycleRuleExpiration` | ❌ | ✅ | ❌ | Lifecycle rule expiration configuration |
+| `filter` | `cloud.StorageLifecycleRuleFilter` | ❌ | ✅ | ❌ | Rule filters |
+| `id` | `string` | ❌ | ❌ | ❌ | Rule ID |
+| `noncurrentVersionExpiration` | `cloud.StorageLifecycleRuleNoncurrentVersionExpiration` | ❌ | ✅ | ❌ | Specifies when noncurrent object versions expire |
+| `noncurrentVersionTransitions` | `cloud.StorageLifecycleRuleNoncurrentVersionTransition[]` | ❌ | ✅ | ❌ | Specifies the transition rule for the lifecycle rule that describes when noncurrent objects transition to a specific storage class |
+| `status` | `cloud.storage.LifecycleRuleStatusEnum` | ✅ | ❌ | ❌ | Rule status |
+| `transitions` | `cloud.StorageLifecycleRuleTransition[]` | ❌ | ✅ | ❌ | Rule destination configuration |
+
+### `cloud.storage.LifecycleRuleStatusEnum`
+
+_Lifecycle rule status_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `cloud.storage.LifecycleRuleTransitionStorageClassEnum`
+
+_Storage class_
+
+**Enum** (`enumType: string`):
+
+- `DEEP_ARCHIVE`
+- `GLACIER_IR`
+- `STANDARD`
+- `STANDARD_IA`
+
+### `cloud.storage.ObjectLegalHoldStatusEnum`
+
+_Object lock mode_
+
+**Enum** (`enumType: string`):
+
+- `off`
+- `on`
+
+### `cloud.storage.ObjectLockModeEnum`
+
+_Object lock mode_
+
+**Enum** (`enumType: string`):
+
+- `compliance`
+- `governance`
+
+### `cloud.storage.ObjectLockStatusEnum`
+
+_Object lock status_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `cloud.storage.ObjectReplicationStatusEnum`
+
+_Object replication status_
+
+**Enum** (`enumType: string`):
+
+- `COMPLETED`
+- `FAILED`
+- `NONE`
+- `PENDING`
+- `REPLICA`
+
+### `cloud.storage.PolicyRaw`
+
+_Raw storage policy._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `policy` | `string` | ❌ | ❌ | ❌ | Raw storage policy. |
+
+### `cloud.storage.PolicyRoleEnum`
+
+_Storage policy role_
+
+**Enum** (`enumType: string`):
+
+- `admin`
+- `deny`
+- `readOnly`
+- `readWrite`
+
+### `cloud.storage.PresignedURL`
+
+_Presigned URL._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `method` | `cloud.storage.PresignedURLMethodEnum` | ❌ | ❌ | ✅ | Presigned URL method. |
+| `signedHeaders` | `map[string]string` | ❌ | ❌ | ✅ | Signed headers. |
+| `url` | `string` | ❌ | ❌ | ✅ | Presigned URL. |
+
+### `cloud.storage.PresignedURLInput`
+
+_Inputs to generate a presigned URL._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expire` | `long` | ❌ | ❌ | ❌ | URL expiration in seconds. |
+| `method` | `cloud.storage.PresignedURLMethodEnum` | ❌ | ❌ | ❌ | Presigned URL method. |
+| `object` | `string` | ❌ | ❌ | ❌ | Object key. |
+| `storageClass` | `cloud.storage.StorageClassEnum` | ❌ | ❌ | ❌ | When using PUT method, specifies the created object storage class. |
+| `versionId` | `string` | ❌ | ❌ | ❌ | Version ID of the object to download or delete when using GET or DELETE methods. |
+
+### `cloud.storage.PresignedURLMethodEnum`
+
+_Presigned URL method_
+
+**Enum** (`enumType: string`):
+
+- `DELETE`
+- `GET`
+- `PUT`
+
+### `cloud.storage.Quota`
+
+_Cloud Storage Quota._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `buckets` | `long` | ❌ | ❌ | ✅ | Current number of buckets. |
+| `maxBuckets` | `long` | ❌ | ❌ | ✅ | Maximum number of buckets. |
+
+### `cloud.storage.ReplicationRule`
+
+_Object Storage replication configuration rule._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deleteMarkerReplication` | `cloud.storage.ReplicationRuleDeleteMarkerReplicationStatusEnum` | ❌ | ❌ | ✅ | Delete marker replication configuration. |
+| `destination` | `cloud.StorageReplicationRuleDestination` | ❌ | ✅ | ✅ | Rule destination configuration. |
+| `filter` | `cloud.StorageReplicationRuleFilter` | ❌ | ✅ | ✅ | Rule filters. |
+| `id` | `string` | ❌ | ❌ | ✅ | Rule ID. |
+| `priority` | `long` | ❌ | ❌ | ✅ | Rule priority. |
+| `status` | `cloud.storage.ReplicationRuleStatusEnum` | ❌ | ❌ | ✅ | Rule status. |
+
+### `cloud.storage.ReplicationRuleDeleteMarkerReplicationStatusEnum`
+
+_Replication rule delete marker replication status_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `cloud.storage.ReplicationRuleIn`
+
+_Object Storage replication configuration rule._
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `deleteMarkerReplication` | `cloud.storage.ReplicationRuleDeleteMarkerReplicationStatusEnum` | ❌ | ❌ | ❌ | Delete marker replication configuration. |
+| `destination` | `cloud.StorageReplicationRuleDestinationIn` | ❌ | ✅ | ❌ | Rule destination configuration. |
+| `filter` | `cloud.StorageReplicationRuleFilter` | ❌ | ✅ | ❌ | Rule filters. |
+| `id` | `string` | ❌ | ❌ | ❌ | Rule ID. |
+| `priority` | `long` | ❌ | ❌ | ❌ | Rule priority. |
+| `status` | `cloud.storage.ReplicationRuleStatusEnum` | ❌ | ❌ | ❌ | Rule status. |
+
+### `cloud.storage.ReplicationRuleStatusEnum`
+
+_Replication rule status_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+
+### `cloud.storage.RetrievalStateEnum`
+
+_RetrievalStateEnum_
+
+**Enum** (`enumType: string`):
+
+- `sealed`
+- `unsealed`
+- `unsealing`
+
+### `cloud.storage.RightEnum`
+
+_RightEnum_
+
+**Enum** (`enumType: string`):
+
+- `all`
+- `read`
+- `write`
+
+### `cloud.storage.StorageClassEnum`
+
+_Storage class_
+
+**Enum** (`enumType: string`):
+
+- `DEEP_ARCHIVE`
+- `GLACIER_IR`
+- `HIGH_PERF`
+- `STANDARD`
+- `STANDARD_IA`
+
+### `cloud.storage.StorageClassReplicationEnum`
+
+_Storage class_
+
+**Enum** (`enumType: string`):
+
+- `DEEP_ARCHIVE`
+- `GLACIER`
+- `GLACIER_IR`
+- `HIGH_PERF`
+- `INTELLIGENT_TIERING`
+- `ONEZONE_IA`
+- `STANDARD`
+- `STANDARD_IA`
+
+### `cloud.storage.StorageJobReplicationStatusEnum`
+
+_Storage job replication status_
+
+**Enum** (`enumType: string`):
+
+- `Active`
+- `Completed`
+- `Created`
+- `Failed`
+- `Preparing`
+
+### `cloud.storage.TypeEnum`
+
+_TypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `private`
+- `public`
+- `static`
+
+### `cloud.storage.VersioningStatusEnum`
+
+_Versioning status_
+
+**Enum** (`enumType: string`):
+
+- `disabled`
+- `enabled`
+- `suspended`
+
+### `cloud.usage.Period`
+
+_Period_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `from` | `datetime` | ❌ | ❌ | ✅ | Usage from |
+| `to` | `datetime` | ❌ | ❌ | ✅ | Usage to |
+
+### `cloud.usage.PlanResponse`
+
+_Usage of plans_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `flavors` | `cloud.plan.Flavor[]` | ❌ | ❌ | ✅ | List of consumption details by flavor |
+| `period` | `cloud.plan.Period` | ❌ | ❌ | ✅ | Requested period |
+| `projectId` | `string` | ❌ | ❌ | ✅ | Project ID of the fetched plans |
+| `totalSavings` | `order.Price` | ❌ | ❌ | ✅ | Total savings for all the flavors |
+
+### `cloud.usage.UsageCurrent`
+
+_UsageCurrent_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hourlyUsage` | `cloud.billingView.HourlyResources` | ❌ | ✅ | ✅ | Hourly usage |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Entry last update |
+| `monthlyUsage` | `cloud.billingView.MonthlyResources` | ❌ | ✅ | ✅ | Monthly usage |
+| `period` | `cloud.usage.Period` | ❌ | ❌ | ✅ | Usage dates (from/to) |
+| `resourcesUsage` | `cloud.billingView.TypedResources[]` | ❌ | ✅ | ✅ | Resource usage (billed per hour/minute/second/unit) |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.usage.UsageForecast`
+
+_UsageForecast_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hourlyUsage` | `cloud.billingView.HourlyResources` | ❌ | ✅ | ✅ | Hourly forecast |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Entry last update |
+| `monthlyUsage` | `cloud.billingView.MonthlyResources` | ❌ | ✅ | ✅ | Monthly forecast |
+| `period` | `cloud.usage.Period` | ❌ | ❌ | ✅ | Forecast dates (from/to) |
+| `resourcesUsage` | `cloud.billingView.TypedResources[]` | ❌ | ✅ | ✅ | Resource usage forecast (billed per hour/minute/second/unit) |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+| `usableCredits` | `cloud.billingView.UsedCredits` | ❌ | ✅ | ✅ | Usable credit to pay next bill |
+
+### `cloud.usage.UsageHistory`
+
+_UsageHistory_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `id` | `string` | ❌ | ❌ | ✅ | Usage id |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Entry last update |
+| `period` | `cloud.usage.Period` | ❌ | ❌ | ✅ | Usage dates (from/to) |
+
+### `cloud.usage.UsageHistoryDetail`
+
+_UsageHistoryDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `hourlyUsage` | `cloud.billingView.HourlyResources` | ❌ | ✅ | ✅ | Hourly usage |
+| `id` | `string` | ❌ | ❌ | ✅ | Usage id |
+| `lastUpdate` | `datetime` | ❌ | ❌ | ✅ | Entry last update |
+| `monthlyUsage` | `cloud.billingView.MonthlyResources` | ❌ | ✅ | ✅ | Monthly usage |
+| `period` | `cloud.usage.Period` | ❌ | ❌ | ✅ | Usage dates (from/to) |
+| `resourcesUsage` | `cloud.billingView.TypedResources[]` | ❌ | ✅ | ✅ | Resource usage (billed per hour/minute/second/unit) |
+| `totalPrice` | `order.Price` | ❌ | ❌ | ✅ | Total price |
+
+### `cloud.user.Configuration`
+
+_Client Cloud Configuration_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `content` | `string` | ❌ | ❌ | ✅ | Client configuration |
+
+### `cloud.user.Openrc`
+
+_Openrc_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `content` | `string` | ❌ | ❌ | ✅ | openrc file |
+
+### `cloud.user.OpenrcVersionEnum`
+
+_OpenrcVersionEnum_
+
+**Enum** (`enumType: string`):
+
+- `v2.0`
+- `v3`
+
+### `cloud.user.RCloneServiceEnum`
+
+_RCloneServiceEnum_
+
+**Enum** (`enumType: string`):
+
+- `storage`
+- `storage-s3`
+
+### `cloud.user.Rclone`
+
+_Rclone_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `content` | `string` | ❌ | ❌ | ✅ | rclone configuration file |
+
+### `cloud.user.RoleEnum`
+
+_RoleEnum_
+
+**Enum** (`enumType: string`):
+
+- `administrator`
+- `ai_training_operator`
+- `ai_training_read`
+- `authentication`
+- `backup_operator`
+- `compute_operator`
+- `image_operator`
+- `infrastructure_supervisor`
+- `key-manager_operator`
+- `key-manager_read`
+- `load-balancer_operator`
+- `network_operator`
+- `network_security_operator`
+- `objectstore_operator`
+- `quantum_operator`
+- `quantum_reader`
+- `share_operator`
+- `volume_operator`
+
+### `cloud.user.S3Credentials`
+
+_S3™ compatible storage credentials_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `access` | `string` | ❌ | ❌ | ✅ | S3™ compatible access key |
+| `tenantId` | `string` | ❌ | ❌ | ✅ | Tenant id |
+| `userId` | `string` | ❌ | ❌ | ✅ | User id |
+
+### `cloud.user.S3CredentialsSecretOnly`
+
+_S3™ compatible storage credentials secret only_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `secret` | `password` | ❌ | ❌ | ✅ | S3™ compatible access key secret |
+
+### `cloud.user.S3CredentialsWithSecret`
+
+_S3™ compatible credentials with secret_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `access` | `string` | ❌ | ❌ | ✅ | S3™ compatible access key |
+| `secret` | `password` | ❌ | ❌ | ✅ | S3™ compatible access key secret |
+| `tenantId` | `string` | ❌ | ❌ | ✅ | Tenant id |
+| `userId` | `string` | ❌ | ❌ | ✅ | User id |
+
+### `cloud.user.User`
+
+_User_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | User creation date |
+| `description` | `string` | ❌ | ❌ | ✅ | User description |
+| `id` | `long` | ❌ | ❌ | ✅ | User id |
+| `openstackId` | `string` | ❌ | ✅ | ✅ | User id on openstack |
+| `roles` | `cloud.role.Role[]` | ❌ | ❌ | ✅ | User roles |
+| `status` | `cloud.user.UserStatusEnum` | ❌ | ❌ | ✅ | User status |
+| `username` | `string` | ❌ | ❌ | ✅ | Username |
+
+### `cloud.user.UserDetail`
+
+_UserDetail_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | User creation date |
+| `description` | `string` | ❌ | ❌ | ✅ | User description |
+| `id` | `long` | ❌ | ❌ | ✅ | User id |
+| `openstackId` | `string` | ❌ | ✅ | ✅ | User id on openstack |
+| `password` | `string` | ❌ | ❌ | ✅ | User password |
+| `roles` | `cloud.role.Role[]` | ❌ | ❌ | ✅ | User roles |
+| `status` | `cloud.user.UserStatusEnum` | ❌ | ❌ | ✅ | User status |
+| `username` | `string` | ❌ | ❌ | ✅ | Username |
+
+### `cloud.user.UserStatusEnum`
+
+_UserStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleted`
+- `deleting`
+- `disabled`
+- `ok`
+- `updating`
+
+### `cloud.volume.Snapshot`
+
+_Snapshot_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Snapshot creation date |
+| `description` | `string` | ❌ | ❌ | ✅ | Snapshot description |
+| `id` | `string` | ❌ | ❌ | ✅ | Snapshot id |
+| `name` | `string` | ❌ | ❌ | ✅ | Snapshot name |
+| `planCode` | `string` | ❌ | ✅ | ✅ | Order plan code |
+| `region` | `string` | ❌ | ❌ | ✅ | Snapshot region |
+| `size` | `long` | ❌ | ❌ | ✅ | Snapshot size |
+| `status` | `cloud.volume.SnapshotStatusEnum` | ❌ | ❌ | ✅ | Snapshot status |
+| `volumeId` | `string` | ❌ | ❌ | ✅ | Volume source id |
+
+### `cloud.volume.SnapshotStatusEnum`
+
+_SnapshotStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `available`
+- `creating`
+- `deleting`
+- `error`
+- `error_deleting`
+
+### `cloud.volume.Volume`
+
+_Volume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `attachedTo` | `string[]` | ❌ | ❌ | ✅ | Volume attached to instances id |
+| `availabilityZone` | `string` | ❌ | ✅ | ✅ | Availability zone of the volume |
+| `bootable` | `boolean` | ❌ | ❌ | ✅ | Volume bootable |
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Volume creation date |
+| `description` | `string` | ❌ | ❌ | ✅ | Volume description |
+| `id` | `string` | ❌ | ❌ | ✅ | Volume id |
+| `name` | `string` | ❌ | ❌ | ✅ | Volume name |
+| `planCode` | `string` | ❌ | ✅ | ✅ | Order plan code |
+| `region` | `string` | ❌ | ❌ | ✅ | Volume region |
+| `size` | `long` | ❌ | ❌ | ✅ | Volume size (in GB) |
+| `status` | `cloud.volume.VolumeStatusEnum` | ❌ | ❌ | ✅ | Volume status |
+| `type` | `cloud.volume.VolumeTypeEnum` | ❌ | ❌ | ✅ | Volume type |
+
+### `cloud.volume.VolumeStatusEnum`
+
+_VolumeStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `attaching`
+- `available`
+- `awaiting-transfer`
+- `backing-up`
+- `creating`
+- `deleted`
+- `deleting`
+- `detaching`
+- `downloading`
+- `error`
+- `error_backing-up`
+- `error_deleting`
+- `error_extending`
+- `error_restoring`
+- `extending`
+- `in-use`
+- `maintenance`
+- `reserved`
+- `restoring-backup`
+- `retyping`
+- `snapshotting`
+- `uploading`
+
+### `cloud.volume.VolumeTypeEnum`
+
+_VolumeTypeEnum_
+
+**Enum** (`enumType: string`):
+
+- `classic`
+- `classic-luks`
+- `classic-multiattach`
+- `high-speed`
+- `high-speed-gen2`
+- `high-speed-gen2-luks`
+- `high-speed-luks`
+
+### `cloud.volumeBackup.VolumeBackup`
+
+_A volume backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `creationDate` | `datetime` | ❌ | ❌ | ✅ | Creation date of the backup |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Volume backup id |
+| `name` | `string` | ❌ | ❌ | ✅ | Volume backup name |
+| `region` | `string` | ❌ | ❌ | ✅ | Volume backup region |
+| `size` | `long` | ❌ | ❌ | ✅ | Size of the backup in GiB |
+| `status` | `cloud.volumeBackup.VolumeBackupStatusEnum` | ❌ | ❌ | ✅ | Staus of the backup |
+| `volumeId` | `uuid` | ❌ | ❌ | ✅ | ID of the volume used to create the backup |
+
+### `cloud.volumeBackup.VolumeBackupCreation`
+
+_Create a volume backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | name of the backup |
+| `volumeId` | `uuid` | ✅ | ❌ | ❌ | ID of the volume to backup |
+
+### `cloud.volumeBackup.VolumeBackupRestore`
+
+_Restore a volume backup on a volume_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `volumeId` | `uuid` | ✅ | ❌ | ❌ | ID of the volume to restore on |
+
+### `cloud.volumeBackup.VolumeBackupStatusEnum`
+
+_VolumeBackupStatusEnum_
+
+**Enum** (`enumType: string`):
+
+- `creating`
+- `deleting`
+- `error`
+- `ok`
+- `restoring`
+
+### `cloud.volumeBackup.VolumeCreationFromBackup`
+
+_Create a volume from a volume backup_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ❌ | name of the new volume |
+
+### `common.RegionTypeEnum`
+
+_Typology of the region_
+
+**Enum** (`enumType: string`):
+
+- `LOCAL-ZONE`
+- `REGION-1-AZ`
+- `REGION-3-AZ`
+
+### `complexType.UnitAndValue<T>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ | Unit of the value |
+| `value` | `T` | ❌ | ❌ | ✅ | Value |
+
+### `complexType.UnitAndValue<long>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ✅ | Unit of the value |
+| `value` | `T` | ❌ | ❌ | ✅ | Value |
+
+### `complexType.UnitAndValueWritable<T>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ | Unit of the value |
+| `value` | `T` | ❌ | ❌ | ❌ | Value |
+
+### `complexType.UnitAndValueWritable<long>`
+
+_A numeric value tagged with its unit_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `unit` | `string` | ❌ | ❌ | ❌ | Unit of the value |
+| `value` | `T` | ❌ | ❌ | ❌ | Value |
+
+### `countryCode2LettersEnum`
+
+_2 letters country codes (ISO 3166-1 A-2)_
+
+**Enum** (`enumType: string`):
+
+- `ad`
+- `ae`
+- `af`
+- `ag`
+- `ai`
+- `al`
+- `am`
+- `ao`
+- `aq`
+- `ar`
+- `as`
+- `at`
+- `au`
+- `aw`
+- `ax`
+- `az`
+- `ba`
+- `bb`
+- `bd`
+- `be`
+- `bf`
+- `bg`
+- `bh`
+- `bi`
+- `bj`
+- `bl`
+- `bm`
+- `bn`
+- `bo`
+- `bq`
+- `br`
+- `bs`
+- `bt`
+- `bv`
+- `bw`
+- `by`
+- `bz`
+- `ca`
+- `cc`
+- `cd`
+- `cf`
+- `cg`
+- `ch`
+- `ci`
+- `ck`
+- `cl`
+- `cm`
+- `cn`
+- `co`
+- `cr`
+- `cu`
+- `cv`
+- `cw`
+- `cx`
+- `cy`
+- `cz`
+- `de`
+- `dj`
+- `dk`
+- `dm`
+- `do`
+- `dz`
+- `ec`
+- `ee`
+- `eg`
+- `eh`
+- `er`
+- `es`
+- `et`
+- `fi`
+- `fj`
+- `fk`
+- `fm`
+- `fo`
+- `fr`
+- `ga`
+- `gb`
+- `gd`
+- `ge`
+- `gf`
+- `gg`
+- `gh`
+- `gi`
+- `gl`
+- `gm`
+- `gn`
+- `gp`
+- `gq`
+- `gr`
+- `gs`
+- `gt`
+- `gu`
+- `gw`
+- `gy`
+- `hk`
+- `hm`
+- `hn`
+- `hr`
+- `ht`
+- `hu`
+- `id`
+- `ie`
+- `il`
+- `im`
+- `in`
+- `io`
+- `iq`
+- `ir`
+- `is`
+- `it`
+- `je`
+- `jm`
+- `jo`
+- `jp`
+- `ke`
+- `kg`
+- `kh`
+- `ki`
+- `km`
+- `kn`
+- `kp`
+- `kr`
+- `kw`
+- `ky`
+- `kz`
+- `la`
+- `lb`
+- `lc`
+- `li`
+- `lk`
+- `lr`
+- `ls`
+- `lt`
+- `lu`
+- `lv`
+- `ly`
+- `ma`
+- `mc`
+- `md`
+- `me`
+- `mf`
+- `mg`
+- `mh`
+- `mk`
+- `ml`
+- `mm`
+- `mn`
+- `mo`
+- `mp`
+- `mq`
+- `mr`
+- `ms`
+- `mt`
+- `mu`
+- `mv`
+- `mw`
+- `mx`
+- `my`
+- `mz`
+- `na`
+- `nc`
+- `ne`
+- `nf`
+- `ng`
+- `ni`
+- `nl`
+- `no`
+- `np`
+- `nr`
+- `nu`
+- `nz`
+- `om`
+- `pa`
+- `pe`
+- `pf`
+- `pg`
+- `ph`
+- `pk`
+- `pl`
+- `pm`
+- `pn`
+- `pr`
+- `ps`
+- `pt`
+- `pw`
+- `py`
+- `qa`
+- `re`
+- `ro`
+- `rs`
+- `ru`
+- `rw`
+- `sa`
+- `sb`
+- `sc`
+- `sd`
+- `se`
+- `sg`
+- `sh`
+- `si`
+- `sj`
+- `sk`
+- `sl`
+- `sm`
+- `sn`
+- `so`
+- `sr`
+- `ss`
+- `st`
+- `sv`
+- `sx`
+- `sy`
+- `sz`
+- `tc`
+- `td`
+- `tf`
+- `tg`
+- `th`
+- `tj`
+- `tk`
+- `tl`
+- `tm`
+- `tn`
+- `to`
+- `tr`
+- `tt`
+- `tv`
+- `tw`
+- `tz`
+- `ua`
+- `ug`
+- `uk`
+- `um`
+- `us`
+- `uy`
+- `uz`
+- `va`
+- `vc`
+- `ve`
+- `vg`
+- `vi`
+- `vn`
+- `vu`
+- `wf`
+- `ws`
+- `ye`
+- `yt`
+- `za`
+- `zm`
+- `zw`
+
+### `dbaas.logs.LogKind`
+
+_Log kind_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `additionalReturnedFields` | `string[]` | ❌ | ❌ | ✅ | List of additional log fields managed in this log kind |
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the log kind |
+| `displayName` | `string` | ❌ | ❌ | ✅ | Log kind display name |
+| `kindId` | `uuid` | ❌ | ❌ | ✅ | Log kind ID |
+| `name` | `string` | ❌ | ❌ | ✅ | Log kind name |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the log kind |
+
+### `dbaas.logs.LogSubscription`
+
+_Log subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the subscription |
+| `kind` | `string` | ❌ | ❌ | ✅ | Log kind name of this subscription |
+| `resource` | `dbaas.logs.SubscriptionResource` | ❌ | ❌ | ✅ | Subscribed resource, where the logs come from |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the destination log service |
+| `streamId` | `string` | ❌ | ❌ | ✅ | Id of the destination log stream |
+| `subscriptionId` | `uuid` | ❌ | ❌ | ✅ | Subscription ID |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the subscription |
+
+### `dbaas.logs.LogSubscriptionCreation`
+
+_Log subscription creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name to subscribe to |
+| `streamId` | `uuid` | ✅ | ❌ | ❌ | Customer log stream ID |
+
+### `dbaas.logs.LogSubscriptionResponse`
+
+_Asynchronous operation after subscribing or unsubscribing to a resource logs_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operationId` | `uuid` | ❌ | ❌ | ✅ | Identifier of the operation |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Operation owner's service name |
+
+### `dbaas.logs.LogUrlCreation`
+
+_Log temporary URL creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `kind` | `string` | ✅ | ❌ | ❌ | Log kind name |
+
+### `dbaas.logs.MetricSubscription`
+
+_Metric subscription_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `createdAt` | `datetime` | ❌ | ❌ | ✅ | Creation date of the subscription |
+| `resource` | `dbaas.logs.SubscriptionResource` | ❌ | ❌ | ✅ | Subscribed resource, where the metric come from |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Name of the destination metric service |
+| `subscriptionId` | `uuid` | ❌ | ❌ | ✅ | Subscription ID |
+| `tenantId` | `string` | ❌ | ❌ | ✅ | Id of the destination metric tenant |
+| `updatedAt` | `datetime` | ❌ | ❌ | ✅ | Last update date of the subscription |
+
+### `dbaas.logs.MetricSubscriptionCreation`
+
+_Metric subscription creation payload_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `tenantId` | `uuid` | ✅ | ❌ | ❌ | Customer metric tenant ID |
+
+### `dbaas.logs.MetricSubscriptionResponse`
+
+_Asynchronous operation after subscribing or unsubscribing to a resource metrics_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operationId` | `uuid` | ❌ | ❌ | ✅ | Identifier of the operation |
+| `serviceName` | `string` | ❌ | ❌ | ✅ | Operation owner's service name |
+
+### `dbaas.logs.SubscriptionResource`
+
+_Log subscription resource_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `name` | `string` | ❌ | ❌ | ✅ | Name of subscribed resource |
+| `type` | `string` | ❌ | ❌ | ✅ | Type of subscribed resource |
+
+### `dbaas.logs.TemporaryLogsLink`
+
+_Temporary url information_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `expirationDate` | `datetime` | ❌ | ❌ | ✅ | Temporary url expiration date |
+| `url` | `string` | ❌ | ❌ | ✅ | Temporary url |
+
+### `iam.ResourceMetadata`
+
+_IAM resource metadata embedded in services models_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `displayName` | `string` | ❌ | ✅ | ✅ | Resource display name |
+| `id` | `uuid` | ❌ | ❌ | ✅ | Unique identifier of the resource |
+| `state` | `iam.ResourceMetadata.StateEnum` | ❌ | ✅ | ✅ | Resource state |
+| `tags` | `map[string]string` | ❌ | ✅ | ✅ | Resource tags. Tags that were internally computed are prefixed with ovh: |
+| `urn` | `string` | ❌ | ❌ | ✅ | Unique resource name used in policies |
+
+### `iam.ResourceMetadata.StateEnum`
+
+_Resource state_
+
+**Enum** (`enumType: string`):
+
+- `EXPIRED`
+- `IN_CREATION`
+- `OK`
+- `SUSPENDED`
+
+### `iam.resource.TagFilter`
+
+_Resource tag filter_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `operator` | `iam.resource.TagFilter.OperatorEnum` | ❌ | ✅ | ✅ | Operator to use in order to filter on the value (defaults to 'EQ') |
+| `value` | `string` | ❌ | ❌ | ✅ | Value to use in order to filter tags |
+
+### `iam.resource.TagFilter.OperatorEnum`
+
+_Operator that can be used in order to filter resources tags_
+
+**Enum** (`enumType: string`):
+
+- `EQ`
+- `EXISTS`
+- `ILIKE`
+- `LIKE`
+- `NEQ`
+- `NEXISTS`
+
+### `nichandle.OvhSubsidiaryEnum`
+
+_OVH subsidiaries_
+
+**Enum** (`enumType: string`):
+
+- `CZ`
+- `DE`
+- `ES`
+- `EU`
+- `FI`
+- `FR`
+- `GB`
+- `IE`
+- `IT`
+- `LT`
+- `MA`
+- `NL`
+- `PL`
+- `PT`
+- `SN`
+- `TN`
+
+### `order.CurrencyCodeEnum`
+
+_Currency code_
+
+**Enum** (`enumType: string`):
+
+- `AUD`
+- `CAD`
+- `CZK`
+- `EUR`
+- `GBP`
+- `INR`
+- `LTL`
+- `MAD`
+- `N/A`
+- `PLN`
+- `SGD`
+- `TND`
+- `USD`
+- `XOF`
+- `points`
+
+### `order.Price`
+
+_Price with its currency and textual representation_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `currencyCode` | `order.CurrencyCodeEnum` | ❌ | ❌ | ✅ | Currency code |
+| `priceInUcents` | `long` | ❌ | ✅ | ✅ | Price in microcents |
+| `text` | `string` | ❌ | ❌ | ✅ | Textual representation |
+| `value` | `double` | ❌ | ❌ | ✅ | The effective price |
+
+### `service.RenewType`
+
+_Map a possible renew for a specific service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `automatic` | `boolean` | ❌ | ❌ | ❌ | The service is automatically renewed |
+| `deleteAtExpiration` | `boolean` | ❌ | ❌ | ❌ | The service will be deleted at expiration |
+| `forced` | `boolean` | ❌ | ❌ | ❌ | The service forced to be renewed |
+| `manualPayment` | `boolean` | ❌ | ✅ | ❌ | The service needs to be manually renewed and paid |
+| `period` | `long` | ❌ | ✅ | ❌ | period of renew in month |
+
+### `service.RenewalTypeEnum`
+
+_Detailed renewal type of a service_
+
+**Enum** (`enumType: string`):
+
+- `automaticForcedProduct`
+- `automaticV2012`
+- `automaticV2014`
+- `automaticV2016`
+- `automaticV2024`
+- `manual`
+- `oneShot`
+- `option`
+
+### `service.StateEnum`
+
+**Enum** (`enumType: string`):
+
+- `autorenewInProgress`
+- `expired`
+- `inCreation`
+- `ok`
+- `pendingDebt`
+- `unPaid`
+
+### `service.TerminationFutureUseEnum`
+
+_All future uses you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `NOT_REPLACING_SERVICE`
+- `OTHER`
+- `SUBSCRIBE_AN_OTHER_SERVICE`
+- `SUBSCRIBE_OTHER_KIND_OF_SERVICE_WITH_COMPETITOR`
+- `SUBSCRIBE_SIMILAR_SERVICE_WITH_COMPETITOR`
+
+### `service.TerminationReasonEnum`
+
+_All reasons you can provide for a service termination_
+
+**Enum** (`enumType: string`):
+
+- `FEATURES_DONT_SUIT_ME`
+- `LACK_OF_PERFORMANCES`
+- `MIGRATED_TO_ANOTHER_OVH_PRODUCT`
+- `MIGRATED_TO_COMPETITOR`
+- `NOT_ENOUGH_RECOGNITION`
+- `NOT_NEEDED_ANYMORE`
+- `NOT_RELIABLE`
+- `NO_ANSWER`
+- `OTHER`
+- `PRODUCT_DIMENSION_DONT_SUIT_ME`
+- `PRODUCT_TOOLS_DONT_SUIT_ME`
+- `TOO_EXPENSIVE`
+- `TOO_HARD_TO_USE`
+- `UNSATIFIED_BY_CUSTOMER_SUPPORT`
+
+### `services.Service`
+
+_Details about a Service_
+
+**Properties**
+
+| Property | Type | Required | Nullable | Read-only | Description |
+|---|---|---|---|---|---|
+| `canDeleteAtExpiration` | `boolean` | ❌ | ❌ | ✅ | Indicates that the service can be set up to be deleted at expiration |
+| `contactAdmin` | `string` | ❌ | ❌ | ✅ |  |
+| `contactBilling` | `string` | ❌ | ❌ | ✅ |  |
+| `contactTech` | `string` | ❌ | ❌ | ✅ |  |
+| `creation` | `date` | ❌ | ❌ | ✅ |  |
+| `domain` | `string` | ❌ | ❌ | ✅ |  |
+| `engagedUpTo` | `date` | ❌ | ✅ | ✅ |  |
+| `expiration` | `date` | ❌ | ❌ | ✅ |  |
+| `possibleRenewPeriod` | `long[]` | ❌ | ✅ | ✅ | All the possible renew period of your service in month |
+| `renew` | `service.RenewType` | ❌ | ✅ | ❌ | Way of handling the renew |
+| `renewalType` | `service.RenewalTypeEnum` | ❌ | ❌ | ✅ |  |
+| `serviceId` | `long` | ❌ | ❌ | ✅ |  |
+| `status` | `service.StateEnum` | ❌ | ❌ | ✅ |  |
 
 
